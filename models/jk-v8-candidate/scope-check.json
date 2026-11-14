@@ -1,0 +1,10 @@
+{
+  "baseline": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\models\\jk-v7-candidate\\sui-jk-hun-bound-v7.blend",
+  "vertices": 35056,
+  "triangles": 68347,
+  "skeleton_parent_and_matrices_exactly_equal": true,
+  "topology_uv_material_indices_exactly_equal": true,
+  "lower_body_hands_skirt_lining_backpack_positions_weights_exactly_equal": true,
+  "protected_vertices": 15872,
+  "source_contract_sha256": "9b22c2a8a153f4fc601fad10e3f2ffc9211001bd60c8ffcfe0d3ad0d00ad89ee"
+}

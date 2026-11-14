@@ -1,0 +1,14 @@
+{
+  "mod": {
+    "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\models\\new-outfit-20261114\\tripo-refine-v8\\delivery\\Sui_JK_HeiShang_v8_ModelOnly.zip",
+    "bytes": 14395291,
+    "sha256": "51b650cfabe142c8c9b3a389234927b0ebed6a240da08f180a6b25bf022d6b57"
+  },
+  "source": {
+    "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\models\\new-outfit-20261114\\tripo-refine-v8\\delivery\\Sui_JK_Refined_v8_Source.zip",
+    "bytes": 18486892,
+    "sha256": "6d842b3d2552e3be7b972086d2d5ea9ebad0205b244c580ffdb3af8d74a444b2"
+  },
+  "installed": false,
+  "runtime_tested": false
+}

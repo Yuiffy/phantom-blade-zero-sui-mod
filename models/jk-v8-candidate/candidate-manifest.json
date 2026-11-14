@@ -1,0 +1,183 @@
+{
+  "installed": false,
+  "runtime_tested": false,
+  "files": {
+    "models/jk-v8-candidate/adjust_v8.py": {
+      "bytes": 9476,
+      "sha256": "b0120644a7bd8edbf9b562c5c985a8ad19e4f7bc46479fe6ae940428ad1c3bbb"
+    },
+    "models/jk-v8-candidate/audit_bound_model.py": {
+      "bytes": 3447,
+      "sha256": "cd35e27969896cab4dc25f1a6d5812d816b5efed4b2edfba835b0b9dc7a8c583"
+    },
+    "models/jk-v8-candidate/binding-report.json": {
+      "bytes": 1175,
+      "sha256": "a5faa2689dc3c413efc83ce88f281ae96389ca596767185f1d8fb9b4cb01b235"
+    },
+    "models/jk-v8-candidate/build_candidate.py": {
+      "bytes": 643,
+      "sha256": "a057e5715bc34e149a2d6c6c9886b5be7e1f1f1ded20f6a4bb83aca1dd62a03d"
+    },
+    "models/jk-v8-candidate/compare_art.py": {
+      "bytes": 3019,
+      "sha256": "e46878846baff6f7f91a1a01ef27f21322bd386c43ae4a7d948c3cb245b324ae"
+    },
+    "models/jk-v8-candidate/finish_build.py": {
+      "bytes": 543,
+      "sha256": "3b50628315d57c6536d9dc7e847591f0d404fd9cd772b0210d0366d8b2b8f0c0"
+    },
+    "models/jk-v8-candidate/game-materials.json": {
+      "bytes": 2324,
+      "sha256": "93a3e2c1be6f628b9a18d9d575afb98ab1ba85c31047d3c617aba71146c5f9ab"
+    },
+    "models/jk-v8-candidate/import_mod_ue.py": {
+      "bytes": 5405,
+      "sha256": "dd0f4f309f2b113ede1a4799f0af68a520fe85d047a8ea0ea8ca451a5e6fb0f3"
+    },
+    "models/jk-v8-candidate/model-audit.json": {
+      "bytes": 606,
+      "sha256": "3605a8984d6674e02f4d27dedd02ee3b4c2be37c1354ccbfc3ce29c1b4efb102"
+    },
+    "models/jk-v8-candidate/offline_tools.py": {
+      "bytes": 2217,
+      "sha256": "ce3ce3f9d3aca7a8ab4465f02cb0c108b7a39a0edabc4ba4cf0d660a90c09b99"
+    },
+    "models/jk-v8-candidate/package_mod.py": {
+      "bytes": 6475,
+      "sha256": "e83497a72a2346a13e723b23e06086dca29b5045a47b5a6616e9da473bb0beba"
+    },
+    "models/jk-v8-candidate/prepare_mod.py": {
+      "bytes": 2419,
+      "sha256": "ae2ec06bbd2633ef8921a1cc64442d81868751471b18d25999fb2b511a8f7745"
+    },
+    "models/jk-v8-candidate/README.md": {
+      "bytes": 4855,
+      "sha256": "2297458edcb83b21ba1a5723b95fe836b850a289ce940243bc735306f32c125c"
+    },
+    "models/jk-v8-candidate/reconstruct_source_map.py": {
+      "bytes": 23292,
+      "sha256": "94b309ac4f8514e2794147ee4ccbc9eeb82f71bd66319a334e6a46aaf655e6dc"
+    },
+    "models/jk-v8-candidate/render_final.py": {
+      "bytes": 750,
+      "sha256": "59d6f82cf6f225c5489cba5f477eb04ad7a42838070ca2e922a237ed9bfb2317"
+    },
+    "models/jk-v8-candidate/review_v8.py": {
+      "bytes": 4575,
+      "sha256": "8e5179456d310df3fe326b774f43b70a201c769c16c141140e6ce5f67100b44f"
+    },
+    "models/jk-v8-candidate/run_blender.py": {
+      "bytes": 687,
+      "sha256": "084eb8a750c596af680f5854020117c390088e7cf65f97379882b2d126e68e40"
+    },
+    "models/jk-v8-candidate/run_ue.py": {
+      "bytes": 1180,
+      "sha256": "8e08a79dfed45a9c27b08f1263cdf324e0d38e2ebdd029dad6c43ed9b5d45d0f"
+    },
+    "models/jk-v8-candidate/scope-check.json": {
+      "bytes": 481,
+      "sha256": "e01b1788884a0aa33656350257848289ee4c9026f228db41023489852b7b278d"
+    },
+    "models/jk-v8-candidate/skirt_lining.py": {
+      "bytes": 3643,
+      "sha256": "954565681b6274b6e99e61ab1af12c081e2aeaf48631f7d8d59c3c00b425a15c"
+    },
+    "models/jk-v8-candidate/sui-jk-hun-bound.blend": {
+      "bytes": 7005804,
+      "sha256": "3e298a3cf4536707b867e6ebbdc8cd84ea991bd3840e10aba2b15c965f538fea"
+    },
+    "models/jk-v8-candidate/Sui_JK_Hun_Body.fbx": {
+      "bytes": 3452364,
+      "sha256": "b36dfe9b564e7bac4a668e09da1e8c25b226652f6b465914127550686db7afc9"
+    },
+    "models/jk-v8-candidate/tune_neck.py": {
+      "bytes": 3086,
+      "sha256": "443416cb30864b84b1c62cc39b22b4d3e6fd72fe4a3ce112cd5ce33e0a96e7f0"
+    },
+    "models/jk-v8-candidate/v7_helpers.py": {
+      "bytes": 15270,
+      "sha256": "c4eca02212b6aaa69160c7d4066377183a9f85e306514d4194d7df9f1265dfe5"
+    },
+    "models/jk-v8-candidate/verify_mod.py": {
+      "bytes": 11349,
+      "sha256": "cb5fdcd225e03fce7d84724fb787bc416010aaf7ab4e9f55d876fe8a518f2420"
+    },
+    "models/jk-v8-candidate/verify_scope.py": {
+      "bytes": 1906,
+      "sha256": "94b4c038c22b6b98c0d58a0df7dd8e7ecd28507bf93c9366c6ea4597bbc2ba12"
+    },
+    "evidence/jk-v8-offline/art-comparison.json": {
+      "bytes": 1149,
+      "sha256": "7aacda31f4a4143a5a7fb4e2bd3b6045d5841b22a7147215fb6e4a2701e7a93e"
+    },
+    "evidence/jk-v8-offline/bound-back.png": {
+      "bytes": 882633,
+      "sha256": "9f1b8b1128a5dcc8de4e4e6ee852d74410cef1f74d9760b9f9248f351af84028"
+    },
+    "evidence/jk-v8-offline/bound-front.png": {
+      "bytes": 946253,
+      "sha256": "249c07ab4c1c206b26589eae270d4020bcf7f4a7e2fae1c50e6fedb87bdb4ee2"
+    },
+    "evidence/jk-v8-offline/bound-side.png": {
+      "bytes": 900454,
+      "sha256": "fad274fc5e1a9b8d0b73ddaa6e66c0e316d5fb016d401ea6382e4793cf003d6f"
+    },
+    "evidence/jk-v8-offline/delivery-manifest.json": {
+      "bytes": 648,
+      "sha256": "95eb2c80ee43827ba262b94037c57a9cf5cbb0fe33b4616ab2ed3cfd680d4091"
+    },
+    "evidence/jk-v8-offline/neck-weight-search.json": {
+      "bytes": 9134,
+      "sha256": "0bf93467b36c92d05cce8bcabbdb47b0c90d6af7eabd1e02aeff667e3b4e1463"
+    },
+    "evidence/jk-v8-offline/pose-review.json": {
+      "bytes": 4561,
+      "sha256": "15bc85d81061fafe8e7a951d6a09b4919157ed4e6570e79cdc3ad2124b9ea007"
+    },
+    "evidence/jk-v8-offline/reference-v7-v8-proportions.jpg": {
+      "bytes": 248561,
+      "sha256": "b9c4a2fb1ca3d5d1b5c0b8792ac85a8cd072c97c3aedd8fbc704f5ec69059c6c"
+    },
+    "evidence/jk-v8-offline/skin-verification.json": {
+      "bytes": 887,
+      "sha256": "c4c9cbe1af2a9d51cc76ddabb4ae739728d0da07930636d9f4a4c89565266c5d"
+    },
+    "evidence/jk-v8-offline/v7-parts.png": {
+      "bytes": 778588,
+      "sha256": "10dcc91b82ffc1e9fd3376761cb0c3f9a78f91772e0b01e5f526dd668472c908"
+    },
+    "evidence/jk-v8-offline/v7-v8-collar-shoulders.jpg": {
+      "bytes": 221123,
+      "sha256": "8b2b26e0564d6ba77d80a358f2ce20fb6b9d07932864ab115c1be9067093af07"
+    },
+    "evidence/jk-v8-offline/v8-arms-up.png": {
+      "bytes": 778819,
+      "sha256": "429dfbf42576e1deca2d6bbc26f66d120564a252669d76caa9b012d5e2da6a0e"
+    },
+    "evidence/jk-v8-offline/v8-back-upper.png": {
+      "bytes": 691582,
+      "sha256": "be710628c7a8e273b620c44d78d409cd76ffb873c9c7438f353b2f3c9df39b5d"
+    },
+    "evidence/jk-v8-offline/v8-front.png": {
+      "bytes": 774642,
+      "sha256": "bdce2b3f6c333bc548a7da0c387dd8da727d592f2dfebac8eb5cd9ff1d884ed1"
+    },
+    "evidence/jk-v8-offline/v8-head-turn.png": {
+      "bytes": 769374,
+      "sha256": "6afa8b6151a0ea4aeadb706e5c47572b1bc4188611424ac3530494c97494bd59"
+    },
+    "evidence/jk-v8-offline/v8-upper.png": {
+      "bytes": 806772,
+      "sha256": "84015ef72911018cf3f9bc51b40f8bfe7c1d941dc9316aa18debc322c9732409"
+    },
+    "evidence/jk-v8-offline/v8-weapon-guard.png": {
+      "bytes": 756355,
+      "sha256": "b44346bc161afcd042bd63bfd9832126121f74963607e90e17e061392b6b4705"
+    },
+    "evidence/jk-v8-offline/verification.json": {
+      "bytes": 380,
+      "sha256": "f414f5b469046ad44f07d0d44cb9f1e2519bd2d8e368df70125ac96b629c9c1a"
+    }
+  },
+  "hash_policy": "SHA256 of raw binary files; UTF-8 text with CRLF normalized to LF"
+}
