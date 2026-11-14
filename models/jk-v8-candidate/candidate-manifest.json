@@ -1,5 +1,5 @@
 {
-  "installed": false,
+  "installed": true,
   "runtime_tested": false,
   "files": {
     "models/jk-v8-candidate/adjust_v8.py": {
@@ -51,8 +51,8 @@
       "sha256": "ae2ec06bbd2633ef8921a1cc64442d81868751471b18d25999fb2b511a8f7745"
     },
     "models/jk-v8-candidate/README.md": {
-      "bytes": 4855,
-      "sha256": "2297458edcb83b21ba1a5723b95fe836b850a289ce940243bc735306f32c125c"
+      "bytes": 5272,
+      "sha256": "6cf05bed0dcddce5ed78318569fa48367f4570a35504de8aad350da77f362c5d"
     },
     "models/jk-v8-candidate/reconstruct_source_map.py": {
       "bytes": 23292,
@@ -179,5 +179,6 @@
       "sha256": "f414f5b469046ad44f07d0d44cb9f1e2519bd2d8e368df70125ac96b629c9c1a"
     }
   },
-  "hash_policy": "SHA256 of raw binary files; UTF-8 text with CRLF normalized to LF"
+  "hash_policy": "SHA256 of raw binary files; UTF-8 text with CRLF normalized to LF",
+  "user_gameplay_screenshots_received": true
 }
