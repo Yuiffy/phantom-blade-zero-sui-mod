@@ -1,0 +1,28 @@
+{
+  "meshes": 1,
+  "bones": 264,
+  "vertices": 34167,
+  "triangles": 66678,
+  "degenerate_triangles": 0,
+  "material_slots": 8,
+  "UV_layers": 1,
+  "max_influences": 4,
+  "poses": [
+    {
+      "pose": "audit-arms-raised",
+      "finite_vertices": true,
+      "max_edge_length_cm": 34.69120587837762
+    },
+    {
+      "pose": "audit-crouch-head-turn",
+      "finite_vertices": true,
+      "max_edge_length_cm": 34.69120587837762
+    },
+    {
+      "pose": "audit-finger-curl",
+      "finite_vertices": true,
+      "max_edge_length_cm": 34.69120587837762
+    }
+  ],
+  "game_animations_executed": false
+}
