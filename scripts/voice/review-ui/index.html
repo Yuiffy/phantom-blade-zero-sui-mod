@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>岁己 · 语音二审与原版对照</title><link rel="icon" href="data:,"><link rel="stylesheet" href="style.css"><script defer src="app.js"></script></head>
+<body>
+<header><a class="brand" href="#">岁己 <span>／ 语音二审</span></a><div><a href="http://127.0.0.1:9211/" target="_blank" rel="noopener">第一轮标注 ↗</a><span class="version">候选审阅 · 尚未装入游戏</span></div></header>
+<main>
+  <section class="intro"><div><p class="eyebrow">SUI / VOICE AUDITION 02</p><h1>重新挑声音。<br><span>这次，听着魂的原声选。</span></h1><p class="sub">保留你的 12 段问题标注。新找 8 份完整按钮原声，并提供你已认可的片段作备选。</p></div><div class="stats"><strong id="decided">0 / 12</strong><span>问题段已选方案</span><small>原版中文 238 段 · 英语 236 段</small></div></section>
+  <nav aria-label="审阅视图"><button class="tab active" data-tab="issues">12 段重新挑选</button><button class="tab" data-tab="events">按游戏时机对照</button><button class="tab" data-tab="current">全部 30 段现用语音</button><button class="export" id="export">导出本轮标记</button></nav>
+  <section class="tools"><label class="search">⌕ <input id="search" type="search" placeholder="搜索编号、声音、事件或 MediaID" aria-label="搜索"></label><label>原版语言 <select id="language"><option value="Chinese">中文 · 魂</option><option value="English(US)">英语 · 魂</option></select></label><span id="save-status" role="status">读取本地标记…</span></section>
+  <section id="issues-view"><p class="explain">每组先听原版魂，再对照当前声音与新候选。“选用”只记入审阅方案，不会改游戏。短媒体槽会注明时长风险。</p><div id="issues"></div></section>
+  <section id="events-view" hidden><div class="event-picker"><label>发声时机 <select id="event-select"></select></label><span id="event-count"></span></div><div id="event-context"></div><div id="event-rows"></div></section>
+  <section id="current-view" hidden><p class="explain">完整保留当前 30 段及第一轮意见。点击“看原版对照”，可逐个播放这段声音实际替换的原版媒体。</p><div id="current-rows"></div></section>
+  <p class="foot">原版来自本地游戏的原始 WEM，保留原响度，未加入游戏混音与环境效果。中英文分别按真实事件和 MediaID 对应。事件中文名为静态名称解释；只有明确列出的空中动作附有技能时间线证据。</p>
+</main>
+<aside class="dock" aria-label="试听播放器"><div><span class="eyebrow" id="playing-kind">等待试听</span><strong id="playing-title">选择原版、当前声音或候选</strong><small id="playing-detail">默认音量 60%，不会自动播放。</small></div><div class="audio-box"><audio id="player" controls preload="none"></audio><p id="audio-error" role="status"></p></div><div class="player-settings"><label><input type="checkbox" id="loop">循环本段</label><label>音量 <input type="range" id="volume" min="0" max="1" step=".05" value=".6" aria-label="音量"><span id="volume-label">60%</span></label><button id="stop">停止</button></div></aside>
+</body></html>

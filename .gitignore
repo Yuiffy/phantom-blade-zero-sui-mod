@@ -17,3 +17,12 @@ private/
 *.mp3
 *.MP3
 *.blend1
+
+# Local reconstruction inputs and generated voice evidence stay private.
+*.ubulk
+*.uasset
+*.uexp
+*.bnk
+*.flv
+*.mp4
+*.srt

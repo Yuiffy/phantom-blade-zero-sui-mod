@@ -1,0 +1,226 @@
+{
+  "variant": "reviewed-natural-voice-v4",
+  "game_app_id": "4115450",
+  "game_build": "26367565",
+  "date_local": "2026-11-15",
+  "status": "installed-human-reviewed-v4-offline-verified-runtime-pending",
+  "runtime_tested": false,
+  "v3_runtime_success_does_not_imply_v4_pass": true,
+  "review": {
+    "issue_count": 12,
+    "manifest_sha256": "d44ec899542d607296c7176f19efdde7ec5d3c97860d41717929fbffe7aafc1e",
+    "review_sha256": "1fb3f7fd083b06eb7cc5a32d6f817ca638a1545d4983ecce14ca0ad553b7643d",
+    "per_media_overrides": false,
+    "choices": [
+      {
+        "old_number": 2,
+        "old_candidate": "attack_combo_real_01_region_02",
+        "selected_candidate": "reuse-23",
+        "title": "嗑，呃呃（按不下左键）",
+        "seconds": 0.235
+      },
+      {
+        "old_number": 5,
+        "old_candidate": "attack_combo_real_01_region_05",
+        "selected_candidate": "reuse-14",
+        "title": "喝！（中气十足）",
+        "seconds": 0.305
+      },
+      {
+        "old_number": 6,
+        "old_candidate": "attack_combo_real_01_region_06",
+        "selected_candidate": "reuse-23",
+        "title": "嗑，呃呃（按不下左键）",
+        "seconds": 0.235
+      },
+      {
+        "old_number": 7,
+        "old_candidate": "attack_combo_real_01_region_07",
+        "selected_candidate": "new-husky",
+        "title": "啊！（沙哑）",
+        "seconds": 0.7575625
+      },
+      {
+        "old_number": 8,
+        "old_candidate": "attack_combo_real_01_region_08",
+        "selected_candidate": "new-zap-aha",
+        "title": "啊哈（被水母电）",
+        "seconds": 1.29
+      },
+      {
+        "old_number": 9,
+        "old_candidate": "attack_combo_real_01_region_09",
+        "selected_candidate": "reuse-23",
+        "title": "嗑，呃呃（按不下左键）",
+        "seconds": 0.235
+      },
+      {
+        "old_number": 16,
+        "old_candidate": "cough_context_real_02_region_02",
+        "selected_candidate": "new-groan",
+        "title": "呃~",
+        "seconds": 0.7575625
+      },
+      {
+        "old_number": 17,
+        "old_candidate": "cough_context_real_02_region_03",
+        "selected_candidate": "reuse-15",
+        "title": "咳，气死我了",
+        "seconds": 0.225
+      },
+      {
+        "old_number": 18,
+        "old_candidate": "cough_context_real_05_region_06",
+        "selected_candidate": "reuse-15",
+        "title": "咳，气死我了",
+        "seconds": 0.225
+      },
+      {
+        "old_number": 19,
+        "old_candidate": "cough_context_real_05_region_08",
+        "selected_candidate": "reuse-21",
+        "title": "嗑，呃呃（按不下左键）",
+        "seconds": 0.305
+      },
+      {
+        "old_number": 20,
+        "old_candidate": "cough_context_real_05_region_12",
+        "selected_candidate": "reuse-15",
+        "title": "咳，气死我了",
+        "seconds": 0.225
+      },
+      {
+        "old_number": 24,
+        "old_candidate": "effort_groan_real_07_region_04",
+        "selected_candidate": "reuse-21",
+        "title": "嗑，呃呃（按不下左键）",
+        "seconds": 0.305
+      }
+    ]
+  },
+  "offline_evidence": {
+    "source_report_sha256": "648b9d1902207a2fc40990cc00d598e9ebf109651e35baa18201b878ee3a1691",
+    "source_verification_sha256": "cd0765d898be2f2cc45a8130e257deb0f75509619909366b9650a59bae75a5ca",
+    "assets": [
+      {
+        "asset": "VO_CN",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 5004,
+        "changed_resource_count": 221
+      },
+      {
+        "asset": "VO_EN",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 6634,
+        "changed_resource_count": 218
+      },
+      {
+        "asset": "SFX_Combat_VO_Hun_Break",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 0,
+        "changed_resource_count": 24
+      },
+      {
+        "asset": "SFX_Combat_Vo_Hun_Charge_Long",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 0,
+        "changed_resource_count": 10
+      },
+      {
+        "asset": "SFX_Combat_Vo_Hun_Charge_Release_Light",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 0,
+        "changed_resource_count": 18
+      },
+      {
+        "asset": "SFX_Combat_Vo_Hun_Cough",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 0,
+        "changed_resource_count": 18
+      },
+      {
+        "asset": "SFX_Combat_Vo_Hun_Heavy_Release",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 0,
+        "changed_resource_count": 8
+      },
+      {
+        "asset": "SFX_Combat_VO_Hun_Snort",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 0,
+        "changed_resource_count": 12
+      }
+    ],
+    "unique_language_media": {
+      "Chinese": 238,
+      "English(US)": 236
+    },
+    "target_events": 27,
+    "inspected_events": 42,
+    "human_selected_changed_media": 246,
+    "unchanged_v3_media_byteidentical": 228,
+    "changed_unique_language_kind_id_payloads": 529,
+    "independently_decoded_candidates": 21,
+    "fresh_encoded_candidates": 3,
+    "minimum_correlation": 0.9972109880605966,
+    "minimum_snr_db": 22.50644809009401,
+    "checks": {
+      "original_events_preserve_external_packaging": true,
+      "shared_media_consistent_in_42_inspected_events": true,
+      "original_library_prefixes_unchanged": true,
+      "exact_round2_choices_verified": true
+    },
+    "longer_than_v3_conservative_cap_media": 224,
+    "runtime_duration_window_proven": false
+  },
+  "installation": {
+    "applied": true,
+    "model_files_unchanged": true,
+    "settings_unchanged": true,
+    "old_voice_removed_by_receipt": true,
+    "rollback_available": true,
+    "rollback_in_real_game_executed": false
+  },
+  "files_local_only": [
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Reviewed_v4_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Reviewed_v4_P.ucas",
+      "bytes": 1255811653,
+      "sha256": "b9e7328dcf45ccbd2a7bec6738fc67ae9899a0799574c9cd8905ef7d6917c5a7"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Reviewed_v4_P.utoc",
+      "bytes": 232008,
+      "sha256": "6ca1aaa633a6cea9e9b003ddc728aec7ec8b1ad1a45a11a96aa10437e832b366"
+    }
+  ],
+  "total_container_bytes": 1256044008,
+  "binaries_published": false,
+  "synthetic_audio": false,
+  "duration_target_truncation": false,
+  "notes": "Public export uses configured paths and separate audit outputs. Local game data, audio, complete native metadata, installation receipts and personal paths are excluded.",
+  "public_code_validation": {
+    "unit_tests_passed": 14,
+    "includes": "Temporary fake Steam directories: dry-run, current model preservation, new-install failure recovery, partial old uninstall recovery, malformed partial receipt recovery, and running-game refusal.",
+    "exported_resolver_matches_existing_v4_assignments": 474,
+    "python_syntax_checked": true,
+    "javascript_syntax_checked": true,
+    "skill_validation_passed": true,
+    "full_exported_container_reaudit_performed": false,
+    "full_exported_container_reaudit_skip_reason": "PBZ running; stopped by the process guard before heavy work.",
+    "game_files_modified_during_public_export": false,
+    "runtime_tested": false
+  }
+}
