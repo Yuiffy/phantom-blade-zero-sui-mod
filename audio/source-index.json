@@ -1,0 +1,843 @@
+{
+  "synthetic_audio": false,
+  "audio_files_in_repository": false,
+  "runtime_tested": false,
+  "candidates": [
+    {
+      "candidate": "attack_combo_real_01_region_01",
+      "parent_label": "哈！哈！哈！（三连击）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "哈！哈！哈！（三连击）.MP3",
+      "source_sha256": "acc15bd5f66eb822156cafc5ee6edbd5dc49fc0e16b0f25bac6d81af657f15ec",
+      "range_in_normalized_pcm": {
+        "start_sample": 9600,
+        "end_sample": 21120,
+        "start_seconds": 0.2,
+        "end_seconds": 0.44,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "ed1f8bfab6ce5650300a0f30305c87f8e301ef430340d28c9db971012ea767da",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "attack_combo_real_01_region_03",
+      "parent_label": "哈！哈！哈！（三连击）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "哈！哈！哈！（三连击）.MP3",
+      "source_sha256": "acc15bd5f66eb822156cafc5ee6edbd5dc49fc0e16b0f25bac6d81af657f15ec",
+      "range_in_normalized_pcm": {
+        "start_sample": 27600,
+        "end_sample": 39120,
+        "start_seconds": 0.575,
+        "end_seconds": 0.815,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "af172da71b66a90c0fd4b67b04252d4b51079134e443cc777f3d4de11685a19d",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "attack_combo_real_01_region_04",
+      "parent_label": "哈！哈！哈！（三连击）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "哈！哈！哈！（三连击）.MP3",
+      "source_sha256": "acc15bd5f66eb822156cafc5ee6edbd5dc49fc0e16b0f25bac6d81af657f15ec",
+      "range_in_normalized_pcm": {
+        "start_sample": 47040,
+        "end_sample": 66000,
+        "start_seconds": 0.98,
+        "end_seconds": 1.375,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "3f38c04e11bcdd1721c0bedd1342bd9b223a94badc0dd09c3da8ce3b49e95475",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "attack_heavy_real_01_region_01",
+      "parent_label": "喝！（中气十足）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "喝！（中气十足）.MP3",
+      "source_sha256": "bff3d8e628b2dabb7155f67d6dbdf6bf11edf8b14857dac515ba9aa7b30b9282",
+      "range_in_normalized_pcm": {
+        "start_sample": 8160,
+        "end_sample": 22800,
+        "start_seconds": 0.17,
+        "end_seconds": 0.475,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "b383916ab7a2e08c247dff079c4f4d096c52495cdaa152aa2ea8c3bff8c27a3c",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "attack_effort_real_01_region_01",
+      "parent_label": "啊，呃，呃（使劲）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "啊，呃，呃（使劲）.MP3",
+      "source_sha256": "b325d65bf8893933745f18f7b3ed74bc72c20aca1dbbe7b2236594c9852041ee",
+      "range_in_normalized_pcm": {
+        "start_sample": 10080,
+        "end_sample": 28080,
+        "start_seconds": 0.21,
+        "end_seconds": 0.585,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "356f846b2db241474f0e202143541654ba0958e0564fe531d340e0ddf1f75c5e",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "attack_effort_real_01_region_02",
+      "parent_label": "啊，呃，呃（使劲）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "啊，呃，呃（使劲）.MP3",
+      "source_sha256": "b325d65bf8893933745f18f7b3ed74bc72c20aca1dbbe7b2236594c9852041ee",
+      "range_in_normalized_pcm": {
+        "start_sample": 38160,
+        "end_sample": 53520,
+        "start_seconds": 0.795,
+        "end_seconds": 1.115,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "c7366d9e33d6e7df8222b1e8a595443e9d486a6dea7f1d0d4410bfc87566dba1",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "attack_effort_real_01_region_03",
+      "parent_label": "啊，呃，呃（使劲）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "啊，呃，呃（使劲）.MP3",
+      "source_sha256": "b325d65bf8893933745f18f7b3ed74bc72c20aca1dbbe7b2236594c9852041ee",
+      "range_in_normalized_pcm": {
+        "start_sample": 61200,
+        "end_sample": 79680,
+        "start_seconds": 1.275,
+        "end_seconds": 1.66,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "e5c2292903d3996cb18a1d186a61f7d52ad256aadc4c52076c624c241bcbf3e7",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "hurt_real_03_region_01",
+      "parent_label": "呃啊（惊）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "呃啊（惊）.MP3",
+      "source_sha256": "becad9d63098eb9b93df7e9e6dec5cc80bfae1f1148a8c3398b489cc7f775afb",
+      "range_in_normalized_pcm": {
+        "start_sample": 6720,
+        "end_sample": 22320,
+        "start_seconds": 0.14,
+        "end_seconds": 0.465,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "d8ae4f1d011cac2c45f1c5689082d91a8e2ac82ad149930cc5adec7aad3b32fb",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "snort_real_01_region_01",
+      "parent_label": "哼~",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "哼~.MP3",
+      "source_sha256": "c787ee4ec59cea47839343ccc1d3aa56d5536055027060350ca757e0f9a88d74",
+      "range_in_normalized_pcm": {
+        "start_sample": 4320,
+        "end_sample": 37200,
+        "start_seconds": 0.09,
+        "end_seconds": 0.775,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "de508b27c3fab8d698020817f420ad423dbd0f0756fce647a75cbf7c8d6eaf5a",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "cough_context_real_02_region_01",
+      "parent_label": "咳，气死我了",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "咳，气死我了.MP3",
+      "source_sha256": "401206fcfd04f7a31b3348182ea2306e1e19fa8a587f28dea5524646e010c9e9",
+      "range_in_normalized_pcm": {
+        "start_sample": 2640,
+        "end_sample": 13440,
+        "start_seconds": 0.055,
+        "end_seconds": 0.28,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "09ca557dd5657bc50886b926155e57db043bb2cdce268c6886548813fad59147",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "attack_ha_real_02_region_01",
+      "parent_label": "呵啊",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "呵啊！.MP3",
+      "source_sha256": "da34a007aa1974a0a202dff3eb9ad4281650a5dca4f54d9132044082445378a0",
+      "range_in_normalized_pcm": {
+        "start_sample": 480,
+        "end_sample": 28560,
+        "start_seconds": 0.01,
+        "end_seconds": 0.595,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "fceb49e2b0b6d459a6c99ada4eb7f3c18cc4aa49dcbf21a973fd6bd4a6b0d836",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "effort_groan_real_07_region_01",
+      "parent_label": "嗑，呃呃（按不下左键）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "嗑，呃呃（按不下左键）.MP3",
+      "source_sha256": "4841d5c2532fbcf25383fe111cf274f1d07b217da8bd77415bdbb674ff7847eb",
+      "range_in_normalized_pcm": {
+        "start_sample": 7680,
+        "end_sample": 22320,
+        "start_seconds": 0.16,
+        "end_seconds": 0.465,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "5da1d096f4b0481080896db3f80b263782c1932e28273cbbaf24e70df95c56e3",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "effort_groan_real_07_region_02",
+      "parent_label": "嗑，呃呃（按不下左键）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "嗑，呃呃（按不下左键）.MP3",
+      "source_sha256": "4841d5c2532fbcf25383fe111cf274f1d07b217da8bd77415bdbb674ff7847eb",
+      "range_in_normalized_pcm": {
+        "start_sample": 79920,
+        "end_sample": 94800,
+        "start_seconds": 1.665,
+        "end_seconds": 1.975,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "43b560df2195afd21b207802098b212055435c51150a636e9125c159253e7909",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "effort_groan_real_07_region_03",
+      "parent_label": "嗑，呃呃（按不下左键）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "嗑，呃呃（按不下左键）.MP3",
+      "source_sha256": "4841d5c2532fbcf25383fe111cf274f1d07b217da8bd77415bdbb674ff7847eb",
+      "range_in_normalized_pcm": {
+        "start_sample": 98400,
+        "end_sample": 109680,
+        "start_seconds": 2.05,
+        "end_seconds": 2.285,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "6a50438ce0379e58dd44f29c5a970c40afad42640456f6d880baf5d04665f79b",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "effort_groan_real_08_region_01",
+      "parent_label": "呃~呃~（被导弹追）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "呃~呃~（被导弹追）.MP3",
+      "source_sha256": "9e64b0c2be1157b226f69bedeb38b52ee7513c900563134c181751a70febbcd5",
+      "range_in_normalized_pcm": {
+        "start_sample": 12720,
+        "end_sample": 33120,
+        "start_seconds": 0.265,
+        "end_seconds": 0.69,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "ed1f25c8dea6a291bce42d0b6131b2c9a9909b57a8cc28423aa1736be763035a",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "effort_groan_real_08_region_02",
+      "parent_label": "呃~呃~（被导弹追）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "呃~呃~（被导弹追）.MP3",
+      "source_sha256": "9e64b0c2be1157b226f69bedeb38b52ee7513c900563134c181751a70febbcd5",
+      "range_in_normalized_pcm": {
+        "start_sample": 38160,
+        "end_sample": 59280,
+        "start_seconds": 0.795,
+        "end_seconds": 1.235,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "e29099e7589017080de086d554664540ab0f95a2bfa37113f44217aafe146e91",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "effort_hum_real_09_region_01",
+      "parent_label": "嗯~",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "嗯~.MP3",
+      "source_sha256": "7ff84de87296e636556e67c7ba7cec50d6d5aa54a41a01f807d79b250e393c1b",
+      "range_in_normalized_pcm": {
+        "start_sample": 6960,
+        "end_sample": 33840,
+        "start_seconds": 0.145,
+        "end_seconds": 0.705,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "6f0c6868ac442f27d3e90794ccf4b596b26fada2706792642e214f7867ce6045",
+      "review": "human-listening-pending"
+    }
+  ],
+  "events": [
+    {
+      "event": "SFX_Combat_VO_Hun_Break",
+      "replacements": [
+        {
+          "media_id": 106479889,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 159569883,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 256167327,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 263803410,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 280528020,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 410763444,
+          "candidate": "attack_heavy_real_01_region_01"
+        },
+        {
+          "media_id": 547259201,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 565526480,
+          "candidate": "attack_heavy_real_01_region_01"
+        },
+        {
+          "media_id": 642282562,
+          "candidate": "attack_combo_real_01_region_04"
+        },
+        {
+          "media_id": 932795774,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 959578928,
+          "candidate": "attack_heavy_real_01_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Charge_Release_Heavy",
+      "replacements": [
+        {
+          "media_id": 136517294,
+          "candidate": "attack_heavy_real_01_region_01"
+        },
+        {
+          "media_id": 260132889,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 466683565,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 510681087,
+          "candidate": "attack_heavy_real_01_region_01"
+        },
+        {
+          "media_id": 574287138,
+          "candidate": "attack_combo_real_01_region_04"
+        },
+        {
+          "media_id": 818895275,
+          "candidate": "attack_heavy_real_01_region_01"
+        },
+        {
+          "media_id": 851143029,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 852598903,
+          "candidate": "attack_heavy_real_01_region_01"
+        },
+        {
+          "media_id": 856277877,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 863640297,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 1005917387,
+          "candidate": "attack_heavy_real_01_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Charge_Release_Light",
+      "replacements": [
+        {
+          "media_id": 30483350,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 93948026,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 551119524,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 563356250,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 948159914,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 963803403,
+          "candidate": "attack_combo_real_01_region_03"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Execute_Attack_Heavy",
+      "replacements": [
+        {
+          "media_id": 146604281,
+          "candidate": "attack_heavy_real_01_region_01"
+        },
+        {
+          "media_id": 480022549,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 684636192,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 706696734,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 767891606,
+          "candidate": "attack_heavy_real_01_region_01"
+        },
+        {
+          "media_id": 914114657,
+          "candidate": "attack_combo_real_01_region_03"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Heavy_Release",
+      "replacements": [
+        {
+          "media_id": 262110054,
+          "candidate": "attack_combo_real_01_region_04"
+        },
+        {
+          "media_id": 735918745,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 742890217,
+          "candidate": "attack_combo_real_01_region_03"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_Hurt",
+      "replacements": [
+        {
+          "media_id": 218697108,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 399644099,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 657813612,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 794125695,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 891557095,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 899417076,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 954183454,
+          "candidate": "hurt_real_03_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_Hurt_BiXian",
+      "replacements": [
+        {
+          "media_id": 71325818,
+          "candidate": "hurt_real_03_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Hurt_Heavy",
+      "replacements": [
+        {
+          "media_id": 71211340,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 103857642,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 162508108,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 635551566,
+          "candidate": "hurt_real_03_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_Hurt_Heavy_Mix",
+      "replacements": [
+        {
+          "media_id": 12939720,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 71211340,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 103857642,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 131727484,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 162508108,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 184502150,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 453915698,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 552462183,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 624027561,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 635551566,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 756447794,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 760129458,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 846811471,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 980470561,
+          "candidate": "hurt_real_03_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_Snort",
+      "replacements": [
+        {
+          "media_id": 224466480,
+          "candidate": "snort_real_01_region_01"
+        },
+        {
+          "media_id": 352168020,
+          "candidate": "snort_real_01_region_01"
+        },
+        {
+          "media_id": 421637231,
+          "candidate": "snort_real_01_region_01"
+        },
+        {
+          "media_id": 430902888,
+          "candidate": "snort_real_01_region_01"
+        },
+        {
+          "media_id": 888328709,
+          "candidate": "snort_real_01_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_BiQi_01_DuanCu",
+      "replacements": [
+        {
+          "media_id": 322800105,
+          "candidate": "attack_effort_real_01_region_02"
+        },
+        {
+          "media_id": 558396987,
+          "candidate": "effort_groan_real_07_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_BiQi_02_Long",
+      "replacements": [
+        {
+          "media_id": 418654667,
+          "candidate": "effort_groan_real_07_region_01"
+        },
+        {
+          "media_id": 470129897,
+          "candidate": "effort_groan_real_07_region_03"
+        },
+        {
+          "media_id": 587562597,
+          "candidate": "effort_groan_real_07_region_03"
+        },
+        {
+          "media_id": 950789364,
+          "candidate": "effort_groan_real_07_region_03"
+        },
+        {
+          "media_id": 980729495,
+          "candidate": "effort_groan_real_07_region_03"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Charge_Heavy_Long",
+      "replacements": [
+        {
+          "media_id": 151592206,
+          "candidate": "effort_groan_real_07_region_02"
+        },
+        {
+          "media_id": 159549112,
+          "candidate": "attack_effort_real_01_region_02"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Charge_Heavy_Short",
+      "replacements": [
+        {
+          "media_id": 24047091,
+          "candidate": "effort_groan_real_07_region_01"
+        },
+        {
+          "media_id": 61261688,
+          "candidate": "attack_effort_real_01_region_01"
+        },
+        {
+          "media_id": 494398732,
+          "candidate": "effort_groan_real_07_region_02"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Charge_Long",
+      "replacements": [
+        {
+          "media_id": 182007436,
+          "candidate": "effort_groan_real_07_region_02"
+        },
+        {
+          "media_id": 388875430,
+          "candidate": "attack_effort_real_01_region_02"
+        },
+        {
+          "media_id": 575441053,
+          "candidate": "effort_groan_real_08_region_02"
+        },
+        {
+          "media_id": 898238994,
+          "candidate": "effort_groan_real_08_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Charge_Short",
+      "replacements": [
+        {
+          "media_id": 10338663,
+          "candidate": "effort_groan_real_08_region_02"
+        },
+        {
+          "media_id": 127945894,
+          "candidate": "effort_groan_real_07_region_02"
+        },
+        {
+          "media_id": 411500236,
+          "candidate": "attack_effort_real_01_region_02"
+        },
+        {
+          "media_id": 436009150,
+          "candidate": "effort_groan_real_07_region_01"
+        },
+        {
+          "media_id": 610390805,
+          "candidate": "effort_groan_real_07_region_01"
+        },
+        {
+          "media_id": 769709642,
+          "candidate": "effort_groan_real_07_region_02"
+        },
+        {
+          "media_id": 814903650,
+          "candidate": "attack_effort_real_01_region_03"
+        },
+        {
+          "media_id": 981188208,
+          "candidate": "attack_effort_real_01_region_01"
+        },
+        {
+          "media_id": 1062488932,
+          "candidate": "effort_groan_real_07_region_02"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_Charge_SuperLong",
+      "replacements": [
+        {
+          "media_id": 254350364,
+          "candidate": "effort_groan_real_07_region_03"
+        },
+        {
+          "media_id": 316566804,
+          "candidate": "effort_groan_real_07_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_ChuZhao_01_DuanCu",
+      "replacements": [
+        {
+          "media_id": 55374554,
+          "candidate": "attack_heavy_real_01_region_01"
+        },
+        {
+          "media_id": 382951373,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 870518923,
+          "candidate": "attack_ha_real_02_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_ChuZhao_02",
+      "replacements": [
+        {
+          "media_id": 557008885,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 793300167,
+          "candidate": "attack_combo_real_01_region_04"
+        },
+        {
+          "media_id": 999770054,
+          "candidate": "attack_heavy_real_01_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Cough",
+      "replacements": [
+        {
+          "media_id": 38684120,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 249260091,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 434250251,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 475076531,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 486759837,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 630513278,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 734467397,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 1064855330,
+          "candidate": "cough_context_real_02_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Special_Stifle",
+      "replacements": [
+        {
+          "media_id": 239737436,
+          "candidate": "effort_hum_real_09_region_01"
+        },
+        {
+          "media_id": 318380994,
+          "candidate": "attack_effort_real_01_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Weapon_Break",
+      "replacements": [
+        {
+          "media_id": 802093157,
+          "candidate": "attack_combo_real_01_region_04"
+        },
+        {
+          "media_id": 858342462,
+          "candidate": "attack_combo_real_01_region_04"
+        }
+      ]
+    }
+  ]
+}

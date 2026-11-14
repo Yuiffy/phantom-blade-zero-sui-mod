@@ -1,0 +1,28 @@
+{
+  "status": "installed-offline-verified-runtime-and-listening-pending",
+  "events": 22,
+  "replaced_media": 109,
+  "retained_media": 97,
+  "candidates": 17,
+  "synthetic_audio": false,
+  "scope": "adult-Hun-Chinese-combat-shared-across-outfits",
+  "runtime_tested": false,
+  "listening_review_passed": false,
+  "files": [
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Offline_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Offline_P.ucas",
+      "bytes": 1469714,
+      "sha256": "b185d435504a74316da36ce7fd518772b493e5a2b49fc62f9a968e6f39629238"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Offline_P.utoc",
+      "bytes": 5524,
+      "sha256": "7b2f3ff0e950e580f91834ab4adf96f594fb191620676294f18adfa624ec40c0"
+    }
+  ]
+}

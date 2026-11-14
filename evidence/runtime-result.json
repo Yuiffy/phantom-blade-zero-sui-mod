@@ -1,0 +1,37 @@
+{
+  "variant": "native-shaders-v1",
+  "game_build": "26367565",
+  "reported_local_date": "2026-11-14",
+  "recorded_utc": "2026-11-14T10:02:01.654391+00:00",
+  "status": "pass-user-reported-model-overall",
+  "user_statement": "不错！真的搞定了！很不错哦～",
+  "runtime_tested": true,
+  "runtime_passed": true,
+  "scope": "Overall model success reported by user; no independent claim of exhaustive load/outfit/combat/cutscene coverage.",
+  "outfit": "黑伤（逃亡）",
+  "voice_included_in_this_result": false,
+  "pending": [
+    "detailed-combat",
+    "weapon-attachments",
+    "cutscenes",
+    "long-session",
+    "voice-runtime-and-listening"
+  ],
+  "files": [
+    {
+      "name": "z_Sui_HeiShang_NativeShaders_v1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_HeiShang_NativeShaders_v1_P.ucas",
+      "bytes": 6460306,
+      "sha256": "c2b095804eb0f15cd1147393761b8d41fde6bcc93cb10665ea6cebe8d409b191"
+    },
+    {
+      "name": "z_Sui_HeiShang_NativeShaders_v1_P.utoc",
+      "bytes": 9213,
+      "sha256": "3b26ad1ec489dfd75f0fcaf372a769dad58b0af8d5499e3885d7e525010ed80c"
+    }
+  ]
+}

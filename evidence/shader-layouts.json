@@ -1,0 +1,13 @@
+{
+  "original_resources": 12,
+  "custom_resources": 6,
+  "original_layouts": [
+    "d108a9ec286f421d651d039e9fd9cc5ad11f06fc"
+  ],
+  "custom_layouts": [
+    "79494cd8d7dded7100803ce6765e439546bddefa"
+  ],
+  "parser_verified_against_local_extracted_inputs": true,
+  "raw_game_inputs_published": false,
+  "reference_commit_GameModdingKnowledge": "f6b62a79386cf27fd89d3ccad25a9801fd9c2922"
+}

@@ -1,0 +1,10 @@
+{
+  "model": "sui-hun-binding.glb",
+  "bytes": 3288228,
+  "sha256": "fc740201e571ee19d844432689020b0ed35b5ab0c0a5e53052d161680d64766d",
+  "source_project": "Yuiffy/my-pixijs-game",
+  "source_asset": "assets/after-hours/sui.blend",
+  "source_sha256": "97fd7d328cb7daeac6864c75b08fd2a2135811436ca956e63697ee7876aa9b71",
+  "variant": "rigid-accessories-v1",
+  "new_outfit": false
+}

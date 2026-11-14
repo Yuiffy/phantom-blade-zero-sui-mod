@@ -1,0 +1,29 @@
+{
+  "game_build": "26367565",
+  "packages": 53,
+  "skeletal_meshes": 7,
+  "material_instances": 15,
+  "virtual_textures": 30,
+  "custom_base_materials": 0,
+  "custom_shader_resources": 0,
+  "geometry_and_table_payloads_unchanged_from_v3": true,
+  "independent_parser": "CUE4Parse",
+  "model_files": [
+    {
+      "name": "z_Sui_HeiShang_NativeShaders_v1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_HeiShang_NativeShaders_v1_P.ucas",
+      "bytes": 6460306,
+      "sha256": "c2b095804eb0f15cd1147393761b8d41fde6bcc93cb10665ea6cebe8d409b191"
+    },
+    {
+      "name": "z_Sui_HeiShang_NativeShaders_v1_P.utoc",
+      "bytes": 9213,
+      "sha256": "3b26ad1ec489dfd75f0fcaf372a769dad58b0af8d5499e3885d7e525010ed80c"
+    }
+  ],
+  "local_verification_sha256": "5aabd3caf89e7a272f1e98d7680885e22f499f06f38b23a263925e8c8fdea340"
+}

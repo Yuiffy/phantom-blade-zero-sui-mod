@@ -1,0 +1,24 @@
+{
+  "tag": "v1.0.0",
+  "asset": "Sui_HeiShang_Model_v1.0.0.zip",
+  "bytes": 1410305,
+  "sha256": "f468dd975e6e015915252685ee9323df23f506c0eb60be72ba3fe52370c5b7a7",
+  "model_only": true,
+  "files": [
+    {
+      "name": "z_Sui_HeiShang_NativeShaders_v1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_HeiShang_NativeShaders_v1_P.ucas",
+      "bytes": 6460306,
+      "sha256": "c2b095804eb0f15cd1147393761b8d41fde6bcc93cb10665ea6cebe8d409b191"
+    },
+    {
+      "name": "z_Sui_HeiShang_NativeShaders_v1_P.utoc",
+      "bytes": 9213,
+      "sha256": "3b26ad1ec489dfd75f0fcaf372a769dad58b0af8d5499e3885d7e525010ed80c"
+    }
+  ]
+}
