@@ -1,0 +1,8 @@
+{
+  "asset": "Sui_Voice_v4_LocalPatch_1.0.0.zip",
+  "bytes": 234287,
+  "sha256": "a1068d62ff597d22116dc73d1f3f27949310fbc0ad541e189549ad1376db2ca4",
+  "entry_count": 15,
+  "archive_allowlist_and_private_key_path_scan": "passed",
+  "full_reconstruction_evidence": "voice-local-patch-v1.json"
+}

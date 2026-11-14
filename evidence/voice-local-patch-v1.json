@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-15",
+  "build_id": "26367565",
+  "variant": "reviewed-natural-voice-v4",
+  "method": "Read original encrypted/compressed IoStore, apply COPY/ADD/ZERO recipe, verify hashes before output promotion.",
+  "source_toc_sha256": "d5c3764cdae2030361a7fa8ed1eb204787c77e767df92bbe947763b4a2d0186b",
+  "source_chunks_verified": 16,
+  "target_chunks_verified": 17,
+  "outputs": [
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Reviewed_v4_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+      "matches_previously_audited_v4": true
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Reviewed_v4_P.utoc",
+      "bytes": 232008,
+      "sha256": "6ca1aaa633a6cea9e9b003ddc728aec7ec8b1ad1a45a11a96aa10437e832b366",
+      "matches_previously_audited_v4": true
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Reviewed_v4_P.ucas",
+      "bytes": 1255811653,
+      "sha256": "b9e7328dcf45ccbd2a7bec6738fc67ae9899a0799574c9cd8905ef7d6917c5a7",
+      "matches_previously_audited_v4": true
+    }
+  ],
+  "output_total_bytes": 1256044008,
+  "unique_selected_wem_count": 21,
+  "unique_selected_wem_bytes": 164334,
+  "deduplicated_payload_bytes": 166601,
+  "game_installation_modified": false,
+  "runtime_tested_this_run": false,
+  "v4_runtime_status": "awaiting-user-feedback",
+  "unit_tests": {
+    "command": "python -m unittest discover -s tests -v",
+    "passed": 25
+  },
+  "private_source_toc_or_partitions_distributed": false,
+  "key_distributed": false,
+  "oodle_dll_distributed": false,
+  "release_asset": "Sui_Voice_v4_LocalPatch_1.0.0.zip"
+}

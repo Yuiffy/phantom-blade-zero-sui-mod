@@ -1,0 +1,360 @@
+{
+  "source_project": "Yuiffy/suiji-sui-button",
+  "synthetic_audio": false,
+  "time_stretching": false,
+  "target_duration_truncation": false,
+  "license": "Character/recording rights remain with their respective owners; not MIT.",
+  "encoding": [
+    {
+      "candidate": "attack_combo_real_01_region_01",
+      "source_sha256": "ed1f8bfab6ce5650300a0f30305c87f8e301ef430340d28c9db971012ea767da",
+      "wem_sha256": "fd58a809da1f3514e16951acc4aa9a78ce7b89ac169cb533aab91bd122c30e4b",
+      "duration_seconds": 0.24,
+      "samples": 11520,
+      "source_file": "哈！哈！哈！（三连击）.MP3",
+      "recording_sha256": "acc15bd5f66eb822156cafc5ee6edbd5dc49fc0e16b0f25bac6d81af657f15ec",
+      "range_in_normalized_pcm": {
+        "start_sample": 9600,
+        "end_sample": 21120,
+        "start_seconds": 0.2,
+        "end_seconds": 0.44,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "attack_combo_real_01_region_03",
+      "source_sha256": "af172da71b66a90c0fd4b67b04252d4b51079134e443cc777f3d4de11685a19d",
+      "wem_sha256": "cd28f8a47af9913f95f3e1ef938f29ee85dcf4a1377ac80a94b6a3e1443c2de2",
+      "duration_seconds": 0.24,
+      "samples": 11520,
+      "source_file": "哈！哈！哈！（三连击）.MP3",
+      "recording_sha256": "acc15bd5f66eb822156cafc5ee6edbd5dc49fc0e16b0f25bac6d81af657f15ec",
+      "range_in_normalized_pcm": {
+        "start_sample": 27600,
+        "end_sample": 39120,
+        "start_seconds": 0.575,
+        "end_seconds": 0.815,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "attack_combo_real_01_region_04",
+      "source_sha256": "3f38c04e11bcdd1721c0bedd1342bd9b223a94badc0dd09c3da8ce3b49e95475",
+      "wem_sha256": "7818b75948f7e483e3a7bbbebe13151af39296444b319b1522e4bfaa1e1bd76b",
+      "duration_seconds": 0.395,
+      "samples": 18960,
+      "source_file": "哈！哈！哈！（三连击）.MP3",
+      "recording_sha256": "acc15bd5f66eb822156cafc5ee6edbd5dc49fc0e16b0f25bac6d81af657f15ec",
+      "range_in_normalized_pcm": {
+        "start_sample": 47040,
+        "end_sample": 66000,
+        "start_seconds": 0.98,
+        "end_seconds": 1.375,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "attack_effort_real_01_region_01",
+      "source_sha256": "356f846b2db241474f0e202143541654ba0958e0564fe531d340e0ddf1f75c5e",
+      "wem_sha256": "516c105c3fc9764a111015de4069a2b61a8fd7c2db835d43d8601965f413aa4a",
+      "duration_seconds": 0.375,
+      "samples": 18000,
+      "source_file": "啊，呃，呃（使劲）.MP3",
+      "recording_sha256": "b325d65bf8893933745f18f7b3ed74bc72c20aca1dbbe7b2236594c9852041ee",
+      "range_in_normalized_pcm": {
+        "start_sample": 10080,
+        "end_sample": 28080,
+        "start_seconds": 0.21,
+        "end_seconds": 0.585,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "attack_effort_real_01_region_02",
+      "source_sha256": "c7366d9e33d6e7df8222b1e8a595443e9d486a6dea7f1d0d4410bfc87566dba1",
+      "wem_sha256": "7e59efcac7776b0d30c5337598269be46b34403bec26c7432ebd8684d091d289",
+      "duration_seconds": 0.32,
+      "samples": 15360,
+      "source_file": "啊，呃，呃（使劲）.MP3",
+      "recording_sha256": "b325d65bf8893933745f18f7b3ed74bc72c20aca1dbbe7b2236594c9852041ee",
+      "range_in_normalized_pcm": {
+        "start_sample": 38160,
+        "end_sample": 53520,
+        "start_seconds": 0.795,
+        "end_seconds": 1.115,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "attack_effort_real_01_region_03",
+      "source_sha256": "e5c2292903d3996cb18a1d186a61f7d52ad256aadc4c52076c624c241bcbf3e7",
+      "wem_sha256": "199ba055457f06aa784d7e439f40c5d5bf2d8bfa924b621627833b4b025255ea",
+      "duration_seconds": 0.385,
+      "samples": 18480,
+      "source_file": "啊，呃，呃（使劲）.MP3",
+      "recording_sha256": "b325d65bf8893933745f18f7b3ed74bc72c20aca1dbbe7b2236594c9852041ee",
+      "range_in_normalized_pcm": {
+        "start_sample": 61200,
+        "end_sample": 79680,
+        "start_seconds": 1.275,
+        "end_seconds": 1.66,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "attack_ha_real_02_region_01",
+      "source_sha256": "fceb49e2b0b6d459a6c99ada4eb7f3c18cc4aa49dcbf21a973fd6bd4a6b0d836",
+      "wem_sha256": "a17cd259f11ff8c128f0ea5a71eb4faa77d8c56f35bddab60f62312d1b271ddc",
+      "duration_seconds": 0.585,
+      "samples": 28080,
+      "source_file": "呵啊！.MP3",
+      "recording_sha256": "da34a007aa1974a0a202dff3eb9ad4281650a5dca4f54d9132044082445378a0",
+      "range_in_normalized_pcm": {
+        "start_sample": 480,
+        "end_sample": 28560,
+        "start_seconds": 0.01,
+        "end_seconds": 0.595,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "attack_heavy_real_01_region_01",
+      "source_sha256": "b383916ab7a2e08c247dff079c4f4d096c52495cdaa152aa2ea8c3bff8c27a3c",
+      "wem_sha256": "64efdae8f2a79d5891ea7d65508eaa9e1f6e3f123d9a0a0d9c3eb96f75fafe98",
+      "duration_seconds": 0.305,
+      "samples": 14640,
+      "source_file": "喝！（中气十足）.MP3",
+      "recording_sha256": "bff3d8e628b2dabb7155f67d6dbdf6bf11edf8b14857dac515ba9aa7b30b9282",
+      "range_in_normalized_pcm": {
+        "start_sample": 8160,
+        "end_sample": 22800,
+        "start_seconds": 0.17,
+        "end_seconds": 0.475,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "cough_context_real_02_region_01",
+      "source_sha256": "09ca557dd5657bc50886b926155e57db043bb2cdce268c6886548813fad59147",
+      "wem_sha256": "46115524325b635fe27a26a44d455572f59b62b26fd4c0064e2fb678682b1536",
+      "duration_seconds": 0.225,
+      "samples": 10800,
+      "source_file": "咳，气死我了.MP3",
+      "recording_sha256": "401206fcfd04f7a31b3348182ea2306e1e19fa8a587f28dea5524646e010c9e9",
+      "range_in_normalized_pcm": {
+        "start_sample": 2640,
+        "end_sample": 13440,
+        "start_seconds": 0.055,
+        "end_seconds": 0.28,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "effort_groan_real_07_region_01",
+      "source_sha256": "5da1d096f4b0481080896db3f80b263782c1932e28273cbbaf24e70df95c56e3",
+      "wem_sha256": "87cd83fb2505c9f4d3901d5a86810735f6c79f0ad637b62719651cb15ceea561",
+      "duration_seconds": 0.305,
+      "samples": 14640,
+      "source_file": "嗑，呃呃（按不下左键）.MP3",
+      "recording_sha256": "4841d5c2532fbcf25383fe111cf274f1d07b217da8bd77415bdbb674ff7847eb",
+      "range_in_normalized_pcm": {
+        "start_sample": 7680,
+        "end_sample": 22320,
+        "start_seconds": 0.16,
+        "end_seconds": 0.465,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "effort_groan_real_07_region_02",
+      "source_sha256": "43b560df2195afd21b207802098b212055435c51150a636e9125c159253e7909",
+      "wem_sha256": "e9d0b8d063c97e3e4569986a8b92c1c68702a43bfcac38d00c40048e24937be8",
+      "duration_seconds": 0.31,
+      "samples": 14880,
+      "source_file": "嗑，呃呃（按不下左键）.MP3",
+      "recording_sha256": "4841d5c2532fbcf25383fe111cf274f1d07b217da8bd77415bdbb674ff7847eb",
+      "range_in_normalized_pcm": {
+        "start_sample": 79920,
+        "end_sample": 94800,
+        "start_seconds": 1.665,
+        "end_seconds": 1.975,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "effort_groan_real_07_region_03",
+      "source_sha256": "6a50438ce0379e58dd44f29c5a970c40afad42640456f6d880baf5d04665f79b",
+      "wem_sha256": "efbeaa2e9dd877e1873b6de33b3f68ac2dd6c084ce69e6ba9f1086eb9e0d3486",
+      "duration_seconds": 0.235,
+      "samples": 11280,
+      "source_file": "嗑，呃呃（按不下左键）.MP3",
+      "recording_sha256": "4841d5c2532fbcf25383fe111cf274f1d07b217da8bd77415bdbb674ff7847eb",
+      "range_in_normalized_pcm": {
+        "start_sample": 98400,
+        "end_sample": 109680,
+        "start_seconds": 2.05,
+        "end_seconds": 2.285,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "effort_groan_real_08_region_01",
+      "source_sha256": "ed1f25c8dea6a291bce42d0b6131b2c9a9909b57a8cc28423aa1736be763035a",
+      "wem_sha256": "4548822259437788ae64605ee2a9125e49e4ce6688fa66bb49cbbe407e1410ff",
+      "duration_seconds": 0.425,
+      "samples": 20400,
+      "source_file": "呃~呃~（被导弹追）.MP3",
+      "recording_sha256": "9e64b0c2be1157b226f69bedeb38b52ee7513c900563134c181751a70febbcd5",
+      "range_in_normalized_pcm": {
+        "start_sample": 12720,
+        "end_sample": 33120,
+        "start_seconds": 0.265,
+        "end_seconds": 0.69,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "effort_groan_real_08_region_02",
+      "source_sha256": "e29099e7589017080de086d554664540ab0f95a2bfa37113f44217aafe146e91",
+      "wem_sha256": "92964175619dfa5513a00293616c4e68b7903b2ebe05bb34c91fb7245f9b630f",
+      "duration_seconds": 0.44,
+      "samples": 21120,
+      "source_file": "呃~呃~（被导弹追）.MP3",
+      "recording_sha256": "9e64b0c2be1157b226f69bedeb38b52ee7513c900563134c181751a70febbcd5",
+      "range_in_normalized_pcm": {
+        "start_sample": 38160,
+        "end_sample": 59280,
+        "start_seconds": 0.795,
+        "end_seconds": 1.235,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "effort_hum_real_09_region_01",
+      "source_sha256": "6f0c6868ac442f27d3e90794ccf4b596b26fada2706792642e214f7867ce6045",
+      "wem_sha256": "2f86f01edf21ec82a11567336e41e0d56ed0b964250dadde35bb6f55731e254f",
+      "duration_seconds": 0.56,
+      "samples": 26880,
+      "source_file": "嗯~.MP3",
+      "recording_sha256": "7ff84de87296e636556e67c7ba7cec50d6d5aa54a41a01f807d79b250e393c1b",
+      "range_in_normalized_pcm": {
+        "start_sample": 6960,
+        "end_sample": 33840,
+        "start_seconds": 0.145,
+        "end_seconds": 0.705,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "hurt_real_03_region_01",
+      "source_sha256": "d8ae4f1d011cac2c45f1c5689082d91a8e2ac82ad149930cc5adec7aad3b32fb",
+      "wem_sha256": "246cc04d73795f53ea539cdde9ef0ebb53d65be0ad20030597ee886b1ba102f8",
+      "duration_seconds": 0.325,
+      "samples": 15600,
+      "source_file": "呃啊（惊）.MP3",
+      "recording_sha256": "becad9d63098eb9b93df7e9e6dec5cc80bfae1f1148a8c3398b489cc7f775afb",
+      "range_in_normalized_pcm": {
+        "start_sample": 6720,
+        "end_sample": 22320,
+        "start_seconds": 0.14,
+        "end_seconds": 0.465,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "hurt_short_real_01_region_01",
+      "source_sha256": "def813d21d0416ad9ba80a41910d215d5355159ef52249f63a763f1aecd77803",
+      "wem_sha256": "3a4257ce9dc4809957af19d3d3a575db27d6ac3280e2bcdbc0b635df2d9e7ef7",
+      "duration_seconds": 0.525,
+      "samples": 25200,
+      "source_file": "啊（急促）.MP3",
+      "recording_sha256": "8fafe9b1e8369de4627a9b318c4ea277fbaa3359ff5f38a242160614415df191",
+      "range_in_normalized_pcm": {
+        "start_sample": 1200,
+        "end_sample": 26400,
+        "start_seconds": 0.025,
+        "end_seconds": 0.55,
+        "timebase": "decoded-parent-PCM48"
+      }
+    },
+    {
+      "candidate": "new-groan",
+      "source_sha256": "62305a130400bbf8ebbb5c50a192be4a3d43a8fd20c011f20a99ce172b9ade25",
+      "wem_sha256": "115878c3a68dc25a595b38cf230d0d260cc5fba1a687485aa3be7bbc0701a8c1",
+      "duration_seconds": 0.7575625,
+      "samples": 36363,
+      "source_file": "呃~.MP3",
+      "recording_sha256": "26bf3e9de52ab116d699b28aa3d6c70118dd46544783edda5177dab08ed3e1e5",
+      "range_in_normalized_pcm": {
+        "samples": [
+          0,
+          36363
+        ],
+        "seconds": [
+          0.0,
+          0.7575625
+        ],
+        "rate": 48000
+      }
+    },
+    {
+      "candidate": "new-husky",
+      "source_sha256": "ed0fb386c85ce72bdd1e54f6a55e0528a6ab9e1c3486d9e59d7aaf7a7176c976",
+      "wem_sha256": "bfc2a2fc276d8610b22ee25807f1a516c9fe7a1b90015cbd90ef93031211edb2",
+      "duration_seconds": 0.7575625,
+      "samples": 36363,
+      "source_file": "啊！（沙哑）.MP3",
+      "recording_sha256": "b988d79274badb65ed56e8ce9902f1f33dbb3ff991bd7530c39f5517f78b0ba4",
+      "range_in_normalized_pcm": {
+        "samples": [
+          0,
+          36363
+        ],
+        "seconds": [
+          0.0,
+          0.7575625
+        ],
+        "rate": 48000
+      }
+    },
+    {
+      "candidate": "new-zap-aha",
+      "source_sha256": "25cf6cf5735b9e2a28f391e017f620efb255b2a6e87de771ee097cbb7f150d09",
+      "wem_sha256": "8d48bedbed12c3ae19e1099e701ea2304ca1d225c86264b750640877664a266f",
+      "duration_seconds": 1.29,
+      "samples": 61920,
+      "source_file": "啊哈（被水母电）.MP3",
+      "recording_sha256": "b4fb7aa4a062138ac06e3fd2ef17b5c2ada7e31de3cb4040e1601f8e5b7e96d6",
+      "range_in_normalized_pcm": {
+        "samples": [
+          5280,
+          67200
+        ],
+        "seconds": [
+          0.11,
+          1.4
+        ],
+        "rate": 48000
+      }
+    },
+    {
+      "candidate": "snort_real_01_region_01",
+      "source_sha256": "de508b27c3fab8d698020817f420ad423dbd0f0756fce647a75cbf7c8d6eaf5a",
+      "wem_sha256": "0345b14fd1c2d71af6d1abbd4f730531ce8fbc7ed5bdfb682b7eebe22d7de1cc",
+      "duration_seconds": 0.685,
+      "samples": 32880,
+      "source_file": "哼~.MP3",
+      "recording_sha256": "c787ee4ec59cea47839343ccc1d3aa56d5536055027060350ca757e0f9a88d74",
+      "range_in_normalized_pcm": {
+        "start_sample": 4320,
+        "end_sample": 37200,
+        "start_seconds": 0.09,
+        "end_seconds": 0.775,
+        "timebase": "decoded-parent-PCM48"
+      }
+    }
+  ],
+  "unique_wem_count": 21,
+  "unique_wem_bytes": 164334,
+  "review_snapshot_sha256": "e22166c4c4a1efcadc23f33b0c07dce23e602c51624a147ae40be1363a09e179"
+}
