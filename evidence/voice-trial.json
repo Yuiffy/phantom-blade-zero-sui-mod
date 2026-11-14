@@ -1,5 +1,5 @@
 {
-  "status": "installed-airborne-coverage-repair-runtime-pending",
+  "status": "runtime-rejected-user-reported-original-male-voice-removed",
   "variant": "airborne-natural-voice-v2",
   "events": 26,
   "replaced_unique_media": 134,
@@ -27,7 +27,12 @@
       "sha256": "a076fe4af6e1ca6979576ca7bc8c216a0016ab5e9e6a3e37027587b2f80e1a7e"
     }
   ],
-  "runtime_tested": false,
+  "runtime_tested": true,
   "listening_review_passed": false,
-  "synthetic_audio": false
+  "synthetic_audio": false,
+  "runtime_passed": false,
+  "superseded_by": "library-natural-voice-v3",
+  "superseding_evidence": "voice-library-v3.json",
+  "user_feedback": "游戏内轻击和跳跃攻击还是原版男声",
+  "removed_by_verified_receipt": true
 }

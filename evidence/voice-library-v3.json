@@ -1,0 +1,403 @@
+{
+  "variant": "library-natural-voice-v3",
+  "game_app_id": "4115450",
+  "game_build": "26367565",
+  "status": "pass-user-reported-voice-overall",
+  "runtime_result": {
+    "variant": "library-natural-voice-v3",
+    "game_build": "26367565",
+    "reported_local_date": "2026-11-15",
+    "status": "pass-user-reported-voice-overall",
+    "user_statement": "不错，真的改好了！",
+    "runtime_tested": true,
+    "runtime_passed": true,
+    "evidence_type": "user-report",
+    "scope": "Overall success following the light/jump attack voice repair. No weapon-by-weapon, combo-by-combo, bilingual or long-session test list was supplied.",
+    "user_reported_language_before_repair": "Chinese",
+    "effective_runtime_language_independently_traced": false,
+    "listening_review_passed": false,
+    "single_root_cause_proven": false,
+    "offline_report_sha256": "f96256b10ad01ad0636dd16df4c5da30360df69864998275e6f48d139f566c32",
+    "offline_verification_sha256": "6b1158d1be9f52a0171f46f83619137b4d7d32694279c6d8ff8ec34a1eedb40c"
+  },
+  "offline_evidence": {
+    "source_report_sha256": "f96256b10ad01ad0636dd16df4c5da30360df69864998275e6f48d139f566c32",
+    "source_verification_sha256": "6b1158d1be9f52a0171f46f83619137b4d7d32694279c6d8ff8ec34a1eedb40c",
+    "original_reports_preserved": true,
+    "assets": [
+      {
+        "asset": "VO_CN",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 5004,
+        "changed_resource_count": 221
+      },
+      {
+        "asset": "VO_EN",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 6634,
+        "changed_resource_count": 218
+      },
+      {
+        "asset": "SFX_Combat_VO_Hun_Break",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 0,
+        "changed_resource_count": 24
+      },
+      {
+        "asset": "SFX_Combat_Vo_Hun_Charge_Long",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 0,
+        "changed_resource_count": 10
+      },
+      {
+        "asset": "SFX_Combat_Vo_Hun_Charge_Release_Light",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 0,
+        "changed_resource_count": 18
+      },
+      {
+        "asset": "SFX_Combat_Vo_Hun_Cough",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 0,
+        "changed_resource_count": 18
+      },
+      {
+        "asset": "SFX_Combat_Vo_Hun_Heavy_Release",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 0,
+        "changed_resource_count": 8
+      },
+      {
+        "asset": "SFX_Combat_VO_Hun_Snort",
+        "original_prefix_byteidentical": true,
+        "native_metadata_byteidentical": true,
+        "untouched_resource_count": 0,
+        "changed_resource_count": 12
+      }
+    ],
+    "selected_event_count": 27,
+    "language_counts_unique_media": {
+      "Chinese": 238,
+      "English(US)": 236
+    },
+    "event_pool_coverage": {
+      "Chinese": [
+        {
+          "event": "SFX_Combat_VO_Hun_BiQi_01_DuanCu",
+          "pool_media": 68,
+          "replaced": 68
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_BiQi_02_Long",
+          "pool_media": 8,
+          "replaced": 8
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_Break",
+          "pool_media": 11,
+          "replaced": 11
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_Charge_SuperLong",
+          "pool_media": 2,
+          "replaced": 2
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_ChuZhao_01_DuanCu",
+          "pool_media": 10,
+          "replaced": 10
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_ChuZhao_02",
+          "pool_media": 7,
+          "replaced": 7
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_Hurt",
+          "pool_media": 16,
+          "replaced": 16
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_Hurt_BiXian",
+          "pool_media": 7,
+          "replaced": 7
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_Hurt_Heavy_Mix",
+          "pool_media": 15,
+          "replaced": 15
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_ShouZhao_DoubleBlade",
+          "pool_media": 6,
+          "replaced": 6
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_ShouZhao_LongBlade",
+          "pool_media": 9,
+          "replaced": 9
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_ShouZhao_TangBlade",
+          "pool_media": 4,
+          "replaced": 4
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_Snort",
+          "pool_media": 5,
+          "replaced": 5
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_ZhongZhuan",
+          "pool_media": 8,
+          "replaced": 8
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Attack_Short",
+          "pool_media": 9,
+          "replaced": 9
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Charge_Heavy_Long",
+          "pool_media": 2,
+          "replaced": 2
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Charge_Heavy_Short",
+          "pool_media": 3,
+          "replaced": 3
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Charge_Long",
+          "pool_media": 4,
+          "replaced": 4
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Charge_Release_Heavy",
+          "pool_media": 11,
+          "replaced": 11
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Charge_Release_Light",
+          "pool_media": 8,
+          "replaced": 8
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Charge_Short",
+          "pool_media": 9,
+          "replaced": 9
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Cough",
+          "pool_media": 8,
+          "replaced": 8
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Execute_Attack_Heavy",
+          "pool_media": 6,
+          "replaced": 6
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Heavy_Release",
+          "pool_media": 3,
+          "replaced": 3
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Hurt_Heavy",
+          "pool_media": 4,
+          "replaced": 4
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Special_Stifle",
+          "pool_media": 2,
+          "replaced": 2
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Weapon_Break",
+          "pool_media": 2,
+          "replaced": 2
+        }
+      ],
+      "English(US)": [
+        {
+          "event": "SFX_Combat_VO_Hun_BiQi_01_DuanCu",
+          "pool_media": 68,
+          "replaced": 68
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_BiQi_02_Long",
+          "pool_media": 8,
+          "replaced": 8
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_Break",
+          "pool_media": 11,
+          "replaced": 11
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_Charge_SuperLong",
+          "pool_media": 0,
+          "replaced": 0
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_ChuZhao_01_DuanCu",
+          "pool_media": 10,
+          "replaced": 10
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_ChuZhao_02",
+          "pool_media": 7,
+          "replaced": 7
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_Hurt",
+          "pool_media": 16,
+          "replaced": 16
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_Hurt_BiXian",
+          "pool_media": 7,
+          "replaced": 7
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_Hurt_Heavy_Mix",
+          "pool_media": 15,
+          "replaced": 15
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_ShouZhao_DoubleBlade",
+          "pool_media": 6,
+          "replaced": 6
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_ShouZhao_LongBlade",
+          "pool_media": 9,
+          "replaced": 9
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_ShouZhao_TangBlade",
+          "pool_media": 4,
+          "replaced": 4
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_Snort",
+          "pool_media": 5,
+          "replaced": 5
+        },
+        {
+          "event": "SFX_Combat_VO_Hun_ZhongZhuan",
+          "pool_media": 8,
+          "replaced": 8
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Attack_Short",
+          "pool_media": 9,
+          "replaced": 9
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Charge_Heavy_Long",
+          "pool_media": 2,
+          "replaced": 2
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Charge_Heavy_Short",
+          "pool_media": 3,
+          "replaced": 3
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Charge_Long",
+          "pool_media": 4,
+          "replaced": 4
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Charge_Release_Heavy",
+          "pool_media": 11,
+          "replaced": 11
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Charge_Release_Light",
+          "pool_media": 8,
+          "replaced": 8
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Charge_Short",
+          "pool_media": 9,
+          "replaced": 9
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Cough",
+          "pool_media": 8,
+          "replaced": 8
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Execute_Attack_Heavy",
+          "pool_media": 6,
+          "replaced": 6
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Heavy_Release",
+          "pool_media": 3,
+          "replaced": 3
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Hurt_Heavy",
+          "pool_media": 4,
+          "replaced": 4
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Special_Stifle",
+          "pool_media": 2,
+          "replaced": 2
+        },
+        {
+          "event": "SFX_Combat_Vo_Hun_Weapon_Break",
+          "pool_media": 2,
+          "replaced": 2
+        }
+      ]
+    },
+    "empty_pool_note": "English(US) Charge_SuperLong has no original media; 27 selected event entries do not mean 27 nonempty English pools.",
+    "changed_unique_language_kind_id_payloads": 529,
+    "checks": {
+      "original_events_preserve_external_packaging": true,
+      "shared_media_consistent_in_42_inspected_events": true,
+      "v2_chinese_134_payloads_byteidentical": true,
+      "original_library_prefixes_unchanged": true,
+      "language_settings_changed": false
+    },
+    "decoded_candidate_count": 30,
+    "minimum_decode_correlation": 0.9938579763142547,
+    "minimum_decode_snr_db": 19.068918791392285,
+    "codec_checks_are_not_listening_review": true
+  },
+  "files_local_only": [
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Library_v3_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Library_v3_P.ucas",
+      "bytes": 1254780159,
+      "sha256": "deba71b5b051d1300a57fceb23408b09bfd7c77e51f2a074d30a12cf4e1e10c8"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Library_v3_P.utoc",
+      "bytes": 231816,
+      "sha256": "6c55069a6d137cd0991405b811c4b7e83e9567289fbb73af4d5cc23ea87c33eb"
+    }
+  ],
+  "total_container_bytes": 1255012322,
+  "model_hashes_unchanged": true,
+  "synthetic_audio": false,
+  "duration_target_truncation": false,
+  "binaries_published": false,
+  "local_only_reason": "The containers include substantial original game voice-library data. Only sanitized technical records are published."
+}

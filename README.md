@@ -39,15 +39,18 @@ python scripts/mod_files.py uninstall --manifest manifest.json --game-root '你�
 - [制作 skill](skills/pbz-character-mod/SKILL.md)
 - [闪退诊断与修复](skills/pbz-character-mod/references/model-pipeline.md)
 - [原声语音替换](skills/pbz-character-mod/references/voice-pipeline.md)
+- [轻击/跳攻语音修复成功案例](skills/pbz-character-mod/references/voice-library-case.md)
 - [实测范围与数据](evidence/runtime-result.json)
 
 将 `skills/pbz-character-mod/` 复制到 `~/.codex/skills/pbz-character-mod/`，可使用 `$pbz-character-mod`。Skill 包含本次验证过的约束和可移植核验工具；不包含游戏解密密钥、提取的原版资产、第三方工具或全自动重建流水线。
 
-## 语音实验
+## 语音替换经验
 
-用户反馈 v1 跳攻仍是男声后，已定位到实际技能引用的漏项并安装原声实验 v2。检查了 49 个空中/跳跃技能及其父类，共 66 个资源；五组直接空中发声的 33 个独立媒体现均有替换。新包共 26 事件、134 个媒体替换，使用 20 段既有按钮原声；其他所选事件仍保留 95 个原声媒体。**v2 待再次游戏实测与听审**，详情见 [跳攻漏项案例](skills/pbz-character-mod/references/voice-jump-case.md)。剧情对白、英语、少年魂保持原样，检查范围不代表所有地面连段。
+**2026-11-15，用户确认 `library-natural-voice-v3` 已生效：“不错，真的改好了！”** 此前 v2 虽补齐跳攻静态漏项，用户仍反馈轻击、跳攻为男声。v3 在原 `VO_CN`、`VO_EN` 资源库中替换实际载荷，并补齐原本嵌入媒体的六个事件；保留原生加载策略和索引结构，覆盖 27 个所选事件的完整随机池，共中文 238、英语 236 个独立 MediaID，使用 30 段既有原声。方法与核验见 [成功案例](skills/pbz-character-mod/references/voice-library-case.md) 和 [脱敏证据](evidence/voice-library-v3.json)。
 
-语音事件为成年魂共享，**不限定黑伤（逃亡）服装**。没有 TTS、CosyVoice、变声、新 ASR 或人声分离。切口、背景声、音量和语气仍待听审。语音实验与稳定模型分开回退；本次公开 Release 仅包含模型，仓库公开语音方法和来源索引，不打包私人录播或未听审音频。
+这条反馈确认本轮修复总体有效，未逐项说明测试过的武器、连段或语言；英语覆盖是离线核验结果，不能写成双语实机通过。静态追踪涉及 49 个空中/跳跃技能及父类，共 66 个资源；检查范围不代表全部地面连段、动态事件或剧情。v3 同时调整库载荷、随机池覆盖和英语分支，尚未单独证明某个缓存优先级是唯一原因。
+
+语音事件为成年魂共享，**不限定黑伤（逃亡）服装**。没有 TTS、CosyVoice、变声、新 ASR 或人声分离；逐段听审仍未单独完成。语音与模型独立回退。**v3 约 1.25 GB 的容器包含大量原版语言库数据，仅保留本地，不上传 GitHub 或 Release。** 当前公开 Release 仍仅包含模型；仓库公开方法、覆盖统计和核验结果。`audio/source-index.json` 保留为 v2 的历史音源索引。
 
 ## 致谢与使用范围
 

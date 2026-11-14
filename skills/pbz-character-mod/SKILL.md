@@ -33,6 +33,8 @@ description: Build and debug Phantom Blade Zero character replacement mods, incl
 
 若某个动作仍发原声，读 [跳攻漏项案例](references/voice-jump-case.md)。从实际技能 timeline、父类和 ActionOverrides 追踪 AkEvent；别凭文件名猜事件。按随机池内的独立媒体检查覆盖率，并对共享 ID 的所有已检查引用保持一致。
 
+若事件局部替换已安装但仍播放原声，读 [原语言库替换成功案例](references/voice-library-case.md)。沿原生资源引用核对库内 bank/media 与原本嵌入的事件；配置与用户语言反馈矛盾时先保留矛盾，不凭配置断言实际播放语言。本案例 v3 已获用户确认生效，但未独立证明缓存优先级或全部武器、双语实测通过。含原库数据的容器只留本地。
+
 ## 交付
 
 原始游戏资产、密钥、崩溃文件和私人录播留在本地。公开文件逐项列明来源与许可，代码许可不自动覆盖角色/语音。只把当前已验证候选提升为发布版，失败历史保持封锁；用户口头成功反馈按原话记录，不补写未报告的全流程测试。
