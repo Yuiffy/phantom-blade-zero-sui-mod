@@ -1,0 +1,61 @@
+{
+  "game_animations_executed": false,
+  "measurements": [
+    {
+      "version": "v1",
+      "pose": "hand-rest",
+      "hand_edge_stretch_p99": 1.0000158744828942,
+      "hand_edge_stretch_max": 1.0000313914524557,
+      "hand_edge_compression_p01": 0.9999839628436928
+    },
+    {
+      "version": "v1",
+      "pose": "arms-down",
+      "hand_edge_stretch_p99": 1.0000255391366712,
+      "hand_edge_stretch_max": 1.0000573112458422,
+      "hand_edge_compression_p01": 0.9999776481824577
+    },
+    {
+      "version": "v1",
+      "pose": "hand-curl",
+      "hand_edge_stretch_p99": 5.13147663497217,
+      "hand_edge_stretch_max": 8.57989739575974,
+      "hand_edge_compression_p01": 0.4235886842680094
+    },
+    {
+      "version": "v1",
+      "pose": "chin-turn",
+      "hand_edge_stretch_p99": 1.0000158744828942,
+      "hand_edge_stretch_max": 1.0000313914524557,
+      "hand_edge_compression_p01": 0.9999839628436928
+    },
+    {
+      "version": "v2",
+      "pose": "hand-rest",
+      "hand_edge_stretch_p99": 1.0000124977694471,
+      "hand_edge_stretch_max": 1.00003413077829,
+      "hand_edge_compression_p01": 0.9999892460858174
+    },
+    {
+      "version": "v2",
+      "pose": "arms-down",
+      "hand_edge_stretch_p99": 1.0000400175779638,
+      "hand_edge_stretch_max": 1.000205134943866,
+      "hand_edge_compression_p01": 0.9999641915732295
+    },
+    {
+      "version": "v2",
+      "pose": "hand-curl",
+      "hand_edge_stretch_p99": 1.332991814014768,
+      "hand_edge_stretch_max": 3.8170644628307846,
+      "hand_edge_compression_p01": 0.7808513721217202
+    },
+    {
+      "version": "v2",
+      "pose": "chin-turn",
+      "hand_edge_stretch_p99": 1.0000124977694471,
+      "hand_edge_stretch_max": 1.00003413077829,
+      "hand_edge_compression_p01": 0.9999892460858174
+    }
+  ]
+}

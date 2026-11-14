@@ -1,0 +1,71 @@
+{
+  "segment_sections": [
+    {
+      "segment": "RightUpLeg",
+      "radial_scales": [
+        205.00000219503633,
+        204.99999625159188
+      ],
+      "radial_anisotropy": 1.0000000289924125
+    },
+    {
+      "segment": "RightLeg",
+      "radial_scales": [
+        204.9999962153475,
+        204.9999947576168
+      ],
+      "radial_anisotropy": 1.0000000071108817
+    },
+    {
+      "segment": "RightArm",
+      "radial_scales": [
+        190.00000121010103,
+        189.9999995916854
+      ],
+      "radial_anisotropy": 1.000000008517977
+    },
+    {
+      "segment": "RightForeArm",
+      "radial_scales": [
+        190.00000384785267,
+        190.00000127447697
+      ],
+      "radial_anisotropy": 1.0000000135440825
+    },
+    {
+      "segment": "LeftUpLeg",
+      "radial_scales": [
+        204.99999751289585,
+        204.99999484233587
+      ],
+      "radial_anisotropy": 1.0000000130271223
+    },
+    {
+      "segment": "LeftLeg",
+      "radial_scales": [
+        205.00000570337585,
+        204.99999667078436
+      ],
+      "radial_anisotropy": 1.0000000440614227
+    },
+    {
+      "segment": "LeftArm",
+      "radial_scales": [
+        190.00000156678067,
+        190.00000039216633
+      ],
+      "radial_anisotropy": 1.0000000061821808
+    },
+    {
+      "segment": "LeftForeArm",
+      "radial_scales": [
+        190.0000032241073,
+        189.9999996608803
+      ],
+      "radial_anisotropy": 1.0000000187538265
+    }
+  ],
+  "max_control_joint_miss_cm": 1.990253019284125e-06,
+  "face_similarity_scale": 190.0,
+  "game_animations_executed": false
+}

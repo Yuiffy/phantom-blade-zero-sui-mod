@@ -1,0 +1,15 @@
+{
+  "status": "final-cooked-render-vertices-and-weights-match-refined-source",
+  "render_vertices": 61323,
+  "source_vertices_matched": 34167,
+  "triangles": 66678,
+  "max_position_error_cm": 3.528594970703125e-05,
+  "max_weight_error_after_UE_quantization": 0,
+  "max_weight_difference_from_float_source": 0.008835370400372633,
+  "weight_tolerance": 1e-07,
+  "weight_comparison": "reproduce installed UE16 normalization and UE8 truncation plus dominant-weight remainder",
+  "max_influences": 4,
+  "source_contract_sha256": "03647c199f8f1a5cdabf18432e851e07e84957bfcce7d78c8d23d52296686bba",
+  "body_readback_sha256": "c3df8353c5c94da1e2d6053c1cbd144f2da5828539a7012b12be3cd7a165dcac",
+  "runtime_tested": false
+}

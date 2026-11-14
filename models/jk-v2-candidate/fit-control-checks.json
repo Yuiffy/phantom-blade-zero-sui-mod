@@ -1,0 +1,146 @@
+[
+  {
+    "joint": "RightUpLeg",
+    "miss_cm": 1.7763568394002505e-15
+  },
+  {
+    "joint": "RightLeg",
+    "miss_cm": 2.422330863484971e-07
+  },
+  {
+    "joint": "RightFoot",
+    "miss_cm": 1.990253019284125e-06
+  },
+  {
+    "joint": "RightHandThumb1",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandThumb2",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandThumb3",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandIndex1",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandIndex2",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandIndex3",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandMiddle1",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandMiddle2",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandMiddle3",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandRing1",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandRing2",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandRing3",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandPinky1",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandPinky2",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "RightHandPinky3",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftUpLeg",
+    "miss_cm": 1.7763568394002505e-15
+  },
+  {
+    "joint": "LeftLeg",
+    "miss_cm": 7.867561043861693e-07
+  },
+  {
+    "joint": "LeftFoot",
+    "miss_cm": 9.561750237699474e-07
+  },
+  {
+    "joint": "LeftHandThumb1",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandThumb2",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandThumb3",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandIndex1",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandIndex2",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandIndex3",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandMiddle1",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandMiddle2",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandMiddle3",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandRing1",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandRing2",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandRing3",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandPinky1",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandPinky2",
+    "miss_cm": 0.0
+  },
+  {
+    "joint": "LeftHandPinky3",
+    "miss_cm": 0.0
+  }
+]

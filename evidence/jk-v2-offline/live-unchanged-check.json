@@ -1,0 +1,35 @@
+{
+  "installed_v2": false,
+  "old_model_and_voice_unchanged": [
+    {
+      "name": "z_Sui_HeiShang_JK_v1_P.pak",
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+      "unchanged": true
+    },
+    {
+      "name": "z_Sui_HeiShang_JK_v1_P.ucas",
+      "sha256": "9af00af375be19a9407343e4f752f10915450ceb8cf5179a94a793ad29d51e9d",
+      "unchanged": true
+    },
+    {
+      "name": "z_Sui_HeiShang_JK_v1_P.utoc",
+      "sha256": "5c768bc491a72cb50e05ab6a05eb06ff6b613b77db1ca88bcecc93568475cf6b",
+      "unchanged": true
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Library_v3_P.pak",
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+      "unchanged": true
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Library_v3_P.ucas",
+      "sha256": "deba71b5b051d1300a57fceb23408b09bfd7c77e51f2a074d30a12cf4e1e10c8",
+      "unchanged": true
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Library_v3_P.utoc",
+      "sha256": "6c55069a6d137cd0991405b811c4b7e83e9567289fbb73af4d5cc23ea87c33eb",
+      "unchanged": true
+    }
+  ]
+}
