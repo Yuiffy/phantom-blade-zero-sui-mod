@@ -66,8 +66,8 @@
       "sha256": "ba49bdb0a64d5b9e2059c35129c31a80f2d7f05f53293a9b66a5e389612bc33f"
     },
     "models/jk-v10-candidate/publish_v10_sources.py": {
-      "bytes": 4552,
-      "sha256": "3d943ad17bbb3c49307856b5a8652a9861085facbf3aa9f367deb58d08752ce9"
+      "bytes": 4556,
+      "sha256": "7e190f00424780aaf522abe4b44822f1aa72dd0705e039200a86b2f647a5e5d3"
     },
     "models/jk-v10-candidate/README.md": {
       "bytes": 3995,
@@ -214,8 +214,8 @@
       "sha256": "24a18cb0040e42a0d05d2369915aaaabce3d3bc29e6c7a40c5ef32b895c00b60"
     },
     "evidence/jk-v10-offline/summary.json": {
-      "bytes": 572,
-      "sha256": "e93b1b70bb1c8e89bb3e4dc25588f633441de91e9dd573e6605d20147ac9b77b"
+      "bytes": 555,
+      "sha256": "c4b116c35e34f48b33b7a745736ab12ec59106b7c1ce409fe904e0143cd4fd35"
     },
     "evidence/jk-v10-offline/texture-chain.json": {
       "bytes": 851,

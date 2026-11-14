@@ -16,12 +16,12 @@ for n in ['guard-after-high.png','guard-after-high-side.png','guard-after-forwar
 copy(R.parent/'tripo-refine-v9/guard-before.json',EVIDENCE/'guard-before.json')
 copy(R/'delivery/guard-and-bag-v9-v10.jpg',EVIDENCE/'guard-and-bag-v9-v10.jpg')
 summary={'status':'offline-candidate-not-installed','baseline_checkpoint':'v9 ce1a1de','baseline_installed_model_last_observed':'JK v8','runtime_tested':False,'manual_blender_poses_only':True,'source_vertices':35459,'triangles':69117,'bones':264,'materials':10,'packages':43,'voice_untouched':True,'final_cooked_weights_error_after_UE_quantization':0,'final_VT_not_independently_decoded_to_pixels':True,'no_claim_of_physical_shirt_layer_or_all_poses_fixed':True,'local_mod_archive_not_published':True}
-(EVIDENCE/'summary.json').write_text(json.dumps(summary,indent=2)+'\n',encoding='utf8')
+(EVIDENCE/'summary.json').write_bytes((json.dumps(summary,indent=2)+'\n').encode('utf8'))
 manifest={'status':'offline-candidate-not-installed','baseline':'v9 ce1a1de','game_build':'26367565','target':'adult Hun, black-wound-escape','runtime_tested':False,'files':{}}
 for folder in [MODEL,EVIDENCE]:
  for p in sorted(folder.rglob('*')):
   if p.is_file() and p.name!='candidate-manifest.json':manifest['files'][p.relative_to(REPO).as_posix()]={'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()}
-(MODEL/'candidate-manifest.json').write_text(json.dumps(manifest,indent=2)+'\n',encoding='utf8')
+(MODEL/'candidate-manifest.json').write_bytes((json.dumps(manifest,indent=2)+'\n').encode('utf8'))
 readme=REPO/'README.md';s=readme.read_text(encoding='utf8');anchor='## 安装模型'
 paragraph='新增 [v10 离线候选](models/jk-v10-candidate/README.md)：在 v9 基础上修正右腋下衣身误跟上臂造成的背部尖折，清理外套白灰/蓝色投影，并重绘书包朝向身体的粉色内侧。已独立读回最终容器和蒙皮，**未安装、未游戏实测**；人工抬臂预览不能保证实际长柄防御无穿插。见 [前后对照](evidence/jk-v10-offline/guard-and-bag-v9-v10.jpg)。\n\n'
 if 'v10 离线候选' not in s:readme.write_bytes(s.replace(anchor,paragraph+anchor,1).replace('\r\n','\n').encode('utf8'))
