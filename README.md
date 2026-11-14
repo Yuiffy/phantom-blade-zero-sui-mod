@@ -4,7 +4,7 @@
 
 2026-11-14，用户已报告 `native-shaders-v1` 模型实机成功。测试游戏为 Steam app **4115450**、build **26367565**。这不是全流程兼容性认证：战斗、武器、过场、长时间游玩仍需逐项验证；游戏更新后应重新核验。
 
-公开 Release 仍是来自 Yuiffy/my-pixijs-game 的旧衣服粗模。本地新衣 JK 分支已完成 v2 安装，用户反馈腿脚改善；[v6 候选](models/jk-v6-candidate/README.md) 汇总肩颈修正、收窄 25% 的书包和较贴腿的裙摆，已完成离线核验，尚未安装或实机验证。此候选仅本地保存，未推送或发布。材质沿用游戏原生父材质，脸部光照仍有改进空间。
+公开 Release 仍是来自 Yuiffy/my-pixijs-game 的旧衣服粗模。本地新衣 JK 分支已完成 v2 安装，用户反馈腿脚改善；[v7 候选](models/jk-v7-candidate/README.md) 是当前最新离线版本：在 [v6](models/jk-v6-candidate/README.md) 的基础上修掉 `head` 权重漏到领口和肩线的问题、把下巴到领口的裸颈从 0.323 加长到 0.403 头高、肩宽从 73.04 cm 收到 67.63 cm，并按实测的下摆环线把外套后摆下移接住裙子。v7 与 v6 都只完成离线核验，未安装、未实机验证，仅本地保存，未推送或发布。材质沿用游戏原生父材质，脸部光照仍有改进空间。
 
 ## 安装模型
 
@@ -36,10 +36,12 @@ python scripts/mod_files.py uninstall --manifest manifest.json --game-root '你�
 
 - [绑定后的 GLB](models/sui-hun-binding.glb)：当前 MOD 使用的几何和绑定，内嵌贴图，可导入 Blender；不是现成 UE 工程。
 - [模型说明与来源](models/README.md)
+- [v7 候选：肩颈权重、颈长与下摆衔接](models/jk-v7-candidate/README.md)
 - [制作 skill](skills/pbz-character-mod/SKILL.md)
 - [闪退诊断与修复](skills/pbz-character-mod/references/model-pipeline.md)
 - [原声语音替换](skills/pbz-character-mod/references/voice-pipeline.md)
 - [实测范围与数据](evidence/runtime-result.json)
+- [v7 离线核验数据](evidence/jk-v7-offline/summary.json)
 
 将 `skills/pbz-character-mod/` 复制到 `~/.codex/skills/pbz-character-mod/`，可使用 `$pbz-character-mod`。Skill 包含本次验证过的约束和可移植核验工具；不包含游戏解密密钥、提取的原版资产、第三方工具或全自动重建流水线。
 

@@ -1,0 +1,198 @@
+{
+  "v6": {
+    "tag": "v6",
+    "proportions": {
+      "height_cm": 202.72,
+      "head_cm": 31.26,
+      "heads_tall": 6.48,
+      "head_width_cm": 21.43,
+      "shoulder_width_cm": 73.04,
+      "shoulder_over_head": 3.41,
+      "shoulder_joint_cm": 38.69,
+      "shoulder_joint_over_head": 1.237,
+      "chin_z": 165.14,
+      "collar_top_z": 155.06,
+      "bow_top_z": 158.75,
+      "shelf_z": 156.59,
+      "chin_to_collar_over_head": 0.323,
+      "chin_to_bow_over_head": 0.205,
+      "chin_to_shelf_over_head": 0.273
+    },
+    "layering": {
+      "band_cm": [
+        103.0,
+        115.0
+      ],
+      "skirt_vertices_tested": 247,
+      "skirt_exposed_outside_jacket": 107,
+      "worst": [
+        [
+          4069,
+          104.0,
+          25.0
+        ],
+        [
+          3578,
+          104.2,
+          24.9
+        ],
+        [
+          9104,
+          103.1,
+          24.6
+        ],
+        [
+          6662,
+          103.5,
+          23.8
+        ],
+        [
+          1502,
+          103.9,
+          23.7
+        ]
+      ]
+    },
+    "skin": {
+      "vertices_with_head_weight_outside_neck": 41,
+      "max_head_weight_outside_neck": 0.1743,
+      "skull_vertices": 5028,
+      "skull_not_head_driven": 0,
+      "neck_band_vertices": 828,
+      "neck_band_using_neck_bones": 228
+    },
+    "poses": [
+      {
+        "pose": "head-turn",
+        "neck_edges": 2217,
+        "neck_p99": 1.6433,
+        "neck_max": 2.0007,
+        "shoulder_edges": 12721,
+        "shoulder_p99": 1.2156,
+        "shoulder_max": 1.8227,
+        "edges_over_1.6x": 68,
+        "worst_rest_cm": 1.187
+      },
+      {
+        "pose": "head-nod",
+        "neck_edges": 2217,
+        "neck_p99": 1.6575,
+        "neck_max": 1.8565,
+        "shoulder_edges": 12721,
+        "shoulder_p99": 1.0163,
+        "shoulder_max": 1.4502,
+        "edges_over_1.6x": 47,
+        "worst_rest_cm": 0.139
+      },
+      {
+        "pose": "shoulders-up",
+        "neck_edges": 2217,
+        "neck_p99": 1.0,
+        "neck_max": 1.0,
+        "shoulder_edges": 12721,
+        "shoulder_p99": 1.1094,
+        "shoulder_max": 2.5397,
+        "edges_over_1.6x": 149,
+        "worst_rest_cm": 2.125
+      }
+    ]
+  },
+  "v7": {
+    "tag": "v7",
+    "proportions": {
+      "height_cm": 205.32,
+      "head_cm": 31.26,
+      "heads_tall": 6.57,
+      "head_width_cm": 21.43,
+      "shoulder_width_cm": 67.63,
+      "shoulder_over_head": 3.16,
+      "shoulder_joint_cm": 38.69,
+      "shoulder_joint_over_head": 1.237,
+      "chin_z": 167.74,
+      "collar_top_z": 155.13,
+      "bow_top_z": 161.72,
+      "shelf_z": 154.21,
+      "chin_to_collar_over_head": 0.403,
+      "chin_to_bow_over_head": 0.193,
+      "chin_to_shelf_over_head": 0.433
+    },
+    "layering": {
+      "band_cm": [
+        103.0,
+        115.0
+      ],
+      "skirt_vertices_tested": 228,
+      "skirt_exposed_outside_jacket": 71,
+      "worst": [
+        [
+          3684,
+          104.1,
+          22.4
+        ],
+        [
+          9104,
+          103.1,
+          22.4
+        ],
+        [
+          4069,
+          104.0,
+          22.0
+        ],
+        [
+          3578,
+          104.2,
+          21.9
+        ],
+        [
+          3291,
+          104.1,
+          21.4
+        ]
+      ]
+    },
+    "skin": {
+      "vertices_with_head_weight_outside_neck": 36,
+      "max_head_weight_outside_neck": 0.0632,
+      "skull_vertices": 5542,
+      "skull_not_head_driven": 0,
+      "neck_band_vertices": 600,
+      "neck_band_using_neck_bones": 0
+    },
+    "poses": [
+      {
+        "pose": "head-turn",
+        "neck_edges": 1610,
+        "neck_p99": 1.0486,
+        "neck_max": 1.117,
+        "shoulder_edges": 12003,
+        "shoulder_p99": 1.3071,
+        "shoulder_max": 3.956,
+        "edges_over_1.6x": 214,
+        "worst_rest_cm": 2.21
+      },
+      {
+        "pose": "head-nod",
+        "neck_edges": 1610,
+        "neck_p99": 1.0001,
+        "neck_max": 1.0221,
+        "shoulder_edges": 12003,
+        "shoulder_p99": 1.1412,
+        "shoulder_max": 3.4577,
+        "edges_over_1.6x": 160,
+        "worst_rest_cm": 1.409
+      },
+      {
+        "pose": "shoulders-up",
+        "neck_edges": 1610,
+        "neck_p99": 1.0,
+        "neck_max": 1.0,
+        "shoulder_edges": 12003,
+        "shoulder_p99": 1.0799,
+        "shoulder_max": 2.5089,
+        "edges_over_1.6x": 170,
+        "worst_rest_cm": 0.772
+      }
+    ]
+  }
+}

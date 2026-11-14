@@ -1,0 +1,53 @@
+{
+  "source": "sui-jk-hun-bound.blend",
+  "parameters": {
+    "head_rise": 2.6,
+    "head_ramp": [
+      148.0,
+      163.0
+    ],
+    "neck_halfwidth": [
+      8.0,
+      12.0
+    ],
+    "bow_lift": 0.9,
+    "collar_base": 147.0,
+    "collar_scale_z": 0.88,
+    "collar_scale_x": 0.96,
+    "shoulder_from": 14.0,
+    "shoulder_to": 24.0,
+    "shoulder_scale": 0.88,
+    "shoulder_drop": 1.6,
+    "shoulder_fade": [
+      158.0,
+      166.0
+    ],
+    "bow_narrow": 0.84,
+    "skirt_tuck": 0.22,
+    "skirt_tuck_win": [
+      99.0,
+      112.0
+    ],
+    "hem_target": 102.5,
+    "hem_top": 121.0,
+    "hem_flare": 1.4
+  },
+  "vert_count": 35056,
+  "displacement_max_cm": 7.191544460892868,
+  "vertices_moved_gt_0.05cm": 25865,
+  "weight_repairs": {
+    "head_stripped": 116,
+    "neck_stripped": 217,
+    "neck_regraded": 1834,
+    "hem_fixed": 0
+  },
+  "custom_normals_fixed": 205041,
+  "vertices": 35056,
+  "triangles": 68347,
+  "bones": 264,
+  "materials": 9,
+  "unweighted_vertices": 0,
+  "max_weight_sum_error": 4.842877388000488e-08,
+  "max_influences": 5,
+  "fbx_sha256": "0d95eacdd210ed85df444ce552eb528d592e12109e592772bacbbe4eeaed3b31"
+}
