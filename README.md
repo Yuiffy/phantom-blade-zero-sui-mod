@@ -8,6 +8,8 @@
 
 另有 [v9 离线候选](models/jk-v9-candidate/README.md)：恢复手指与原骨骼转轴的对齐、清理裙子/后背串色和多余吊带，并参照立绘细化袜子羽翼与背带白猫；已处理预览中猫身体偏小和头身分离的问题。最终容器和 cooked 蒙皮已独立读回，**未安装、未游戏实测**；当前安装模型仍为 v8。见 [饰件对照](evidence/jk-v9-offline/ornaments-v8-v9.jpg) 和 [检查数据](evidence/jk-v9-offline/summary.json)。
 
+新增 [v10 离线候选](models/jk-v10-candidate/README.md)：在 v9 基础上修正右腋下衣身误跟上臂造成的背部尖折，清理外套白灰/蓝色投影，并重绘书包朝向身体的粉色内侧。已独立读回最终容器和蒙皮，**未安装、未游戏实测**；人工抬臂预览不能保证实际长柄防御无穿插。见 [前后对照](evidence/jk-v10-offline/guard-and-bag-v9-v10.jpg)。
+
 ## 安装模型
 
 从本仓库 **Releases** 下载 `Sui_HeiShang_Model_v1.0.0.zip`，解压。关闭游戏，将 `mod/` 下同名的 `.pak`、`.utoc`、`.ucas` 三件套放入：

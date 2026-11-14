@@ -1,0 +1,229 @@
+{
+  "status": "offline-candidate-not-installed",
+  "baseline": "v9 ce1a1de",
+  "game_build": "26367565",
+  "target": "adult Hun, black-wound-escape",
+  "runtime_tested": false,
+  "files": {
+    "models/jk-v10-candidate/adjust_v10.py": {
+      "bytes": 5471,
+      "sha256": "3f6841c3f7de1f319ed88ba47b323cf00d39fcb633d5ded4e9ca0156b3881e31"
+    },
+    "models/jk-v10-candidate/atlas-repair.json": {
+      "bytes": 1184,
+      "sha256": "cf624c7548921fe813393e109d1361f9c0db4456955ac1ed22a66353435ac826"
+    },
+    "models/jk-v10-candidate/audit_bound_model.py": {
+      "bytes": 3447,
+      "sha256": "cd35e27969896cab4dc25f1a6d5812d816b5efed4b2edfba835b0b9dc7a8c583"
+    },
+    "models/jk-v10-candidate/binding-report.json": {
+      "bytes": 900,
+      "sha256": "d6906596e40a139c2535404ea5c74e5973efab86f329ea686065ef21d0c877ee"
+    },
+    "models/jk-v10-candidate/build_candidate.py": {
+      "bytes": 422,
+      "sha256": "6fa5009d079bf0fb5309733d00d5ed9a73bc2ce47c53d4bedf51a080e2f11d3f"
+    },
+    "models/jk-v10-candidate/compare_v10.py": {
+      "bytes": 1533,
+      "sha256": "a5fe9e81d7d75233506bafca61d6386460a7f8efc6bf553251046caacb5e3092"
+    },
+    "models/jk-v10-candidate/deliver_v10.py": {
+      "bytes": 7856,
+      "sha256": "736ed0d2b1203f2e0d0f6cd1c4e369bb1435e0c0b51e1dea3e4a41827d279d48"
+    },
+    "models/jk-v10-candidate/finish_build.py": {
+      "bytes": 543,
+      "sha256": "3b50628315d57c6536d9dc7e847591f0d404fd9cd772b0210d0366d8b2b8f0c0"
+    },
+    "models/jk-v10-candidate/game-materials.json": {
+      "bytes": 2507,
+      "sha256": "3855397d15350386d41049a47bf283697bc0a93fb165397673a8091de9967876"
+    },
+    "models/jk-v10-candidate/guard-comparison.json": {
+      "bytes": 838,
+      "sha256": "aaa124ec4439f6cf9c203c5c6d3ff325bf4559dc2362f5f2908f0bfd6983d7e0"
+    },
+    "models/jk-v10-candidate/import_mod_ue.py": {
+      "bytes": 5406,
+      "sha256": "a012335d8c4530edcad540cee3a615360b9d2c6574f3da2b791afcac58759b97"
+    },
+    "models/jk-v10-candidate/model-audit.json": {
+      "bytes": 607,
+      "sha256": "3a4a84845591e5de73c74624d4566312dcd9f540d6f9d6f1875dd6af3f3f2843"
+    },
+    "models/jk-v10-candidate/offline_tools.py": {
+      "bytes": 2219,
+      "sha256": "58e15e04911819016e1b51ef5ccca9ab31666bc999097d0692928b277f46fc1d"
+    },
+    "models/jk-v10-candidate/package_mod.py": {
+      "bytes": 6477,
+      "sha256": "b197ced0f0c3218d85e06fd3613c3f0e855e4a73ec9a9bd5386e25dab81d851a"
+    },
+    "models/jk-v10-candidate/prepare_mod.py": {
+      "bytes": 2421,
+      "sha256": "ba49bdb0a64d5b9e2059c35129c31a80f2d7f05f53293a9b66a5e389612bc33f"
+    },
+    "models/jk-v10-candidate/publish_v10_sources.py": {
+      "bytes": 4552,
+      "sha256": "3d943ad17bbb3c49307856b5a8652a9861085facbf3aa9f367deb58d08752ce9"
+    },
+    "models/jk-v10-candidate/README.md": {
+      "bytes": 3995,
+      "sha256": "98fa44cba5a0fbdbb3432849e2217a968755d0945903ad98fcf8de20000b388f"
+    },
+    "models/jk-v10-candidate/refresh_texture.py": {
+      "bytes": 491,
+      "sha256": "11090a574bf8fdebbbf3b3ea15dc8c7f5db76cf1c05fb6be88ecadfce0313e62"
+    },
+    "models/jk-v10-candidate/render_bag.py": {
+      "bytes": 1088,
+      "sha256": "28382746239992ae5acd29ae1a5442bbcf250ed1e5c3ba1e22cc851371dfbba4"
+    },
+    "models/jk-v10-candidate/render_details.py": {
+      "bytes": 848,
+      "sha256": "72a10b10d9bd1042c19acae0ef6358338151411aa670a7476378b802acb5c351"
+    },
+    "models/jk-v10-candidate/render_final.py": {
+      "bytes": 750,
+      "sha256": "59d6f82cf6f225c5489cba5f477eb04ad7a42838070ca2e922a237ed9bfb2317"
+    },
+    "models/jk-v10-candidate/repair_atlas_v10.py": {
+      "bytes": 3608,
+      "sha256": "5d1c268dc1c23cca92f3b3bdcac7800e52efe9a524b198892a62b35d04d868aa"
+    },
+    "models/jk-v10-candidate/review_guard.py": {
+      "bytes": 3748,
+      "sha256": "96bb564701d566dc12e6b7edb31b4949994515c6fbb3051077c9f9f56c91408b"
+    },
+    "models/jk-v10-candidate/run_blender.py": {
+      "bytes": 687,
+      "sha256": "084eb8a750c596af680f5854020117c390088e7cf65f97379882b2d126e68e40"
+    },
+    "models/jk-v10-candidate/run_ue.py": {
+      "bytes": 1181,
+      "sha256": "b77efcb24066169ead0b39fae48a0253fed83b457ee9e8177e0c50e21773a562"
+    },
+    "models/jk-v10-candidate/scope-check.json": {
+      "bytes": 500,
+      "sha256": "b3e3f9ccbc71e5754fe8d9a8cb5a6b65d46425b2fc15e6da33fc4ac4e50ed040"
+    },
+    "models/jk-v10-candidate/sleeve-source-field.npy": {
+      "bytes": 280576,
+      "sha256": "8d8eb7f231e3210c8c2e7ec00450303300b70e209e882b688847174ce097784a"
+    },
+    "models/jk-v10-candidate/sui-jk-hun-bound.blend": {
+      "bytes": 18521667,
+      "sha256": "e1284c5d796ddaffa1b10922b3ef8ef2984d23100db0c7a8ef734b40e8300814"
+    },
+    "models/jk-v10-candidate/Sui_JK_Hun_Body.fbx": {
+      "bytes": 3095596,
+      "sha256": "24b9f1fb3bf3d774be41905b8a232fe40e770f71eaba08d906acb31e9863e1f2"
+    },
+    "models/jk-v10-candidate/texture-chain.json": {
+      "bytes": 851,
+      "sha256": "3ea1e0f41842b941c6202f5cdbe515c393db3c8190ea3ad3c84b167969cf600d"
+    },
+    "models/jk-v10-candidate/textures/sui-jk-albedo-v10.png": {
+      "bytes": 15203332,
+      "sha256": "9aaed80a10983dc80329719a684fcfb150153438a9af9593e19e046343cc4c69"
+    },
+    "models/jk-v10-candidate/v7_helpers.py": {
+      "bytes": 15270,
+      "sha256": "c4eca02212b6aaa69160c7d4066377183a9f85e306514d4194d7df9f1265dfe5"
+    },
+    "models/jk-v10-candidate/verify_mod.py": {
+      "bytes": 11350,
+      "sha256": "bbc46b93dcc44130f11710ffa7e2bcb00d71eccf2a2808f7a207ab845159fa27"
+    },
+    "models/jk-v10-candidate/verify_scope.py": {
+      "bytes": 2284,
+      "sha256": "45fa25161ed73c618a6cc9597317410608c772eb6d2e474527cc342ae772449f"
+    },
+    "models/jk-v10-candidate/verify_texture_chain.py": {
+      "bytes": 1723,
+      "sha256": "83df7c9cdf244ec8e117e6ab387a32c4c0e513c147d48f3d48f9564a19c46a0c"
+    },
+    "evidence/jk-v10-offline/atlas-repair.json": {
+      "bytes": 1184,
+      "sha256": "cf624c7548921fe813393e109d1361f9c0db4456955ac1ed22a66353435ac826"
+    },
+    "evidence/jk-v10-offline/bag-inner-v10.png": {
+      "bytes": 663545,
+      "sha256": "7ff4ec5f86de228c664b5bf3f1370c6c5bf1dc2940ee0ebd26eb006cb1a43b84"
+    },
+    "evidence/jk-v10-offline/bag-inner-v9.png": {
+      "bytes": 737963,
+      "sha256": "a7efd68a843d1783572bdbfcf1f573dc335fd043cd7be0788e53524b5d05bffc"
+    },
+    "evidence/jk-v10-offline/binding-report.json": {
+      "bytes": 900,
+      "sha256": "d6906596e40a139c2535404ea5c74e5973efab86f329ea686065ef21d0c877ee"
+    },
+    "evidence/jk-v10-offline/bound-back.png": {
+      "bytes": 882264,
+      "sha256": "78e9276b43246df8f412ef3e79904b391ab0928836fa3764e167bfb0d1f87505"
+    },
+    "evidence/jk-v10-offline/bound-front.png": {
+      "bytes": 945265,
+      "sha256": "4fa9bb4346493a8fc39b46642b96ea5f23f3e3a8cfcbb7d11baf2a6f23b58b4e"
+    },
+    "evidence/jk-v10-offline/bound-side.png": {
+      "bytes": 898844,
+      "sha256": "cf147f7640e83bb132af8f7dc73046e8e76924609409387dc10343c58f999e29"
+    },
+    "evidence/jk-v10-offline/guard-after-forward.png": {
+      "bytes": 999041,
+      "sha256": "2c5c655bb77fb83a0f11102d0acbe0502925b960f774533c6f22a71e00ce606d"
+    },
+    "evidence/jk-v10-offline/guard-after-high-side.png": {
+      "bytes": 1010577,
+      "sha256": "d933115a862025f83064efc2fb3662df8769a7e54c161bc2c13b6623789faa10"
+    },
+    "evidence/jk-v10-offline/guard-after-high.png": {
+      "bytes": 998501,
+      "sha256": "8763d593a75809e7334c08b4ee6e0fa03b342d6e28775cde55c31eac674d1293"
+    },
+    "evidence/jk-v10-offline/guard-after.json": {
+      "bytes": 363,
+      "sha256": "e7e7bc3344c634c3b1ef438d2448bd841c2c85c7c62fe76cda8996f8856873c5"
+    },
+    "evidence/jk-v10-offline/guard-and-bag-v9-v10.jpg": {
+      "bytes": 193987,
+      "sha256": "20ead997bb193828fcce8e3347f69b31d41219cffd240a6aa478b522ce87a244"
+    },
+    "evidence/jk-v10-offline/guard-before.json": {
+      "bytes": 368,
+      "sha256": "8d067c6f029ef344ad3bf3a5278bf2ed71b8a566f80ff2fc301d1756c390331d"
+    },
+    "evidence/jk-v10-offline/guard-comparison.json": {
+      "bytes": 838,
+      "sha256": "aaa124ec4439f6cf9c203c5c6d3ff325bf4559dc2362f5f2908f0bfd6983d7e0"
+    },
+    "evidence/jk-v10-offline/model-audit.json": {
+      "bytes": 607,
+      "sha256": "3a4a84845591e5de73c74624d4566312dcd9f540d6f9d6f1875dd6af3f3f2843"
+    },
+    "evidence/jk-v10-offline/scope-check.json": {
+      "bytes": 500,
+      "sha256": "b3e3f9ccbc71e5754fe8d9a8cb5a6b65d46425b2fc15e6da33fc4ac4e50ed040"
+    },
+    "evidence/jk-v10-offline/skin-verification.json": {
+      "bytes": 887,
+      "sha256": "24a18cb0040e42a0d05d2369915aaaabce3d3bc29e6c7a40c5ef32b895c00b60"
+    },
+    "evidence/jk-v10-offline/summary.json": {
+      "bytes": 572,
+      "sha256": "e93b1b70bb1c8e89bb3e4dc25588f633441de91e9dd573e6605d20147ac9b77b"
+    },
+    "evidence/jk-v10-offline/texture-chain.json": {
+      "bytes": 851,
+      "sha256": "3ea1e0f41842b941c6202f5cdbe515c393db3c8190ea3ad3c84b167969cf600d"
+    },
+    "evidence/jk-v10-offline/verification.json": {
+      "bytes": 381,
+      "sha256": "fd80b5478313972411c8e4c5133d5ddba770f595a75ae94deb16ec2d8ef06ab2"
+    }
+  }
+}

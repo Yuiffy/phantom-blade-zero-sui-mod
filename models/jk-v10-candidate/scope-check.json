@@ -1,0 +1,11 @@
+{
+  "baseline": "JK v9 ce1a1de",
+  "skeleton_parent_and_matrices_exactly_equal": true,
+  "topology_UV_material_indices_and_provenance_exactly_equal": true,
+  "moved_vertices": 221,
+  "weight_changed_vertices": 239,
+  "changes_confined_to_right_proximal_component0": true,
+  "head_hands_legs_skirt_bag_and_accessories_geometry_and_weights_unchanged": true,
+  "max_position_change_cm": 10.599578291815265,
+  "source_contract_sha256": "0d38de34590933fbdbbee3b167d68825c80043661c6ab84935c97f902d143485"
+}

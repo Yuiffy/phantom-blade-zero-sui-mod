@@ -9,3 +9,5 @@
 文件 SHA256 见 `manifest.json`。模型及角色形象不适用仓库代码的 MIT 许可，见根目录 NOTICE.md。
 
 [v9 离线候选](jk-v9-candidate/README.md) 修复手指转轴偏移、裙/外套串色及重复吊带，重建白羽翼金心和背带白猫。已按用户近景反馈连好猫头、蝴蝶结与放大的身体，清理翼饰上方的旧贴图残影。保留 v8 肩颈、头、裙和腿的几何。未安装、未游戏实测；[对照图](../evidence/jk-v9-offline/ornaments-v8-v9.jpg)。
+
+[v10 离线候选](jk-v10-candidate/README.md) 修正右腋下衣身权重泄漏及对应表面位置，清理右背串色和书包内侧投影。保留 v9 手部、猫挂件与袜饰修复。未安装、未游戏实测；[离线对照](../evidence/jk-v10-offline/guard-and-bag-v9-v10.jpg)。

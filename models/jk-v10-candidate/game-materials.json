@@ -1,0 +1,122 @@
+[
+  {
+    "slot": "MI_JK_Base",
+    "base_color_linear": [
+      0.800000011920929,
+      0.800000011920929,
+      0.800000011920929,
+      1.0
+    ],
+    "roughness": 0.8500000238418579,
+    "metallic": 0.0,
+    "source_texture": "//source\\tripo_convert_cd0cef28-06a8-4cc8-87d2-1ff513c2bf17.fbm\\anime_girl_3d_model_basecolor.jpg"
+  },
+  {
+    "slot": "MI_JK_Gold",
+    "base_color_linear": [
+      0.8299999833106995,
+      0.49000000953674316,
+      0.1599999964237213,
+      1.0
+    ],
+    "roughness": 0.3199999928474426,
+    "metallic": 0.44999998807907104,
+    "source_texture": null
+  },
+  {
+    "slot": "MI_JK_Pink",
+    "base_color_linear": [
+      0.6700000166893005,
+      0.02800000086426735,
+      0.1599999964237213,
+      1.0
+    ],
+    "roughness": 0.550000011920929,
+    "metallic": 0.0,
+    "source_texture": null
+  },
+  {
+    "slot": "MI_JK_Cat",
+    "base_color_linear": [
+      0.02500000037252903,
+      0.012000000104308128,
+      0.017999999225139618,
+      1.0
+    ],
+    "roughness": 0.550000011920929,
+    "metallic": 0.0,
+    "source_texture": null
+  },
+  {
+    "slot": "MI_JK_PinkSeam",
+    "base_color_linear": [
+      0.3199999928474426,
+      0.008999999612569809,
+      0.06499999761581421,
+      1.0
+    ],
+    "roughness": 0.550000011920929,
+    "metallic": 0.0,
+    "source_texture": null
+  },
+  {
+    "slot": "MI_JK_Silver",
+    "base_color_linear": [
+      0.699999988079071,
+      0.7200000286102295,
+      0.7599999904632568,
+      1.0
+    ],
+    "roughness": 0.3499999940395355,
+    "metallic": 0.6499999761581421,
+    "source_texture": null
+  },
+  {
+    "slot": "MI_JK_PinkLight",
+    "base_color_linear": [
+      0.949999988079071,
+      0.11999999731779099,
+      0.3199999928474426,
+      1.0
+    ],
+    "roughness": 0.550000011920929,
+    "metallic": 0.0,
+    "source_texture": null
+  },
+  {
+    "slot": "MI_JK_HairGroove",
+    "base_color_linear": [
+      0.75,
+      0.6700000166893005,
+      0.7400000095367432,
+      1.0
+    ],
+    "roughness": 0.800000011920929,
+    "metallic": 0.0,
+    "source_texture": null
+  },
+  {
+    "slot": "MI_JK_SafetyLining",
+    "base_color_linear": [
+      0.008999999612569809,
+      0.010999999940395355,
+      0.01899999938905239,
+      1.0
+    ],
+    "roughness": 0.8999999761581421,
+    "metallic": 0.0,
+    "source_texture": null
+  },
+  {
+    "slot": "MI_JK_Ivory",
+    "base_color_linear": [
+      0.92,
+      0.91,
+      0.89,
+      1
+    ],
+    "roughness": 0.55,
+    "metallic": 0,
+    "source_texture": null
+  }
+]
