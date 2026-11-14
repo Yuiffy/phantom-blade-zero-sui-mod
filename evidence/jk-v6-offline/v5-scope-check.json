@@ -1,0 +1,10 @@
+{
+  "baseline": "v3 neck-and-shoulder candidate",
+  "original_vertices_preserved": 34167,
+  "all_non_skirt_original_positions_and_weights_unchanged": 33489,
+  "skirt_vertices": 678,
+  "new_lining_vertices": 889,
+  "original_leg_geometry_intact": true,
+  "original_neck_and_shoulders_intact": true,
+  "source_contract_sha256": "fbbb07357223a803a8d3b3a42658dfc6427fbbf7ac2b1e60d437c5ae19315e58"
+}

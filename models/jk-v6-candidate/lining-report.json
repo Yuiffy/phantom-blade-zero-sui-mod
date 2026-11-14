@@ -1,0 +1,12 @@
+{
+  "original_vertices": 34167,
+  "lining_vertices": 889,
+  "lining_triangles": 1670,
+  "lining_lower_cut_z_cm": 94,
+  "lining_surface_offset_cm": 0.18,
+  "skirt_clearance_corrected_vertices": 243,
+  "max_clearance_adjustment_cm": 5.481815470734998,
+  "original_leg_vertices_preserved": true,
+  "lining_material": "MI_JK_SafetyLining",
+  "new_physics": false
+}
