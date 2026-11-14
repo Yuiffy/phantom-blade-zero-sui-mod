@@ -31,6 +31,8 @@ description: Build and debug Phantom Blade Zero character replacement mods, incl
 
 确认 Wwise EventID/MediaID 与语言、缓存及 bulk 组织，真正编码 WEM 后独立解码，最终容器再读回。模型服装范围不等于共享语音事件范围。音频离线校验、人工听审和游戏实测分别记录。
 
+若某个动作仍发原声，读 [跳攻漏项案例](references/voice-jump-case.md)。从实际技能 timeline、父类和 ActionOverrides 追踪 AkEvent；别凭文件名猜事件。按随机池内的独立媒体检查覆盖率，并对共享 ID 的所有已检查引用保持一致。
+
 ## 交付
 
 原始游戏资产、密钥、崩溃文件和私人录播留在本地。公开文件逐项列明来源与许可，代码许可不自动覆盖角色/语音。只把当前已验证候选提升为发布版，失败历史保持封锁；用户口头成功反馈按原话记录，不补写未报告的全流程测试。

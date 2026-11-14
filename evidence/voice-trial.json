@@ -1,28 +1,33 @@
 {
-  "status": "installed-offline-verified-runtime-and-listening-pending",
-  "events": 22,
-  "replaced_media": 109,
-  "retained_media": 97,
-  "candidates": 17,
-  "synthetic_audio": false,
-  "scope": "adult-Hun-Chinese-combat-shared-across-outfits",
-  "runtime_tested": false,
-  "listening_review_passed": false,
+  "status": "installed-airborne-coverage-repair-runtime-pending",
+  "variant": "airborne-natural-voice-v2",
+  "events": 26,
+  "replaced_unique_media": 134,
+  "new_replacements": 25,
+  "named_airborne_abilities_checked": 49,
+  "related_packages_checked": 66,
+  "direct_airborne_events": 5,
+  "direct_airborne_media_replaced": 33,
+  "old_replacements_unchanged": 109,
+  "model_hashes_unchanged": true,
   "files": [
     {
-      "name": "z_Sui_Hun_NaturalVoice_Offline_P.pak",
+      "name": "z_Sui_Hun_NaturalVoice_Airborne_v2_P.pak",
       "bytes": 347,
       "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
     },
     {
-      "name": "z_Sui_Hun_NaturalVoice_Offline_P.ucas",
-      "bytes": 1469714,
-      "sha256": "b185d435504a74316da36ce7fd518772b493e5a2b49fc62f9a968e6f39629238"
+      "name": "z_Sui_Hun_NaturalVoice_Airborne_v2_P.ucas",
+      "bytes": 1644361,
+      "sha256": "0250ad1657bee0f376d00c44099860afba474fb20684108899510a94c6f5612c"
     },
     {
-      "name": "z_Sui_Hun_NaturalVoice_Offline_P.utoc",
-      "bytes": 5524,
-      "sha256": "7b2f3ff0e950e580f91834ab4adf96f594fb191620676294f18adfa624ec40c0"
+      "name": "z_Sui_Hun_NaturalVoice_Airborne_v2_P.utoc",
+      "bytes": 6464,
+      "sha256": "a076fe4af6e1ca6979576ca7bc8c216a0016ab5e9e6a3e37027587b2f80e1a7e"
     }
-  ]
+  ],
+  "runtime_tested": false,
+  "listening_review_passed": false,
+  "synthetic_audio": false
 }

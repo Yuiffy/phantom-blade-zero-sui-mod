@@ -1,0 +1,306 @@
+{
+  "root_abilities": 49,
+  "packages_with_parents": 66,
+  "scope": "All non-archived adult Hun ability paths containing Air/Jump; no claim for every weapon ground combo.",
+  "inheritance_and_action_overrides_resolved": true,
+  "voice_events": [
+    "SFX_Combat_VO_Hun_BiQi_02_Long",
+    "SFX_Combat_VO_Hun_ChuZhao_02",
+    "SFX_Combat_VO_Hun_ShouZhao_DoubleBlade",
+    "SFX_Combat_VO_Hun_ShouZhao_LongBlade",
+    "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+  ],
+  "abilities": [
+    {
+      "ability": "ga_hun_fengleijian_air_a",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_fengleijian_air_a_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_fengleijian_air_b",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_DoubleBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_fengleijian_air_b_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_DoubleBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_baiying_air_a",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_baiying_air_a_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_baiying_air_b",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_baiying_air_b_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_double_air_a",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_double_air_a_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_double_air_b",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_DoubleBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_double_air_b_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_DoubleBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_air_double_aa",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ChuZhao_02"
+      ]
+    },
+    {
+      "ability": "ga_hun_air_double_aaa",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ChuZhao_02"
+      ]
+    },
+    {
+      "ability": "ga_hun_dualhook_air_b",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_DoubleBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_dualhook_air_b_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_DoubleBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_jump",
+      "voice_events": []
+    },
+    {
+      "ability": "ga_hun_double_jueying_c_air",
+      "voice_events": []
+    },
+    {
+      "ability": "ga_hun_long_air_a",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_long_air_a_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_long_air_b",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_long_air_b_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_long_air_swt",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_jigsaw_air_a",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_jigsaw_air_a_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_jigsaw_air_b",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_jigsaw_air_b_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_jingua_air",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_BiQi_02_Long",
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_snakedual_air_a_double",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_snakedual_air_a_draw_double",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_snakedual_air_a_draw_tang",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_snakedual_air_a_tang",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_snakedual_air_b_double",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_DoubleBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_snakedual_air_b_draw_double",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_DoubleBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_snakedual_air_b_draw_tang",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ChuZhao_02"
+      ]
+    },
+    {
+      "ability": "ga_hun_snakedual_air_b_tang",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ChuZhao_02"
+      ]
+    },
+    {
+      "ability": "ga_hun_tang_air_a",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_tang_air_a_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_tang_air_b",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ChuZhao_02"
+      ]
+    },
+    {
+      "ability": "ga_hun_tang_air_b_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ChuZhao_02"
+      ]
+    },
+    {
+      "ability": "ga_hun_tang_air_swt",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_woodensword_air_a",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_woodensword_air_a_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_TangBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_woodensword_air_b",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ChuZhao_02"
+      ]
+    },
+    {
+      "ability": "ga_hun_woodensword_air_b_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ChuZhao_02"
+      ]
+    },
+    {
+      "ability": "ga_hun_zhanma_air_a",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_zhanma_air_a_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_zhanma_air_b",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    },
+    {
+      "ability": "ga_hun_zhanma_air_b_draw",
+      "voice_events": [
+        "SFX_Combat_VO_Hun_ShouZhao_LongBlade"
+      ]
+    }
+  ]
+}

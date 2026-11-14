@@ -1,4 +1,5 @@
 {
+  "variant": "airborne-natural-voice-v2",
   "synthetic_audio": false,
   "audio_files_in_repository": false,
   "runtime_tested": false,
@@ -49,6 +50,38 @@
         "timebase": "decoded-parent-PCM48"
       },
       "candidate_sha256": "3f38c04e11bcdd1721c0bedd1342bd9b223a94badc0dd09c3da8ce3b49e95475",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "attack_combo_real_01_region_05",
+      "parent_label": "哈！哈！哈！（三连击）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "哈！哈！哈！（三连击）.MP3",
+      "source_sha256": "acc15bd5f66eb822156cafc5ee6edbd5dc49fc0e16b0f25bac6d81af657f15ec",
+      "range_in_normalized_pcm": {
+        "start_sample": 77040,
+        "end_sample": 85680,
+        "start_seconds": 1.605,
+        "end_seconds": 1.785,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "f0774b90bbee9ec739d190042628f0847875843a5b2c715e71e794964d17e80b",
+      "review": "human-listening-pending"
+    },
+    {
+      "candidate": "attack_combo_real_01_region_06",
+      "parent_label": "哈！哈！哈！（三连击）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "哈！哈！哈！（三连击）.MP3",
+      "source_sha256": "acc15bd5f66eb822156cafc5ee6edbd5dc49fc0e16b0f25bac6d81af657f15ec",
+      "range_in_normalized_pcm": {
+        "start_sample": 96240,
+        "end_sample": 103920,
+        "start_seconds": 2.005,
+        "end_seconds": 2.165,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "b0a3e0981651c95123961fca3fdaff08fcd44b187a855e4b926823e79503a5d4",
       "review": "human-listening-pending"
     },
     {
@@ -228,6 +261,22 @@
       "review": "human-listening-pending"
     },
     {
+      "candidate": "effort_groan_real_07_region_04",
+      "parent_label": "嗑，呃呃（按不下左键）",
+      "source_repository": "Yuiffy/suiji-sui-button",
+      "source_file": "嗑，呃呃（按不下左键）.MP3",
+      "source_sha256": "4841d5c2532fbcf25383fe111cf274f1d07b217da8bd77415bdbb674ff7847eb",
+      "range_in_normalized_pcm": {
+        "start_sample": 110400,
+        "end_sample": 114480,
+        "start_seconds": 2.3,
+        "end_seconds": 2.385,
+        "timebase": "decoded-parent-PCM48"
+      },
+      "candidate_sha256": "526e17d52b7c2348dfa56efdbfa6f4395b6f48a0e9787e57a1c0539d5f67389e",
+      "review": "human-listening-pending"
+    },
+    {
       "candidate": "effort_groan_real_08_region_01",
       "parent_label": "呃~呃~（被导弹追）",
       "source_repository": "Yuiffy/suiji-sui-button",
@@ -278,6 +327,56 @@
   ],
   "events": [
     {
+      "event": "SFX_Combat_VO_Hun_BiQi_01_DuanCu",
+      "replacements": [
+        {
+          "media_id": 322800105,
+          "candidate": "attack_effort_real_01_region_02"
+        },
+        {
+          "media_id": 558396987,
+          "candidate": "effort_groan_real_07_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_BiQi_02_Long",
+      "replacements": [
+        {
+          "media_id": 677376513,
+          "candidate": "effort_groan_real_07_region_04"
+        },
+        {
+          "media_id": 53283365,
+          "candidate": "effort_groan_real_07_region_04"
+        },
+        {
+          "media_id": 587562597,
+          "candidate": "effort_groan_real_07_region_03"
+        },
+        {
+          "media_id": 470129897,
+          "candidate": "effort_groan_real_07_region_03"
+        },
+        {
+          "media_id": 418654667,
+          "candidate": "effort_groan_real_07_region_01"
+        },
+        {
+          "media_id": 1026166511,
+          "candidate": "effort_groan_real_07_region_04"
+        },
+        {
+          "media_id": 950789364,
+          "candidate": "effort_groan_real_07_region_03"
+        },
+        {
+          "media_id": 980729495,
+          "candidate": "effort_groan_real_07_region_03"
+        }
+      ]
+    },
+    {
       "event": "SFX_Combat_VO_Hun_Break",
       "replacements": [
         {
@@ -323,6 +422,356 @@
         {
           "media_id": 959578928,
           "candidate": "attack_heavy_real_01_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_Charge_SuperLong",
+      "replacements": [
+        {
+          "media_id": 254350364,
+          "candidate": "effort_groan_real_07_region_03"
+        },
+        {
+          "media_id": 316566804,
+          "candidate": "effort_groan_real_07_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_ChuZhao_01_DuanCu",
+      "replacements": [
+        {
+          "media_id": 55374554,
+          "candidate": "attack_heavy_real_01_region_01"
+        },
+        {
+          "media_id": 382951373,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 870518923,
+          "candidate": "attack_ha_real_02_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_ChuZhao_02",
+      "replacements": [
+        {
+          "media_id": 712562340,
+          "candidate": "attack_combo_real_01_region_06"
+        },
+        {
+          "media_id": 999770054,
+          "candidate": "attack_heavy_real_01_region_01"
+        },
+        {
+          "media_id": 793300167,
+          "candidate": "attack_combo_real_01_region_04"
+        },
+        {
+          "media_id": 55658029,
+          "candidate": "attack_combo_real_01_region_06"
+        },
+        {
+          "media_id": 1001118831,
+          "candidate": "attack_combo_real_01_region_06"
+        },
+        {
+          "media_id": 557008885,
+          "candidate": "attack_combo_real_01_region_01"
+        },
+        {
+          "media_id": 710191326,
+          "candidate": "attack_combo_real_01_region_05"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_Hurt",
+      "replacements": [
+        {
+          "media_id": 218697108,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 399644099,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 657813612,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 794125695,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 891557095,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 899417076,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 954183454,
+          "candidate": "hurt_real_03_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_Hurt_BiXian",
+      "replacements": [
+        {
+          "media_id": 71325818,
+          "candidate": "hurt_real_03_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_Hurt_Heavy_Mix",
+      "replacements": [
+        {
+          "media_id": 12939720,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 71211340,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 103857642,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 131727484,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 162508108,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 184502150,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 453915698,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 552462183,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 624027561,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 635551566,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 756447794,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 760129458,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 846811471,
+          "candidate": "hurt_real_03_region_01"
+        },
+        {
+          "media_id": 980470561,
+          "candidate": "hurt_real_03_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_ShouZhao_DoubleBlade",
+      "replacements": [
+        {
+          "media_id": 113555336,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 403946025,
+          "candidate": "attack_ha_real_02_region_01"
+        },
+        {
+          "media_id": 840574953,
+          "candidate": "attack_combo_real_01_region_05"
+        },
+        {
+          "media_id": 980794987,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 624821033,
+          "candidate": "attack_ha_real_02_region_01"
+        },
+        {
+          "media_id": 944007637,
+          "candidate": "attack_combo_real_01_region_03"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_ShouZhao_LongBlade",
+      "replacements": [
+        {
+          "media_id": 558037539,
+          "candidate": "attack_combo_real_01_region_05"
+        },
+        {
+          "media_id": 516189925,
+          "candidate": "attack_combo_real_01_region_05"
+        },
+        {
+          "media_id": 1011860204,
+          "candidate": "attack_combo_real_01_region_05"
+        },
+        {
+          "media_id": 507079247,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 815277138,
+          "candidate": "attack_combo_real_01_region_05"
+        },
+        {
+          "media_id": 69468884,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 43431831,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 368506684,
+          "candidate": "attack_combo_real_01_region_05"
+        },
+        {
+          "media_id": 148419486,
+          "candidate": "attack_combo_real_01_region_03"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_ShouZhao_TangBlade",
+      "replacements": [
+        {
+          "media_id": 860853585,
+          "candidate": "attack_ha_real_02_region_01"
+        },
+        {
+          "media_id": 479260062,
+          "candidate": "attack_ha_real_02_region_01"
+        },
+        {
+          "media_id": 690066301,
+          "candidate": "attack_ha_real_02_region_01"
+        },
+        {
+          "media_id": 516189925,
+          "candidate": "attack_combo_real_01_region_05"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_Snort",
+      "replacements": [
+        {
+          "media_id": 224466480,
+          "candidate": "snort_real_01_region_01"
+        },
+        {
+          "media_id": 352168020,
+          "candidate": "snort_real_01_region_01"
+        },
+        {
+          "media_id": 421637231,
+          "candidate": "snort_real_01_region_01"
+        },
+        {
+          "media_id": 430902888,
+          "candidate": "snort_real_01_region_01"
+        },
+        {
+          "media_id": 888328709,
+          "candidate": "snort_real_01_region_01"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_VO_Hun_ZhongZhuan",
+      "replacements": [
+        {
+          "media_id": 113555336,
+          "candidate": "attack_combo_real_01_region_03"
+        },
+        {
+          "media_id": 840574953,
+          "candidate": "attack_combo_real_01_region_05"
+        },
+        {
+          "media_id": 980794987,
+          "candidate": "attack_combo_real_01_region_03"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Charge_Heavy_Long",
+      "replacements": [
+        {
+          "media_id": 151592206,
+          "candidate": "effort_groan_real_07_region_02"
+        },
+        {
+          "media_id": 159549112,
+          "candidate": "attack_effort_real_01_region_02"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Charge_Heavy_Short",
+      "replacements": [
+        {
+          "media_id": 24047091,
+          "candidate": "effort_groan_real_07_region_01"
+        },
+        {
+          "media_id": 61261688,
+          "candidate": "attack_effort_real_01_region_01"
+        },
+        {
+          "media_id": 494398732,
+          "candidate": "effort_groan_real_07_region_02"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Charge_Long",
+      "replacements": [
+        {
+          "media_id": 182007436,
+          "candidate": "effort_groan_real_07_region_02"
+        },
+        {
+          "media_id": 388875430,
+          "candidate": "attack_effort_real_01_region_02"
+        },
+        {
+          "media_id": 575441053,
+          "candidate": "effort_groan_real_08_region_02"
+        },
+        {
+          "media_id": 898238994,
+          "candidate": "effort_groan_real_08_region_01"
         }
       ]
     },
@@ -405,6 +854,84 @@
       ]
     },
     {
+      "event": "SFX_Combat_Vo_Hun_Charge_Short",
+      "replacements": [
+        {
+          "media_id": 10338663,
+          "candidate": "effort_groan_real_08_region_02"
+        },
+        {
+          "media_id": 127945894,
+          "candidate": "effort_groan_real_07_region_02"
+        },
+        {
+          "media_id": 411500236,
+          "candidate": "attack_effort_real_01_region_02"
+        },
+        {
+          "media_id": 436009150,
+          "candidate": "effort_groan_real_07_region_01"
+        },
+        {
+          "media_id": 610390805,
+          "candidate": "effort_groan_real_07_region_01"
+        },
+        {
+          "media_id": 769709642,
+          "candidate": "effort_groan_real_07_region_02"
+        },
+        {
+          "media_id": 814903650,
+          "candidate": "attack_effort_real_01_region_03"
+        },
+        {
+          "media_id": 981188208,
+          "candidate": "attack_effort_real_01_region_01"
+        },
+        {
+          "media_id": 1062488932,
+          "candidate": "effort_groan_real_07_region_02"
+        }
+      ]
+    },
+    {
+      "event": "SFX_Combat_Vo_Hun_Cough",
+      "replacements": [
+        {
+          "media_id": 38684120,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 249260091,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 434250251,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 475076531,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 486759837,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 630513278,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 734467397,
+          "candidate": "cough_context_real_02_region_01"
+        },
+        {
+          "media_id": 1064855330,
+          "candidate": "cough_context_real_02_region_01"
+        }
+      ]
+    },
+    {
       "event": "SFX_Combat_Vo_Hun_Execute_Attack_Heavy",
       "replacements": [
         {
@@ -451,48 +978,6 @@
       ]
     },
     {
-      "event": "SFX_Combat_VO_Hun_Hurt",
-      "replacements": [
-        {
-          "media_id": 218697108,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 399644099,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 657813612,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 794125695,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 891557095,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 899417076,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 954183454,
-          "candidate": "hurt_real_03_region_01"
-        }
-      ]
-    },
-    {
-      "event": "SFX_Combat_VO_Hun_Hurt_BiXian",
-      "replacements": [
-        {
-          "media_id": 71325818,
-          "candidate": "hurt_real_03_region_01"
-        }
-      ]
-    },
-    {
       "event": "SFX_Combat_Vo_Hun_Hurt_Heavy",
       "replacements": [
         {
@@ -510,306 +995,6 @@
         {
           "media_id": 635551566,
           "candidate": "hurt_real_03_region_01"
-        }
-      ]
-    },
-    {
-      "event": "SFX_Combat_VO_Hun_Hurt_Heavy_Mix",
-      "replacements": [
-        {
-          "media_id": 12939720,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 71211340,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 103857642,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 131727484,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 162508108,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 184502150,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 453915698,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 552462183,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 624027561,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 635551566,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 756447794,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 760129458,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 846811471,
-          "candidate": "hurt_real_03_region_01"
-        },
-        {
-          "media_id": 980470561,
-          "candidate": "hurt_real_03_region_01"
-        }
-      ]
-    },
-    {
-      "event": "SFX_Combat_VO_Hun_Snort",
-      "replacements": [
-        {
-          "media_id": 224466480,
-          "candidate": "snort_real_01_region_01"
-        },
-        {
-          "media_id": 352168020,
-          "candidate": "snort_real_01_region_01"
-        },
-        {
-          "media_id": 421637231,
-          "candidate": "snort_real_01_region_01"
-        },
-        {
-          "media_id": 430902888,
-          "candidate": "snort_real_01_region_01"
-        },
-        {
-          "media_id": 888328709,
-          "candidate": "snort_real_01_region_01"
-        }
-      ]
-    },
-    {
-      "event": "SFX_Combat_VO_Hun_BiQi_01_DuanCu",
-      "replacements": [
-        {
-          "media_id": 322800105,
-          "candidate": "attack_effort_real_01_region_02"
-        },
-        {
-          "media_id": 558396987,
-          "candidate": "effort_groan_real_07_region_01"
-        }
-      ]
-    },
-    {
-      "event": "SFX_Combat_VO_Hun_BiQi_02_Long",
-      "replacements": [
-        {
-          "media_id": 418654667,
-          "candidate": "effort_groan_real_07_region_01"
-        },
-        {
-          "media_id": 470129897,
-          "candidate": "effort_groan_real_07_region_03"
-        },
-        {
-          "media_id": 587562597,
-          "candidate": "effort_groan_real_07_region_03"
-        },
-        {
-          "media_id": 950789364,
-          "candidate": "effort_groan_real_07_region_03"
-        },
-        {
-          "media_id": 980729495,
-          "candidate": "effort_groan_real_07_region_03"
-        }
-      ]
-    },
-    {
-      "event": "SFX_Combat_Vo_Hun_Charge_Heavy_Long",
-      "replacements": [
-        {
-          "media_id": 151592206,
-          "candidate": "effort_groan_real_07_region_02"
-        },
-        {
-          "media_id": 159549112,
-          "candidate": "attack_effort_real_01_region_02"
-        }
-      ]
-    },
-    {
-      "event": "SFX_Combat_Vo_Hun_Charge_Heavy_Short",
-      "replacements": [
-        {
-          "media_id": 24047091,
-          "candidate": "effort_groan_real_07_region_01"
-        },
-        {
-          "media_id": 61261688,
-          "candidate": "attack_effort_real_01_region_01"
-        },
-        {
-          "media_id": 494398732,
-          "candidate": "effort_groan_real_07_region_02"
-        }
-      ]
-    },
-    {
-      "event": "SFX_Combat_Vo_Hun_Charge_Long",
-      "replacements": [
-        {
-          "media_id": 182007436,
-          "candidate": "effort_groan_real_07_region_02"
-        },
-        {
-          "media_id": 388875430,
-          "candidate": "attack_effort_real_01_region_02"
-        },
-        {
-          "media_id": 575441053,
-          "candidate": "effort_groan_real_08_region_02"
-        },
-        {
-          "media_id": 898238994,
-          "candidate": "effort_groan_real_08_region_01"
-        }
-      ]
-    },
-    {
-      "event": "SFX_Combat_Vo_Hun_Charge_Short",
-      "replacements": [
-        {
-          "media_id": 10338663,
-          "candidate": "effort_groan_real_08_region_02"
-        },
-        {
-          "media_id": 127945894,
-          "candidate": "effort_groan_real_07_region_02"
-        },
-        {
-          "media_id": 411500236,
-          "candidate": "attack_effort_real_01_region_02"
-        },
-        {
-          "media_id": 436009150,
-          "candidate": "effort_groan_real_07_region_01"
-        },
-        {
-          "media_id": 610390805,
-          "candidate": "effort_groan_real_07_region_01"
-        },
-        {
-          "media_id": 769709642,
-          "candidate": "effort_groan_real_07_region_02"
-        },
-        {
-          "media_id": 814903650,
-          "candidate": "attack_effort_real_01_region_03"
-        },
-        {
-          "media_id": 981188208,
-          "candidate": "attack_effort_real_01_region_01"
-        },
-        {
-          "media_id": 1062488932,
-          "candidate": "effort_groan_real_07_region_02"
-        }
-      ]
-    },
-    {
-      "event": "SFX_Combat_VO_Hun_Charge_SuperLong",
-      "replacements": [
-        {
-          "media_id": 254350364,
-          "candidate": "effort_groan_real_07_region_03"
-        },
-        {
-          "media_id": 316566804,
-          "candidate": "effort_groan_real_07_region_01"
-        }
-      ]
-    },
-    {
-      "event": "SFX_Combat_VO_Hun_ChuZhao_01_DuanCu",
-      "replacements": [
-        {
-          "media_id": 55374554,
-          "candidate": "attack_heavy_real_01_region_01"
-        },
-        {
-          "media_id": 382951373,
-          "candidate": "attack_combo_real_01_region_03"
-        },
-        {
-          "media_id": 870518923,
-          "candidate": "attack_ha_real_02_region_01"
-        }
-      ]
-    },
-    {
-      "event": "SFX_Combat_VO_Hun_ChuZhao_02",
-      "replacements": [
-        {
-          "media_id": 557008885,
-          "candidate": "attack_combo_real_01_region_01"
-        },
-        {
-          "media_id": 793300167,
-          "candidate": "attack_combo_real_01_region_04"
-        },
-        {
-          "media_id": 999770054,
-          "candidate": "attack_heavy_real_01_region_01"
-        }
-      ]
-    },
-    {
-      "event": "SFX_Combat_Vo_Hun_Cough",
-      "replacements": [
-        {
-          "media_id": 38684120,
-          "candidate": "cough_context_real_02_region_01"
-        },
-        {
-          "media_id": 249260091,
-          "candidate": "cough_context_real_02_region_01"
-        },
-        {
-          "media_id": 434250251,
-          "candidate": "cough_context_real_02_region_01"
-        },
-        {
-          "media_id": 475076531,
-          "candidate": "cough_context_real_02_region_01"
-        },
-        {
-          "media_id": 486759837,
-          "candidate": "cough_context_real_02_region_01"
-        },
-        {
-          "media_id": 630513278,
-          "candidate": "cough_context_real_02_region_01"
-        },
-        {
-          "media_id": 734467397,
-          "candidate": "cough_context_real_02_region_01"
-        },
-        {
-          "media_id": 1064855330,
-          "candidate": "cough_context_real_02_region_01"
         }
       ]
     },
