@@ -1,0 +1,20 @@
+{
+  "pose": "manual 35-degree per-joint finger curl, local Z diagnostic; not extracted game animation",
+  "versions": {
+    "v8": {
+      "hand_edge_count": 6988,
+      "edge_ratio_p99": 2.430877144342444,
+      "edge_ratio_max": 4.206470925554938,
+      "edges_stretched_over_1_6": 576,
+      "edges_compressed_below_0_4": 132
+    },
+    "v9": {
+      "hand_edge_count": 6988,
+      "edge_ratio_p99": 1.2356818550165063,
+      "edge_ratio_max": 3.19178929298503,
+      "edges_stretched_over_1_6": 4,
+      "edges_compressed_below_0_4": 0
+    }
+  },
+  "runtime_tested": false
+}

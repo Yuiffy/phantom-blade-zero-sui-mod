@@ -1,0 +1,17 @@
+{
+  "baseline": "JK v8",
+  "hand_vertices_restored": 2342,
+  "hand_max_restore_cm": 5.652549743652344,
+  "distal_sleeve_vertices": 568,
+  "badges_rebound_to_thigh": 107,
+  "duplicate_strap_vertices_removed": 72,
+  "material_slots": 10,
+  "skeleton_exactly_unchanged": true,
+  "no_new_physics": true,
+  "vertices": 35459,
+  "triangles": 69117,
+  "bones": 264,
+  "fbx_sha256": "3bc39d26ae6c199359b4c97255974022ea0af1189155366cb50855769a9a1230",
+  "max_influences": 6,
+  "core_badges_rebound_before_ornament_replacement": 212
+}

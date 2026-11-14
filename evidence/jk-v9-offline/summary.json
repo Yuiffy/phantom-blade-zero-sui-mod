@@ -1,0 +1,20 @@
+{
+  "status": "offline-candidate-not-installed",
+  "baseline_installed_model": "JK v8",
+  "runtime_tested": false,
+  "manual_blender_poses_only": true,
+  "triangles": 69117,
+  "source_vertices": 35459,
+  "bones": 264,
+  "materials": 10,
+  "packages": 43,
+  "current_voice_untouched_by_this_task": true,
+  "source_contract_sha256": "8dd5245d669341bfa79d449091c827d6db79ea9833db8a4f59c234cf10fb2ef8",
+  "final_cooked_weights_error_after_UE_quantization": 0,
+  "final_VT_not_independently_decoded_to_pixels": true,
+  "user_feedback_implemented": [
+    "join cat head/body and enlarge body",
+    "remove messy stocking colors above wings"
+  ],
+  "local_mod_archive_not_published": true
+}

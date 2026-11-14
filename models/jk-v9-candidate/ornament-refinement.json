@@ -1,0 +1,352 @@
+{
+  "reference": "original single ponytail outfit art, 9245208a attachment",
+  "removed_v8_components": [
+    9,
+    18,
+    19,
+    26,
+    27,
+    33,
+    37,
+    58,
+    60,
+    62,
+    68
+  ],
+  "preserved_vertices": 32912,
+  "preserved_triangles": 64167,
+  "added_vertices": 2547,
+  "added_triangles": 4950,
+  "components": {
+    "100": "stocking feather wings and gold heart; thigh_l",
+    "101": "backpack cat charm, bow and loop; spine_04"
+  },
+  "new_parts": [
+    {
+      "label": "wing--1-feather-0",
+      "component": 100,
+      "vertices": 86,
+      "triangles": 168,
+      "weights": {
+        "thigh_l": 1.0
+      }
+    },
+    {
+      "label": "wing--1-feather-1",
+      "component": 100,
+      "vertices": 86,
+      "triangles": 168,
+      "weights": {
+        "thigh_l": 1.0
+      }
+    },
+    {
+      "label": "wing--1-feather-2",
+      "component": 100,
+      "vertices": 86,
+      "triangles": 168,
+      "weights": {
+        "thigh_l": 1.0
+      }
+    },
+    {
+      "label": "wing--1-feather-3",
+      "component": 100,
+      "vertices": 86,
+      "triangles": 168,
+      "weights": {
+        "thigh_l": 1.0
+      }
+    },
+    {
+      "label": "wing-1-feather-0",
+      "component": 100,
+      "vertices": 86,
+      "triangles": 168,
+      "weights": {
+        "thigh_l": 1.0
+      }
+    },
+    {
+      "label": "wing-1-feather-1",
+      "component": 100,
+      "vertices": 86,
+      "triangles": 168,
+      "weights": {
+        "thigh_l": 1.0
+      }
+    },
+    {
+      "label": "wing-1-feather-2",
+      "component": 100,
+      "vertices": 86,
+      "triangles": 168,
+      "weights": {
+        "thigh_l": 1.0
+      }
+    },
+    {
+      "label": "wing-1-feather-3",
+      "component": 100,
+      "vertices": 86,
+      "triangles": 168,
+      "weights": {
+        "thigh_l": 1.0
+      }
+    },
+    {
+      "label": "stocking gold heart pin",
+      "component": 100,
+      "vertices": 122,
+      "triangles": 240,
+      "weights": {
+        "thigh_l": 1.0
+      }
+    },
+    {
+      "label": "cat head",
+      "component": 101,
+      "vertices": 314,
+      "triangles": 624,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat outer ear",
+      "component": 101,
+      "vertices": 11,
+      "triangles": 18,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat pink inner ear",
+      "component": 101,
+      "vertices": 11,
+      "triangles": 18,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat eye",
+      "component": 101,
+      "vertices": 86,
+      "triangles": 168,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat eye catchlight",
+      "component": 101,
+      "vertices": 42,
+      "triangles": 80,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat blush",
+      "component": 101,
+      "vertices": 86,
+      "triangles": 168,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat whisker",
+      "component": 101,
+      "vertices": 14,
+      "triangles": 24,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat whisker",
+      "component": 101,
+      "vertices": 14,
+      "triangles": 24,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "pink bow lobe",
+      "component": 101,
+      "vertices": 20,
+      "triangles": 36,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "bow fold",
+      "component": 101,
+      "vertices": 20,
+      "triangles": 36,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat outer ear",
+      "component": 101,
+      "vertices": 11,
+      "triangles": 18,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat pink inner ear",
+      "component": 101,
+      "vertices": 11,
+      "triangles": 18,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat eye",
+      "component": 101,
+      "vertices": 86,
+      "triangles": 168,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat eye catchlight",
+      "component": 101,
+      "vertices": 42,
+      "triangles": 80,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat blush",
+      "component": 101,
+      "vertices": 86,
+      "triangles": 168,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat whisker",
+      "component": 101,
+      "vertices": 14,
+      "triangles": 24,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat whisker",
+      "component": 101,
+      "vertices": 14,
+      "triangles": 24,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "pink bow lobe",
+      "component": 101,
+      "vertices": 20,
+      "triangles": 36,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "bow fold",
+      "component": 101,
+      "vertices": 20,
+      "triangles": 36,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat triangle nose",
+      "component": 101,
+      "vertices": 11,
+      "triangles": 18,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat mouth left",
+      "component": 101,
+      "vertices": 20,
+      "triangles": 36,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat mouth right",
+      "component": 101,
+      "vertices": 14,
+      "triangles": 24,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "continuous cat neck",
+      "component": 101,
+      "vertices": 146,
+      "triangles": 288,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "cat drop body",
+      "component": 101,
+      "vertices": 222,
+      "triangles": 440,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "bow gold heart",
+      "component": 101,
+      "vertices": 122,
+      "triangles": 240,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "charm attachment loop",
+      "component": 101,
+      "vertices": 266,
+      "triangles": 528,
+      "weights": {
+        "spine_04": 1.0
+      }
+    },
+    {
+      "label": "small lower gold clasp",
+      "component": 101,
+      "vertices": 14,
+      "triangles": 24,
+      "weights": {
+        "spine_04": 1.0
+      }
+    }
+  ],
+  "no_new_bones_or_physics": true,
+  "new_material": "MI_JK_Ivory; same native parent in game"
+}

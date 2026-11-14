@@ -6,6 +6,8 @@
 
 公开 Release 仍是来自 Yuiffy/my-pixijs-game 的旧衣服粗模。本地新衣 JK 当前安装的是 [v8](models/jk-v8-candidate/README.md)：真实白领口缩短，上身收窄并调整头身比例；最终容器已独立读回，安装后逐件核对哈希。用户提供了游戏内截图，确认模型已显示，同时指出裙子粉色斑、悬空吊带、袜口和手指形变问题。该反馈不代表全流程、所有武器或稳定性测试通过，见 [v8 实测反馈](evidence/jk-v8-offline/runtime-feedback.json)。
 
+另有 [v9 离线候选](models/jk-v9-candidate/README.md)：恢复手指与原骨骼转轴的对齐、清理裙子/后背串色和多余吊带，并参照立绘细化袜子羽翼与背带白猫；已处理预览中猫身体偏小和头身分离的问题。最终容器和 cooked 蒙皮已独立读回，**未安装、未游戏实测**；当前安装模型仍为 v8。见 [饰件对照](evidence/jk-v9-offline/ornaments-v8-v9.jpg) 和 [检查数据](evidence/jk-v9-offline/summary.json)。
+
 ## 安装模型
 
 从本仓库 **Releases** 下载 `Sui_HeiShang_Model_v1.0.0.zip`，解压。关闭游戏，将 `mod/` 下同名的 `.pak`、`.utoc`、`.ucas` 三件套放入：

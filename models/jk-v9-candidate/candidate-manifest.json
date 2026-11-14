@@ -1,0 +1,245 @@
+{
+  "status": "offline-candidate-not-installed",
+  "baseline": "v8",
+  "game_build": "26367565",
+  "target": "adult Hun, black-wound-escape",
+  "runtime_tested": false,
+  "files": {
+    "models/jk-v9-candidate/adjust_v9.py": {
+      "bytes": 5195,
+      "sha256": "ae2d0270415c5886afbd86133fb323575f5b00006f4b27fd7cffbbe65ba0d655"
+    },
+    "models/jk-v9-candidate/audit_bound_model.py": {
+      "bytes": 3447,
+      "sha256": "cd35e27969896cab4dc25f1a6d5812d816b5efed4b2edfba835b0b9dc7a8c583"
+    },
+    "models/jk-v9-candidate/binding-report.json": {
+      "bytes": 524,
+      "sha256": "25410cc77c33af6814c09dd911363116b71c3719778faabc912f04ff54b2d3fd"
+    },
+    "models/jk-v9-candidate/build_candidate.py": {
+      "bytes": 584,
+      "sha256": "efcaa67653cdeba973255cf1374f0c5b538bb9792a850467dcb2d5b15e932554"
+    },
+    "models/jk-v9-candidate/compare_v9.py": {
+      "bytes": 1753,
+      "sha256": "14ae3126678c33b98758211251639ccc113ab236c1d8301deb62f524ba11f107"
+    },
+    "models/jk-v9-candidate/deliver_v9.py": {
+      "bytes": 8417,
+      "sha256": "08a3c514b24158757563785bf90cf938c8f7acdf65d85a59f46ee9ff054dfffb"
+    },
+    "models/jk-v9-candidate/export_atlas_provenance.py": {
+      "bytes": 668,
+      "sha256": "3f2328ad4d9ec739ec25f317a0e44130c0be9a16b1d8472a2409004278fb9149"
+    },
+    "models/jk-v9-candidate/finish_build.py": {
+      "bytes": 543,
+      "sha256": "3b50628315d57c6536d9dc7e847591f0d404fd9cd772b0210d0366d8b2b8f0c0"
+    },
+    "models/jk-v9-candidate/game-materials.json": {
+      "bytes": 2507,
+      "sha256": "3855397d15350386d41049a47bf283697bc0a93fb165397673a8091de9967876"
+    },
+    "models/jk-v9-candidate/import_mod_ue.py": {
+      "bytes": 5405,
+      "sha256": "b3574ea522e6b07a0d51737ee7003ef07d108e17a8fcbf39f781556b70e78220"
+    },
+    "models/jk-v9-candidate/measure_motion.py": {
+      "bytes": 1679,
+      "sha256": "bea91482da2532a6e4ab715f790cf67d6de49df3d570f8a6a4f95630edd8f4c1"
+    },
+    "models/jk-v9-candidate/model-audit.json": {
+      "bytes": 607,
+      "sha256": "ce528ab09626a64d9b894dd05b955730ed483dda96fbd043571b3048e97a5ecb"
+    },
+    "models/jk-v9-candidate/offline_tools.py": {
+      "bytes": 2217,
+      "sha256": "f2a0091edb98d4e79ddf60ed20ce1f798d9cc2eb0d08afab58583434908bb76f"
+    },
+    "models/jk-v9-candidate/ornament-refinement.json": {
+      "bytes": 6571,
+      "sha256": "c60aa34cae75e72f6cdd23fdc402be1059cf275d20171ba0951ad68e36cada14"
+    },
+    "models/jk-v9-candidate/package_mod.py": {
+      "bytes": 6475,
+      "sha256": "ec035893b9a4447db49b6a83c3844670e93f08d78852fa5ce8c8912b0ce7d2c6"
+    },
+    "models/jk-v9-candidate/prepare_mod.py": {
+      "bytes": 2419,
+      "sha256": "f5383e29f99974190231f4f1586b6688f42e3a0d27acbf881f26f1e7de7e578a"
+    },
+    "models/jk-v9-candidate/publish_v9_sources.py": {
+      "bytes": 4525,
+      "sha256": "204d960d74ac2dc9678ae9c7265275e83173a383b77095bc3f1b20324c58afde"
+    },
+    "models/jk-v9-candidate/README.md": {
+      "bytes": 4615,
+      "sha256": "332999b4f0780ce5932a87d090582bef7b6e1b3ce39d49fd05c59f20d74d5f97"
+    },
+    "models/jk-v9-candidate/refine_ornaments.py": {
+      "bytes": 10964,
+      "sha256": "1984880a167f960e4f77df6fe5d4274c0cdf197ae0771e65541266f06bd51696"
+    },
+    "models/jk-v9-candidate/refresh_texture.py": {
+      "bytes": 490,
+      "sha256": "95bb4674bdd470a36a9f2947471029e1cd9dbc32786380b11ba5cefd95184059"
+    },
+    "models/jk-v9-candidate/render_details.py": {
+      "bytes": 847,
+      "sha256": "82b81ba96ba4b279d95f550a58ddd60eea1a40dbc1aefae20b50131b78a30e08"
+    },
+    "models/jk-v9-candidate/render_final.py": {
+      "bytes": 750,
+      "sha256": "59d6f82cf6f225c5489cba5f477eb04ad7a42838070ca2e922a237ed9bfb2317"
+    },
+    "models/jk-v9-candidate/render_ornaments.py": {
+      "bytes": 905,
+      "sha256": "3f0e2ed9689dd9693087255df01b77d572fc07a017ecc6d82c60de427e4441a6"
+    },
+    "models/jk-v9-candidate/repair_atlas.py": {
+      "bytes": 10108,
+      "sha256": "93580fbe484ed1722648f9c4aa0367c141ec290a0d531c6985654e9413660292"
+    },
+    "models/jk-v9-candidate/review_motion.py": {
+      "bytes": 1860,
+      "sha256": "ac1cc6a4c8402ad93ebaee9eac90eeb8cf691feafa1a9ab30c828e69d1fd91d4"
+    },
+    "models/jk-v9-candidate/run_blender.py": {
+      "bytes": 687,
+      "sha256": "084eb8a750c596af680f5854020117c390088e7cf65f97379882b2d126e68e40"
+    },
+    "models/jk-v9-candidate/run_ue.py": {
+      "bytes": 1180,
+      "sha256": "91402de582c7f89c6509a998363f8de9bb7ba1a20621589a4724db5a02c02f99"
+    },
+    "models/jk-v9-candidate/scope-check.json": {
+      "bytes": 784,
+      "sha256": "106f3111e34a941ed2ffe442b48dfc8933ad535f793744d452ed5ce925b1ed80"
+    },
+    "models/jk-v9-candidate/sui-jk-hun-bound.blend": {
+      "bytes": 18662614,
+      "sha256": "21d0a1d78ad7661527a0fe7c5582b3877a37455f30cc33045f33322c123b365a"
+    },
+    "models/jk-v9-candidate/Sui_JK_Hun_Body.fbx": {
+      "bytes": 3079516,
+      "sha256": "3bc39d26ae6c199359b4c97255974022ea0af1189155366cb50855769a9a1230"
+    },
+    "models/jk-v9-candidate/textures/sui-jk-albedo-v9.png": {
+      "bytes": 15364453,
+      "sha256": "c8aae790ab4f7507bfe7cf60f06d1d1b081a596b46dc330d4e9a76c6384c00be"
+    },
+    "models/jk-v9-candidate/v7_helpers.py": {
+      "bytes": 15270,
+      "sha256": "c4eca02212b6aaa69160c7d4066377183a9f85e306514d4194d7df9f1265dfe5"
+    },
+    "models/jk-v9-candidate/verify_mod.py": {
+      "bytes": 11349,
+      "sha256": "375b291e90a2829c05d8d040aa0d4a38a7325a29237fcc7ffe0757111dc0a1a7"
+    },
+    "models/jk-v9-candidate/verify_scope.py": {
+      "bytes": 4031,
+      "sha256": "022a299c8e2b1b9198b3bba7b91821440a7a042af20b1886d7f5c18fc7c1180b"
+    },
+    "models/jk-v9-candidate/verify_texture_chain.py": {
+      "bytes": 1721,
+      "sha256": "9d981e3969b6d884ec5cec36c3c7452b8c8d9e7c49aaae566ea0952295491243"
+    },
+    "evidence/jk-v9-offline/atlas-repair.json": {
+      "bytes": 1712,
+      "sha256": "fe8599430d4f72d23d0ca30e47cd17732e68f35d1bb8829992b4248d8d040866"
+    },
+    "evidence/jk-v9-offline/binding-report.json": {
+      "bytes": 524,
+      "sha256": "25410cc77c33af6814c09dd911363116b71c3719778faabc912f04ff54b2d3fd"
+    },
+    "evidence/jk-v9-offline/bound-back.png": {
+      "bytes": 881743,
+      "sha256": "f2dbd37ccba077ea1e07bef6f3d2479d412a4ce8a01b7d168adbd59286c9568f"
+    },
+    "evidence/jk-v9-offline/bound-front.png": {
+      "bytes": 945777,
+      "sha256": "61fba4959e01a734237c37fc904271ae9a0ecbe38addb6935d422dfd605a5455"
+    },
+    "evidence/jk-v9-offline/bound-side.png": {
+      "bytes": 898945,
+      "sha256": "04553d082c804707e2430b22e7cc1fb70a6ed534a7357d8857fa41d476a3a7d1"
+    },
+    "evidence/jk-v9-offline/charm-v8-v9.jpg": {
+      "bytes": 139441,
+      "sha256": "e2e0ce516820ac223202df45da56d6f86de966e4f48152e1e810a8932b014164"
+    },
+    "evidence/jk-v9-offline/front-thigh-v8-v9.jpg": {
+      "bytes": 102996,
+      "sha256": "00e340476eba940aca656cf10fde524aab534f2f31901786095a9f605fb179a3"
+    },
+    "evidence/jk-v9-offline/hand-curl-v8-v9.jpg": {
+      "bytes": 57804,
+      "sha256": "0d846ec67d14c5a911bfa52cdf5ea55b9fd502082b48084281f63a96141d0c69"
+    },
+    "evidence/jk-v9-offline/installed-state.json": {
+      "bytes": 1217,
+      "sha256": "aca630eb7dd7e11a5a5512747d23ee349b53fd79def953ee514cde3f009f3450"
+    },
+    "evidence/jk-v9-offline/legs-splayed-v8-v9.jpg": {
+      "bytes": 106304,
+      "sha256": "fc96210c3fabdeab3093f19ab1a22550ea23858f5090f1cdb79d96cc60c03b6a"
+    },
+    "evidence/jk-v9-offline/model-audit.json": {
+      "bytes": 607,
+      "sha256": "ce528ab09626a64d9b894dd05b955730ed483dda96fbd043571b3048e97a5ecb"
+    },
+    "evidence/jk-v9-offline/motion-comparison.json": {
+      "bytes": 577,
+      "sha256": "383661361062f0b7b198f1dabb2b5b9eb6693c767568617ced592d081407d028"
+    },
+    "evidence/jk-v9-offline/ornament-refinement.json": {
+      "bytes": 6571,
+      "sha256": "c60aa34cae75e72f6cdd23fdc402be1059cf275d20171ba0951ad68e36cada14"
+    },
+    "evidence/jk-v9-offline/ornaments-v8-v9.jpg": {
+      "bytes": 263371,
+      "sha256": "3019501d17036feb0c35d923933beb322f579b056002f93b2f81ff3137e916e7"
+    },
+    "evidence/jk-v9-offline/rear-hem-v8-v9.jpg": {
+      "bytes": 82471,
+      "sha256": "efd1cc1fb43d2883e91bb2ccc62eeaf2af34d1c96e3cc5a877067dae4eca27f0"
+    },
+    "evidence/jk-v9-offline/scope-check.json": {
+      "bytes": 784,
+      "sha256": "106f3111e34a941ed2ffe442b48dfc8933ad535f793744d452ed5ce925b1ed80"
+    },
+    "evidence/jk-v9-offline/skin-verification.json": {
+      "bytes": 887,
+      "sha256": "d0cb539021f9c2e8b92ac00aeded79ab354d18d972da07185079e835c0a09bcd"
+    },
+    "evidence/jk-v9-offline/summary.json": {
+      "bytes": 684,
+      "sha256": "7c232ae2134657a71c107d1c68e6898caaf1f981e4fd22702277d34a763ec453"
+    },
+    "evidence/jk-v9-offline/texture-chain.json": {
+      "bytes": 851,
+      "sha256": "6686881c47edce66675e8b2b086fa815c22a741c6aa7ad642773c4a9457d4df6"
+    },
+    "evidence/jk-v9-offline/v8-v9-detail-comparison.jpg": {
+      "bytes": 348264,
+      "sha256": "1588c04727baf5de861f226d938f2e60a7fbb81ea21887e217d2d675a9afc1cc"
+    },
+    "evidence/jk-v9-offline/v9-charm-detail.png": {
+      "bytes": 968644,
+      "sha256": "a2aae90a94205910b8df624f5965e30545ee25ca58571626fa3dc0bd8fe23e20"
+    },
+    "evidence/jk-v9-offline/v9-wing-detail.png": {
+      "bytes": 900105,
+      "sha256": "caab99d1d9f1a25be1ca9c25040a44e527cd9fb0062e1828f65123149c72c683"
+    },
+    "evidence/jk-v9-offline/verification.json": {
+      "bytes": 381,
+      "sha256": "fd80b5478313972411c8e4c5133d5ddba770f595a75ae94deb16ec2d8ef06ab2"
+    },
+    "evidence/jk-v9-offline/wing-v8-v9.jpg": {
+      "bytes": 125200,
+      "sha256": "e9f91b7373054899c7b5c84c474be74a3d7b4fb48f296b78f2e171437ce769c1"
+    }
+  }
+}

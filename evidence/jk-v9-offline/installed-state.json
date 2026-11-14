@@ -1,0 +1,38 @@
+{
+  "checked_read_only": true,
+  "installed_model": "JK v8",
+  "voice_observed": "Reviewed v4; not modified or validated by this model task",
+  "game_started_or_stopped": false,
+  "files": [
+    {
+      "name": "z_Sui_HeiShang_JK_v8_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_HeiShang_JK_v8_P.ucas",
+      "bytes": 19817950,
+      "sha256": "23c0059f9c080ba2ef7c599089c5dbe7b99b827ebea2a865024810f483bce11f"
+    },
+    {
+      "name": "z_Sui_HeiShang_JK_v8_P.utoc",
+      "bytes": 9918,
+      "sha256": "a35ffcecde0d8c7237af568d5ce9afdc79937314426d4566ab5141bafe5969ce"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Reviewed_v4_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Reviewed_v4_P.ucas",
+      "bytes": 1255811653,
+      "sha256": "b9e7328dcf45ccbd2a7bec6738fc67ae9899a0799574c9cd8905ef7d6917c5a7"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Reviewed_v4_P.utoc",
+      "bytes": 232008,
+      "sha256": "6ca1aaa633a6cea9e9b003ddc728aec7ec8b1ad1a45a11a96aa10437e832b366"
+    }
+  ]
+}

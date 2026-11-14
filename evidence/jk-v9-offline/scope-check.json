@@ -1,0 +1,29 @@
+{
+  "baseline": "JK v8",
+  "skeleton_parent_and_matrices_exactly_equal": true,
+  "surviving_topology_uv_material_indices_exactly_equal": true,
+  "removed_components": [
+    9,
+    18,
+    19,
+    26,
+    27,
+    33,
+    37,
+    44,
+    58,
+    60,
+    62,
+    68
+  ],
+  "removed_vertices": 2144,
+  "added_ornament_vertices": 2547,
+  "added_ornament_triangles": 4950,
+  "new_ornaments_confined_to_attachment_bounds_and_bones": true,
+  "moved_vertices": 2910,
+  "weight_changed_vertices": 107,
+  "preserved_positions_only_hands_and_distal_sleeves_changed": true,
+  "preserved_weights_only_hands_or_stocking_badges_changed": true,
+  "head_neck_shoulders_skirt_leg_geometry_unchanged": true,
+  "source_contract_sha256": "8dd5245d669341bfa79d449091c827d6db79ea9833db8a4f59c234cf10fb2ef8"
+}
