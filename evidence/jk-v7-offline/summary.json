@@ -2,7 +2,7 @@
  "candidate": "jk-v7",
  "date": "2026-11-15",
  "game_build": "26367565",
- "installed": false,
+ "installed": true,
  "runtime_tested": false,
  "source": "models/jk-v6-candidate/sui-jk-hun-bound.blend",
  "build_script": "models/jk-v7-candidate/adjust_v7.py",
@@ -34,7 +34,10 @@
    "neck_stripped": 217,
    "neck_regraded": 1834,
    "hem_fixed": 0
-  }
+  },
+  "render_vertices_ue": 62604,
+  "fbx_sha256": "866666143e1099c6ca905a767e35c118b6213aa236773e5fdf230f98061bad45",
+  "custom_normals_note": "per-vertex rotation keeps the authored normal sharing; per-face rotation had inflated render vertices from 62,599 to 96,202"
  },
  "comparison": {
   "shoulder_width_cm": [
@@ -96,5 +99,36 @@
   "v6-v7-front.png",
   "v6-v7-hem-back.png",
   "v6-v7-nape-turn.png"
- ]
+ ],
+ "installed_at_asia_shanghai": "2026-11-15 05:04:08",
+ "install": {
+  "mods_directory": "F:/FGames/steam/steamapps/common/PBZ/ProjectPBZ/Content/Paks/~mods",
+  "replaced": "z_Sui_HeiShang_JK_v6_P",
+  "backup": "ai-video-workflow/outputs/phantom-blade-zero-sui/installations/new-jk-v7-20261115-050408/old-model",
+  "voice_pak_untouched": true,
+  "container": [
+   {
+    "name": "z_Sui_HeiShang_JK_v7_P.pak",
+    "bytes": 347,
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+   },
+   {
+    "name": "z_Sui_HeiShang_JK_v7_P.ucas",
+    "bytes": 18189508,
+    "sha256": "fd6ebf729e6fc05a26292aca5182f89f0ac34d2ad52efdfbd3e9b7bc0fe674f2"
+   },
+   {
+    "name": "z_Sui_HeiShang_JK_v7_P.utoc",
+    "bytes": 9630,
+    "sha256": "5cbfb97adc6ee96bf9b23b469e51074bc10895eb4d2bdfd22cdfab0fc9f67616"
+   }
+  ],
+  "verification": {
+   "container_semantics": "independent-container-semantics-passed",
+   "cooked_render_vertices": 62604,
+   "source_vertices_matched": 35056,
+   "max_position_error_cm": 3.5546317616080905e-05,
+   "max_weight_error_after_UE_quantization": 0
+  }
+ }
 }

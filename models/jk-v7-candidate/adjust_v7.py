@@ -18,7 +18,7 @@ physics, no pose baked into the asset) plus surgical weight repair:
 import bpy, json, hashlib, math
 import numpy as np
 from pathlib import Path
-from mathutils import Vector
+from mathutils import Vector, Quaternion
 
 ROOT = Path(__file__).resolve().parent
 SRC = ROOT.parent / 'jk-v6-candidate' / 'sui-jk-hun-bound.blend'
@@ -249,29 +249,47 @@ def write_weights(ob, W):
 def fix_custom_normals(me, co_rest, co_new):
     """Rotate the author's custom split normals with the deformation.
 
-    The mesh keeps authored corner normals; after moving up to 5.6 cm they no
+    The mesh keeps authored corner normals; after moving up to 7.2 cm they no
     longer match the surface and read as hard shading edges on the shoulders.
-    Each loop's normal is rotated by the minimal rotation that takes its face's
-    rest normal to its deformed normal.
+
+    The rotation is accumulated PER VERTEX, not per corner. Rotating each loop by
+    its own face's rotation makes the loops of one vertex diverge, and the FBX
+    importer then has to split that vertex once per distinct normal: the v7
+    build went from 62,599 to 96,202 render vertices that way, i.e. the whole
+    mesh drifted towards flat shading. Averaging the face rotations onto the
+    vertex keeps the author's original normal sharing pattern bit for bit.
     """
     if not me.has_custom_normals:
         return 0
     old = [c.vector.copy() for c in me.corner_normals]
-    polys = [(p.loop_start, p.loop_total, list(p.vertices[:3])) for p in me.polygons]
-    out = [None] * len(me.loops)
-    for start, total, tri in polys:
-        a, b, c = tri
-        n0 = (Vector(co_rest[b]) - Vector(co_rest[a])).cross(
-            Vector(co_rest[c]) - Vector(co_rest[a]))
-        n1 = (Vector(co_new[b]) - Vector(co_new[a])).cross(
-            Vector(co_new[c]) - Vector(co_new[a]))
+    rest = [Vector(v) for v in co_rest]
+    new = [Vector(v) for v in co_new]
+    nv = len(me.vertices)
+    acc = np.zeros((nv, 4))          # w, x, y, z
+    seeded = np.zeros(nv, bool)
+    for p in me.polygons:
+        a, b, c = p.vertices[:3]
+        n0 = (rest[b] - rest[a]).cross(rest[c] - rest[a])
+        n1 = (new[b] - new[a]).cross(new[c] - new[a])
         if n0.length < 1e-9 or n1.length < 1e-9:
-            for i in range(start, start + total):
-                out[i] = old[i]
             continue
         q = n0.normalized().rotation_difference(n1.normalized())
-        for i in range(start, start + total):
-            out[i] = (q @ old[i]).normalized()
+        qv = np.array([q.w, q.x, q.y, q.z])
+        for vi in p.vertices:
+            if not seeded[vi]:
+                acc[vi] = qv
+                seeded[vi] = True
+            else:
+                # q and -q are the same rotation; keep the accumulator coherent
+                acc[vi] += qv if acc[vi] @ qv >= 0.0 else -qv
+    norms = np.linalg.norm(acc, axis=1)
+    rots = [None] * nv
+    for vi in range(nv):
+        rots[vi] = Quaternion((1.0, 0.0, 0.0, 0.0)) if norms[vi] < 1e-9 \
+            else Quaternion((acc[vi] / norms[vi]).tolist())
+    out = [None] * len(me.loops)
+    for i, lp in enumerate(me.loops):
+        out[i] = (rots[lp.vertex_index] @ old[i]).normalized()
     me.normals_split_custom_set(out)
     return len(out)
 

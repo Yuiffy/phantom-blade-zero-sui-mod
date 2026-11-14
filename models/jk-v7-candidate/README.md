@@ -1,7 +1,7 @@
 # 岁己 JK v7：肩颈权重修复、颈长与外套下摆衔接
 
 日期：2026-11-15。PBZ build 26367565，成年魂「黑伤（逃亡）」。
-状态：**候选，未安装、未实机验证**。v2 仍是已安装版本。仅本地提交，不推送、不发布。
+状态：**已安装，未实机验证**。2026-11-15 05:04:08 换下了已安装的 v6，游戏内尚未启动测试。仅本地提交，不推送、不发布。
 
 在 v6 bound 模型上做的参数化形变与蒙皮修复，源 `../jk-v6-candidate/sui-jk-hun-bound.blend`。
 顶点数、三角面、骨数、材质、UV、贴图全部未变（35,056 / 68,347 / 264 / 9），可直接替换 v6 的 bound 产物。
@@ -32,7 +32,8 @@ v6 的肩颈不是「造型不好看」，而是三处可量化的绑定与比�
 - 肩顶 `|x|>16` 以上的 `neck_01/neck_02` 渐隐，交给 `spine_05` 与 `clavicle`（`neck_stripped=217`）。
 - 可见颈部按 `spine_05 → neck_01 → neck_02 → head` 重做渐变，只作用在 `source_component==0` 的皮肤上（`neck_regraded=1834`）。
 - 领子与领结额外挂 0.55 的 `neck_01`，转头时跟着脖子走而不是飘开。
-- 形变后按面旋转每个 loop 的自定义法线，避免 5.6 cm 位移后作者法线与曲面不符而出现硬边（修复 205,041 个 loop）。
+- 形变后按面旋转每个 loop 的自定义法线，避免位移后作者法线与曲面不符而出现硬边（205,041 个 loop）。
+  旋转**按顶点累加**，不是按面：按面旋转会让同一顶点在不同面上的法线分叉，FBX 导入器只能逐法线拆点，v7 的 UE 渲染顶点一度从 62,599 涨到 96,202，等于整模型往平面着色漂。改成按顶点平均后回到 62,604。
 
 ## 与 v6 的实测差异
 
@@ -73,6 +74,20 @@ v6 的肩颈不是「造型不好看」，而是三处可量化的绑定与比�
 - `compare_art.py`：与立绘的等比例三栏对照，三个面板都由各自剪影自动标定（发顶→脚底等长、体轴对齐）。
 - `shots/compare-art-v6-v7.png`、`shots/compare-art-overlay.png`：对照图与叠加图。
 
-## 安装
+## 安装记录
 
-不要直接用本目录替换游戏文件。走 v6 的安装路径（`variants/new-jk-v6/install-verified.ps1` 那套检查：游戏进程、build、三件套哈希、v2 备份），把 bound 三件套换成本目录的产物，并在实机确认后再决定是否升为默认版本。本目录不包含安装脚本。
+2026-11-15 05:04:08 装入 `F:/FGames/steam/steamapps/common/PBZ/ProjectPBZ/Content/Paks/~mods`，换下 v6。脚本 `variants/new-jk-v7/install-verified.ps1`（本机 ai-video-workflow 工作区，不在本仓库）在安装前校验：游戏进程为 0、Steam buildid 仍为 26367565、v6 三件套哈希与本机 v6 构建记录一致、待装文件哈希与 v7 构建记录一致；安装时把 v6 三件套移到备份目录后逐个校验，最后核对语音包与其他文件字节未变，任何一步不符则整体回滚。
+
+| 文件 | 字节 | SHA256 |
+| --- | --- | --- |
+| `z_Sui_HeiShang_JK_v7_P.pak` | 347 | `75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd` |
+| `z_Sui_HeiShang_JK_v7_P.ucas` | 18,189,508 | `fd6ebf729e6fc05a26292aca5182f89f0ac34d2ad52efdfbd3e9b7bc0fe674f2` |
+| `z_Sui_HeiShang_JK_v7_P.utoc` | 9,630 | `5cbfb97adc6ee96bf9b23b469e51074bc10895eb4d2bdfd22cdfab0fc9f67616` |
+
+回退：把 `installations/new-jk-v7-20261115-050408/old-model/` 里的 v6 三件套复制回 `~mods` 即可，v7 三件套需先移走。语音包 `z_Sui_Hun_NaturalVoice_Library_v3_P` 全程未动。
+
+容器核验（独立读回 40 个资源）：骨架 264 骨，平移误差 0.003062 cm、旋转 0.013160 度；cooked 62,604 个渲染顶点覆盖全部 35,056 个源顶点，位置最大误差 0.0000355 cm，按 UE 的 uint16 归一化加右移量化规则复算后权重误差为 0，8 个骨骼影响上限内。
+
+## 源文件与工具链
+
+容器由本机 ai-video-workflow 流水线生成：UE 5.7 无头导入 → `-run=Cook` → UnrealPak + retoc 组 IoStore → PbzExport 独立读回。驱动脚本 `adjust_v7.py` 只负责 Blender 侧的形变、权重与 FBX 导出；打包链依赖本机 UE 安装、合法提取模板与工具，不是独立一键环境。含游戏模板的容器只留本地。
