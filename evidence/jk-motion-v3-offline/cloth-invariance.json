@@ -1,0 +1,7 @@
+{
+  "status": "cloth-physical-mesh-config-masks-and-collisions-identical-to-v2",
+  "asset_count": 5,
+  "v3_three_motion_tests_rerun": true,
+  "identity_guids_not_compared": true,
+  "game_runtime_tested": false
+}

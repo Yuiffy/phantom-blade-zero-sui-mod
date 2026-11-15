@@ -1,0 +1,42 @@
+{
+  "status": "installed-hash-verified-runtime-pending",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1834,
+      "sha256": "cc66d57cab92a27d170d045e2635ebfaee29c77caa195c5666f18f42c2a2bddd"
+    },
+    {
+      "path": "render_shorts.py",
+      "bytes": 1137,
+      "sha256": "722d8db194fc1d43e1ecf6ef24cf011272d52c4fcc9982bb316f2fdd9e7723a2"
+    },
+    {
+      "path": "shorten-report.json",
+      "bytes": 852,
+      "sha256": "0dff2e94b121f313b3cb480ccfcf099d343daef5d2b56359952fdc7ff3a1f10f"
+    },
+    {
+      "path": "shorten_lining.py",
+      "bytes": 8555,
+      "sha256": "99d19d0c375fe07468afcafc007314043b5e203b71d4a58573569392dfb27613"
+    },
+    {
+      "path": "source-render-contract.json",
+      "bytes": 3967700,
+      "sha256": "48958148310e340526ec057d77ca95f6fb6c4e4ea3a41c326c79fd81bf8ccb73"
+    },
+    {
+      "path": "sui-jk-motion-source.blend",
+      "bytes": 17536111,
+      "sha256": "512019625586fa79ad326d09935fa98981cc736338ccd1b9cf2a725377fcb533"
+    },
+    {
+      "path": "Sui_JK_Hun_Body_Motion.fbx",
+      "bytes": 3128428,
+      "sha256": "79a76032ab4d4211fdb3c75d34fde15b4e933ebe1e0c47d0dc998ad9df55e693"
+    }
+  ],
+  "unchanged_textures": "../jk-motion-v2-candidate/textures",
+  "containers_kept_local": true
+}

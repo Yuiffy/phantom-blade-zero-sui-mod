@@ -1,0 +1,648 @@
+{
+  "basis": "actual-Chaos-output-cooked-GPU-mappings-reference-pose-only",
+  "before_rest_charm": {
+    "sampled_vertices": 1755,
+    "min_front_clearance_cm": 0.9193472862243652,
+    "vertices_behind_jacket_front": 0,
+    "clearance_p01_cm": 1.1650447368621826
+  },
+  "after_rest_charm": {
+    "sampled_vertices": 1755,
+    "min_front_clearance_cm": 0.9193472862243652,
+    "vertices_behind_jacket_front": 0,
+    "clearance_p01_cm": 1.1650447368621826
+  },
+  "game_animation_collision_unverified": true,
+  "tests": [
+    {
+      "test": "60hz",
+      "min_front_clearance_cm": 0.4348596656924002,
+      "max_vertices_behind_jacket_front": 0,
+      "frames": [
+        {
+          "step": 0,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        },
+        {
+          "step": 10,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.5751792822530888,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8377956329844148
+        },
+        {
+          "step": 20,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6703753909627332,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9338505410370771
+        },
+        {
+          "step": 30,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6794255060848435,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9308098556438246
+        },
+        {
+          "step": 40,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6861090021568854,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9308252652073622
+        },
+        {
+          "step": 50,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6903349797075027,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9320782348480808
+        },
+        {
+          "step": 60,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.692846912705936,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9335436467339857
+        },
+        {
+          "step": 70,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1640703945627522
+        },
+        {
+          "step": 80,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.7538229834124976,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9622387587981841
+        },
+        {
+          "step": 90,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.5507377011972334,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8092928108084334
+        },
+        {
+          "step": 100,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.46420699483837513,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.7019652794132873
+        },
+        {
+          "step": 110,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.4348596656924002,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.5773385151215144
+        },
+        {
+          "step": 120,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.47555206430173236,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.5928602177708735
+        },
+        {
+          "step": 130,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.5435657562388885,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.648633134887312
+        },
+        {
+          "step": 140,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6240688324964001,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8018956133134725
+        },
+        {
+          "step": 150,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.7748476900490511,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9957234566761669
+        },
+        {
+          "step": 160,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9122074548909378,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.0673749256134033
+        },
+        {
+          "step": 170,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.087267951965332
+        },
+        {
+          "step": 180,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.0919224133696874
+        },
+        {
+          "step": 190,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.0828885159576007
+        },
+        {
+          "step": 200,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.8893633499261435,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.0535578526038951
+        },
+        {
+          "step": 210,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.811958665729259,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.0097232271365713
+        },
+        {
+          "step": 220,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.7224397265378943,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.919052897937948
+        },
+        {
+          "step": 230,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6257550523053519,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8630650315413563
+        },
+        {
+          "step": 240,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.5399798804286053,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.7828149200362597
+        },
+        {
+          "step": 250,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.4612668627363039,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.7081030167764366
+        },
+        {
+          "step": 260,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.45986516661923194,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.7107353468315908
+        },
+        {
+          "step": 270,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.5375282116249522,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.7931047947609771
+        },
+        {
+          "step": 280,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6625874715548434,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9115136672334884
+        },
+        {
+          "step": 290,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.8419567899519915,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.0252436435610193
+        },
+        {
+          "step": 299,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.0822103605008855
+        }
+      ]
+    },
+    {
+      "test": "30hz",
+      "min_front_clearance_cm": 0.27657974249786044,
+      "max_vertices_behind_jacket_front": 0,
+      "frames": [
+        {
+          "step": 0,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        },
+        {
+          "step": 10,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.5523520831535098,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8149098454741867
+        },
+        {
+          "step": 20,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6030848287483979,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8748104181378533
+        },
+        {
+          "step": 30,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6090364876306049,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8690120416469233
+        },
+        {
+          "step": 40,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6128791967037746,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8697641927842849
+        },
+        {
+          "step": 50,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6143659690535888,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8704638976627092
+        },
+        {
+          "step": 60,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6149688170064849,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8708345356011407
+        },
+        {
+          "step": 70,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.0592872121004469
+        },
+        {
+          "step": 80,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.30001747758276487,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.4581937035557256
+        },
+        {
+          "step": 90,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.27657974249786044,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.41319047231138084
+        },
+        {
+          "step": 100,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.5381189332941361,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.6488690678776292
+        },
+        {
+          "step": 110,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1525103640514431
+        },
+        {
+          "step": 120,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1641740894317627
+        },
+        {
+          "step": 130,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.082223529815674
+        },
+        {
+          "step": 140,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6148138765024749,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8514457798601641
+        },
+        {
+          "step": 150,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.5940049725149024,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.7963733529008481
+        },
+        {
+          "step": 160,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.36497589830595434,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.5734782651504716
+        },
+        {
+          "step": 170,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.7912621985538042,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.014023896423666
+        },
+        {
+          "step": 179,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        }
+      ]
+    },
+    {
+      "test": "foreaft",
+      "min_front_clearance_cm": 0.1613123676800985,
+      "max_vertices_behind_jacket_front": 0,
+      "frames": [
+        {
+          "step": 0,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        },
+        {
+          "step": 10,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.5751792822530888,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8377956329844148
+        },
+        {
+          "step": 20,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6703753909627332,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9338505410370771
+        },
+        {
+          "step": 30,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6794255060848435,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9308098556438246
+        },
+        {
+          "step": 40,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6861090021568854,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9308252652073622
+        },
+        {
+          "step": 50,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6903349797075027,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9320782348480808
+        },
+        {
+          "step": 60,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.692846912705936,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9335436467339857
+        },
+        {
+          "step": 70,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.3519625450290125,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.612975703755601
+        },
+        {
+          "step": 80,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6493876139676962,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9121086151463617
+        },
+        {
+          "step": 90,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        },
+        {
+          "step": 100,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        },
+        {
+          "step": 110,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        },
+        {
+          "step": 120,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        },
+        {
+          "step": 130,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        },
+        {
+          "step": 140,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        },
+        {
+          "step": 150,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1145374741309657
+        },
+        {
+          "step": 160,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6880417177795719,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.971679220265032
+        },
+        {
+          "step": 170,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.3729992166891458,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8387773153636504
+        },
+        {
+          "step": 180,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.18558058460051186,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.7003727736542225
+        },
+        {
+          "step": 190,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.1613123676800985,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.6556673507436661
+        },
+        {
+          "step": 200,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.23578510150491727,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.6351086077929001
+        },
+        {
+          "step": 210,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.436924518091252,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.6821155626071047
+        },
+        {
+          "step": 220,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6529504103758823,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8706902515581982
+        },
+        {
+          "step": 230,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.0788388430624372
+        },
+        {
+          "step": 240,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        },
+        {
+          "step": 250,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        },
+        {
+          "step": 260,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.163900375366211
+        },
+        {
+          "step": 270,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.8610979126278462,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.0354224300384522
+        },
+        {
+          "step": 280,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.5309432132246021,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.8559051100551185
+        },
+        {
+          "step": 290,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.42121769155505184,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.6725283673150749
+        },
+        {
+          "step": 300,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.27999330473742745,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.634081176771049
+        },
+        {
+          "step": 310,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.3825332163972899,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.679562984787581
+        },
+        {
+          "step": 320,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.5090385078953066,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.751547813633816
+        },
+        {
+          "step": 330,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.6454824517380917,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 0.9042914072826354
+        },
+        {
+          "step": 340,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.841324057598694,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.0354224300384522
+        },
+        {
+          "step": 350,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        },
+        {
+          "step": 359,
+          "sampled_vertices": 1755,
+          "min_front_clearance_cm": 0.9193239212036133,
+          "vertices_behind_jacket_front": 0,
+          "clearance_p01_cm": 1.1650213718414306
+        }
+      ]
+    }
+  ]
+}

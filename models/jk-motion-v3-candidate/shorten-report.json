@@ -1,0 +1,23 @@
+{
+  "baseline": "motion-v2-user-reported-feels-good",
+  "change": "trim-independent-safety-shorts-lower-hem",
+  "old_hem_z_cm": 93.98548126220703,
+  "new_hem_z_cm": 100.0,
+  "hem_raised_cm": 6.014518737792969,
+  "old_lining_triangles": 1670,
+  "new_lining_triangles": 1420,
+  "old_total_triangles": 72305,
+  "total_triangles": 72055,
+  "visible_triangles": 68791,
+  "vertices": 37041,
+  "bones": 264,
+  "original_leg_positions_unchanged": true,
+  "unrelated_triangles_uv_weights_preserved": true,
+  "all_retained_positions_and_weights_preserved": true,
+  "unrelated_custom_normals_max_roundtrip_angle_degrees": 0.029008728235371997,
+  "original_sharp_edges_preserved": true,
+  "upper_lining_and_crotch_above_cut_preserved": true,
+  "new_boundary_weights_interpolated": true,
+  "cloth_geometry_and_materials_unchanged": true,
+  "runtime_tested": false
+}
