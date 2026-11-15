@@ -1,0 +1,70 @@
+{
+  "arm_segments": [
+    {
+      "side": "l",
+      "upperarm_old_cm": 36.31913793826353,
+      "upperarm_new_cm": 34.1399915169402,
+      "forearm_old_cm": 25.3964568122351,
+      "forearm_new_cm": 23.872671443168986,
+      "wrist_shift_cm": 3.619906686652385
+    },
+    {
+      "side": "r",
+      "upperarm_old_cm": 36.31911122712417,
+      "upperarm_new_cm": 34.13996666594332,
+      "forearm_old_cm": 25.396475888375303,
+      "forearm_new_cm": 23.87268454623082,
+      "wrist_shift_cm": 3.6199123920461775
+    }
+  ],
+  "head_lowered_cm": 3,
+  "neck_midpoint_lowered_cm": 1.5,
+  "hand_source": "installed JK motion v4, source components 4/5",
+  "donor_hand_vertices": 2342,
+  "wrist_bridge_triangles": 84,
+  "wrist_connections": [
+    {
+      "side": "l",
+      "forearm_boundary": 26,
+      "donor_boundary": 16
+    },
+    {
+      "side": "r",
+      "forearm_boundary": 26,
+      "donor_boundary": 16
+    }
+  ],
+  "hands_keep_size_and_finger_pivots": true,
+  "weapon_child_local_transforms_preserved": true,
+  "upper_hip_vertices_reweighted": 341,
+  "upperarm_skin_vertices_fuller": 189,
+  "sleeve_vertices_given_clearance": 2503,
+  "removed_wing_and_guide_vertices": 2376,
+  "physics_assets": 3,
+  "fbx_sha256": "deb643c68d653814f13b174174c147dec4618b54a3ed0560005afa7823b397af",
+  "game_runtime_tested": false,
+  "concealed_arm_skin_faces_removed": 205,
+  "sleeve_holes_closed": 2,
+  "hand_weight_repair": {
+    "basis": "constrained original anatomical influences; 35/70 degree curl and 45 degree curl with thumb",
+    "poses": [
+      {
+        "p99": 1.241112466069884,
+        "max": 1.4572750202631566,
+        "over1_6": 0
+      },
+      {
+        "p99": 1.5791668785127906,
+        "max": 2.207047522665125,
+        "over1_6": 64
+      },
+      {
+        "p99": 1.368637992893557,
+        "max": 1.7157071045161574,
+        "over1_6": 3
+      }
+    ],
+    "max_weight_delta": 0.13597155420366328,
+    "changed_vertices": 130
+  }
+}

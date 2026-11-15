@@ -1,0 +1,182 @@
+{
+  "basis": "manual Blender diagnostic poses, not extracted game animations",
+  "versions": [
+    {
+      "version": "before",
+      "hand_curls": [
+        {
+          "angle": 35,
+          "edges": 3643,
+          "edge_ratio_p99": 1.2312444166242436,
+          "edges_over_1_6": 0,
+          "max_ratio": 1.4616165476779786
+        },
+        {
+          "angle": 70,
+          "edges": 3643,
+          "edge_ratio_p99": 1.613562864574461,
+          "edges_over_1_6": 39,
+          "max_ratio": 2.100507520177148
+        }
+      ],
+      "sleeve_contacts": [
+        {
+          "raise": 0,
+          "samples": 1244,
+          "min_gap_cm": -3.2169012427330017,
+          "interpenetrating_samples": 198,
+          "p01_gap_cm": -2.4957694897055624
+        },
+        {
+          "raise": 45,
+          "samples": 1252,
+          "min_gap_cm": -4.052964970469475,
+          "interpenetrating_samples": 208,
+          "p01_gap_cm": -3.432494782805443
+        },
+        {
+          "raise": 65,
+          "samples": 1245,
+          "min_gap_cm": -4.281496822834015,
+          "interpenetrating_samples": 194,
+          "p01_gap_cm": -3.7627844268083575
+        },
+        {
+          "raise": 90,
+          "samples": 1245,
+          "min_gap_cm": -3.334664821624756,
+          "interpenetrating_samples": 189,
+          "p01_gap_cm": -2.9559014788269997
+        }
+      ],
+      "rear_skirt": [
+        {
+          "thigh_angles": [
+            0,
+            0
+          ],
+          "sampled_hip_points": 39,
+          "min_back_skirt_gap_cm": 3.0656700134277344,
+          "outside_skirt": 0
+        },
+        {
+          "thigh_angles": [
+            -45,
+            25
+          ],
+          "sampled_hip_points": 39,
+          "min_back_skirt_gap_cm": -4.279304504394531,
+          "outside_skirt": 8
+        },
+        {
+          "thigh_angles": [
+            25,
+            -45
+          ],
+          "sampled_hip_points": 39,
+          "min_back_skirt_gap_cm": -4.5983734130859375,
+          "outside_skirt": 8
+        },
+        {
+          "thigh_angles": [
+            -60,
+            40
+          ],
+          "sampled_hip_points": 39,
+          "min_back_skirt_gap_cm": -5.001136779785156,
+          "outside_skirt": 9
+        }
+      ]
+    },
+    {
+      "version": "after",
+      "hand_curls": [
+        {
+          "angle": 35,
+          "edges": 6752,
+          "edge_ratio_p99": 1.2341495671931682,
+          "edges_over_1_6": 0,
+          "max_ratio": 1.4572701691543668
+        },
+        {
+          "angle": 70,
+          "edges": 6752,
+          "edge_ratio_p99": 1.5532508235579763,
+          "edges_over_1_6": 47,
+          "max_ratio": 2.2070061883566905
+        }
+      ],
+      "sleeve_contacts": [
+        {
+          "raise": 0,
+          "samples": 116,
+          "min_gap_cm": -5.782931804656982,
+          "interpenetrating_samples": 35,
+          "p01_gap_cm": -4.951009702682495
+        },
+        {
+          "raise": 45,
+          "samples": 82,
+          "min_gap_cm": -1.1220531463623047,
+          "interpenetrating_samples": 11,
+          "p01_gap_cm": -1.0098915338516234
+        },
+        {
+          "raise": 65,
+          "samples": 69,
+          "min_gap_cm": -1.1014628410339355,
+          "interpenetrating_samples": 8,
+          "p01_gap_cm": -1.039267292022705
+        },
+        {
+          "raise": 90,
+          "samples": 54,
+          "min_gap_cm": -0.2928304672241211,
+          "interpenetrating_samples": 3,
+          "p01_gap_cm": -0.28449867248535154
+        }
+      ],
+      "rear_skirt": [
+        {
+          "thigh_angles": [
+            0,
+            0
+          ],
+          "sampled_hip_points": 41,
+          "min_back_skirt_gap_cm": 3.540555000305176,
+          "outside_skirt": 0
+        },
+        {
+          "thigh_angles": [
+            -45,
+            25
+          ],
+          "sampled_hip_points": 41,
+          "min_back_skirt_gap_cm": 3.540555000305176,
+          "outside_skirt": 0
+        },
+        {
+          "thigh_angles": [
+            25,
+            -45
+          ],
+          "sampled_hip_points": 41,
+          "min_back_skirt_gap_cm": 3.540555000305176,
+          "outside_skirt": 0
+        },
+        {
+          "thigh_angles": [
+            -60,
+            40
+          ],
+          "sampled_hip_points": 41,
+          "min_back_skirt_gap_cm": 3.540555000305176,
+          "outside_skirt": 0
+        }
+      ]
+    }
+  ],
+  "rear_patch_containment_passed": true,
+  "finger_edge_p99_under_1_6": true,
+  "game_runtime_tested": false
+}
