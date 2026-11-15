@@ -1,0 +1,45 @@
+{
+  "status": "authoring-source-prepared-see-separate-stage-reports",
+  "baseline": "v11-static-verified",
+  "no_new_bones": true,
+  "bones": 264,
+  "simulation_cages": [
+    {
+      "slot": "MI_JK_PonytailSim",
+      "component": 2001,
+      "vertices": 125,
+      "triangles": 192,
+      "render_section_must_be_removed_in_UE": true
+    },
+    {
+      "slot": "MI_JK_CharmSim",
+      "component": 2002,
+      "vertices": 546,
+      "triangles": 1088,
+      "render_section_must_be_removed_in_UE": true
+    },
+    {
+      "slot": "MI_JK_SkirtSim",
+      "component": 2003,
+      "vertices": 288,
+      "triangles": 512,
+      "render_section_must_be_removed_in_UE": true
+    },
+    {
+      "slot": "MI_JK_CardiganHemSim",
+      "component": 2004,
+      "vertices": 432,
+      "triangles": 768,
+      "render_section_must_be_removed_in_UE": true
+    },
+    {
+      "slot": "MI_JK_BackpackSim",
+      "component": 2005,
+      "vertices": 354,
+      "triangles": 704,
+      "render_section_must_be_removed_in_UE": true
+    }
+  ],
+  "legacy_clothing_runtime_in_PBZ_unverified": true,
+  "toolchain_prerequisite": "compatible MSVC and Windows SDK required; this host validated MSVC 14.44.35230, SDK 22621 and NetFx 4.8"
+}

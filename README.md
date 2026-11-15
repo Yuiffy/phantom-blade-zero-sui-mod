@@ -4,11 +4,11 @@
 
 2026-11-14，用户已报告 `native-shaders-v1` 模型实机成功。测试游戏为 Steam app **4115450**、build **26367565**。这不是全流程兼容性认证：战斗、武器、过场、长时间游玩仍需逐项验证；游戏更新后应重新核验。
 
-公开 Release 仍是来自 Yuiffy/my-pixijs-game 的旧衣服粗模。本地新衣 JK 当前安装的是 [v8](models/jk-v8-candidate/README.md)：真实白领口缩短，上身收窄并调整头身比例；最终容器已独立读回，安装后逐件核对哈希。用户提供了游戏内截图，确认模型已显示，同时指出裙子粉色斑、悬空吊带、袜口和手指形变问题。该反馈不代表全流程、所有武器或稳定性测试通过，见 [v8 实测反馈](evidence/jk-v8-offline/runtime-feedback.json)。
+公开 Release 仍是来自 Yuiffy/my-pixijs-game 的旧衣服粗模。本地新衣 JK 当前安装的是 **物理实验 v1**，已于 2026-11-15 17:31:28 核对安装哈希。用户试玩反馈“感觉还不错哦”，明确确认白猫挂饰能够摆动，但偶发穿衣，袜口、腿部和手心仍有色差待修。见 [安装与用户反馈摘要](evidence/jk-motion-v1-offline/installation-summary.json)。独立语音包未改；这些反馈不代表所有武器、动画或稳定性测试通过。
 
-另有 [v9 离线候选](models/jk-v9-candidate/README.md)：恢复手指与原骨骼转轴的对齐、清理裙子/后背串色和多余吊带，并参照立绘细化袜子羽翼与背带白猫；已处理预览中猫身体偏小和头身分离的问题。最终容器和 cooked 蒙皮已独立读回，**未安装、未游戏实测**；当前安装模型仍为 v8。见 [饰件对照](evidence/jk-v9-offline/ornaments-v8-v9.jpg) 和 [检查数据](evidence/jk-v9-offline/summary.json)。
+[v11 静态细修候选](models/jk-v11-candidate/README.md) 包含裙子残留粉色清理、清晰猫脸袜和另一侧袜口、手指体积及实际背带吊点，保留为静态回退。基于它的 [物理实验 v1](models/jk-motion-v1-candidate/README.md) 已通过真实离线 Chaos 模拟及最终容器读回，并已安装获用户初步试玩反馈。物理预览是离线求解结果。
 
-新增 [v10 离线候选](models/jk-v10-candidate/README.md)：在 v9 基础上修正右腋下衣身误跟上臂造成的背部尖折，清理外套白灰/蓝色投影，并重绘书包朝向身体的粉色内侧。已独立读回最终容器和蒙皮，**未安装、未游戏实测**；人工抬臂预览不能保证实际长柄防御无穿插。见 [前后对照](evidence/jk-v10-offline/guard-and-bag-v9-v10.jpg)。
+历史源与证据保留：[v8 肩颈和比例](models/jk-v8-candidate/README.md)、[v9 手部转轴与饰件](models/jk-v9-candidate/README.md)、[v10 右背与包内投影](models/jk-v10-candidate/README.md)。候选目录中的旧状态文字记录当时检查阶段；当前安装事实以上述物理 v1 凭据为准。人工诊断姿势不能保证实际长柄防御或所有动作无穿插。
 
 ## 安装模型
 
@@ -39,6 +39,7 @@ python scripts/mod_files.py uninstall --manifest manifest.json --game-root '你�
 ## 模型与制作经验
 
 - [v11 细修候选：裙色、两侧袜口、手指体积与吊点](models/jk-v11-candidate/README.md)：离线核验完成，尚未安装；真实摆动物理未加入此包。
+- [物理实验 v1 源码、模型和验证边界](models/jk-motion-v1-candidate/README.md)、[实际离线模拟动图](evidence/jk-motion-v1-offline/motion-preview.gif)
 - [v10 安装凭据摘要与用户试玩反馈](evidence/jk-v10-installation/installation-summary.json)
 - [绑定后的 GLB](models/sui-hun-binding.glb)：当前 MOD 使用的几何和绑定，内嵌贴图，可导入 Blender；不是现成 UE 工程。
 - [模型说明与来源](models/README.md)

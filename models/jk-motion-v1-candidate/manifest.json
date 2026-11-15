@@ -1,0 +1,176 @@
+{
+  "status": "experimental-source-installed-user-playtest-feedback",
+  "files": [
+    {
+      "path": "audit_source.py",
+      "bytes": 1488,
+      "sha256": "2efe180273521e1105a2835f531c3ae8319a967be75eceadc9585dbf690ab2b8"
+    },
+    {
+      "path": "author_cloth_ue.py",
+      "bytes": 4478,
+      "sha256": "3c481eefc360004b8ca41bf9cd5d86ce57fedf990edb7446d97355341f2098d0"
+    },
+    {
+      "path": "build-inputs/material-spec.json",
+      "bytes": 15737,
+      "sha256": "f03ffd577679a55f0f5695bcdf4a26dd32587ba6a1bac9174d2dc426709ae263"
+    },
+    {
+      "path": "build-inputs/source-spec.json",
+      "bytes": 487,
+      "sha256": "531c9d3fb935d02221d1aa53bd300880ad8c57686e266614df4bc147b882cfbe"
+    },
+    {
+      "path": "charm-atlas.json",
+      "bytes": 2243,
+      "sha256": "4ab3803faee334d4ea58ab32a3c53aa98c6d74eee87b9caedb45ca2eb49daab9"
+    },
+    {
+      "path": "cloth-spec.json",
+      "bytes": 7207,
+      "sha256": "e9bc93789fc29d85543407ecd7cfe869adc13a4005dabbeee79cf04378a79383"
+    },
+    {
+      "path": "consolidate_charm.py",
+      "bytes": 2367,
+      "sha256": "1c0842dc0fd28ba042a58083bb570dec3bec91009f9a01637e167791d31b1ec4"
+    },
+    {
+      "path": "consolidate_charm_blender.py",
+      "bytes": 2328,
+      "sha256": "98fc3fa39a37a56c0b0178c59d2e2e8be892408f76ac5d23d85d8472f2a1e6b4"
+    },
+    {
+      "path": "decode_cloth_body.py",
+      "bytes": 7457,
+      "sha256": "239fba79d82999626d79746bf161d9af6c888814d3131f4ad145c93e61686840"
+    },
+    {
+      "path": "deform_readback.py",
+      "bytes": 3046,
+      "sha256": "809948dd694f37b47c7607eb3e0440b315f37f067a4ca7da23f6fdb5f4cee0dc"
+    },
+    {
+      "path": "editor-tools/PBZModTools/PBZModTools.uplugin",
+      "bytes": 537,
+      "sha256": "6feb95a5030725f891fa3c0d46ec9478db3f83dc0112238ff829e0cb43737cd0"
+    },
+    {
+      "path": "editor-tools/PBZModTools/Source/PBZModTools/PBZModTools.Build.cs",
+      "bytes": 672,
+      "sha256": "0ad5c71a1a5e8c21af01064669c904c95c9f1653a9c00cd211cb64c1871f2644"
+    },
+    {
+      "path": "editor-tools/PBZModTools/Source/PBZModTools/Private/PBZModToolsLibrary.cpp",
+      "bytes": 56729,
+      "sha256": "d1fffc8993d4fc005908f1a4da5ccc5486874d848703d666fc54e4780682f073"
+    },
+    {
+      "path": "editor-tools/PBZModTools/Source/PBZModTools/Public/PBZModToolsLibrary.h",
+      "bytes": 9358,
+      "sha256": "e41945a367b9f5f394c131c2145e5c4264fdc37dd8bc87355741b6d6077353c4"
+    },
+    {
+      "path": "import_mod_ue.py",
+      "bytes": 5567,
+      "sha256": "bf683555db03faccf9192260b1ea89ad3529b6dc8a2187d4ea943408ade7351f"
+    },
+    {
+      "path": "offline_tools.py",
+      "bytes": 2220,
+      "sha256": "913a8a6e321dea4220534ad354e128b7bcce858251919489b5f431cf40e2811c"
+    },
+    {
+      "path": "package_mod.py",
+      "bytes": 6539,
+      "sha256": "9cca9d89a7de05bfebdf980da051715698b31294b157bdc89a4e48e4f0afd211"
+    },
+    {
+      "path": "prepare_motion_source_dense.py",
+      "bytes": 8949,
+      "sha256": "4ec5feaefb8ca97325a07625884b6c075ea29a6d586b1a1bc90384e564d21f4a"
+    },
+    {
+      "path": "prepare_project.py",
+      "bytes": 2351,
+      "sha256": "a633bb4a048a5635d5f1453e0569c7c9c36fe45848a838c2e2730587f1eb72ee"
+    },
+    {
+      "path": "render_motion.py",
+      "bytes": 1732,
+      "sha256": "526d1fe7d60e93970ab3945e3d20733f2f1e73c5c34706616bd794899134b8ca"
+    },
+    {
+      "path": "render_motion_sequence.py",
+      "bytes": 1734,
+      "sha256": "01d38779f97e1010002de7130a3baf5d8d61d04e458c3c7bc0f1c53b7a5b9088"
+    },
+    {
+      "path": "run_ue.py",
+      "bytes": 1625,
+      "sha256": "71892c82e5b84005a7e8135e83244c4d20688e79af12717e00b578c0ae47fe89"
+    },
+    {
+      "path": "source-preparation.json",
+      "bytes": 1216,
+      "sha256": "f792dd1991ada92ad03d79135e2fb9a07a7e0f03833ed5db6168ff77cc40df8b"
+    },
+    {
+      "path": "source-render-contract.json",
+      "bytes": 3981276,
+      "sha256": "4a16aba534126fefa23d5864c4840575e257c7c44e12287c365d1950879efc8b"
+    },
+    {
+      "path": "sui-jk-motion-source.blend",
+      "bytes": 18374846,
+      "sha256": "5ee9f49e506e4b2ddeae1521e406338dbdd0a1dba4282edb95565ed73efdee69"
+    },
+    {
+      "path": "Sui_JK_Hun_Body_Motion.fbx",
+      "bytes": 3127852,
+      "sha256": "b15f8570b2354e0d3c20690f886ce2100a7dedce30cf820fac5b6bcd46945791"
+    },
+    {
+      "path": "test_cloth_ue.py",
+      "bytes": 675,
+      "sha256": "652da6bddeea2dbceed1a0ce7386e09a7fe6f8d60adf6cf5bf477be4871ebe2e"
+    },
+    {
+      "path": "textures/sui-jk-albedo-v11.png",
+      "bytes": 14993166,
+      "sha256": "c7851fb9496832ab8ed283eac8ef9da885077cc588fc78a571d4d1ab15948181"
+    },
+    {
+      "path": "textures/T_JK_ARM_CharmAtlas.png",
+      "bytes": 1173,
+      "sha256": "71bea2c6abb69667640653f50dee63fa7c2db7e6851d74c926c46c86b5d3b633"
+    },
+    {
+      "path": "textures/T_JK_CharmAtlas.png",
+      "bytes": 1200,
+      "sha256": "7c2dadbdea0c3d75eae4061cec2514264c39863d854270605ed06d96222e2f26"
+    },
+    {
+      "path": "validate_simulation.py",
+      "bytes": 2422,
+      "sha256": "88ae16a19e2acc2fa80cf38a8cb3bbf81e0b3b44f5ae14294e343fdbb59ad634"
+    },
+    {
+      "path": "verify_cloth_assets.py",
+      "bytes": 4481,
+      "sha256": "018011e37ebdfee1bc42c439d01052f40d5164861edc0667680b5b76eaf3f197"
+    },
+    {
+      "path": "verify_mod.py",
+      "bytes": 5811,
+      "sha256": "9ca192e27f673128570ccbef2ae53c6a08fc6ca98a58dc07ea77c2a3f8eeae4c"
+    },
+    {
+      "path": "verify_texture_chain.py",
+      "bytes": 2405,
+      "sha256": "76a7283eba5cf98881ab43761926e6b349c309a894fe6c4714cea8298cf102b8"
+    }
+  ],
+  "container_files_not_in_public_repo": true
+}

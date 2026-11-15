@@ -74,7 +74,7 @@
     {
       "path": "README.md",
       "bytes": 3959,
-      "sha256": "f3d17f2ec91321095c8777d3c4822d96c6bdf64506454228df9155f8b2178c1c"
+      "sha256": "9408b1d719f9cabd937a3561ca87e22eddd92f093cc1a9010042dce9fb4c4e7e"
     },
     {
       "path": "refine_static.py",
@@ -161,5 +161,6 @@
       "bytes": 1723,
       "sha256": "2fba06f1abc9b8b356a2118c727ed56e855ce3c609f9ce5794161d6d057141c4"
     }
-  ]
+  ],
+  "current_usage": "static rollback; geometry and polish included in installed motion v1"
 }

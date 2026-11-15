@@ -18,3 +18,5 @@ private/
 *.MP3
 *.blend1
 models/jk-v7-candidate/shots/
+!models/jk-motion-v1-candidate/editor-tools/PBZModTools/Source/PBZModTools/Private/
+!models/jk-motion-v1-candidate/editor-tools/PBZModTools/Source/PBZModTools/Private/*.cpp

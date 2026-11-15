@@ -1,0 +1,13 @@
+{
+  "basis": "actual-offline-Chaos-output-and-cooked-single-influence-mapping",
+  "initial_reconstruction_max_error_cm": 0.28918057680130005,
+  "peak_sample_step": 180,
+  "render_surface_max_displacements_cm": {
+    "MI_JK_Ponytail": 3.4493825435638428,
+    "MI_JK_CardiganHem": 0.5087674260139465,
+    "MI_JK_PleatedSkirt": 0.19315478205680847,
+    "MI_JK_Backpack": 0.28350526094436646,
+    "MI_JK_CharmAtlas": 1.951708197593689
+  },
+  "not_a_game_animation": true
+}

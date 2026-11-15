@@ -1,0 +1,116 @@
+{
+  "bodies": [
+    {
+      "bone": "head",
+      "type": "sphere",
+      "center": [
+        6.8937511335356,
+        4.248922065848693,
+        2.4813235999232575e-07
+      ],
+      "radius": 7,
+      "kinematic": true
+    },
+    {
+      "bone": "neck_02",
+      "type": "sphere",
+      "center": [
+        -4.423656298824993,
+        5.078073631496311,
+        1.1387800213924493e-07
+      ],
+      "radius": 4,
+      "kinematic": true
+    },
+    {
+      "bone": "spine_05",
+      "type": "sphere",
+      "center": [
+        0.6402978576385274,
+        2.9500754861704968,
+        1.4200707041389649e-06
+      ],
+      "radius": 8,
+      "kinematic": true
+    },
+    {
+      "bone": "spine_04",
+      "type": "sphere",
+      "center": [
+        2.8179838427828448,
+        1.8186347420090918,
+        -3.2573284785009093e-06
+      ],
+      "radius": 9,
+      "kinematic": true
+    },
+    {
+      "bone": "spine_03",
+      "type": "sphere",
+      "center": [
+        -2.2870743414194386,
+        1.0777098226069874,
+        -2.0544110883591316e-06
+      ],
+      "radius": 9,
+      "kinematic": true
+    },
+    {
+      "bone": "pelvis",
+      "type": "sphere",
+      "center": [
+        1.7929027456832036,
+        0.13226323851412194,
+        -1.5113425089197108e-07
+      ],
+      "radius": 9,
+      "kinematic": true
+    },
+    {
+      "bone": "thigh_l",
+      "type": "sphere",
+      "center": [
+        -9.111839179462399,
+        -0.26881852721343164,
+        1.388240619937319
+      ],
+      "radius": 5.5,
+      "kinematic": true
+    },
+    {
+      "bone": "thigh_l",
+      "type": "sphere",
+      "center": [
+        -19.055990169985318,
+        -0.6393401377292178,
+        2.3764466737526178
+      ],
+      "radius": 5,
+      "kinematic": true
+    },
+    {
+      "bone": "thigh_r",
+      "type": "sphere",
+      "center": [
+        9.111830745802655,
+        0.26881991499712643,
+        -1.3883749046260032
+      ],
+      "radius": 5.5,
+      "kinematic": true
+    },
+    {
+      "bone": "thigh_r",
+      "type": "sphere",
+      "center": [
+        19.055972211118373,
+        0.6393433271059789,
+        -2.3767237317735472
+      ],
+      "radius": 5,
+      "kinematic": true
+    }
+  ],
+  "joints": [],
+  "disable_pairs": []
+}
