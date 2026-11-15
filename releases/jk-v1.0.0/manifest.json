@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "title": "岁己JK服有外套侧马尾_影之刃零主角替换MOD",
+  "version": "1.0.0",
+  "release_tag": "jk-v1.0.0",
+  "variant": "jk-cardigan-side-ponytail-v1.0.0",
+  "steam_app_id": "4115450",
+  "game_build": "26367565",
+  "character": "adult Hun",
+  "outfit": "黑伤（逃亡）",
+  "files": [
+    {
+      "name": "z_Sui_HeiShang_JK_Motion_v3_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_HeiShang_JK_Motion_v3_P.ucas",
+      "bytes": 47207565,
+      "sha256": "2c341cdee9c9aca6d62905bc7153c38c602fbd648e36a6b501ad98a518bd1a71"
+    },
+    {
+      "name": "z_Sui_HeiShang_JK_Motion_v3_P.utoc",
+      "bytes": 17182,
+      "sha256": "dc8250772af2a61bff2ecabdba796cc0edc09f59472f87a41ad553f74adabdf8"
+    }
+  ],
+  "compatible_files": [
+    "z_Sui_Hun_NaturalVoice_Compact_v5_P.pak",
+    "z_Sui_Hun_NaturalVoice_Compact_v5_P.utoc",
+    "z_Sui_Hun_NaturalVoice_Compact_v5_P.ucas"
+  ],
+  "source_model_commit": "aca4dca00b8ceba25fc0037037d06f7a7c161597",
+  "user_approved_publication": true,
+  "user_feedback": "不错哦！发布一个版本吧",
+  "validation": {
+    "independent_container_readback": true,
+    "offline_motion_tests": 3,
+    "installed_hashes_match": true,
+    "exhaustive_gameplay_validation": false,
+    "final_VT_independently_decoded_to_pixels": false
+  },
+  "voice_included": false,
+  "original_game_archives_or_keys_included": false
+}

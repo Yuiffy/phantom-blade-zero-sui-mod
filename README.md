@@ -4,7 +4,9 @@
 
 2026-11-14，用户已报告 `native-shaders-v1` 模型实机成功。测试游戏为 Steam app **4115450**、build **26367565**。这不是全流程兼容性认证：战斗、武器、过场、长时间游玩仍需逐项验证；游戏更新后应重新核验。
 
-公开 Release 仍是来自 Yuiffy/my-pixijs-game 的旧衣服粗模。本地新衣 JK 当前安装的是 **物理细修 v3**，已于 2026-11-15 21:52:32 核对安装哈希，**v3 尚未游戏实测**。用户对 v2 反馈整体不错，进一步指出普通视角会露出黑色打底裤下缘；v3 将独立内衬裤脚上收约 6 cm，保留原腿部、裙子和已调物理。见 [v3 模型与源码](models/jk-motion-v3-candidate/README.md)、[安装摘要](evidence/jk-motion-v3-offline/installation-summary.json)。v2 已在本地备份；独立 Compact v5 语音包字节保持不变。
+当前正式版为 [岁己JK服有外套侧马尾_影之刃零主角替换MOD · jk-v1.0.0](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/jk-v1.0.0)，使用 **物理细修 v3**：JK 服、外套、侧马尾、背包和白猫吊饰，包含马尾与挂饰摆动及受限衣摆、裙摆、包体物理。v3 将独立内衬裤脚上收约 6 cm，保留原腿部、裙子和已调物理。2026-11-15 已核对安装哈希，用户反馈“不错哦”并批准发布；这不代表所有武器、动作和过场均已验证。见 [发布说明与清单](releases/jk-v1.0.0/release-notes.md)、[v3 模型与源码](models/jk-motion-v3-candidate/README.md)、[安装摘要](evidence/jk-motion-v3-offline/installation-summary.json)。独立 Compact v5 语音包字节保持不变。
+
+![JK 正式版离线模型预览](evidence/jk-release-v1/preview.jpg)
 
 [v11 静态细修候选](models/jk-v11-candidate/README.md) 包含裙子残留粉色清理、清晰猫脸袜和另一侧袜口、手指体积及实际背带吊点，保留为静态回退。基于它的 [物理实验 v1](models/jk-motion-v1-candidate/README.md) 已通过真实离线 Chaos 模拟及最终容器读回，并已安装获用户初步试玩反馈。物理预览是离线求解结果。
 
@@ -12,7 +14,7 @@
 
 ## 安装模型
 
-从本仓库 **Releases** 下载 `Sui_HeiShang_Model_v1.0.0.zip`，解压。关闭游戏，将 `mod/` 下同名的 `.pak`、`.utoc`、`.ucas` 三件套放入：
+从 [JK 正式版 Release](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/jk-v1.0.0) 下载 `Sui_JK_Cardigan_SidePonytail_PBZ_v1.0.0.zip`，解压。关闭游戏，先备份并移出本项目旧模型三件套，保留独立语音包；再将 `mod/` 下同名的 `.pak`、`.utoc`、`.ucas` 三件套放入：
 
 ```text
 <PBZ游戏目录>/ProjectPBZ/Content/Paks/~mods/
@@ -34,14 +36,14 @@ python scripts/mod_files.py install --manifest manifest.json --game-root '你的
 python scripts/mod_files.py uninstall --manifest manifest.json --game-root '你的PBZ游戏目录' --apply
 ```
 
-手动卸载也只需移除 `z_Sui_HeiShang_NativeShaders_v1_P` 的三个文件。不要清空整个 mods 目录、删缓存或改存档。
+手动卸载也只需移除 `z_Sui_HeiShang_JK_Motion_v3_P` 的三个文件。不要清空整个 mods 目录、删缓存或改存档。
 
 ## 模型与制作经验
 
 - [v11 细修候选：裙色、两侧袜口、手指体积与吊点](models/jk-v11-candidate/README.md)：离线核验完成，尚未安装；真实摆动物理未加入此包。
 - [物理实验 v1 源码、模型和验证边界](models/jk-motion-v1-candidate/README.md)、[实际离线模拟动图](evidence/jk-motion-v1-offline/motion-preview.gif)
 - [物理细修 v2：贴图、光环、重力马尾与挂饰避让](models/jk-motion-v2-candidate/README.md)、[离线模拟动图](evidence/jk-motion-v2-offline/motion-preview.gif)：三组模拟及最终容器读回通过，用户反馈整体不错；现保留为本地回退。
-- [物理细修 v3：缩短黑色内衬裤脚](models/jk-motion-v3-candidate/README.md)：保留腰臀与裆部覆盖，裤脚上收约 6 cm；三组模拟及最终容器读回通过，已安装待试玩。
+- [物理细修 v3：缩短黑色内衬裤脚](models/jk-motion-v3-candidate/README.md)：保留腰臀与裆部覆盖，裤脚上收约 6 cm；三组模拟及最终容器读回通过，用户认可并批准作为 JK 首个正式版发布。
 - [v10 安装凭据摘要与用户试玩反馈](evidence/jk-v10-installation/installation-summary.json)
 - [绑定后的旧衣服 GLB](models/sui-hun-binding.glb)：早期公开 Release 的几何和绑定，内嵌贴图，可导入 Blender；新衣 JK 源码见上述候选目录。
 - [模型说明与来源](models/README.md)
