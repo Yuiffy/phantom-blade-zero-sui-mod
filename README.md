@@ -8,6 +8,8 @@
 
 当前正式版为 [岁己 JK＋地雷系双皮肤 · dual-v1.0.0](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/dual-v1.0.0)，合并 **JK Motion v5＋地雷岁 R5**。一个三件套即可在游戏服装菜单切换两套完整角色；保留原解锁规则和独立语音包。JK 包含不透明安全裤覆盖、立体白猫挂饰与增强衣服碰撞避让；地雷系为无翅膀双马尾版，包含比例、手部、肩袖修正及双马尾、裙摆物理。
 
+同一 Release 现提供 **`Sui_JK_Jirai_WithVoice_PBZ_v1.0.0.zip` 双皮肤＋语音一体包**（约 22.1 MB），推荐直接下载。解压后 `mod/` 中为模型、语音各一套三件套，共六个文件；语音沿用已发布 Compact v5 的既有录音，保持测试版状态。原纯模型 ZIP 和独立语音 ZIP 也保留，已安装同版语音无需重复安装。详见 [一体包说明](releases/dual-v1.0.0/README-with-voice.txt) 与 [六文件清单](releases/dual-v1.0.0/bundle-manifest.json)。
+
 2026-11-16 已核对当前安装与发布制品哈希，用户反馈“不错”并批准两个皮肤合并发布。最终 88 个资源、两套模型骨架与渲染数据、布料映射和材质依赖、68 行合并外观表均已核验；所有武器、动作、过场与长时间稳定性尚未逐项验证。详见 [双皮肤发布说明](releases/dual-v1.0.0/release-notes.md)、[文件清单](releases/dual-v1.0.0/manifest.json) 和 [核验摘要](releases/dual-v1.0.0/verification-summary.json)。
 
 ![地雷系 R5 离线模型预览](releases/dual-v1.0.0/previews/jirai-front.png)
@@ -21,6 +23,8 @@
 ## 安装模型
 
 从 [双皮肤正式版 Release](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/dual-v1.0.0) 下载 `Sui_JK_Jirai_DualOutfit_PBZ_v1.0.0.zip`，解压。关闭游戏，先备份并移出本项目旧 JK、旧地雷系或旧双服装模型三件套，保留独立语音包；再将 `mod/` 下同名的 `.pak`、`.utoc`、`.ucas` 三件套放入：
+
+需要一起安装语音时，改为下载 `Sui_JK_Jirai_WithVoice_PBZ_v1.0.0.zip`，先移出旧模型及旧语音包，再把 `mod/` 下六个文件放入同一目录。原纯模型包的以下命令使用 `manifest.json`；一体包的可选校验分别使用 `model-manifest.json`、`voice-manifest.json`，安装时两份清单分别保存凭据。
 
 ```text
 <PBZ游戏目录>/ProjectPBZ/Content/Paks/~mods/
@@ -66,7 +70,7 @@ python scripts/mod_files.py uninstall --manifest manifest.json --game-root '你�
 
 用户反馈 v1 跳攻仍是男声后，已定位到实际技能引用的漏项并安装原声实验 v2。检查了 49 个空中/跳跃技能及其父类，共 66 个资源；五组直接空中发声的 33 个独立媒体现均有替换。新包共 26 事件、134 个媒体替换，使用 20 段既有按钮原声；其他所选事件仍保留 95 个原声媒体。**v2 待再次游戏实测与听审**，详情见 [跳攻漏项案例](skills/pbz-character-mod/references/voice-jump-case.md)。剧情对白、英语、少年魂保持原样，检查范围不代表所有地面连段。
 
-语音事件为成年魂共享，**不限定某一服装**。没有 TTS、CosyVoice、变声、新 ASR 或人声分离。切口、背景声、音量和语气仍待听审。语音实验与模型分开回退；双皮肤 Release 仅包含模型，可配合独立 [Compact v5 语音包](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/voice-v5-compact-beta.1)，不打包私人录播。
+语音事件为成年魂共享，**不限定某一服装**。没有 TTS、CosyVoice、变声、新 ASR 或人声分离。切口、背景声、音量和语气仍待听审。语音实验与模型分开回退；双皮肤 Release 已附 Compact v5 独立语音和一体包，保留语音测试版状态，不打包完整私人录播。语音可独立卸载，移出 `z_Sui_Hun_NaturalVoice_Compact_v5_P` 三件套即可保留模型。
 
 ## 致谢与使用范围
 
