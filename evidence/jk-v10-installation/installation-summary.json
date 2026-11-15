@@ -1,0 +1,27 @@
+{
+  "status": "v10-installed-and-user-provided-gameplay-feedback",
+  "time_asia_shanghai": "20261115-132741",
+  "game_build": "26367565",
+  "target_outfit": "black-wound-escape-adult",
+  "installed_files": [
+    {
+      "name": "z_Sui_HeiShang_JK_v10_P.pak",
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+      "bytes": 347
+    },
+    {
+      "name": "z_Sui_HeiShang_JK_v10_P.ucas",
+      "sha256": "1f2dadd815193580af3ef3ab663dab997d9d5cdeecf546ae4541ebfa71ca9e5e",
+      "bytes": 19715597
+    },
+    {
+      "name": "z_Sui_HeiShang_JK_v10_P.utoc",
+      "sha256": "96ead3c567e21d7f6d279b5e20bf3c63a0834dda11843495d8b2066b68037c75",
+      "bytes": 10361
+    }
+  ],
+  "old_v8_backed_up_locally": true,
+  "voice_reviewed_v4_preserved": true,
+  "user_feedback_zh": "我试玩了，再加入一些细节优化吧。",
+  "feedback_scope": "User supplied a polearm pose screenshot and requested additional detail improvements. No claim of comprehensive stability, all outfit switches, or all animation tests."
+}

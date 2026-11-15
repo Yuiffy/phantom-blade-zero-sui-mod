@@ -1,0 +1,29 @@
+{
+  "assigned_triangles": {
+    "MI_JK_Ponytail": 3170,
+    "MI_JK_HairMain": 4277,
+    "MI_JK_CardiganHem": 2795,
+    "MI_JK_Cardigan": 2775,
+    "MI_JK_PleatedSkirt": 1227,
+    "MI_JK_Backpack": 3620,
+    "MI_JK_Straps": 2400,
+    "MI_JK_Stockings": 5690,
+    "MI_JK_Charm_Gold": 240,
+    "MI_JK_Charm_Pink": 72,
+    "MI_JK_Charm_Cat": 492,
+    "MI_JK_Charm_PinkSeam": 660,
+    "MI_JK_Charm_PinkLight": 390,
+    "MI_JK_Charm_Ivory": 1548
+  },
+  "charm_slots": [
+    "MI_JK_Charm_Gold",
+    "MI_JK_Charm_Pink",
+    "MI_JK_Charm_Cat",
+    "MI_JK_Charm_PinkSeam",
+    "MI_JK_Charm_PinkLight",
+    "MI_JK_Charm_Ivory"
+  ],
+  "geometry_unchanged": true,
+  "skeleton_unchanged": true,
+  "physics_not_yet_authored": true
+}

@@ -1,0 +1,25 @@
+{
+  "status": "repaired-atlas-input-and-final-container-payload-chain-passed",
+  "atlas_sha256": "c7851fb9496832ab8ed283eac8ef9da885077cc588fc78a571d4d1ab15948181",
+  "prepared_texture_sha256": "db5cba53a9cae3e0f468f4ac7e42cd711453a4150546b799ed79f34d8e152cf3",
+  "prepared_RGBA_pixels_exactly_match_repaired_atlas": true,
+  "imported_virtual_texture_dimensions": [
+    4096,
+    4096
+  ],
+  "cooked_VT_payload_preserved_in_final_container": true,
+  "payload_files": [
+    {
+      "extension": ".uexp",
+      "bytes": 1025,
+      "sha256": "f0776d020b012b318d0947066161015047542d40e8c7162969988c05a548579c"
+    },
+    {
+      "extension": ".ubulk",
+      "bytes": 11952880,
+      "sha256": "6bff3cdf309f88eda9c94e0ae04c0a8d2965948117f0e9d5bace7836172e5900"
+    }
+  ],
+  "final_VT_not_independently_decoded_to_pixels": true,
+  "runtime_tested": false
+}

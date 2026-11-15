@@ -1,0 +1,165 @@
+{
+  "status": "offline-verified-static-candidate-not-installed",
+  "files": [
+    {
+      "path": "atlas-provenance.npz",
+      "bytes": 1059845,
+      "sha256": "94988322399cbf67132c6a0b647ba38834f381e20e59c3b6be08d3cf85815763"
+    },
+    {
+      "path": "atlas-repair.json",
+      "bytes": 967,
+      "sha256": "31d2baada4c4f71527c92ef2a7fb1c4a342775ace50ddc8817e1fca89f3847ff"
+    },
+    {
+      "path": "audit_bound_model.py",
+      "bytes": 3447,
+      "sha256": "cd35e27969896cab4dc25f1a6d5812d816b5efed4b2edfba835b0b9dc7a8c583"
+    },
+    {
+      "path": "author_sections.py",
+      "bytes": 3844,
+      "sha256": "497f967c2063766d79f25ca6bd00f310512dd5e9c8274b8b61b14f8c3b2b1171"
+    },
+    {
+      "path": "binding-report.json",
+      "bytes": 1466,
+      "sha256": "0a70e978d1afb5464273cd3fda977f3e8f3b57db5865811199485a541648c667"
+    },
+    {
+      "path": "detail-review.json",
+      "bytes": 4583,
+      "sha256": "46ee1acafda8dd246fbd930af2d3598a8180e570a73a13e955c5850f9f152281"
+    },
+    {
+      "path": "finish_static.py",
+      "bytes": 1307,
+      "sha256": "3e06caa48a32f3d0fc6ca83a07ef86b4f63da5044dd7358e80a39e159b2465ab"
+    },
+    {
+      "path": "game-materials.json",
+      "bytes": 6580,
+      "sha256": "f99032d114ae27843b47f0789883b86ce7b861323f3267a48f97e5d753b2bc44"
+    },
+    {
+      "path": "import_mod_ue.py",
+      "bytes": 5406,
+      "sha256": "9562d0b5ef6c32d6e4b7cf9c24f255e618a50529c53d6b747a076634ecea2ca9"
+    },
+    {
+      "path": "model-audit.json",
+      "bytes": 607,
+      "sha256": "b93cf7d93aba0955d991a7a1214fa9b24ef36dcdef155162126b2de9741b9b4a"
+    },
+    {
+      "path": "offline_tools.py",
+      "bytes": 2219,
+      "sha256": "8eeb9c8794e8f8ca71cd0f83427d252705071fac7ace77c55faae85553d400dd"
+    },
+    {
+      "path": "package_mod.py",
+      "bytes": 6477,
+      "sha256": "d90d951748ee00180471dc6d64c33d9058251be303415571201a6cf1eee6e23b"
+    },
+    {
+      "path": "prepare_mod.py",
+      "bytes": 2534,
+      "sha256": "02da890bd4d64e3cff42d9f2557e37707b079d743b690c0f0c3fb35867e40acc"
+    },
+    {
+      "path": "prepare_motion_source.py",
+      "bytes": 7964,
+      "sha256": "741be78ab335f3649104f0e20342dcc325ed7aaad3c8af929c3b5cf13f5c34fc"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3959,
+      "sha256": "f3d17f2ec91321095c8777d3c4822d96c6bdf64506454228df9155f8b2178c1c"
+    },
+    {
+      "path": "refine_static.py",
+      "bytes": 8380,
+      "sha256": "735e371f971c2634b1ec73e984b4391bf5e057d0bedafa87c30adc5d86c7c8e1"
+    },
+    {
+      "path": "refresh_texture.py",
+      "bytes": 491,
+      "sha256": "f748245fff6d7de9905adb532fce01211ad1fa371ca8558bbf1b0670c25d35ff"
+    },
+    {
+      "path": "repair_atlas.py",
+      "bytes": 6229,
+      "sha256": "028593c36d4449702f4e84447e372d8b9d6b5f08d3025ffc3e671dcd3f16cd03"
+    },
+    {
+      "path": "review_polish.py",
+      "bytes": 4174,
+      "sha256": "3b17f3166c66dc05f535ad6d8b0c1b19eac52aa47fcac991c46eb08dfad31bc9"
+    },
+    {
+      "path": "run_blender.py",
+      "bytes": 665,
+      "sha256": "6bb855b1078fef15bcf44b800fc1b3113c925db7bfdacec1ac2df39bb45dd7b3"
+    },
+    {
+      "path": "run_ue.py",
+      "bytes": 1181,
+      "sha256": "e90e2ae23734660383dea52c67dbd9ac5481d79520f2884b8791d920078ef377"
+    },
+    {
+      "path": "scope-check.json",
+      "bytes": 473,
+      "sha256": "7d857216d67aa58de1351053693c2a715a1bfd23cc1ebb140cf5eafdf534cb70"
+    },
+    {
+      "path": "section-map.json",
+      "bytes": 717,
+      "sha256": "915e63a5ea99dbf1cd8a3db7f1d8535d3054b61fd038ec7d057ec671b01ead39"
+    },
+    {
+      "path": "source-render-contract.json",
+      "bytes": 3667842,
+      "sha256": "278ff5842d8f4ba4c76672a204d287a293399e8ba00f4f0faca3fc93b17559bf"
+    },
+    {
+      "path": "sui-jk-hun-bound.blend",
+      "bytes": 18293210,
+      "sha256": "10f0fb3b58ba05b14a9788a25632b7ccfa8b9c05a38650b5327488b0638888f7"
+    },
+    {
+      "path": "Sui_JK_Hun_Body.fbx",
+      "bytes": 3038716,
+      "sha256": "1d8bec92f1e1ab0f7e6a24dfd4a6496d0da92ba086ac66b4279a8a24f7815d42"
+    },
+    {
+      "path": "texture-chain.json",
+      "bytes": 851,
+      "sha256": "9bc743eff69780910c30881ec75cb20e4c2e677fbb8b7a58f7bf6b52d47ef754"
+    },
+    {
+      "path": "textures/sui-jk-albedo-v11.png",
+      "bytes": 14993166,
+      "sha256": "c7851fb9496832ab8ed283eac8ef9da885077cc588fc78a571d4d1ab15948181"
+    },
+    {
+      "path": "v7_helpers.py",
+      "bytes": 15270,
+      "sha256": "c4eca02212b6aaa69160c7d4066377183a9f85e306514d4194d7df9f1265dfe5"
+    },
+    {
+      "path": "verify_mod.py",
+      "bytes": 11350,
+      "sha256": "74efa28ff1a7b55016f757fa8f2374c0e2a40319ab9f959ffa20745a938980fc"
+    },
+    {
+      "path": "verify_source.py",
+      "bytes": 2133,
+      "sha256": "b01d2866607bb183e62a72dd8f4b4623850728742f0536f5b7d31b158d18bc26"
+    },
+    {
+      "path": "verify_texture_chain.py",
+      "bytes": 1723,
+      "sha256": "2fba06f1abc9b8b356a2118c727ed56e855ce3c609f9ce5794161d6d057141c4"
+    }
+  ]
+}

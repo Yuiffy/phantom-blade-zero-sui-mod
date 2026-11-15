@@ -38,6 +38,8 @@ python scripts/mod_files.py uninstall --manifest manifest.json --game-root '你�
 
 ## 模型与制作经验
 
+- [v11 细修候选：裙色、两侧袜口、手指体积与吊点](models/jk-v11-candidate/README.md)：离线核验完成，尚未安装；真实摆动物理未加入此包。
+- [v10 安装凭据摘要与用户试玩反馈](evidence/jk-v10-installation/installation-summary.json)
 - [绑定后的 GLB](models/sui-hun-binding.glb)：当前 MOD 使用的几何和绑定，内嵌贴图，可导入 Blender；不是现成 UE 工程。
 - [模型说明与来源](models/README.md)
 - [v7 候选：肩颈权重、颈长与下摆衔接](models/jk-v7-candidate/README.md)
