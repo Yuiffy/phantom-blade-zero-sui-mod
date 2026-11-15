@@ -1,0 +1,53 @@
+{
+  "status": "independent-final-container-readback-verified-runtime-pending",
+  "source_report_sha256": "69d90978651c1612c9a4fda614086b23aa8e03791c7123d080a7307356d46561",
+  "variant": "compact-reviewed-voice-v5",
+  "asset_count": 28,
+  "unique_media_assignments": 474,
+  "language_counts": {
+    "Chinese": 238,
+    "English(US)": 236
+  },
+  "media_reference_instances": 494,
+  "unique_reviewed_wems": 21,
+  "new_distinct_packaged_hashes": 530,
+  "all_v4_wems_byteidentical": true,
+  "all_nonempty_banks_match_verified_v4": true,
+  "source_libraries_included": false,
+  "original_voice_media_included": false,
+  "native_ids_and_duration_unchanged": true,
+  "shared_reference_scope": "42 inspected adult combat events; 28 overridden including shared alias",
+  "runtime_tested": false,
+  "files": [
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.ucas",
+      "bytes": 3282530,
+      "sha256": "1c03a93f6790879c2a8454709e90dc1cca0cb8c90bc9ae0ccd75bed94cb825c0"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.utoc",
+      "bytes": 7200,
+      "sha256": "86b35b1f2f5d64a64d17b59120d18a11a9000655200f5b0d563d35b9185c81d0"
+    }
+  ],
+  "total_bytes": 3290077,
+  "unit_validation": {
+    "existing_regression_tests": 25,
+    "new_install_and_rollback_tests": 6,
+    "all_passed": true
+  },
+  "runtime_status": "candidate-awaiting-user-manual-test",
+  "research_method": "Read author installation pages and publicly bundled Audiokinetic integration source; no third-party MOD audio/container copied",
+  "installed": true,
+  "installation": {
+    "unrelated_mod_files_unchanged": true,
+    "settings_unchanged": true,
+    "old_v4_preserved_in_local_delivery": true,
+    "runtime_tested": false
+  }
+}

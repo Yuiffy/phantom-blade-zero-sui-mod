@@ -39,6 +39,8 @@ description: Build and debug Phantom Blade Zero character replacement mods, incl
 
 ## 交付
 
+用户要求免脚本的小型语音包时，读 [事件局部小包候选](references/voice-compact-case.md)。区分本地仍生成完整库的 v4 差分与直接安装的 v5 三件套；后者通过新的 packaged hash 隔离共享 bulk，保留动作/音频 IDs。缓存解释有同类插件源码依据，但 v5 本游戏实测仍待反馈，不得写成已成功方法。
+
 用户要求缩小语音下载或在其电脑本地生成时，读 [小补丁与本地重建案例](references/voice-local-patch-case.md)。本案例通过 COPY 原库范围、ADD 选定音频/微小字段和 ZERO 填充，精确重建二审 v4；下载不足 1 MB，但生成后仍约 1.26 GB。锁定 build、原 TOC 和源/目标哈希，不捆绑原版语音库、密钥或 Oodle DLL。使用新目录输出，不自动安装，不把字节一致核验写成新增的游戏实测。
 
 原始游戏资产、密钥、崩溃文件和私人录播留在本地。公开文件逐项列明来源与许可，代码许可不自动覆盖角色/语音。只把当前已验证候选提升为发布版，失败历史保持封锁；用户口头成功反馈按原话记录，不补写未报告的全流程测试。

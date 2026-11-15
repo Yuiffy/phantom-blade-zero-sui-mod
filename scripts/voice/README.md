@@ -1,5 +1,9 @@
 # 本地语音听审与 v4 构建代码
 
+免脚本安装的小型三件套候选见 [v5 玩家说明](../../voice-compact/README.md)。维护者构建时沿用下方环境变量和私有输入，另外需要已校验 v4 的完整 report/verification、encoded 和最终 readback：先运行 `python scripts/voice/build_compact_voice_v5.py`，再运行 `python scripts/voice/verify_compact_voice_v5.py`。28 个事件只带局部声音并使用新的 packaged hash，最终 WEM 与二审 v4 逐字节一致；游戏实测仍待反馈，不能把脚本完成当作通过。
+
+本机维护者的可选切换器为 `switch_compact_voice_v5.py --apply`，回退为 `--rollback --apply`；不加 `--apply` 只准备本地 manifest/快照。它要求 `delivery/compact-voice-v5/mod/` 已有校验后的三件套，并保存旧 v4 delivery 和安装凭据。按当前实际模型列表准备恢复 manifest，安装失败会恢复 v4。用六项假 Steam 目录测试验证安装失败、部分卸载/凭据写入失败、游戏运行拒绝，以及后续模型/设置变更后的独立语音回退；不会启动游戏。普通玩家用手动复制方式，无需此脚本。
+
 普通用户生成已选定的语音 v4，请使用 [小补丁说明](../../voice-patch/README.md) 与 `scripts/voice_patch/generate.py`。下文是维护者修改选音/重新编码时使用的完整流水线。
 
 这份代码整理自 2026-11-15 的 `reviewed-natural-voice-v4`。保留实际使用的选择映射、原库追加载荷、bank 源大小修正、编码及独立读回逻辑；把个人绝对路径改为配置，并只导出依赖模块中的所用函数，省略未成功的历史 v1/v2 构建入口。它依赖已经提取、建索引并校验的 **build 26367565** 本地数据，不是下载后就能从游戏自动提取重建的一键工具。

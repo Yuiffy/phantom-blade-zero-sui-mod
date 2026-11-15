@@ -62,6 +62,12 @@ python scripts/mod_files.py uninstall --manifest manifest.json --game-root '你�
 
 候选素材按本轮选择冻结，以后岁己按钮增加再优化。较长选择保留试听的完整区间，连续出招时的截断/叠音/衔接仍需人工游戏测试，不能以离线解码通过代替。
 
+## 免脚本的小型语音 v5（测试版）
+
+[下载 v5 测试版](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/voice-v5-compact-beta.1) · [安装说明](voice-compact/README.md) · [方法与验证范围](skills/pbz-character-mod/references/voice-compact-case.md)
+
+ZIP 约 **729 KB**，解压后三件套本体合计约 **3.29 MB**，包含相同的 21 段二审选音，不携带完整原语音库。玩家退出游戏、移走旧语音三件套后，复制新三件套到 `~mods` 即可，不需要 Python、UE、密钥、Oodle 或本地生成。新的 packaged hash 用来隔离原库的共享 bulk；474 个媒体槽、28 个事件的最终容器读回已通过。**新加载方式的游戏实测待反馈**，不宣称已修复所有运行问题；下面的 v4 重建补丁保留作原库布局的备选。
+
 ## 小下载：用户本地生成语音 v4
 
 Release `voice-v4-localpatch-v1.0.0` 提供 **不足 1 MB** 的 `Sui_Voice_v4_LocalPatch_1.0.0.zip`。下载只带去重后的 21 段选定岁己 WEM、微小字段差分、MOD 容器索引和原创生成代码；原版语音库从用户自己安装的游戏读取。
