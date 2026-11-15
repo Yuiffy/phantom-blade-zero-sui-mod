@@ -1,0 +1,86 @@
+{
+  "basis": "offline Blender previews; pose closeups reconstructed from final cooked data and actual UE synthetic animation evaluation; not game screenshots",
+  "source_fbx_sha256": "c318ef7a596384c1af25bb77d6e7c9cbfb0175b3d07393fc85ea4dfc60c4b7e2",
+  "images": [
+    {
+      "name": "full-back.png",
+      "sha256": "7b567855ea5d85d8c90a03e71a8af3ca57f0c42137d7f995760ad28601acd239",
+      "basis": "R6 detail after repair"
+    },
+    {
+      "name": "full-front.png",
+      "sha256": "80fd5897f4325b2e62a7f858c7d1e0ebd60f5f19a08391f1cb89fd74d75ee51b",
+      "basis": "R6 detail after repair"
+    },
+    {
+      "name": "full-left.png",
+      "sha256": "a63024f86a137664addefcdd26069d63ebd0aae9a8a62a134baca5349b4d7ba4",
+      "basis": "R6 detail after repair"
+    },
+    {
+      "name": "full-right.png",
+      "sha256": "0416d4b8248fb73b5c773394816968478794f60f66dae521d3a70e72ba513ba0",
+      "basis": "R6 detail after repair"
+    },
+    {
+      "name": "hair-front.png",
+      "sha256": "c82c87e8d5c4a9765238624de252e98601aad537dd744783affe9b8d880b5591",
+      "basis": "R6 detail after repair"
+    },
+    {
+      "name": "hair-side.png",
+      "sha256": "90f16c965908354d8684f5a53b762445190b1ac1140576e4fdde21d9e6fd1ebc",
+      "basis": "R6 detail after repair"
+    },
+    {
+      "name": "r5-before-hair-front.png",
+      "sha256": "dfb360b9777e5c629944a3a43bdab33ac7b05ea0bc3c5302b4e6fd88bd43989f",
+      "basis": "R5 before repair"
+    },
+    {
+      "name": "r5-before-hair-side.png",
+      "sha256": "2132278c4923547d1cd2101c008be6905233c76cf8c7a2adb762c8e7ed415b8e",
+      "basis": "R5 before repair"
+    },
+    {
+      "name": "r5-before-suspender-front.png",
+      "sha256": "08a7df7f655a25029b0218dfae1a67c9644967195eecabc8f8dbbf12810cb011",
+      "basis": "R5 before repair"
+    },
+    {
+      "name": "r5-before-thigh-back.png",
+      "sha256": "8eb6f785885edffbc1c319a92073390c55b7a8ae99cc70c9cef9ba9f2328117c",
+      "basis": "R5 before repair"
+    },
+    {
+      "name": "suspender-crouch.png",
+      "sha256": "15dec2e7af557a9830102d8d0db518111f28740eda9179c65eacc7ff24d961ba",
+      "basis": "R6 detail after repair"
+    },
+    {
+      "name": "suspender-detail.png",
+      "sha256": "6f6072833395c476db342515684711a21fe1e50b974f6e697a4de12df8b7c5aa",
+      "basis": "R6 detail after repair"
+    },
+    {
+      "name": "suspender-front.png",
+      "sha256": "01af8154d78a158536e4f23fc7880c0f60fd5bae522a26118c775dfdd4f66cb3",
+      "basis": "R6 detail after repair"
+    },
+    {
+      "name": "suspender-run.png",
+      "sha256": "d28518cd7e15f765567a74017f208d6e5ff30b5ce712c5983dbbeada3d5728e8",
+      "basis": "R6 detail after repair"
+    },
+    {
+      "name": "suspender-side.png",
+      "sha256": "204fc81eb4e577b561870c9efa547835f2c4c5aed9656d77f80c5e3bb7e36eb0",
+      "basis": "R6 detail after repair"
+    },
+    {
+      "name": "thigh-back.png",
+      "sha256": "a9a7cc0da475cc5fb2f79c0115fc948da04314fb980778ef4ee4d36cef1c6c9a",
+      "basis": "R6 detail after repair"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "status": "native-section-GPU-cloth-mapping-and-skin-readback-passed",
+  "visible_triangles": 55310,
+  "all_triangles_including_disabled_cages": 59366,
+  "disabled_cage_sections": 3,
+  "wing_render_sections": 0,
+  "source_position_max_error_cm": 3.5762786865234375e-05,
+  "quantized_weights_exact": true,
+  "cooked_gpu_cloth_mapping_decoded": true,
+  "game_runtime_tested": false
+}

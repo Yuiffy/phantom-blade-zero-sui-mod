@@ -1,0 +1,73 @@
+{
+  "status": "final-container-cloth-config-and-collision-readback-passed",
+  "assets": [
+    {
+      "asset": "CA_Jirai_TailL_0",
+      "particles": 182,
+      "triangles": 300,
+      "render_slot": "MI_Jirai_TailL",
+      "maxdistance_map_matches": true,
+      "serialized_config_fields": [
+        "BendingStiffnessWeighted",
+        "bUseBendingElements",
+        "CollisionThickness",
+        "FrictionCoefficient",
+        "DampingCoefficient",
+        "LocalDampingCoefficient",
+        "GravityScale",
+        "AnimDriveStiffness",
+        "AnimDriveDamping",
+        "LinearVelocityScale",
+        "AngularVelocityScale"
+      ],
+      "collision_asset_matches": true
+    },
+    {
+      "asset": "CA_Jirai_TailR_0",
+      "particles": 182,
+      "triangles": 300,
+      "render_slot": "MI_Jirai_TailR",
+      "maxdistance_map_matches": true,
+      "serialized_config_fields": [
+        "BendingStiffnessWeighted",
+        "bUseBendingElements",
+        "CollisionThickness",
+        "FrictionCoefficient",
+        "DampingCoefficient",
+        "LocalDampingCoefficient",
+        "GravityScale",
+        "AnimDriveStiffness",
+        "AnimDriveDamping",
+        "LinearVelocityScale",
+        "AngularVelocityScale"
+      ],
+      "collision_asset_matches": true
+    },
+    {
+      "asset": "CA_Jirai_Skirt_0",
+      "particles": 1800,
+      "triangles": 3456,
+      "render_slot": "MI_Jirai_Skirt",
+      "maxdistance_map_matches": true,
+      "serialized_config_fields": [
+        "BendingStiffnessWeighted",
+        "bUseBendingElements",
+        "CollisionThickness",
+        "FrictionCoefficient",
+        "DampingCoefficient",
+        "LocalDampingCoefficient",
+        "GravityScale",
+        "AnimDriveStiffness",
+        "AnimDriveDamping",
+        "LinearVelocityScale",
+        "AngularVelocityScale"
+      ],
+      "collision_asset_matches": true
+    }
+  ],
+  "kinematic_spheres": 8,
+  "kinematic_capsules": 0,
+  "original_body_physics_asset_unchanged": true,
+  "class_default_values_in_PBZ_unverified": true,
+  "game_runtime_tested": false
+}
