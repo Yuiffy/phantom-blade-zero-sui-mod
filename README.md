@@ -8,6 +8,8 @@
 
 ![JK 正式版离线模型预览](evidence/jk-release-v1/preview.jpg)
 
+**已知问题与本地修复：**用户反馈正式版 v3 在低角度下裆部露出肉色。现已制作并安装 [v4 安全裤遮挡修复](models/jk-motion-v4-candidate/README.md)：恢复完整裆底及两个独立裤口，裤脚比 v3 回落约 2 cm，内部增加不透明黑色遮挡。离线姿势、物理和成品容器核验通过，游戏试玩待反馈；GitHub 正式 Release 尚未更新。
+
 [v11 静态细修候选](models/jk-v11-candidate/README.md) 包含裙子残留粉色清理、清晰猫脸袜和另一侧袜口、手指体积及实际背带吊点，保留为静态回退。基于它的 [物理实验 v1](models/jk-motion-v1-candidate/README.md) 已通过真实离线 Chaos 模拟及最终容器读回，并已安装获用户初步试玩反馈。物理预览是离线求解结果。
 
 历史源与证据保留：[v8 肩颈和比例](models/jk-v8-candidate/README.md)、[v9 手部转轴与饰件](models/jk-v9-candidate/README.md)、[v10 右背与包内投影](models/jk-v10-candidate/README.md)。候选目录中的旧状态文字记录当时检查阶段；当前安装事实以上述物理 v3 凭据为准。人工诊断姿势不能保证实际长柄防御或所有动作无穿插。

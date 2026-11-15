@@ -1,0 +1,50 @@
+{
+  "status": "final-container-opaque-coverage-triangles-passed",
+  "opaque_triangles": 2975,
+  "all_coverage_triangle_centers_match": true,
+  "max_corner_error_cm": 2.0503997802734375e-05,
+  "source_boundary_loops": [
+    {
+      "vertices": 46,
+      "min": [
+        -18.628997802734375,
+        -3.1139087677001953,
+        98.0
+      ],
+      "max": [
+        -1.815910816192627,
+        14.48955249786377,
+        98.0
+      ]
+    },
+    {
+      "vertices": 28,
+      "min": [
+        -16.503307342529297,
+        -3.2664318084716797,
+        121.20198059082031
+      ],
+      "max": [
+        15.922834396362305,
+        9.144256591796875,
+        126.11919403076172
+      ]
+    },
+    {
+      "vertices": 45,
+      "min": [
+        1.019671082496643,
+        -3.115422248840332,
+        98.0
+      ],
+      "max": [
+        17.918066024780273,
+        14.403583526611328,
+        98.0
+      ]
+    }
+  ],
+  "central_skin_backup_triangles": 324,
+  "actual_game_animation_coverage_unverified": true,
+  "runtime_tested": false
+}

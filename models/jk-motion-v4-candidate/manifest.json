@@ -1,0 +1,40 @@
+{
+  "variant": "jk-motion-v4-coverage-fix",
+  "files": [
+    {
+      "name": "coverage-repair.json",
+      "bytes": 1577,
+      "sha256": "1fe8476fd4fd3e495463d60ab7ffda5b0d9578a53a675d7b6af461058c81bfdc"
+    },
+    {
+      "name": "repair_coverage.py",
+      "bytes": 10478,
+      "sha256": "ecb1da13f52806ecbdafa3d0ffbc248329e4319b3b9c0e0d9500631737bcd1f1"
+    },
+    {
+      "name": "review_coverage.py",
+      "bytes": 3949,
+      "sha256": "3f0436fead72b97fa6f0753351612bde771b04e22bc043a968b5acdd58946d88"
+    },
+    {
+      "name": "source-render-contract.json",
+      "bytes": 3977186,
+      "sha256": "fbe1ab3d37b4b1960f1af58da8ee9c0c07d39844d9dded2069282767e2395cc0"
+    },
+    {
+      "name": "sui-jk-motion-source.blend",
+      "bytes": 17546377,
+      "sha256": "8869901a2ef5cbd9bf162ed31fc0d985f62cfbdbf656170b988d5e69040826ae"
+    },
+    {
+      "name": "Sui_JK_Hun_Body_Motion.fbx",
+      "bytes": 3131676,
+      "sha256": "cdd5199797ec9efe4566d2856b31b826c77473e61b244601280bf6dc32099d4c"
+    },
+    {
+      "name": "verify_coverage_final.py",
+      "bytes": 1817,
+      "sha256": "cc0f14dc41b10d4c375cd6c788b5f8d975adc653c32d3d1915b6393e37904e83"
+    }
+  ]
+}
