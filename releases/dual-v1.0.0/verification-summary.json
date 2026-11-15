@@ -1,0 +1,12 @@
+{
+  "release_tag": "dual-v1.0.0",
+  "package_count": 88,
+  "changed_JK_packages": 2,
+  "preserved_packages_from_dual_v2": 86,
+  "appearance_rows": 68,
+  "model_file_hashes_match_installed_version": true,
+  "independent_container_reader": "CUE4Parse",
+  "user_feedback": "不错，可以发布一版release了，直接作为两个皮肤一起发布",
+  "all_actions_weapons_cutscenes_tested": false,
+  "previews_are_offline_renders": true
+}
