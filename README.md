@@ -4,11 +4,11 @@
 
 2026-11-14，用户已报告 `native-shaders-v1` 模型实机成功。测试游戏为 Steam app **4115450**、build **26367565**。这不是全流程兼容性认证：战斗、武器、过场、长时间游玩仍需逐项验证；游戏更新后应重新核验。
 
-公开 Release 仍是来自 Yuiffy/my-pixijs-game 的旧衣服粗模。本地新衣 JK 当前安装的是 **物理实验 v1**，已于 2026-11-15 17:31:28 核对安装哈希。用户试玩反馈“感觉还不错哦”，明确确认白猫挂饰能够摆动，但偶发穿衣，袜口、腿部和手心仍有色差待修。见 [安装与用户反馈摘要](evidence/jk-motion-v1-offline/installation-summary.json)。独立语音包未改；这些反馈不代表所有武器、动画或稳定性测试通过。
+公开 Release 仍是来自 Yuiffy/my-pixijs-game 的旧衣服粗模。本地新衣 JK 当前安装的是 **物理细修 v2**，已于 2026-11-15 21:18:32 核对安装哈希，**尚未游戏实测**。修复袜口/裸露大腿色差和手心，调整光环、马尾默认形状与摆动，并增加白猫挂饰避让。见 [v2 模型与源码](models/jk-motion-v2-candidate/README.md)、[安装摘要](evidence/jk-motion-v2-offline/installation-summary.json)。v1 已在本地备份；用户对 v1 确认白猫和少量马尾摆动，同时指出偶发穿衣等问题。独立 Compact v5 语音包字节保持不变。
 
 [v11 静态细修候选](models/jk-v11-candidate/README.md) 包含裙子残留粉色清理、清晰猫脸袜和另一侧袜口、手指体积及实际背带吊点，保留为静态回退。基于它的 [物理实验 v1](models/jk-motion-v1-candidate/README.md) 已通过真实离线 Chaos 模拟及最终容器读回，并已安装获用户初步试玩反馈。物理预览是离线求解结果。
 
-历史源与证据保留：[v8 肩颈和比例](models/jk-v8-candidate/README.md)、[v9 手部转轴与饰件](models/jk-v9-candidate/README.md)、[v10 右背与包内投影](models/jk-v10-candidate/README.md)。候选目录中的旧状态文字记录当时检查阶段；当前安装事实以上述物理 v1 凭据为准。人工诊断姿势不能保证实际长柄防御或所有动作无穿插。
+历史源与证据保留：[v8 肩颈和比例](models/jk-v8-candidate/README.md)、[v9 手部转轴与饰件](models/jk-v9-candidate/README.md)、[v10 右背与包内投影](models/jk-v10-candidate/README.md)。候选目录中的旧状态文字记录当时检查阶段；当前安装事实以上述物理 v2 凭据为准。人工诊断姿势不能保证实际长柄防御或所有动作无穿插。
 
 ## 安装模型
 
@@ -40,8 +40,9 @@ python scripts/mod_files.py uninstall --manifest manifest.json --game-root '你�
 
 - [v11 细修候选：裙色、两侧袜口、手指体积与吊点](models/jk-v11-candidate/README.md)：离线核验完成，尚未安装；真实摆动物理未加入此包。
 - [物理实验 v1 源码、模型和验证边界](models/jk-motion-v1-candidate/README.md)、[实际离线模拟动图](evidence/jk-motion-v1-offline/motion-preview.gif)
+- [物理细修 v2：贴图、光环、重力马尾与挂饰避让](models/jk-motion-v2-candidate/README.md)、[离线模拟动图](evidence/jk-motion-v2-offline/motion-preview.gif)：三组模拟及最终容器读回通过，已安装，待用户游戏实测。
 - [v10 安装凭据摘要与用户试玩反馈](evidence/jk-v10-installation/installation-summary.json)
-- [绑定后的 GLB](models/sui-hun-binding.glb)：当前 MOD 使用的几何和绑定，内嵌贴图，可导入 Blender；不是现成 UE 工程。
+- [绑定后的旧衣服 GLB](models/sui-hun-binding.glb)：早期公开 Release 的几何和绑定，内嵌贴图，可导入 Blender；新衣 JK 源码见上述候选目录。
 - [模型说明与来源](models/README.md)
 - [v7 候选：肩颈权重、颈长与下摆衔接](models/jk-v7-candidate/README.md)
 - [制作 skill](skills/pbz-character-mod/SKILL.md)

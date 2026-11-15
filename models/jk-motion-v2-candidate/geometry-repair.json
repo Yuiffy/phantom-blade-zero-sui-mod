@@ -1,0 +1,35 @@
+{
+  "halo": {
+    "old_centerline_axes_cm": [
+      31.185998984469656,
+      10.93343157989567
+    ],
+    "new_centerline_axes_cm": [
+      31.185998984469656,
+      29.626699035246173
+    ],
+    "decorations_kept_rigid": true,
+    "ring_wire_thickness_preserved_approximately": true,
+    "parts": 29
+  },
+  "ponytail": {
+    "root_z_fixed_above_cm": 184,
+    "lower_tip_rest_delta_cm": [
+      -4,
+      5,
+      -2
+    ],
+    "planar_guide_retained": true,
+    "high_root_geometry_unchanged": true
+  },
+  "charm": {
+    "outward_body_offset_cm": 1.2,
+    "attachment_preserved_above_z_cm": 143.5,
+    "cage_moves_with_visible_body": true
+  },
+  "changed_vertices": 6172,
+  "weights_exactly_preserved": true,
+  "unrelated_positions_preserved": true,
+  "bones": 264,
+  "triangles": 72305
+}

@@ -1,0 +1,7 @@
+{
+  "source_root": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\models\\new-outfit-20261114\\tripo-motion-v2",
+  "body_package": "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple",
+  "fbx": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\models\\new-outfit-20261114\\tripo-motion-v2\\Sui_JK_Hun_Body_Motion.fbx",
+  "fbx_sha256": "5325f34d330fa624570a239ed3c586b9355d4b29d4292ae29cf2920f8129d4dd",
+  "expected_triangles": 72305
+}

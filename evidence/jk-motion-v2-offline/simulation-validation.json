@@ -1,0 +1,190 @@
+{
+  "status": "offline-Chaos-component-transform-test-only",
+  "tests": [
+    {
+      "test": "60hz",
+      "frames": 31,
+      "assets": [
+        {
+          "asset": "CA_Sui_Ponytail_0",
+          "particles": 125,
+          "fixed": 15,
+          "max_displacement_cm": 7.667816531812605,
+          "maxdistance_overshoot_cm": 5.547266511446436e-06,
+          "max_pin_error_cm": 2.868615823305376e-06,
+          "edge_ratio_min": 0.9669628376776848,
+          "edge_ratio_max": 1.0628117282110274,
+          "motion_after_warmup_cm": 5.884447713127422
+        },
+        {
+          "asset": "CA_Sui_Charm_0",
+          "particles": 546,
+          "fixed": 65,
+          "max_displacement_cm": 1.910499401287205,
+          "maxdistance_overshoot_cm": 1.5847933468067977e-06,
+          "max_pin_error_cm": 1.5847933468067977e-06,
+          "edge_ratio_min": 0.9173700146778344,
+          "edge_ratio_max": 1.2408249307116381,
+          "motion_after_warmup_cm": 1.5399049816231276
+        },
+        {
+          "asset": "CA_Sui_Skirt_0",
+          "particles": 288,
+          "fixed": 96,
+          "max_displacement_cm": 0.13329450430495585,
+          "maxdistance_overshoot_cm": 1.585079362100233e-05,
+          "max_pin_error_cm": 1.585079362100233e-05,
+          "edge_ratio_min": 0.9957877114639051,
+          "edge_ratio_max": 1.0040889723855249,
+          "motion_after_warmup_cm": 0.12790214471513556
+        },
+        {
+          "asset": "CA_Sui_CardiganHem_0",
+          "particles": 432,
+          "fixed": 96,
+          "max_displacement_cm": 0.2558649533587175,
+          "maxdistance_overshoot_cm": 8.780986456634855e-06,
+          "max_pin_error_cm": 8.780986456634855e-06,
+          "edge_ratio_min": 0.9925573978223299,
+          "edge_ratio_max": 1.008882973133652,
+          "motion_after_warmup_cm": 0.23569354271106724
+        },
+        {
+          "asset": "CA_Sui_Backpack_0",
+          "particles": 354,
+          "fixed": 97,
+          "max_displacement_cm": 0.16927284703543735,
+          "maxdistance_overshoot_cm": 1.6717806689239407e-05,
+          "max_pin_error_cm": 1.6717806689239407e-05,
+          "edge_ratio_min": 0.9960212293455701,
+          "edge_ratio_max": 1.0045655090840424,
+          "motion_after_warmup_cm": 0.1317399711865946
+        }
+      ]
+    },
+    {
+      "test": "30hz",
+      "frames": 19,
+      "assets": [
+        {
+          "asset": "CA_Sui_Ponytail_0",
+          "particles": 125,
+          "fixed": 15,
+          "max_displacement_cm": 11.16045431085722,
+          "maxdistance_overshoot_cm": 6.059297145588616e-06,
+          "max_pin_error_cm": 2.3460492468665505e-06,
+          "edge_ratio_min": 0.949479627730554,
+          "edge_ratio_max": 1.089440425121459,
+          "motion_after_warmup_cm": 9.29039497697322
+        },
+        {
+          "asset": "CA_Sui_Charm_0",
+          "particles": 546,
+          "fixed": 65,
+          "max_displacement_cm": 2.7797366619654973,
+          "maxdistance_overshoot_cm": 1.5847933455846877e-06,
+          "max_pin_error_cm": 1.5847933455846877e-06,
+          "edge_ratio_min": 0.7910859686986684,
+          "edge_ratio_max": 1.2396151590307796,
+          "motion_after_warmup_cm": 2.5996751199693926
+        },
+        {
+          "asset": "CA_Sui_Skirt_0",
+          "particles": 288,
+          "fixed": 96,
+          "max_displacement_cm": 0.2670071253493257,
+          "maxdistance_overshoot_cm": 1.5447887617186938e-05,
+          "max_pin_error_cm": 1.5447887617186938e-05,
+          "edge_ratio_min": 0.9894330973065848,
+          "edge_ratio_max": 1.0090225246172664,
+          "motion_after_warmup_cm": 0.24159941906417806
+        },
+        {
+          "asset": "CA_Sui_CardiganHem_0",
+          "particles": 432,
+          "fixed": 96,
+          "max_displacement_cm": 0.5535310479588549,
+          "maxdistance_overshoot_cm": 8.78098644898509e-06,
+          "max_pin_error_cm": 8.78098644898509e-06,
+          "edge_ratio_min": 0.982406574502711,
+          "edge_ratio_max": 1.013244234090736,
+          "motion_after_warmup_cm": 0.5088154339029403
+        },
+        {
+          "asset": "CA_Sui_Backpack_0",
+          "particles": 354,
+          "fixed": 97,
+          "max_displacement_cm": 0.5012687655521108,
+          "maxdistance_overshoot_cm": 1.671780668928386e-05,
+          "max_pin_error_cm": 1.671780668928386e-05,
+          "edge_ratio_min": 0.9844548750550843,
+          "edge_ratio_max": 1.0148569411345794,
+          "motion_after_warmup_cm": 0.5056073238660814
+        }
+      ]
+    },
+    {
+      "test": "foreaft",
+      "frames": 37,
+      "assets": [
+        {
+          "asset": "CA_Sui_Ponytail_0",
+          "particles": 125,
+          "fixed": 15,
+          "max_displacement_cm": 10.54999488752204,
+          "maxdistance_overshoot_cm": 1.4370109392664979e-05,
+          "max_pin_error_cm": 1.4370109392664979e-05,
+          "edge_ratio_min": 0.9614478598478449,
+          "edge_ratio_max": 1.0873710286273457,
+          "motion_after_warmup_cm": 8.54432826579464
+        },
+        {
+          "asset": "CA_Sui_Charm_0",
+          "particles": 546,
+          "fixed": 65,
+          "max_displacement_cm": 1.9818463444890173,
+          "maxdistance_overshoot_cm": 1.5512682299182363e-05,
+          "max_pin_error_cm": 1.5512682299182363e-05,
+          "edge_ratio_min": 0.7535361111991457,
+          "edge_ratio_max": 1.2408249307116381,
+          "motion_after_warmup_cm": 2.9740518497383124
+        },
+        {
+          "asset": "CA_Sui_Skirt_0",
+          "particles": 288,
+          "fixed": 96,
+          "max_displacement_cm": 0.22372357629126358,
+          "maxdistance_overshoot_cm": 2.2363998262750256e-05,
+          "max_pin_error_cm": 2.2363998262750256e-05,
+          "edge_ratio_min": 0.9941953892699537,
+          "edge_ratio_max": 1.0061407760536112,
+          "motion_after_warmup_cm": 0.21246286781634807
+        },
+        {
+          "asset": "CA_Sui_CardiganHem_0",
+          "particles": 432,
+          "fixed": 96,
+          "max_displacement_cm": 0.43407685810982266,
+          "maxdistance_overshoot_cm": 1.5428314715394802e-05,
+          "max_pin_error_cm": 1.5428314715394802e-05,
+          "edge_ratio_min": 0.9884284191295694,
+          "edge_ratio_max": 1.0115483718346174,
+          "motion_after_warmup_cm": 0.4150571446444017
+        },
+        {
+          "asset": "CA_Sui_Backpack_0",
+          "particles": 354,
+          "fixed": 97,
+          "max_displacement_cm": 0.42769070166668405,
+          "maxdistance_overshoot_cm": 3.0260463405178784e-05,
+          "max_pin_error_cm": 3.0260463405178784e-05,
+          "edge_ratio_min": 0.9940117987696548,
+          "edge_ratio_max": 1.0063207508488559,
+          "motion_after_warmup_cm": 0.3941253194259023
+        }
+      ]
+    }
+  ],
+  "game_animations_tested": false,
+  "game_runtime_tested": false
+}

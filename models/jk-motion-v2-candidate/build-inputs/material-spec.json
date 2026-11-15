@@ -1,0 +1,352 @@
+{
+  "textures": [
+    {
+      "name": "T_JK_FlatNormal",
+      "kind": "normal",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_FlatNormal.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "sha256": "7b37a3afb155136a2b9f0624af9274c26dce7ce24ba1e1a06c2cfe46ebca2c3f"
+    },
+    {
+      "name": "T_JK_Base",
+      "kind": "albedo",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\models\\new-outfit-20261114\\tripo-motion-v2\\textures\\sui-jk-albedo-v2.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+      "sha256": "21fff85969b1f234e6dd941cc870d3e00830e7b00790cece07b5d6074c5643bf"
+    },
+    {
+      "name": "T_JK_ARM_Base",
+      "kind": "mask",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\models\\new-outfit-20261114\\tripo-motion-v2\\textures\\T_JK_ARM_Base.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Base",
+      "sha256": "bf4e5a7d7f40db6771f2d5930d3517a580bdc6b60c99d26ad778eb74c422518a"
+    },
+    {
+      "name": "T_JK_Gold",
+      "kind": "albedo",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_Gold.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Gold",
+      "sha256": "153c271b709d06068daa1d5b4966fa7ab8f65ea9885e62f308814a8e1c03304c"
+    },
+    {
+      "name": "T_JK_ARM_Gold",
+      "kind": "mask",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_ARM_Gold.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Gold",
+      "sha256": "a6a5b7a4c434acf8d9367634cc7da3ecdd792e50201b7e6a3ae4301ecee900ab"
+    },
+    {
+      "name": "T_JK_Pink",
+      "kind": "albedo",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_Pink.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Pink",
+      "sha256": "4290f018cb840c29d3df1889022de97cc242b25e9f9ccaa804fe7be7c480a07e"
+    },
+    {
+      "name": "T_JK_ARM_Pink",
+      "kind": "mask",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_ARM_Pink.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Pink",
+      "sha256": "b441020944f1706a1680db0f4e96ba496b490df547dfdc95b5bfc215f1e0d5ee"
+    },
+    {
+      "name": "T_JK_Cat",
+      "kind": "albedo",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_Cat.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Cat",
+      "sha256": "0514210adb552d0a1195915edf89e767455b80aea20b35432ab80003941e68da"
+    },
+    {
+      "name": "T_JK_PinkSeam",
+      "kind": "albedo",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_PinkSeam.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_PinkSeam",
+      "sha256": "b493d660754078853843fcdbe4e21ec774313054d88948c4131b78a0caaf7833"
+    },
+    {
+      "name": "T_JK_Silver",
+      "kind": "albedo",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_Silver.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Silver",
+      "sha256": "826b9ac53acc484d619c54d28c95ae1c8bd8d5754b8bb5990f2450b3ee111576"
+    },
+    {
+      "name": "T_JK_ARM_Silver",
+      "kind": "mask",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_ARM_Silver.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Silver",
+      "sha256": "2259e61d5a5ab0a70cdde6ba9e2d3e22b074f562397d199e1bd57b796f51432f"
+    },
+    {
+      "name": "T_JK_PinkLight",
+      "kind": "albedo",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_PinkLight.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_PinkLight",
+      "sha256": "dc811bae5af3d5c6fdde1a8dee37c235a1d0e79f9890abd6adcfec8e1d13eee3"
+    },
+    {
+      "name": "T_JK_HairGroove",
+      "kind": "albedo",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_HairGroove.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_HairGroove",
+      "sha256": "90af404fd3b8d9cb977591f7ed0708be6f4e1c52075898da3802e75d63d82c45"
+    },
+    {
+      "name": "T_JK_ARM_HairGroove",
+      "kind": "mask",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_ARM_HairGroove.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_HairGroove",
+      "sha256": "b4002e171aa994210ed239d7a52a53e9efdff5586a3f0726b67b0539fc79a7b7"
+    },
+    {
+      "name": "T_JK_SafetyLining",
+      "kind": "albedo",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_SafetyLining.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_SafetyLining",
+      "sha256": "910c562604c9f18ec190b549b6d86c0e82c970b2396d5b0d0cb924b31014fcf9"
+    },
+    {
+      "name": "T_JK_ARM_SafetyLining",
+      "kind": "mask",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_ARM_SafetyLining.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_SafetyLining",
+      "sha256": "67cd81b5dbe504c2f5a35886d5ed46d76a053eb1b4f28183ad845fecf6220165"
+    },
+    {
+      "name": "T_JK_Ivory",
+      "kind": "albedo",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_Ivory.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Ivory",
+      "sha256": "9e6dfdac68ddc20a36346e5f82b060f96add1ad58f71b50e611681490ab5c731"
+    },
+    {
+      "name": "T_JK_ARM_Ponytail",
+      "kind": "mask",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_ARM_Ponytail.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Ponytail",
+      "sha256": "c9c07cb2ae9b653b4a59ea791cc00b01ff4df8595f80dc072faf508929870215"
+    },
+    {
+      "name": "T_JK_ARM_CardiganHem",
+      "kind": "mask",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_ARM_CardiganHem.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_CardiganHem",
+      "sha256": "57c066d73d090b9c16c854b65e173a6aa82aa064b364e3caac611f8e7539221a"
+    },
+    {
+      "name": "T_JK_ARM_PleatedSkirt",
+      "kind": "mask",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_ARM_PleatedSkirt.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_PleatedSkirt",
+      "sha256": "02ad97b49ad6b91adb3e445e2d2302d75cc59e79638517681a0db0c17f246173"
+    },
+    {
+      "name": "T_JK_ARM_Backpack",
+      "kind": "mask",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_ARM_Backpack.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Backpack",
+      "sha256": "9730c6e8195ecc52a538df49a95b8841719a2a88038f4d8630aeb5a05e2886b2"
+    },
+    {
+      "name": "T_JK_ARM_Straps",
+      "kind": "mask",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\variants\\new-jk-v11\\textures\\T_JK_ARM_Straps.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Straps",
+      "sha256": "56e25b829bf0088cc667afcbf8b306ac034d2105d833d2f266313d411aeb2331"
+    },
+    {
+      "name": "T_JK_ARM_Stockings",
+      "kind": "mask",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\models\\new-outfit-20261114\\tripo-motion-v2\\textures\\T_JK_ARM_Stockings.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Stockings",
+      "sha256": "8bdbb2c6046a4afc10ce3d78a332426d5e01d00beab2eebdfc0d13f3929a5bea"
+    },
+    {
+      "name": "T_JK_CharmAtlas",
+      "kind": "albedo",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\models\\new-outfit-20261114\\tripo-motion-v1\\textures\\T_JK_CharmAtlas.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_CharmAtlas",
+      "sha256": "7c2dadbdea0c3d75eae4061cec2514264c39863d854270605ed06d96222e2f26"
+    },
+    {
+      "name": "T_JK_ARM_CharmAtlas",
+      "kind": "mask",
+      "path": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\models\\new-outfit-20261114\\tripo-motion-v1\\textures\\T_JK_ARM_CharmAtlas.png",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_CharmAtlas",
+      "sha256": "71bea2c6abb69667640653f50dee63fa7c2db7e6851d74c926c46c86b5d3b633"
+    }
+  ],
+  "materials": [
+    {
+      "slot": "MI_JK_Base",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Base"
+      }
+    },
+    {
+      "slot": "MI_JK_Gold",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Gold",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Gold"
+      }
+    },
+    {
+      "slot": "MI_JK_Pink",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Pink",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Pink"
+      }
+    },
+    {
+      "slot": "MI_JK_Cat",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Cat",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Pink"
+      }
+    },
+    {
+      "slot": "MI_JK_PinkSeam",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_PinkSeam",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Pink"
+      }
+    },
+    {
+      "slot": "MI_JK_Silver",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Silver",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Silver"
+      }
+    },
+    {
+      "slot": "MI_JK_PinkLight",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_PinkLight",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Pink"
+      }
+    },
+    {
+      "slot": "MI_JK_HairGroove",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_HairGroove",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_HairGroove"
+      }
+    },
+    {
+      "slot": "MI_JK_SafetyLining",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_SafetyLining",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_SafetyLining"
+      }
+    },
+    {
+      "slot": "MI_JK_Ivory",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Ivory",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Pink"
+      }
+    },
+    {
+      "slot": "MI_JK_Ponytail",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Ponytail"
+      }
+    },
+    {
+      "slot": "MI_JK_HairMain",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Ponytail"
+      }
+    },
+    {
+      "slot": "MI_JK_CardiganHem",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_CardiganHem"
+      }
+    },
+    {
+      "slot": "MI_JK_Cardigan",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_CardiganHem"
+      }
+    },
+    {
+      "slot": "MI_JK_PleatedSkirt",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_PleatedSkirt"
+      }
+    },
+    {
+      "slot": "MI_JK_Backpack",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Backpack"
+      }
+    },
+    {
+      "slot": "MI_JK_Straps",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Straps"
+      }
+    },
+    {
+      "slot": "MI_JK_Stockings",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Stockings"
+      }
+    },
+    {
+      "slot": "MI_JK_CharmAtlas",
+      "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+      "textures": {
+        "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_CharmAtlas",
+        "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+        "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_CharmAtlas"
+      }
+    }
+  ]
+}

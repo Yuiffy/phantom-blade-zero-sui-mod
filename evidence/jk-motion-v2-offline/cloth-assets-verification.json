@@ -1,0 +1,116 @@
+{
+  "status": "final-container-cloth-config-and-collision-readback-passed",
+  "assets": [
+    {
+      "asset": "CA_Sui_Ponytail_0",
+      "particles": 125,
+      "triangles": 192,
+      "render_slot": "MI_JK_Ponytail",
+      "maxdistance_map_matches": true,
+      "serialized_config_fields": [
+        "BendingStiffnessWeighted",
+        "bUseBendingElements",
+        "CollisionThickness",
+        "FrictionCoefficient",
+        "DampingCoefficient",
+        "LocalDampingCoefficient",
+        "GravityScale",
+        "AnimDriveStiffness",
+        "AnimDriveDamping",
+        "AngularVelocityScale"
+      ],
+      "collision_asset_matches": true
+    },
+    {
+      "asset": "CA_Sui_Charm_0",
+      "particles": 546,
+      "triangles": 1088,
+      "render_slot": "MI_JK_CharmAtlas",
+      "maxdistance_map_matches": true,
+      "serialized_config_fields": [
+        "BendingStiffnessWeighted",
+        "bUseBendingElements",
+        "VolumeStiffness",
+        "CollisionThickness",
+        "FrictionCoefficient",
+        "DampingCoefficient",
+        "LocalDampingCoefficient",
+        "GravityScale",
+        "AnimDriveStiffness",
+        "AnimDriveDamping",
+        "LinearVelocityScale",
+        "AngularVelocityScale",
+        "bUseThinShellVolumeConstraints"
+      ],
+      "collision_asset_matches": true
+    },
+    {
+      "asset": "CA_Sui_Skirt_0",
+      "particles": 288,
+      "triangles": 512,
+      "render_slot": "MI_JK_PleatedSkirt",
+      "maxdistance_map_matches": true,
+      "serialized_config_fields": [
+        "BendingStiffnessWeighted",
+        "bUseBendingElements",
+        "CollisionThickness",
+        "FrictionCoefficient",
+        "DampingCoefficient",
+        "LocalDampingCoefficient",
+        "GravityScale",
+        "AnimDriveStiffness",
+        "AnimDriveDamping",
+        "LinearVelocityScale",
+        "AngularVelocityScale"
+      ],
+      "collision_asset_matches": true
+    },
+    {
+      "asset": "CA_Sui_CardiganHem_0",
+      "particles": 432,
+      "triangles": 768,
+      "render_slot": "MI_JK_CardiganHem",
+      "maxdistance_map_matches": true,
+      "serialized_config_fields": [
+        "BendingStiffnessWeighted",
+        "bUseBendingElements",
+        "CollisionThickness",
+        "FrictionCoefficient",
+        "DampingCoefficient",
+        "LocalDampingCoefficient",
+        "GravityScale",
+        "AnimDriveStiffness",
+        "AnimDriveDamping",
+        "LinearVelocityScale",
+        "AngularVelocityScale"
+      ],
+      "collision_asset_matches": true
+    },
+    {
+      "asset": "CA_Sui_Backpack_0",
+      "particles": 354,
+      "triangles": 704,
+      "render_slot": "MI_JK_Backpack",
+      "maxdistance_map_matches": true,
+      "serialized_config_fields": [
+        "bUseBendingElements",
+        "VolumeStiffness",
+        "CollisionThickness",
+        "FrictionCoefficient",
+        "DampingCoefficient",
+        "LocalDampingCoefficient",
+        "GravityScale",
+        "AnimDriveStiffness",
+        "AnimDriveDamping",
+        "LinearVelocityScale",
+        "AngularVelocityScale",
+        "bUseThinShellVolumeConstraints"
+      ],
+      "collision_asset_matches": true
+    }
+  ],
+  "kinematic_spheres": 16,
+  "original_body_physics_asset_unchanged": true,
+  "class_default_values_in_PBZ_unverified": true,
+  "game_runtime_tested": false
+}

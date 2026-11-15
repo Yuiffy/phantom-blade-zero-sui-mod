@@ -13,7 +13,7 @@ description: Build and debug Phantom Blade Zero character replacement mods, incl
 
 遇到收窄体型后手指扭曲、袜饰悬空或底层贴图串色，读 [JK 手部与饰件案例](references/jk-hand-accessory-case.md)。先比较表面与骨骼转轴，保留顶点来源索引；替换立体饰件时同时清理底层旧投影，并分别验证新增与保留表面。
 
-制作马尾、挂饰或布料物理时，读 [JK 布料离线实验](references/jk-cloth-case.md)。检查重建后的分区绑定及启用瞬间的轮廓，再用实际模拟输出和最终 GPU 映射重建表面；该案例已获白猫摆动的用户实测反馈，仍有偶发穿衣和细节色差待修。
+制作马尾、挂饰或布料物理时，读 [JK 布料离线实验](references/jk-cloth-case.md)。检查重建后的分区绑定、零时间轮廓及真实求解帧，再用模拟输出和最终 GPU 映射重建表面。v1 获用户对白猫与少量马尾摆动的确认；v2 增强重力、修色并增加挂饰避让，离线三组测试通过，已安装但尚未游戏实测。
 
 - 按外观表实际 ItemId 追踪身体、头部、Groom、ChaosCloth、附件；单套服装替换要克隆部件引用，避免改共享路径而影响其他服装。
 - 骨名、父级、参考变换及武器子骨必须和目标资源对齐；不要引入导出的额外 Armature 根节点。
