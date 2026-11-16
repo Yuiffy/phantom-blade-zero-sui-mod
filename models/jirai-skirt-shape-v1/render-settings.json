@@ -1,0 +1,5 @@
+{
+  "skirt_max_simulated_blend": 0.35,
+  "scope": "Post-cook visible skirt blend only; physical cloth config and solved particles remain unchanged.",
+  "reason": "The reshaped skirt at the inherited 0.40 cap failed the unchanged 3 cm local recovery gate after crouching. Reconstruct and evaluate the final 0.35 mapping with the same fresh continuous solves."
+}

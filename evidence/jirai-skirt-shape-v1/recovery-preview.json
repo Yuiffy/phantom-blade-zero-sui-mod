@@ -1,0 +1,101 @@
+{
+  "basis": "offline Blender rendering of actual continuous Chaos through final cooked GPU mapping",
+  "fbx_sha256": "e56c48f5d17fa6777710dc763182ff6b9178653af4c7a70eb51cbcde580db710",
+  "cloth_spec_sha256": "c4dc2a8135129136efa6a284279959ab0ae1552d49892fa73a3b44ae8eac89ef",
+  "combined_tests_sha256": "2fb91c906aa581c24649303e373a0041aabef50f798bd4da7fdd02a8d4bbddcc",
+  "mapping_sha256": "c41248787b50c5708b42947cec0304e61e7f0dae5af3b63c0f3cc16d661fd91d",
+  "atlas": {
+    "source_atlas_sha256": "2ba9104fc7eb43a120eb94843b0c3c208dac92fe44f5b4168fe8f7eb3b5ec152",
+    "width": 8192,
+    "height": 8192,
+    "bindings": 22,
+    "basis": "verified installed Fishnet1 input atlas; final VT payload independently preserved"
+  },
+  "images": [
+    {
+      "profile": "walk-recover",
+      "phase": "moving",
+      "step": 110,
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\recovery\\walk-recover-moving-front.png",
+      "sha256": "a30660f51abf0293fbd9aa892fdec47752bc20bcacd753be4869285334344e99"
+    },
+    {
+      "profile": "walk-recover",
+      "phase": "moving",
+      "step": 110,
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\recovery\\walk-recover-moving-side.png",
+      "sha256": "4d45b74283dc8b1a292d8751da7e81a2ca14ded1074c380cdd6c322ee675e0e5"
+    },
+    {
+      "profile": "walk-recover",
+      "phase": "stopped",
+      "step": 540,
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\recovery\\walk-recover-stopped-front.png",
+      "sha256": "99c4d6ab7c5cc50192f93b875472ebbbbdba1073c3634cebd8a0adf830f0b909"
+    },
+    {
+      "profile": "walk-recover",
+      "phase": "stopped",
+      "step": 540,
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\recovery\\walk-recover-stopped-side.png",
+      "sha256": "1248500ec9ed67da51fb10b136474847d355cdf2e9e0f971e4479559d9041973"
+    },
+    {
+      "profile": "jog-recover",
+      "phase": "moving",
+      "step": 440,
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\recovery\\jog-recover-moving-front.png",
+      "sha256": "6db1c2a3f9ffa95f05596f51fd78e999d2fdfec46c937f1ed1bfa66529dcc81c"
+    },
+    {
+      "profile": "jog-recover",
+      "phase": "moving",
+      "step": 440,
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\recovery\\jog-recover-moving-side.png",
+      "sha256": "a20469a87219b05d0b3e0454b25a15990db97f7753b1a7852863ff3009abf6ea"
+    },
+    {
+      "profile": "jog-recover",
+      "phase": "stopped",
+      "step": 540,
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\recovery\\jog-recover-stopped-front.png",
+      "sha256": "d2c1faa829f83f550cc26f283c56e4d7bc8611b1676bc93afee717bc33353459"
+    },
+    {
+      "profile": "jog-recover",
+      "phase": "stopped",
+      "step": 540,
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\recovery\\jog-recover-stopped-side.png",
+      "sha256": "52c25db244727974e00be3774c2cdc800d7181275ea35d13ca73e2442f1efdfb"
+    },
+    {
+      "profile": "crouch-recover",
+      "phase": "moving",
+      "step": 150,
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\recovery\\crouch-recover-moving-front.png",
+      "sha256": "cde2322b2e3ef18ea90ca212f95a6a514873b64c15304694532d9270a22dead3"
+    },
+    {
+      "profile": "crouch-recover",
+      "phase": "moving",
+      "step": 150,
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\recovery\\crouch-recover-moving-side.png",
+      "sha256": "c9a528487332d91a6c5442f284b566e960f603dd40ee757e756da71f26d260a0"
+    },
+    {
+      "profile": "crouch-recover",
+      "phase": "stopped",
+      "step": 540,
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\recovery\\crouch-recover-stopped-front.png",
+      "sha256": "a69774642641c4f161342646fb6e12770cb32721eb9fdf51eb3e761af44300b9"
+    },
+    {
+      "profile": "crouch-recover",
+      "phase": "stopped",
+      "step": 540,
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\recovery\\crouch-recover-stopped-side.png",
+      "sha256": "fa5e3265af1b58fc53f332911557e1ed875e77dd4d5e920fbd8c53fb1f8540bd"
+    }
+  ],
+  "game_runtime_tested": false
+}

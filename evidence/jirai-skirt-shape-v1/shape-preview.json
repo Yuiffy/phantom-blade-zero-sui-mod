@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "mode": "before",
+      "angle": "front",
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\shape\\before-front.png",
+      "sha256": "da23664c29fa961ef458b5caf4347102ce8542dc199ed40730d7e0ba1d11267e"
+    },
+    {
+      "mode": "before",
+      "angle": "side",
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\shape\\before-side.png",
+      "sha256": "786378499432c172760ee2d946988858168fccf3d4b6cb228248bd6634b2c8d2"
+    },
+    {
+      "mode": "after-static",
+      "angle": "front",
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\shape\\after-static-front.png",
+      "sha256": "2c885ad49b2199d987b8176638c98eb75148a231d69d70329449a15b4bca7f8f"
+    },
+    {
+      "mode": "after-static",
+      "angle": "side",
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\shape\\after-static-side.png",
+      "sha256": "84d84632d2545d6e3d5eaaabb590c7ff89871d42466e3157bd5f525a677e4c7a"
+    },
+    {
+      "mode": "after-stopped",
+      "angle": "front",
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\shape\\after-stopped-front.png",
+      "sha256": "f283807b3554f0d3626a7536882bf30c51eba3ab9dab54ced264c10937bafeac"
+    },
+    {
+      "mode": "after-stopped",
+      "angle": "side",
+      "file": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-skirt-shape-v1\\preview\\shape\\after-stopped-side.png",
+      "sha256": "2249d69d987988221b892d11c6aa2a59e9e4828e74842a3d508684b13fdb7d1d"
+    }
+  ],
+  "basis": "offline same-camera before/after author geometry plus final cooked continuous Chaos settled frame",
+  "source_fbx_sha256": "e56c48f5d17fa6777710dc763182ff6b9178653af4c7a70eb51cbcde580db710",
+  "mapping_sha256": "c41248787b50c5708b42947cec0304e61e7f0dae5af3b63c0f3cc16d661fd91d",
+  "game_runtime_tested": false
+}
