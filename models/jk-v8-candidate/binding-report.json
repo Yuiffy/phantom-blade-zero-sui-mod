@@ -1,0 +1,43 @@
+{
+  "source": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\models\\jk-v7-candidate\\sui-jk-hun-bound-v7.blend",
+  "parameters": {
+    "torso_x": 230.0,
+    "torso_y": 205.0,
+    "torso_z": 225.0,
+    "torso_z_offset": -9.8,
+    "head_x": 215.0,
+    "head_y": 205.0,
+    "head_z": 200.0,
+    "head_top_z": 199.0059357,
+    "head_top_source": 0.94140625,
+    "bow_scale_x": 240.0,
+    "bow_z_offset": -11.0,
+    "shoulder_clavicle_support": 0.0,
+    "neck_head_ramp": [
+      0.745,
+      0.778
+    ],
+    "neck_lateral_fade": [
+      0.012,
+      0.054
+    ]
+  },
+  "bones": 264,
+  "vertices": 35056,
+  "triangles": 68347,
+  "material_slots": 9,
+  "skeleton_exactly_unchanged": true,
+  "unchanged_vertices": 16532,
+  "lower_body_hands_backpack_exactly_unchanged": true,
+  "max_displacement_cm": 8.680471757320591,
+  "custom_normals_fixed": 205041,
+  "unweighted_vertices": 0,
+  "max_weight_sum_error": 4.842877388000488e-08,
+  "max_influences": 6,
+  "fbx_sha256": "b36dfe9b564e7bac4a668e09da1e8c25b226652f6b465914127550686db7afc9",
+  "weight_repairs": {
+    "neck_collar_weights_regraded": 1305,
+    "proximal_sleeve_clavicle_support": 0
+  },
+  "no_new_physics": true
+}

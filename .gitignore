@@ -26,3 +26,9 @@ private/
 *.flv
 *.mp4
 *.srt
+
+models/jk-v7-candidate/shots/
+!models/jk-motion-v1-candidate/editor-tools/PBZModTools/Source/PBZModTools/Private/
+!models/jk-motion-v1-candidate/editor-tools/PBZModTools/Source/PBZModTools/Private/*.cpp
+!models/jk-motion-v2-candidate/editor-tools/PBZModTools/Source/PBZModTools/Private/
+!models/jk-motion-v2-candidate/editor-tools/PBZModTools/Source/PBZModTools/Private/*.cpp

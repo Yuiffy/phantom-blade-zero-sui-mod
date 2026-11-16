@@ -1,0 +1,70 @@
+{
+  "baseline": "v10",
+  "hands": [
+    {
+      "side": "r",
+      "vertices": 1171,
+      "max_radial_addition_cm": 0.25490196108818053,
+      "weights_unchanged": true,
+      "joint_matrices_unchanged": true
+    },
+    {
+      "side": "l",
+      "vertices": 1171,
+      "max_radial_addition_cm": 0.250823529958725,
+      "weights_unchanged": true,
+      "joint_matrices_unchanged": true
+    }
+  ],
+  "removed_old_cat_face_components": [
+    57,
+    61,
+    63
+  ],
+  "strap_anchor_cm": [
+    -12.509905815124512,
+    -4.990506649017334,
+    143.48068237304688
+  ],
+  "anchor_face_v10_indices": [
+    15640,
+    14671,
+    14842
+  ],
+  "anchor_barycentric": [
+    0.4051226763349506,
+    0.16708749377732282,
+    0.4277898298877266
+  ],
+  "attachment_weights": {
+    "spine_04": 0.7236331870552609,
+    "spine_05": 0.27636681294473897
+  },
+  "loop_translation_cm": [
+    0.04009418487548899,
+    1.4994933509826665,
+    -0.019317626953125
+  ],
+  "charm_seated_toward_strap_cm": 2.2,
+  "parts": [
+    {
+      "label": "strap-embedded hanging tab",
+      "component": 102,
+      "vertices": 32,
+      "triangles": 60
+    },
+    {
+      "label": "loop to plush sewn eyelet",
+      "component": 101,
+      "vertices": 32,
+      "triangles": 60
+    }
+  ],
+  "vertices": 35402,
+  "triangles": 69041,
+  "bones": 264,
+  "material_slots": 24,
+  "max_influences": 6,
+  "new_physics": false,
+  "fbx_sha256": "1d8bec92f1e1ab0f7e6a24dfd4a6496d0da92ba086ac66b4279a8a24f7815d42"
+}

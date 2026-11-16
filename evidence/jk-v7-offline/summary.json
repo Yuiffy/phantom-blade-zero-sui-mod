@@ -1,0 +1,134 @@
+{
+ "candidate": "jk-v7",
+ "date": "2026-11-15",
+ "game_build": "26367565",
+ "installed": true,
+ "runtime_tested": false,
+ "source": "models/jk-v6-candidate/sui-jk-hun-bound.blend",
+ "build_script": "models/jk-v7-candidate/adjust_v7.py",
+ "outputs": [
+  {
+   "name": "sui-jk-hun-bound-v7.blend",
+   "bytes": 6742246,
+   "sha256": "cdf1ad448c25d6f5361554f6313417a2197532df0a1bd1b48d425fd2c9623f23"
+  },
+  {
+   "name": "Sui_JK_Hun_Body.fbx",
+   "bytes": 3528940,
+   "sha256": "0d95eacdd210ed85df444ce552eb528d592e12109e592772bacbbe4eeaed3b31"
+  }
+ ],
+ "geometry": {
+  "vertices": 35056,
+  "triangles": 68347,
+  "bones": 264,
+  "materials": 9,
+  "max_influences": 5,
+  "unweighted_vertices": 0,
+  "max_weight_sum_error": 4.842877388000488e-08,
+  "displacement_max_cm": 7.192,
+  "vertices_moved_gt_0.05cm": 25865,
+  "custom_normals_fixed": 205041,
+  "weight_repairs": {
+   "head_stripped": 116,
+   "neck_stripped": 217,
+   "neck_regraded": 1834,
+   "hem_fixed": 0
+  },
+  "render_vertices_ue": 62604,
+  "fbx_sha256": "866666143e1099c6ca905a767e35c118b6213aa236773e5fdf230f98061bad45",
+  "custom_normals_note": "per-vertex rotation keeps the authored normal sharing; per-face rotation had inflated render vertices from 62,599 to 96,202"
+ },
+ "comparison": {
+  "shoulder_width_cm": [
+   73.04,
+   67.63
+  ],
+  "visible_neck_cm": [
+   0.323,
+   0.403
+  ],
+  "chin_to_bow_over_head": [
+   0.205,
+   0.193
+  ],
+  "chin_to_shelf_over_head": [
+   0.273,
+   0.433
+  ],
+  "head_weight_leak_vertices": [
+   41,
+   36
+  ],
+  "head_turn_neck_p99": [
+   1.6433,
+   1.0486
+  ],
+  "head_nod_neck_p99": [
+   1.6575,
+   1.0001
+  ],
+  "skirt_exposed_outside_jacket": [
+   107,
+   71
+  ],
+  "note": "pairs are [v6, v7]"
+ },
+ "regressions": {
+  "shoulder_p99_head_turn": [
+   1.2156,
+   1.3071
+  ],
+  "shoulder_p99_head_nod": [
+   1.0163,
+   1.1412
+  ],
+  "edges_over_1.6x_head_turn": [
+   68,
+   214
+  ],
+  "edges_over_1.6x_head_nod": [
+   47,
+   160
+  ],
+  "detail": "the stretched edges sit on the trapezius (z 150-165, |x| 8-12) where the neck mesh has ~6 cm edges"
+ },
+ "images": [
+  "compare-art-v6-v7.png",
+  "v6-v7-back.png",
+  "v6-v7-front.png",
+  "v6-v7-hem-back.png",
+  "v6-v7-nape-turn.png"
+ ],
+ "installed_at_asia_shanghai": "2026-11-15 05:04:08",
+ "install": {
+  "mods_directory": "F:/FGames/steam/steamapps/common/PBZ/ProjectPBZ/Content/Paks/~mods",
+  "replaced": "z_Sui_HeiShang_JK_v6_P",
+  "backup": "ai-video-workflow/outputs/phantom-blade-zero-sui/installations/new-jk-v7-20261115-050408/old-model",
+  "voice_pak_untouched": true,
+  "container": [
+   {
+    "name": "z_Sui_HeiShang_JK_v7_P.pak",
+    "bytes": 347,
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+   },
+   {
+    "name": "z_Sui_HeiShang_JK_v7_P.ucas",
+    "bytes": 18189508,
+    "sha256": "fd6ebf729e6fc05a26292aca5182f89f0ac34d2ad52efdfbd3e9b7bc0fe674f2"
+   },
+   {
+    "name": "z_Sui_HeiShang_JK_v7_P.utoc",
+    "bytes": 9630,
+    "sha256": "5cbfb97adc6ee96bf9b23b469e51074bc10895eb4d2bdfd22cdfab0fc9f67616"
+   }
+  ],
+  "verification": {
+   "container_semantics": "independent-container-semantics-passed",
+   "cooked_render_vertices": 62604,
+   "source_vertices_matched": 35056,
+   "max_position_error_cm": 3.5546317616080905e-05,
+   "max_weight_error_after_UE_quantization": 0
+  }
+ }
+}

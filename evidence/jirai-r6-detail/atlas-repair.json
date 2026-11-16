@@ -1,0 +1,8 @@
+{
+  "changed_pixels": 249056,
+  "donor_texels": 105199,
+  "source_sha256": "f3da3fb9f5937b6d0bf62cffaa259c02e2287461a89998c17091a4823a458b8c",
+  "output_sha256": "35dff2b06f2ae29b2442b4225ac6d3c8784a83f77c728b0ce7c5e4b2e9b1a414",
+  "outside_mask_identical": true,
+  "scope": "source5 anatomical left bare thigh; old front strap and rear stripe projections removed; source0 neck baked choker fragments cleaned with feathered skin mask"
+}

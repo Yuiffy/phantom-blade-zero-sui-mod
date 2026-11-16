@@ -1,0 +1,81 @@
+{
+  "status": "packaged-awaiting-independent-verification",
+  "packages": [
+    "/Game/PBZContent/DataTable/UI/DT_PBZAppearanceTable",
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple",
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_BrowLashCard",
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Cloth",
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Hair_Band",
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Hat_00",
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Head_New",
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Scarf",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Base",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Cat",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Gold",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_HairGroove",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Pink",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_PinkLight",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_PinkSeam",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Silver",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Cat",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Gold",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_HairGroove",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Pink",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_PinkLight",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_PinkSeam",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Silver",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_JK_Base",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_JK_Cat",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_JK_Gold",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_JK_HairGroove",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_JK_Pink",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_JK_PinkLight",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_JK_PinkSeam",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_JK_Silver",
+    "/HuaShira/Mods/SuiPBZ/Materials/M_Sui_Hidden",
+    "/HuaShira/Mods/SuiPBZ/NativeVT/T_ARM_02",
+    "/HuaShira/Mods/SuiPBZ/NativeVT/T_FlatNormal",
+    "/HuaShira/Mods/SuiPBZ/NativeVT/T_Hidden"
+  ],
+  "package_count": 37,
+  "reused_baseline_packages": [
+    "/Game/PBZContent/DataTable/UI/DT_PBZAppearanceTable",
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Cloth",
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Head_New",
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Scarf",
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Hair_Band",
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_BrowLashCard",
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Hat_00",
+    "/HuaShira/Mods/SuiPBZ/Materials/M_Sui_Hidden",
+    "/HuaShira/Mods/SuiPBZ/NativeVT/T_Hidden",
+    "/HuaShira/Mods/SuiPBZ/NativeVT/T_FlatNormal",
+    "/HuaShira/Mods/SuiPBZ/NativeVT/T_ARM_02"
+  ],
+  "body": "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple",
+  "triangles": 66678,
+  "game_build": "26367565",
+  "installed": false,
+  "runtime_tested": false,
+  "container_files": [
+    {
+      "path": "variants/new-jk-v3/container/z_Sui_HeiShang_JK_v3_P.pak",
+      "name": "z_Sui_HeiShang_JK_v3_P.pak",
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+      "bytes": 347
+    },
+    {
+      "path": "variants/new-jk-v3/container/z_Sui_HeiShang_JK_v3_P.ucas",
+      "name": "z_Sui_HeiShang_JK_v3_P.ucas",
+      "sha256": "adbe2b70b4be5d59edbaead16b7397f17a4eaf55ffd3d518a5b60876b750aef1",
+      "bytes": 17910924
+    },
+    {
+      "path": "variants/new-jk-v3/container/z_Sui_HeiShang_JK_v3_P.utoc",
+      "name": "z_Sui_HeiShang_JK_v3_P.utoc",
+      "sha256": "d43dc8a55ab5082eb218a824a0c1ea5824a40f69d6ba0b27ce483309bf53d3b8",
+      "bytes": 9092
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "game_animations_executed": false,
+  "poses_are_manual_diagnostics": true,
+  "checks": [
+    {
+      "version": "v2",
+      "pose": "neck-front",
+      "finite_geometry": true
+    },
+    {
+      "version": "v2",
+      "pose": "weapon-guard",
+      "finite_geometry": true
+    },
+    {
+      "version": "v6",
+      "pose": "neck-front",
+      "finite_geometry": true
+    },
+    {
+      "version": "v6",
+      "pose": "weapon-guard",
+      "finite_geometry": true
+    },
+    {
+      "version": "v5",
+      "pose": "backpack",
+      "finite_geometry": true
+    },
+    {
+      "version": "v6",
+      "pose": "backpack",
+      "finite_geometry": true
+    }
+  ]
+}

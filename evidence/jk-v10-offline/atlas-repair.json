@@ -1,0 +1,44 @@
+{
+  "baseline_sha256": "c8aae790ab4f7507bfe7cf60f06d1d1b081a596b46dc330d4e9a76c6384c00be",
+  "output_sha256": "9aaed80a10983dc80329719a684fcfb150153438a9af9593e19e046343cc4c69",
+  "changed_pixels": 313117,
+  "padding_pixels": 42260,
+  "regions": [
+    {
+      "region": "right rear and side cardigan projected shirt/armband patches",
+      "surface_pixels": 267802,
+      "repaired_pixels": 43672,
+      "bad_3d_bounds": [
+        [
+          -27.113217544145822,
+          -5.4532227082686,
+          123.59180555018511
+        ],
+        [
+          -6.614679729851493,
+          11.79744274538261,
+          149.87924898587895
+        ]
+      ]
+    },
+    {
+      "region": "backpack body-facing panel repainted from clean pink rim",
+      "surface_pixels": 428835,
+      "repaired_pixels": 227185,
+      "bad_3d_bounds": [
+        [
+          -33.584959284929866,
+          12.191867174104203,
+          112.8013231327941
+        ],
+        [
+          0.899485126158118,
+          16.799992132668542,
+          150.69978936262953
+        ]
+      ]
+    }
+  ],
+  "head_hands_skirt_and_v9_ornaments_UV_interiors_exactly_unchanged": true,
+  "no_claim_of_separate_shirt_layer": true
+}

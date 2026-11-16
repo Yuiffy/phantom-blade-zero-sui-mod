@@ -1,0 +1,43 @@
+{
+  "status": "installed-hash-verified-runtime-pending",
+  "installed": true,
+  "installed_at": "2026-11-16T23:20:27.8626834+08:00",
+  "source_atlas_sha256": "0ded71d3ece798096e2e88810b464d049675721e3e2d05850b60605be4c51c47",
+  "new_atlas_sha256": "2ba9104fc7eb43a120eb94843b0c3c208dac92fe44f5b4168fe8f7eb3b5ec152",
+  "changed_texture_packages": 1,
+  "unchanged_packages": 98,
+  "mesh_uv_weights_cloth_and_materials_unchanged": true,
+  "skin_and_sclera_fixes_preserved": true,
+  "source_resolution": 4096,
+  "new_resolution": 8192,
+  "net": "regular closed cylindrical diamond pattern; supersampled; garter-shaped upper boundary",
+  "offline_views": [
+    "front",
+    "back",
+    "side"
+  ],
+  "offline_preview_does_not_emulate_native_game_shader": true,
+  "game_runtime_tested": false,
+  "voice_unchanged": true,
+  "backup": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\fishnet-v1\\backup-20261116-232027-862",
+  "container_files": [
+    {
+      "path": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\fishnet-v1\\container\\z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.pak",
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "path": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\fishnet-v1\\container\\z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.ucas",
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.ucas",
+      "bytes": 105683996,
+      "sha256": "b4c6b831b758f099469b80864d39dfec1d59af039536b4ebdff740eb7525dceb"
+    },
+    {
+      "path": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\fishnet-v1\\container\\z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.utoc",
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.utoc",
+      "bytes": 34046,
+      "sha256": "015beaeb53cd5186086358153dac0a5aa8491fd405dc27f370d5b3dd2ff1a604"
+    }
+  ]
+}

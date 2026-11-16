@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-16",
+  "user_quote": "现在地雷服质量不错哦，提交远端一版。",
+  "build": "26367565",
+  "baseline": "dual outfit v2 / Jirai R5",
+  "reported_issues": [
+    "蹲下或者跑动时大腿穿过裙子",
+    "希望侧发与双马尾有不插入衣服的物理运动",
+    "一只手仍未贴合刀柄",
+    "左大腿后侧竖向暗痕",
+    "左腿前吊带附近肉色凸起"
+  ],
+  "evidence": [
+    "runtime-crouch.png",
+    "runtime-grip.png",
+    "runtime-thigh-back.png",
+    "runtime-suspender.png"
+  ],
+  "unreported_tests_not_inferred": true
+}

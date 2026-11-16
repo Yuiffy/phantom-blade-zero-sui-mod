@@ -1,0 +1,55 @@
+{
+  "source_sha256": "929d307079c286423be0ba6d9f4addd7aa56f5dc558675e8cfc124eae1afdd4e",
+  "output_sha256": "c8aae790ab4f7507bfe7cf60f06d1d1b081a596b46dc330d4e9a76c6384c00be",
+  "size": [
+    4096,
+    4096
+  ],
+  "changed_pixels": 1168687,
+  "regions": [
+    {
+      "region": "rear/front skirt pink contamination",
+      "surface_pixels": 392990,
+      "repaired_pixels": 59774,
+      "clean_samples": 294178,
+      "max_neighbor_distance_cm": 2.557977946766999
+    },
+    {
+      "region": "cardigan rear baked backpack-color silhouette",
+      "surface_pixels": 949366,
+      "repaired_pixels": 160333,
+      "clean_samples": 64105,
+      "max_neighbor_distance_cm": 0.0
+    },
+    {
+      "region": "left stocking missing dark area above wing",
+      "surface_pixels": 96575,
+      "repaired_pixels": 20565,
+      "clean_samples": 14904,
+      "max_neighbor_distance_cm": 8.250711495920513
+    },
+    {
+      "region": "continuous thigh-bound pink strap",
+      "cleared_texels": 20551,
+      "painted_texels": 5737,
+      "implementation": "thigh surface albedo; no separate floating mesh"
+    },
+    {
+      "region": "clean left stocking rim and upper garter band",
+      "dark_rim_texels": 64409,
+      "pink_band_texels": 19996,
+      "fused_silver_buckle_texels_preserved": 310
+    },
+    {
+      "region": "white bag ribbon behind rebuilt charm",
+      "repaired_pixels": 18468,
+      "lower_buckle_preserved": true
+    },
+    {
+      "region": "unowned atlas gutters only",
+      "padding_pixels": 248888,
+      "radius_pixels": 4
+    }
+  ],
+  "method": "textured-triangle UV ownership; local 3D interpolation, robust smooth rear-cardigan color fit, and one thigh-surface strap; no global recolor"
+}

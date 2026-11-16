@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-15",
+  "version": "JK v8",
+  "game_build": "26367565",
+  "outfit": "黑伤（逃亡） / adult Hun",
+  "installed_hash_verified": true,
+  "previous_model_backed_up": "JK v7",
+  "voice_files_byte_identical": true,
+  "runtime_observed_by_user": true,
+  "evidence": "Four user-provided gameplay screenshots and accompanying text; no automated game control",
+  "reported_issues": [
+    "Pink areas on rear skirt near cardigan hem",
+    "A stocking strap hangs free between the legs",
+    "Incomplete dark stocking area above wing accessory",
+    "Possible backpack-colored patch on lower-left rear cardigan (no screenshot)",
+    "Short, bent fingers",
+    "Cloth-like face/hair surface; user permits keeping it"
+  ],
+  "full_gameplay_and_stability_validation": false
+}

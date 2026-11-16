@@ -1,0 +1,47 @@
+{
+  "status": "installed-hash-verified-runtime-pending",
+  "recorded_at": "2026-11-16T22:18:36.656911+08:00",
+  "game_build": "26367565",
+  "package_count": 99,
+  "container_files": [
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_P.pak",
+      "path": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\skin-eyes-v1\\dual\\container\\z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_P.ucas",
+      "path": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\skin-eyes-v1\\dual\\container\\z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_P.ucas",
+      "bytes": 69999535,
+      "sha256": "c44b88c29d2885ca1014de4816c58060f15ca1e79f920ebe4de2aa3ab27ca2fa"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_P.utoc",
+      "path": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\skin-eyes-v1\\dual\\container\\z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_P.utoc",
+      "bytes": 27518,
+      "sha256": "aac92a5d74ba244ec4fa938018606e7d4b21ce491dde98fd6896f66c25fe2acf"
+    }
+  ],
+  "source_fbx_sha256": "0d807c1153d0db46f342d0140f2a19e6626d4eef4eb428ffa67db741ef6d98a0",
+  "editable_blend": "private/skin-eyes-v1/sui-jirai-motion.blend",
+  "native_skin_slots": [
+    "MI_Jirai_Skin",
+    "MI_Jirai_Hands"
+  ],
+  "closed_sclera_added": 2,
+  "jk_base_uses_smooth_native_lit_shader": true,
+  "jk_has_dedicated_skin_split": false,
+  "jk_geometry_and_cloth_payloads_unchanged": true,
+  "all_appearance_rows_unchanged": true,
+  "original_jirai_positions_uv_weights_preserved": 31516,
+  "source_position_max_error_cm": 3.5762786865234375e-05,
+  "quantized_weights_exact": true,
+  "custom_shaders": 0,
+  "installed": true,
+  "voice_unchanged": true,
+  "game_runtime_tested": false,
+  "preview_basis": "offline Blender eye geometry; PBZ native skin shader needs gameplay feedback",
+  "excluded_parallel_work": "Jirai R7 skirt research",
+  "rollback": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\skin-eyes-v1\\dual\\backup-20261116-221810-173"
+}

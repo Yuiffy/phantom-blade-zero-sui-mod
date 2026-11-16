@@ -1,0 +1,28 @@
+{
+  "status": "installed-hash-verified-runtime-pending",
+  "time_asia_shanghai": "20261116-000346",
+  "outfit": "黑伤（逃亡）",
+  "previous_model": "motion-v3-release",
+  "current_model": "motion-v4-coverage-fix",
+  "model_files": [
+    {
+      "name": "z_Sui_HeiShang_JK_Motion_v4_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_HeiShang_JK_Motion_v4_P.ucas",
+      "bytes": 47217151,
+      "sha256": "006738f1de1d894f92c49c2b1119cdf42e2c47e94e19544ed5d55fcc24a699a0"
+    },
+    {
+      "name": "z_Sui_HeiShang_JK_Motion_v4_P.utoc",
+      "bytes": 17182,
+      "sha256": "3b85802fbd388c5fa85a5a191f74c9f6d08746c517419e05dda6727382454d26"
+    }
+  ],
+  "voice_byte_identical": true,
+  "previous_model_backed_up_locally": true,
+  "runtime_tested": false,
+  "public_release_updated": false
+}

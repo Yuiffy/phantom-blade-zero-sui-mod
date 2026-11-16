@@ -1,0 +1,377 @@
+{
+  "status": "repaired-atlas-input-and-final-container-payload-chain-passed",
+  "atlas_sha256": "c7851fb9496832ab8ed283eac8ef9da885077cc588fc78a571d4d1ab15948181",
+  "prepared_texture_sha256": "db5cba53a9cae3e0f468f4ac7e42cd711453a4150546b799ed79f34d8e152cf3",
+  "prepared_RGBA_pixels_exactly_match_repaired_atlas": true,
+  "imported_virtual_texture_dimensions": [
+    4096,
+    4096
+  ],
+  "cooked_VT_payload_preserved_in_final_container": true,
+  "payload_files": [
+    {
+      "extension": ".uexp",
+      "bytes": 1025,
+      "sha256": "0335b06d03ea62c7d7f8664684da843d74cd84c4661ca1ad44a396bc3efe4b52"
+    },
+    {
+      "extension": ".ubulk",
+      "bytes": 11952880,
+      "sha256": "6bff3cdf309f88eda9c94e0ae04c0a8d2965948117f0e9d5bace7836172e5900"
+    }
+  ],
+  "final_VT_not_independently_decoded_to_pixels": true,
+  "runtime_tested": false,
+  "all_texture_payload_chains": [
+    {
+      "name": "T_JK_FlatNormal",
+      "input_sha256": "7b37a3afb155136a2b9f0624af9274c26dce7ce24ba1e1a06c2cfe46ebca2c3f",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "28124bfc7f9829dec817fee4370ad12ed6ca4a6e4d9d279b5a636e177842edc8"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "d3230b33e709a9d76acbde6173f330c619459dd243bd9e2c9d84fac93e6851e0"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_Base",
+      "input_sha256": "db5cba53a9cae3e0f468f4ac7e42cd711453a4150546b799ed79f34d8e152cf3",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "0335b06d03ea62c7d7f8664684da843d74cd84c4661ca1ad44a396bc3efe4b52"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "6bff3cdf309f88eda9c94e0ae04c0a8d2965948117f0e9d5bace7836172e5900"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_ARM_Base",
+      "input_sha256": "d541c7b6166b6d7d6614ff9b49a000330c9191d14208925a2a6d229513e8f765",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "864feee88f0e82839c2d576a0d9e8599dfafb7f2d91adfe59f7c7418f0da0169"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "57706422991715bdcf8688ba625c24728f9d768e8f233ff5f4d0e9d6c17b237c"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_Gold",
+      "input_sha256": "153c271b709d06068daa1d5b4966fa7ab8f65ea9885e62f308814a8e1c03304c",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "1174ffcf84ca43be0001d2a5600f672ecd117c1f3a9fe7f5a718839357f846a8"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "93feaa079e30e86f5fd1a18919ddfc8c05f87e13a673ea3911e0596236b2eb71"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_ARM_Gold",
+      "input_sha256": "a6a5b7a4c434acf8d9367634cc7da3ecdd792e50201b7e6a3ae4301ecee900ab",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "6f2714407f99aa1575de7ffc79788dfe27d4661aaf2d1c0ced5993cfb2e208ab"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "2c5d9a90750f0a7c2500658610e5e5609ac380db56b93fe51f87e37d9ca2c4e0"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_Pink",
+      "input_sha256": "4290f018cb840c29d3df1889022de97cc242b25e9f9ccaa804fe7be7c480a07e",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "a0b5dee7079556dda9b8e37d03d3a9ce61986c94abff5c9ae74118b0fb068ef3"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "5bff4665dafc04a6b9cb7d6739f9f2f2a612115098ba064c5487e890d3335441"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_ARM_Pink",
+      "input_sha256": "b441020944f1706a1680db0f4e96ba496b490df547dfdc95b5bfc215f1e0d5ee",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "9174befca301355a751e275b0ac9466af6ca4240915c4ddeaaac24f69d1cf4a6"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "a4fee901e5cffbc17b60c25ef393809bbb04415a46ae75780fa9b5c6d01ab7d6"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_Cat",
+      "input_sha256": "0514210adb552d0a1195915edf89e767455b80aea20b35432ab80003941e68da",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "f4ae3266a07603fa3b908a5385f868fbf312fb267bbc5488a0643bc7453fd8cf"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "466adabd1615b702ffce0e1e8bf8bce9ae513a02134d1728a6fa6d22f3a979b8"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_PinkSeam",
+      "input_sha256": "b493d660754078853843fcdbe4e21ec774313054d88948c4131b78a0caaf7833",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "c8ca8081d352874733bb8d4fd9a79f03b82b00e6e9aa475ee13b4691c29e35b6"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "107995f64c23a6b06985faf5c3c721dfc53895adb5ac8bca691e2657ec27c480"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_Silver",
+      "input_sha256": "826b9ac53acc484d619c54d28c95ae1c8bd8d5754b8bb5990f2450b3ee111576",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "f8603a9bda37da036592ed60a6cbb8a49d5a19fe38c0c898c71a619ebba7cff5"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "ab021f38f90b47c605ffaffc7c7172e608999a3a554545ef0969accfe218b042"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_ARM_Silver",
+      "input_sha256": "2259e61d5a5ab0a70cdde6ba9e2d3e22b074f562397d199e1bd57b796f51432f",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "2a0a43f7d985bb584c555de8906ecb68ded1cc1ee23c29101252cd96710f38ab"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "015b2fd208d95b073290784a18ce58b63a5d69b96c8d1113b50e3bc550556d51"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_PinkLight",
+      "input_sha256": "dc811bae5af3d5c6fdde1a8dee37c235a1d0e79f9890abd6adcfec8e1d13eee3",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "ec45bd517b6cadab60885b631b9f381fd4a46b9bb6e1e6260d7abae4d9ad1043"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "dcc3e9b0c832d726c5a1025fbf3f1440f0d09635ff9bc0508f3f177b60809bf6"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_HairGroove",
+      "input_sha256": "90af404fd3b8d9cb977591f7ed0708be6f4e1c52075898da3802e75d63d82c45",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "ed40dd2fbacb48b7338ee5b54e904957544005922d6e00861599210575f07c95"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "8171a3bbdfcbf174dcde174b17f7c954de9e32a553d7edf4543a3f876c42feff"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_ARM_HairGroove",
+      "input_sha256": "b4002e171aa994210ed239d7a52a53e9efdff5586a3f0726b67b0539fc79a7b7",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "2e7a71cc86d7ed685f3204436a6616327a997ec9a8dd2190c8a3419c0a2c8ee5"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "fd3f2fb3056fe0c3fb7f96db3afef15f9eaf5858ba127b203a71e20c9145f977"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_SafetyLining",
+      "input_sha256": "910c562604c9f18ec190b549b6d86c0e82c970b2396d5b0d0cb924b31014fcf9",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "b02e666bf56e22e11f4fe236b0b4f0e03d27b624c3e0db956a44a6842be84af4"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "7d2899a3c673a063388de87912171a7bf9c3fa5edade97faec75aa8af2f50a20"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_ARM_SafetyLining",
+      "input_sha256": "67cd81b5dbe504c2f5a35886d5ed46d76a053eb1b4f28183ad845fecf6220165",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "986139d9c48909f0bff71e0e7932d5169a7f88dcf605955adce40c5e47a75741"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "8c30e8e856cbe9e3bdfa5006ad58e80813fda9455f34d8e76369e1ac3c7da2b9"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_Ivory",
+      "input_sha256": "9e6dfdac68ddc20a36346e5f82b060f96add1ad58f71b50e611681490ab5c731",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "7bee46f7991582b78faa8a8c90aa0194da6885337ff565129e9f9a6979310b68"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "20ef6c56d7561227592b60b0fdc3337bb9a0257431dd272c6eacd04b31db8193"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_ARM_Ponytail",
+      "input_sha256": "c9c07cb2ae9b653b4a59ea791cc00b01ff4df8595f80dc072faf508929870215",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "e4c7b4604b734e86c6cbc645c91090f0b0691897eaa13d9b985643b6877ee36a"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "084af8c47cfb6d30f9fdba056eb01ae1a41fa48e6dd95348b383f7c6314ce91f"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_ARM_CardiganHem",
+      "input_sha256": "57c066d73d090b9c16c854b65e173a6aa82aa064b364e3caac611f8e7539221a",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "c710becb3fc99cb2e4507f80ba33b7156a3d922708653e8e9adb6f99fb21c5e5"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "0f85a9794b2bdb7923f2140dfac416101e34da4071b053e816b1bf23aa34e21d"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_ARM_PleatedSkirt",
+      "input_sha256": "02ad97b49ad6b91adb3e445e2d2302d75cc59e79638517681a0db0c17f246173",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "afb562ba42136f4ce0c09fbf637b1f56b77c6b44faea62196f5dc034580a96c6"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "b223b0ea950a409c71644f2dd4eb4b8c1b44462eacd4e643e15581ed4bc0bbe3"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_ARM_Backpack",
+      "input_sha256": "9730c6e8195ecc52a538df49a95b8841719a2a88038f4d8630aeb5a05e2886b2",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "35d471f83700939b092f7e320ec2403376199389a5909690c5376603016d939e"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "2c5ca6644efa27e8ac0e8c40f6c3b0831bb5dbaadd253096a5d0f6a95e34ee93"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_ARM_Straps",
+      "input_sha256": "56e25b829bf0088cc667afcbf8b306ac034d2105d833d2f266313d411aeb2331",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "0018da27dfb602f81d722b2e093ff49e00f8f31c55cfd5defbfed23952b839cd"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "e8f267cbfb25cc9b4901e1b4ec5dc3dd870a148ecaa4504f74be3fd1f18cfbda"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_ARM_Stockings",
+      "input_sha256": "7a0d1422da1a963046a1fea945100e95090cf8f0546df0332ab52b7f93a460ab",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "c15fd66df12dff0a40a4d8eb6365471f6135eb0f2cdc6678d0b92f9c4d19145e"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "dd214705373afaadaf101bcb8759e73b4913e2cc8937e8cf7f43e3531a6592da"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_CharmAtlas",
+      "input_sha256": "7c2dadbdea0c3d75eae4061cec2514264c39863d854270605ed06d96222e2f26",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "282c3d05f496a0a5d7ce1ee040b8e6716dfa0ee0a474c9c51656ea0ecfd3de66"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "3ebd30853c8a199df816748702e6d793afc5e07c9afcc890f476622ff841633e"
+        }
+      ]
+    },
+    {
+      "name": "T_JK_ARM_CharmAtlas",
+      "input_sha256": "71bea2c6abb69667640653f50dee63fa7c2db7e6851d74c926c46c86b5d3b633",
+      "payloads": [
+        {
+          "extension": ".uexp",
+          "sha256": "3d97f5d174d18343d182a8c05451a5ac472bbb4a4e6af0bfb3e0b2fec2598119"
+        },
+        {
+          "extension": ".ubulk",
+          "sha256": "51b419f9daae570ec72d8ce2297ab076471170f9a920bba41068240a52a11518"
+        }
+      ]
+    }
+  ]
+}

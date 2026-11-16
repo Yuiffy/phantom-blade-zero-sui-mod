@@ -1,0 +1,49 @@
+{
+  "status": "validated-by-successful-UE57-plugin-build",
+  "compiler": "MSVC 14.44.35230",
+  "WindowsSDK": "10.0.22621.0",
+  "NetFxSDK": "4.8",
+  "build_exit": 0,
+  "single_parallel_action": true,
+  "automatic_restart": false,
+  "installers": [
+    {
+      "status": "installer-completed-needs-validation",
+      "exit_code": 0,
+      "automatic_restart": false
+    },
+    {
+      "status": "installer-completed-needs-validation",
+      "exit_code": 0,
+      "automatic_restart": false
+    },
+    {
+      "exit_code": 0,
+      "status": "installer-completed-needs-validation",
+      "automatic_restart": false
+    }
+  ],
+  "files": [
+    {
+      "path": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\Windows.h",
+      "bytes": 7511,
+      "sha256": "b337d661d03a4abefb7b86a2742ce1ad5d19b57cd8b858bd13e7bbcc1dbeeaaa"
+    },
+    {
+      "path": "C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.22621.0\\um\\x64\\kernel32.lib",
+      "bytes": 313500,
+      "sha256": "25346e02cffca92abff07000d54e1830fe0d8861c31a114eda472547fe9f2f00"
+    },
+    {
+      "path": "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Lib\\um\\x64\\mscoree.lib",
+      "bytes": 21238,
+      "sha256": "88b25db9921d88be9682d144ebc9a340680ffca03c01a2b70ec6d3f0529f56ca"
+    },
+    {
+      "path": "F:\\FTools\\pbz-cloth-tools\\host\\Plugins\\PBZModTools\\Binaries\\Win64\\UnrealEditor-PBZModTools.dll",
+      "bytes": 454656,
+      "sha256": "b738e57c5179b927606ef533cb434ad21a8744aeed7e6161d0ee3b8ab585e65d"
+    }
+  ],
+  "latest_plugin_build": "editor-tools-build.log: Succeeded; 24.86 seconds; one parallel action"
+}

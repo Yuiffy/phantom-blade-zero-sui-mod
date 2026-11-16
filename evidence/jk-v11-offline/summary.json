@@ -1,0 +1,307 @@
+{
+  "status": "offline-verified-static-candidate-not-installed",
+  "game_build": "26367565",
+  "target": "adult Hun, black-wound escape outfit",
+  "geometry": {
+    "source_vertices": 35402,
+    "triangles": 69041,
+    "bones": 264,
+    "material_slots": 24
+  },
+  "container_semantics": {
+    "status": "independent-container-semantics-passed",
+    "package_count": 60,
+    "triangles": 69041,
+    "body_bones": 264,
+    "material_slots": 24,
+    "max_translation_error_cm": 0.0030619354513501448,
+    "max_rotation_error_degrees": 0.01315992962389408,
+    "custom_shaders": 0,
+    "reused_outfit_table_and_hidden_parts_verified": true,
+    "runtime_tested": false,
+    "installed": false
+  },
+  "skin_verification": {
+    "status": "final-cooked-render-vertices-and-weights-match-refined-source",
+    "render_vertices": 80990,
+    "source_vertices_matched": 35402,
+    "triangles": 69041,
+    "max_position_error_cm": 3.528594970703125e-05,
+    "max_weight_error_after_UE_quantization": 0,
+    "max_weight_difference_from_float_source": 0.014404295121922206,
+    "weight_tolerance": 1e-07,
+    "weight_comparison": "reproduce installed UE16 normalization and UE8 truncation plus dominant-weight remainder",
+    "max_influences": 8,
+    "source_contract_sha256": "278ff5842d8f4ba4c76672a204d287a293399e8ba00f4f0faca3fc93b17559bf",
+    "body_readback_sha256": "1e30e8184f1e4a1c26134ae78e232223c816fc9b134f094165d7c34f844d617c",
+    "runtime_tested": false,
+    "equal_uint16_weight_tie_order_vertices": 0,
+    "tie_order_rule": "Only permutations of equal rounded uint16 source weights; same exact normalization, same 1e-7 tolerance"
+  },
+  "texture_chain": {
+    "status": "repaired-atlas-input-and-final-container-payload-chain-passed",
+    "atlas_sha256": "c7851fb9496832ab8ed283eac8ef9da885077cc588fc78a571d4d1ab15948181",
+    "prepared_texture_sha256": "db5cba53a9cae3e0f468f4ac7e42cd711453a4150546b799ed79f34d8e152cf3",
+    "prepared_RGBA_pixels_exactly_match_repaired_atlas": true,
+    "imported_virtual_texture_dimensions": [
+      4096,
+      4096
+    ],
+    "cooked_VT_payload_preserved_in_final_container": true,
+    "payload_files": [
+      {
+        "extension": ".uexp",
+        "bytes": 1025,
+        "sha256": "f0776d020b012b318d0947066161015047542d40e8c7162969988c05a548579c"
+      },
+      {
+        "extension": ".ubulk",
+        "bytes": 11952880,
+        "sha256": "6bff3cdf309f88eda9c94e0ae04c0a8d2965948117f0e9d5bace7836172e5900"
+      }
+    ],
+    "final_VT_not_independently_decoded_to_pixels": true,
+    "runtime_tested": false
+  },
+  "source_scope": {
+    "baseline": "v10",
+    "exact_skeleton_and_reference_matrices": true,
+    "retained_vertices": 35338,
+    "new_hanger_vertices": 64,
+    "positions_changed_components": [
+      4,
+      5,
+      101
+    ],
+    "weights_changed_components": [
+      101
+    ],
+    "head_shoulders_legs_skirt_backpack_geometry_weights_unchanged": true,
+    "hand_weights_unchanged": true,
+    "hand_max_addition_cm": 0.25490188747240794,
+    "removed_components": [
+      57,
+      61,
+      63
+    ],
+    "new_physics": false
+  },
+  "manual_diagnostic": {
+    "manual_diagnostic_only": true,
+    "game_animations_executed": false,
+    "hand_curl_35_degrees": {
+      "v10": {
+        "edges": 6988,
+        "p99": 1.2356818550165063,
+        "max": 3.19178929298503,
+        "over_1_6": 4,
+        "outliers": [
+          {
+            "vertices": [
+              4524,
+              4638
+            ],
+            "rest_cm": 0.12741540240616417,
+            "ratio": 2.5199788746520486,
+            "positions": [
+              [
+                -52.290122985839844,
+                -7.654680252075195,
+                111.56880187988281
+              ],
+              [
+                -52.399192810058594,
+                -7.590621471405029,
+                111.55347442626953
+              ]
+            ]
+          },
+          {
+            "vertices": [
+              5590,
+              5593
+            ],
+            "rest_cm": 0.38162053768243104,
+            "ratio": 1.9954039962078407,
+            "positions": [
+              [
+                53.12759780883789,
+                -10.865718841552734,
+                109.23129272460938
+              ],
+              [
+                52.74897766113281,
+                -10.913326263427734,
+                109.235107421875
+              ]
+            ]
+          },
+          {
+            "vertices": [
+              6390,
+              6666
+            ],
+            "rest_cm": 0.7719733337482916,
+            "ratio": 1.603444744176695,
+            "positions": [
+              [
+                54.43845748901367,
+                -11.57710075378418,
+                111.12320709228516
+              ],
+              [
+                53.71204376220703,
+                -11.725435256958008,
+                111.33829498291016
+              ]
+            ]
+          },
+          {
+            "vertices": [
+              4525,
+              4639
+            ],
+            "rest_cm": 0.15270075282620404,
+            "ratio": 3.19178929298503,
+            "positions": [
+              [
+                52.246803283691406,
+                -7.578042030334473,
+                111.59822845458984
+              ],
+              [
+                52.3673210144043,
+                -7.489058494567871,
+                111.6278076171875
+              ]
+            ]
+          }
+        ]
+      },
+      "v11": {
+        "edges": 6988,
+        "p99": 1.244947473605151,
+        "max": 3.19178929298503,
+        "over_1_6": 4,
+        "outliers": [
+          {
+            "vertices": [
+              4524,
+              4638
+            ],
+            "rest_cm": 0.12741540240616417,
+            "ratio": 2.5199788746520486,
+            "positions": [
+              [
+                -52.290122985839844,
+                -7.654680252075195,
+                111.56880187988281
+              ],
+              [
+                -52.399192810058594,
+                -7.590621471405029,
+                111.55347442626953
+              ]
+            ]
+          },
+          {
+            "vertices": [
+              5590,
+              5593
+            ],
+            "rest_cm": 0.38162053768243104,
+            "ratio": 1.9954039962078407,
+            "positions": [
+              [
+                53.12759780883789,
+                -10.865718841552734,
+                109.23129272460938
+              ],
+              [
+                52.74897766113281,
+                -10.913326263427734,
+                109.235107421875
+              ]
+            ]
+          },
+          {
+            "vertices": [
+              6390,
+              6666
+            ],
+            "rest_cm": 0.7719733337482916,
+            "ratio": 1.603444744176695,
+            "positions": [
+              [
+                54.43845748901367,
+                -11.57710075378418,
+                111.12320709228516
+              ],
+              [
+                53.71204376220703,
+                -11.725435256958008,
+                111.33829498291016
+              ]
+            ]
+          },
+          {
+            "vertices": [
+              4525,
+              4639
+            ],
+            "rest_cm": 0.15270075282620404,
+            "ratio": 3.19178929298503,
+            "positions": [
+              [
+                52.246803283691406,
+                -7.578042030334473,
+                111.59822845458984
+              ],
+              [
+                52.3673210144043,
+                -7.489058494567871,
+                111.6278076171875
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "attachment": [
+      {
+        "spine_05_local_z_degrees": 0,
+        "tab_center_to_supporting_surface_cm": 0.12999979113184462
+      },
+      {
+        "spine_05_local_z_degrees": 30,
+        "tab_center_to_supporting_surface_cm": 0.11673994357565799
+      },
+      {
+        "spine_05_local_z_degrees": -30,
+        "tab_center_to_supporting_surface_cm": 0.13738233181385487
+      }
+    ],
+    "weight_interpolation_from_actual_strap_triangle": true
+  },
+  "container_files": [
+    {
+      "name": "z_Sui_HeiShang_JK_v11_P.pak",
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+      "bytes": 347
+    },
+    {
+      "name": "z_Sui_HeiShang_JK_v11_P.ucas",
+      "sha256": "b9bbe27b6a6a81acf7ef2b51f24227b1a09e41dee93ee33b4f2db07eba22856a",
+      "bytes": 19949895
+    },
+    {
+      "name": "z_Sui_HeiShang_JK_v11_P.utoc",
+      "sha256": "efa5e09a1901f1bbc9ff037292a70a5593da50cc5520ac75aa5ad9f671e34561",
+      "bytes": 12355
+    }
+  ],
+  "physics_implemented": false,
+  "physics_draft_prepared": true,
+  "runtime_tested": false,
+  "voice_changed": false
+}

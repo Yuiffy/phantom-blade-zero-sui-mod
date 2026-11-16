@@ -1,0 +1,40 @@
+{
+  "baseline": "JK v9 ce1a1de",
+  "baseline_positions_used_for_same_region": true,
+  "each_version_uses_own_rest_edge_lengths": true,
+  "geometry_also_changed": true,
+  "manual_proxies_only": true,
+  "runtime_tested": false,
+  "before": [
+    {
+      "pose": "forward",
+      "edges": 11096,
+      "p99": 1.5608993659759467,
+      "max": 4.253115360169438,
+      "over_1_6": 104
+    },
+    {
+      "pose": "high",
+      "edges": 11096,
+      "p99": 1.7061904109543917,
+      "max": 4.777341468597915,
+      "over_1_6": 122
+    }
+  ],
+  "after": [
+    {
+      "pose": "forward",
+      "edges": 11096,
+      "p99": 1.135994078206406,
+      "max": 1.75623459548872,
+      "over_1_6": 3
+    },
+    {
+      "pose": "high",
+      "edges": 11096,
+      "p99": 1.1599131948416097,
+      "max": 1.8062091716146853,
+      "over_1_6": 6
+    }
+  ]
+}

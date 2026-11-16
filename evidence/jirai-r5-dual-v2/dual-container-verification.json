@@ -1,0 +1,63 @@
+{
+  "status": "independent-final-container-verified-runtime-pending",
+  "package_count": 88,
+  "changed_source_equivalent_packages": [
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple",
+    "/HuaShira/Mods/SuiPBZ/Physics/PA_Sui_ClothCollision"
+  ],
+  "preserved_source_equivalent_packages": 86,
+  "appearance_table_all_68_rows_preserved": true,
+  "both_outfit_routes_verified": true,
+  "source_payloads_verified": true,
+  "bodies": [
+    {
+      "body": "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple",
+      "bones": 264,
+      "source_identical_skeleton_and_render": true
+    },
+    {
+      "body": "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple",
+      "bones": 264,
+      "source_identical_skeleton_and_render": true
+    }
+  ],
+  "outfits": {
+    "Hun_OutFit_Default": {
+      "label": "黑伤（逃亡）",
+      "model": "JK Motion v5 plush contact",
+      "body": "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple"
+    },
+    "Hun_OutFit_Climax": {
+      "label": "黑伤",
+      "model": "地雷岁 R5 无翅膀比例修正版",
+      "body": "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple"
+    },
+    "Hun_OutFit_Climax_Hat": {
+      "label": "黑伤（内部无帽变体）",
+      "model": "地雷岁 R5 无翅膀比例修正版",
+      "body": "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple"
+    }
+  },
+  "container_files": [
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR5_P.pak",
+      "path": "<local-workspace>/variants/dual-jk-motion-v5/container/z_Sui_DualOutfit_JK5_JiraiR5_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR5_P.ucas",
+      "path": "<local-workspace>/variants/dual-jk-motion-v5/container/z_Sui_DualOutfit_JK5_JiraiR5_P.ucas",
+      "bytes": 68973392,
+      "sha256": "dd3d1f2d8c8a41c2ab6a6bd28a5720083666f71dd7e30dc8bc01318d984eb181"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR5_P.utoc",
+      "path": "<local-workspace>/variants/dual-jk-motion-v5/container/z_Sui_DualOutfit_JK5_JiraiR5_P.utoc",
+      "bytes": 25617,
+      "sha256": "ba39bcb9920d4898f7f464026a360c4d5cea8de3349dd701e5b04898812ea1f9"
+    }
+  ],
+  "installed": false,
+  "runtime_tested": false
+}

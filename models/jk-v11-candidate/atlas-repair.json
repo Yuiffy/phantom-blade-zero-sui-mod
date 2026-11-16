@@ -1,0 +1,29 @@
+{
+  "input_sha256": "9aaed80a10983dc80329719a684fcfb150153438a9af9593e19e046343cc4c69",
+  "output_sha256": "c7851fb9496832ab8ed283eac8ef9da885077cc588fc78a571d4d1ab15948181",
+  "size": [
+    4096,
+    4096
+  ],
+  "changed_pixels": 777433,
+  "unrelated_head_hands_protected": true,
+  "gutter_pixels": 289168,
+  "regions": [
+    {
+      "region": "skirt full circumference pink stain removal",
+      "repaired_pixels": 120488,
+      "white_piping_pixels_unchanged": 18933,
+      "remaining_non_navy_nonwhite_pixels_by_same_detector": 3186
+    },
+    {
+      "region": "cat stocking",
+      "repainted_pixels": 196333,
+      "method": "surface-coordinate antialiased stocking edge, clean fabric and skin; face follows reference on stocking surface"
+    },
+    {
+      "region": "wing stocking",
+      "repainted_pixels": 179340,
+      "method": "surface-coordinate antialiased stocking edge, clean fabric and skin; face follows reference on stocking surface"
+    }
+  ]
+}

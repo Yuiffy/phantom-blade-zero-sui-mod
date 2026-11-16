@@ -1,0 +1,72 @@
+{
+  "status": "installed-hash-verified-runtime-pending",
+  "installed_at": "2026-11-16T22:18:10.1732868+08:00",
+  "target": "F:/FGames/steam/steamapps/common/PBZ/ProjectPBZ/Content/Paks/~mods",
+  "backup": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\skin-eyes-v1\\dual\\backup-20261116-221810-173",
+  "before": [
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6Detail_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6Detail_P.ucas",
+      "bytes": 69415075,
+      "sha256": "adb1fa811392d66f5f17d1c64145860b8efb78eb99fc189854af8d4d533a8bbd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6Detail_P.utoc",
+      "bytes": 26654,
+      "sha256": "ad6d8d259296fac44d970a9f9cb8b6545938781ae8449ab824df3d616a373644"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.ucas",
+      "bytes": 3282530,
+      "sha256": "1c03a93f6790879c2a8454709e90dc1cca0cb8c90bc9ae0ccd75bed94cb825c0"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.utoc",
+      "bytes": 7200,
+      "sha256": "86b35b1f2f5d64a64d17b59120d18a11a9000655200f5b0d563d35b9185c81d0"
+    }
+  ],
+  "after": [
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_P.ucas",
+      "bytes": 69999535,
+      "sha256": "c44b88c29d2885ca1014de4816c58060f15ca1e79f920ebe4de2aa3ab27ca2fa"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_P.utoc",
+      "bytes": 27518,
+      "sha256": "aac92a5d74ba244ec4fa938018606e7d4b21ce491dde98fd6896f66c25fe2acf"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.ucas",
+      "bytes": 3282530,
+      "sha256": "1c03a93f6790879c2a8454709e90dc1cca0cb8c90bc9ae0ccd75bed94cb825c0"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.utoc",
+      "bytes": 7200,
+      "sha256": "86b35b1f2f5d64a64d17b59120d18a11a9000655200f5b0d563d35b9185c81d0"
+    }
+  ],
+  "voice_unchanged": true,
+  "game_runtime_tested": false
+}

@@ -1,0 +1,48 @@
+{
+  "basis": "offline Blender; eye geometry and authored surface values only; native game skin shader requires gameplay verification",
+  "source_fbx_sha256": "0d807c1153d0db46f342d0140f2a19e6626d4eef4eb428ffa67db741ef6d98a0",
+  "views": [
+    [
+      "front",
+      [
+        0,
+        -120,
+        177
+      ],
+      [
+        0,
+        -1,
+        177
+      ],
+      23
+    ],
+    [
+      "three-quarter",
+      [
+        40,
+        -120,
+        179
+      ],
+      [
+        0,
+        -1,
+        177
+      ],
+      25
+    ],
+    [
+      "oblique",
+      [
+        -70,
+        -120,
+        177
+      ],
+      [
+        0,
+        -1,
+        177
+      ],
+      25
+    ]
+  ]
+}

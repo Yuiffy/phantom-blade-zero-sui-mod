@@ -1,0 +1,42 @@
+{
+  "status": "installed-hash-verified-user-playtest-feedback",
+  "installed_at_asia_shanghai": "2026-11-15 17:31:28",
+  "game_build": "26367565",
+  "target_outfit": "black-wound-escape-adult",
+  "installed_files": [
+    {
+      "path": "variants/jk-motion-v1/container/z_Sui_HeiShang_JK_Motion_v1_P.pak",
+      "name": "z_Sui_HeiShang_JK_Motion_v1_P.pak",
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+      "bytes": 347
+    },
+    {
+      "path": "variants/jk-motion-v1/container/z_Sui_HeiShang_JK_Motion_v1_P.ucas",
+      "name": "z_Sui_HeiShang_JK_Motion_v1_P.ucas",
+      "sha256": "e7f377bb8f8f07189157b5f3f6a2ea1ba82f84295536717cd6389842c8678244",
+      "bytes": 23519040
+    },
+    {
+      "path": "variants/jk-motion-v1/container/z_Sui_HeiShang_JK_Motion_v1_P.utoc",
+      "name": "z_Sui_HeiShang_JK_Motion_v1_P.utoc",
+      "sha256": "ca251305984512be838f9886f89b31d409b7e5ada0b84d448fc18684360f1785",
+      "bytes": 12838
+    }
+  ],
+  "other_files_byte_identical": true,
+  "voice_changed": false,
+  "user_feedback": {
+    "date": "2026-11-15",
+    "overall": "感觉还不错哦",
+    "charm_motion": "确实不错，可以晃动了",
+    "issues": [
+      "袜口环状色差及其上方皮肤色差",
+      "猫挂饰有时陷进衣服",
+      "手心材质和颜色不对"
+    ],
+    "all_actions_stability_verified": false,
+    "ponytail_motion_explicitly_confirmed": false
+  },
+  "agent_controlled_game": false,
+  "raw_game_assets_or_containers_published": false
+}

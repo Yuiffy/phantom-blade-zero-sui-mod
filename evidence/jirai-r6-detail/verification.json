@@ -1,0 +1,13 @@
+{
+  "status": "independent-container-semantics-passed",
+  "package_count": 48,
+  "triangles": 59366,
+  "body_bones": 264,
+  "material_slots": 15,
+  "max_translation_error_cm": 0.00038206687736421277,
+  "max_rotation_error_degrees": 0.0010220765342953556,
+  "custom_shaders": 0,
+  "reused_outfit_table_and_hidden_parts_verified": true,
+  "runtime_tested": false,
+  "installed": false
+}

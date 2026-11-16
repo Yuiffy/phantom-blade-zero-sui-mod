@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "title": "岁己JK服与地雷系双皮肤_影之刃零主角替换MOD",
+  "version": "1.0.0",
+  "release_tag": "dual-v1.0.0",
+  "variant": "dual-outfit-jk-motion-v5-jirai-r5",
+  "steam_app_id": "4115450",
+  "game_build": "26367565",
+  "character": "adult Hun",
+  "outfits": [
+    {
+      "display_name": "黑伤（逃亡）",
+      "item_id": "Hun_OutFit_Default",
+      "model": "JK 外套侧马尾",
+      "revision": "JK Motion v5"
+    },
+    {
+      "display_name": "黑伤",
+      "item_id": "Hun_OutFit_Climax",
+      "model": "地雷系双马尾（无翅膀）",
+      "revision": "Jirai R5"
+    },
+    {
+      "display_name": "黑伤（内部无帽变体）",
+      "item_id": "Hun_OutFit_Climax_Hat",
+      "model": "地雷系双马尾（无翅膀）",
+      "revision": "Jirai R5"
+    }
+  ],
+  "files": [
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR5_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR5_P.ucas",
+      "bytes": 68973392,
+      "sha256": "dd3d1f2d8c8a41c2ab6a6bd28a5720083666f71dd7e30dc8bc01318d984eb181"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR5_P.utoc",
+      "bytes": 25617,
+      "sha256": "ba39bcb9920d4898f7f464026a360c4d5cea8de3349dd701e5b04898812ea1f9"
+    }
+  ],
+  "compatible_files": [
+    "z_Sui_Hun_NaturalVoice_Compact_v5_P.pak",
+    "z_Sui_Hun_NaturalVoice_Compact_v5_P.utoc",
+    "z_Sui_Hun_NaturalVoice_Compact_v5_P.ucas"
+  ],
+  "validation": {
+    "independent_final_container_readback": true,
+    "package_count": 88,
+    "both_outfit_routes_verified": true,
+    "all_68_appearance_rows_preserved": true,
+    "installed_hashes_match": true,
+    "jk_component_motion_profiles": 3,
+    "jk_synthetic_bone_pose_profiles": 2,
+    "exhaustive_gameplay_validation": false,
+    "final_VT_independently_decoded_to_pixels": false
+  },
+  "user_approved_publication": true,
+  "user_feedback": "不错，可以发布一版release了，直接作为两个皮肤一起发布",
+  "voice_included": false,
+  "original_game_archives_or_keys_included": false,
+  "asset_sources": [
+    {
+      "scope": "JK model and derived textures",
+      "source": "User-provided Tripo export cd0cef28-06a8-4cc8-87d2-1ff513c2bf17; Sui new outfit reference; Blender refinements",
+      "license": "See NOTICE.md; not MIT"
+    },
+    {
+      "scope": "Jirai model and derived textures",
+      "source": "User-provided Tripo export e23d0709-08fd-4812-b7fa-e0bed31d6672; Sui Jirai outfit reference; Blender refinements",
+      "license": "See NOTICE.md; not MIT"
+    },
+    {
+      "scope": "Modified mesh, skeleton and appearance data",
+      "source": "Local PBZ build 26367565 adaptation; no original game archives included",
+      "license": "Game and character rights remain with their respective holders"
+    },
+    {
+      "scope": "previews/",
+      "source": "Local Blender renders of project models; offline previews",
+      "license": "Same character/model restrictions as above"
+    },
+    {
+      "scope": "scripts/mod_files.py and authored technical text",
+      "source": "Yuiffy project",
+      "license": "MIT; see LICENSE"
+    }
+  ]
+}

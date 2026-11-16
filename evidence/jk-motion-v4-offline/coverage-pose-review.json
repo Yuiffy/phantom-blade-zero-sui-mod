@@ -1,0 +1,31 @@
+{
+  "status": "synthetic-leg-pose-and-opaque-central-surface-review-passed",
+  "protected_central_triangles": 324,
+  "views": [
+    {
+      "name": "rest",
+      "synthetic_pose": true,
+      "finite": true,
+      "opaque_backup_triangles": 324
+    },
+    {
+      "name": "raised-leg",
+      "synthetic_pose": true,
+      "finite": true,
+      "opaque_backup_triangles": 324
+    },
+    {
+      "name": "spread",
+      "synthetic_pose": true,
+      "finite": true,
+      "opaque_backup_triangles": 324
+    },
+    {
+      "name": "bent-legs",
+      "synthetic_pose": true,
+      "finite": true,
+      "opaque_backup_triangles": 324
+    }
+  ],
+  "game_animations_tested": false
+}

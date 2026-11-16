@@ -1,0 +1,47 @@
+{
+  "status": "surface-albedo-and-response-repaired",
+  "input_sha256": "c7851fb9496832ab8ed283eac8ef9da885077cc588fc78a571d4d1ab15948181",
+  "output_sha256": "21fff85969b1f234e6dd941cc870d3e00830e7b00790cece07b5d6074c5643bf",
+  "changed_pixels": 1391100,
+  "unrelated_textured_islands_unchanged": true,
+  "regions": [
+    {
+      "region": "cat stocking",
+      "surface_pixels": 455709,
+      "continuous_fabric_rgb": [
+        79,
+        70,
+        73
+      ],
+      "exposed_skin_rgb": [
+        242,
+        208,
+        204
+      ],
+      "pink_strap_and_reference_details_preserved": true
+    },
+    {
+      "region": "wing stocking",
+      "surface_pixels": 453219,
+      "continuous_fabric_rgb": [
+        79,
+        70,
+        73
+      ],
+      "exposed_skin_rgb": [
+        242,
+        208,
+        204
+      ],
+      "pink_strap_and_reference_details_preserved": true
+    },
+    {
+      "region": "both complete hands and palms",
+      "pixels": 114502,
+      "roughness": 0.6,
+      "baked_occlusion_removed": true,
+      "geometry_and_weights_unchanged": true
+    }
+  ],
+  "gutter_pixels": 435455
+}

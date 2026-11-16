@@ -1,0 +1,21 @@
+{
+  "status": "research-rejected-for-installation",
+  "tested_fbx_sha256": "ee3554e462547a421ef4cba93f9c48414e81b3624761b4f6763d295cd4351ccc",
+  "reason": "Remaining rendered hair/garment and run thigh/skirt intersections; component-only stability passing is insufficient",
+  "profile_maxima": {
+    "crouch": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "hair_edges_crossing_garment": 0
+    },
+    "run": {
+      "visible_thigh_edges_crossing_skirt": 11,
+      "hair_edges_crossing_garment": 4
+    },
+    "head-arms": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "hair_edges_crossing_garment": 538
+    }
+  },
+  "installed": false,
+  "game_runtime_tested": false
+}

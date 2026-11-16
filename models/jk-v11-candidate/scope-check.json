@@ -1,0 +1,23 @@
+{
+  "baseline": "v10",
+  "exact_skeleton_and_reference_matrices": true,
+  "retained_vertices": 35338,
+  "new_hanger_vertices": 64,
+  "positions_changed_components": [
+    4,
+    5,
+    101
+  ],
+  "weights_changed_components": [
+    101
+  ],
+  "head_shoulders_legs_skirt_backpack_geometry_weights_unchanged": true,
+  "hand_weights_unchanged": true,
+  "hand_max_addition_cm": 0.25490188747240794,
+  "removed_components": [
+    57,
+    61,
+    63
+  ],
+  "new_physics": false
+}

@@ -1,0 +1,43 @@
+{
+  "status": "independent-final-container-verified-runtime-pending",
+  "package_count": 94,
+  "preserved_packages": 57,
+  "jk5_and_all_appearance_rows_unchanged": true,
+  "jirai_source_payloads_and_semantics_verified": true,
+  "outfits": {
+    "Hun_OutFit_Default": {
+      "label": "黑伤（逃亡）",
+      "model": "JK Motion v5 plush contact",
+      "body": "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple"
+    },
+    "Hun_OutFit_Climax": {
+      "label": "黑伤",
+      "model": "地雷岁 R6 细节修复，保留 R5 裙摆与头发",
+      "body": "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple"
+    },
+    "Hun_OutFit_Climax_Hat": {
+      "label": "黑伤（内部无帽变体）",
+      "model": "地雷岁 R6 细节修复，保留 R5 裙摆与头发",
+      "body": "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple"
+    }
+  },
+  "container_files": [
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6Detail_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6Detail_P.ucas",
+      "bytes": 69415075,
+      "sha256": "adb1fa811392d66f5f17d1c64145860b8efb78eb99fc189854af8d4d533a8bbd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6Detail_P.utoc",
+      "bytes": 26654,
+      "sha256": "ad6d8d259296fac44d970a9f9cb8b6545938781ae8449ab824df3d616a373644"
+    }
+  ],
+  "game_runtime_tested": false,
+  "installed": false
+}

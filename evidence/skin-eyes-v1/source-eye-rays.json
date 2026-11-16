@@ -1,0 +1,20 @@
+[
+  {
+    "component": 950,
+    "rays": 6161,
+    "visible_white_rays": 406,
+    "iris_rays_covered": 0,
+    "white_rays_outside_aperture": 0,
+    "socket_backing_rays_replaced": 387,
+    "rejected_samples": []
+  },
+  {
+    "component": 951,
+    "rays": 6161,
+    "visible_white_rays": 411,
+    "iris_rays_covered": 0,
+    "white_rays_outside_aperture": 0,
+    "socket_backing_rays_replaced": 390,
+    "rejected_samples": []
+  }
+]

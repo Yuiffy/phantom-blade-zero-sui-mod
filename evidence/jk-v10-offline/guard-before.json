@@ -1,0 +1,20 @@
+{
+  "manual_proxies_only": true,
+  "runtime_tested": false,
+  "poses": [
+    {
+      "pose": "forward",
+      "edges": 11096,
+      "p99": 1.5608993659759467,
+      "max": 4.253115360169438,
+      "over_1_6": 104
+    },
+    {
+      "pose": "high",
+      "edges": 11096,
+      "p99": 1.7061904109543917,
+      "max": 4.777341468597915,
+      "over_1_6": 122
+    }
+  ]
+}

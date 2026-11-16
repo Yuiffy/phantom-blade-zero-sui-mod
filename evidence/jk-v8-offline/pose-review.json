@@ -1,0 +1,187 @@
+{
+  "game_animations_executed": false,
+  "poses_are_manual_diagnostics": true,
+  "edge_regions_use_source_provenance": true,
+  "versions": {
+    "v7": [
+      {
+        "pose": "head-turn",
+        "finite_vertices": true,
+        "neck_collar_transition": {
+          "edges": 1712,
+          "p99": 1.0000017127169143,
+          "max": 1.00000989849015,
+          "over_1_6": 0
+        },
+        "visible_neck": {
+          "edges": 809,
+          "p99": 1.0000020624766182,
+          "max": 1.00000989849015,
+          "over_1_6": 0
+        },
+        "shoulder": {
+          "edges": 9767,
+          "p99": 1.7495070093882803,
+          "max": 4.924843045031894,
+          "over_1_6": 119
+        }
+      },
+      {
+        "pose": "head-nod",
+        "finite_vertices": true,
+        "neck_collar_transition": {
+          "edges": 1712,
+          "p99": 1.000043586748711,
+          "max": 1.000124843931314,
+          "over_1_6": 0
+        },
+        "visible_neck": {
+          "edges": 809,
+          "p99": 1.0000458748200547,
+          "max": 1.0000969498997476,
+          "over_1_6": 0
+        },
+        "shoulder": {
+          "edges": 9767,
+          "p99": 1.6964418935633578,
+          "max": 4.63250380969827,
+          "over_1_6": 118
+        }
+      },
+      {
+        "pose": "arms-up",
+        "finite_vertices": true,
+        "neck_collar_transition": {
+          "edges": 1712,
+          "p99": 1.0,
+          "max": 1.0,
+          "over_1_6": 0
+        },
+        "visible_neck": {
+          "edges": 809,
+          "p99": 1.0,
+          "max": 1.0,
+          "over_1_6": 0
+        },
+        "shoulder": {
+          "edges": 9767,
+          "p99": 1.4216349225404936,
+          "max": 4.117509975576096,
+          "over_1_6": 69
+        }
+      },
+      {
+        "pose": "weapon-guard",
+        "finite_vertices": true,
+        "neck_collar_transition": {
+          "edges": 1712,
+          "p99": 1.0,
+          "max": 1.0,
+          "over_1_6": 0
+        },
+        "visible_neck": {
+          "edges": 809,
+          "p99": 1.0,
+          "max": 1.0,
+          "over_1_6": 0
+        },
+        "shoulder": {
+          "edges": 9767,
+          "p99": 1.2765828674407276,
+          "max": 2.5973895930428164,
+          "over_1_6": 27
+        }
+      }
+    ],
+    "v8": [
+      {
+        "pose": "head-turn",
+        "finite_vertices": true,
+        "neck_collar_transition": {
+          "edges": 1712,
+          "p99": 1.4918472446535005,
+          "max": 1.685400561344187,
+          "over_1_6": 6
+        },
+        "visible_neck": {
+          "edges": 809,
+          "p99": 1.2805013730450225,
+          "max": 1.419854941707287,
+          "over_1_6": 0
+        },
+        "shoulder": {
+          "edges": 9767,
+          "p99": 1.4270056419295625,
+          "max": 2.661273923233313,
+          "over_1_6": 49
+        }
+      },
+      {
+        "pose": "head-nod",
+        "finite_vertices": true,
+        "neck_collar_transition": {
+          "edges": 1712,
+          "p99": 1.6151677959934183,
+          "max": 2.0638971485138002,
+          "over_1_6": 25
+        },
+        "visible_neck": {
+          "edges": 809,
+          "p99": 1.3753642092182132,
+          "max": 1.5543014873576568,
+          "over_1_6": 0
+        },
+        "shoulder": {
+          "edges": 9767,
+          "p99": 1.4500610761388288,
+          "max": 2.167409834886343,
+          "over_1_6": 32
+        }
+      },
+      {
+        "pose": "arms-up",
+        "finite_vertices": true,
+        "neck_collar_transition": {
+          "edges": 1712,
+          "p99": 1.0000170298538713,
+          "max": 1.0000333388189044,
+          "over_1_6": 0
+        },
+        "visible_neck": {
+          "edges": 809,
+          "p99": 1.000000295340522,
+          "max": 1.0000033673993536,
+          "over_1_6": 0
+        },
+        "shoulder": {
+          "edges": 9767,
+          "p99": 1.9945181241748262,
+          "max": 3.9073431069822373,
+          "over_1_6": 143
+        }
+      },
+      {
+        "pose": "weapon-guard",
+        "finite_vertices": true,
+        "neck_collar_transition": {
+          "edges": 1712,
+          "p99": 1.0000170298538713,
+          "max": 1.0000333388189044,
+          "over_1_6": 0
+        },
+        "visible_neck": {
+          "edges": 809,
+          "p99": 1.000000295340522,
+          "max": 1.0000033673993536,
+          "over_1_6": 0
+        },
+        "shoulder": {
+          "edges": 9767,
+          "p99": 1.4981670977758252,
+          "max": 4.0411146165975875,
+          "over_1_6": 82
+        }
+      }
+    ]
+  }
+}

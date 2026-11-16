@@ -1,0 +1,107 @@
+﻿{
+    "status":  "installed-hash-verified-runtime-pending",
+    "time_asia_shanghai":  "20261115-050408",
+    "user_authorized":  true,
+    "game_build":  "26367565",
+    "target_outfit":  "black-wound-escape-adult",
+    "mods_directory":  "F:/FGames/steam/steamapps/common/PBZ/ProjectPBZ/Content/Paks/~mods",
+    "backup_directory":  "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\installations\\new-jk-v7-20261115-050408\\old-model",
+    "before":  [
+                   {
+                       "name":  "z_Sui_HeiShang_JK_v6_P.pak",
+                       "path":  "F:\\FGames\\steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Content\\Paks\\~mods\\z_Sui_HeiShang_JK_v6_P.pak",
+                       "bytes":  347,
+                       "sha256":  "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+                   },
+                   {
+                       "name":  "z_Sui_HeiShang_JK_v6_P.ucas",
+                       "path":  "F:\\FGames\\steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Content\\Paks\\~mods\\z_Sui_HeiShang_JK_v6_P.ucas",
+                       "bytes":  18189302,
+                       "sha256":  "5cf4cbebfe3c212f28abf6a8254e84df22ebd86671160f5aed120c0df2aaa3db"
+                   },
+                   {
+                       "name":  "z_Sui_HeiShang_JK_v6_P.utoc",
+                       "path":  "F:\\FGames\\steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Content\\Paks\\~mods\\z_Sui_HeiShang_JK_v6_P.utoc",
+                       "bytes":  9630,
+                       "sha256":  "bbb86112c0738e24b4a7c1e26dbc8b1736107b5588c42d5265b46f484d3dbcdc"
+                   },
+                   {
+                       "name":  "z_Sui_Hun_NaturalVoice_Library_v3_P.pak",
+                       "path":  "F:\\FGames\\steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Content\\Paks\\~mods\\z_Sui_Hun_NaturalVoice_Library_v3_P.pak",
+                       "bytes":  347,
+                       "sha256":  "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+                   },
+                   {
+                       "name":  "z_Sui_Hun_NaturalVoice_Library_v3_P.ucas",
+                       "path":  "F:\\FGames\\steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Content\\Paks\\~mods\\z_Sui_Hun_NaturalVoice_Library_v3_P.ucas",
+                       "bytes":  1254780159,
+                       "sha256":  "deba71b5b051d1300a57fceb23408b09bfd7c77e51f2a074d30a12cf4e1e10c8"
+                   },
+                   {
+                       "name":  "z_Sui_Hun_NaturalVoice_Library_v3_P.utoc",
+                       "path":  "F:\\FGames\\steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Content\\Paks\\~mods\\z_Sui_Hun_NaturalVoice_Library_v3_P.utoc",
+                       "bytes":  231816,
+                       "sha256":  "6c55069a6d137cd0991405b811c4b7e83e9567289fbb73af4d5cc23ea87c33eb"
+                   }
+               ],
+    "new_files":  [
+                      {
+                          "path":  "variants/new-jk-v7/container/z_Sui_HeiShang_JK_v7_P.pak",
+                          "name":  "z_Sui_HeiShang_JK_v7_P.pak",
+                          "sha256":  "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+                          "bytes":  347
+                      },
+                      {
+                          "path":  "variants/new-jk-v7/container/z_Sui_HeiShang_JK_v7_P.ucas",
+                          "name":  "z_Sui_HeiShang_JK_v7_P.ucas",
+                          "sha256":  "fd6ebf729e6fc05a26292aca5182f89f0ac34d2ad52efdfbd3e9b7bc0fe674f2",
+                          "bytes":  18189508
+                      },
+                      {
+                          "path":  "variants/new-jk-v7/container/z_Sui_HeiShang_JK_v7_P.utoc",
+                          "name":  "z_Sui_HeiShang_JK_v7_P.utoc",
+                          "sha256":  "5cbfb97adc6ee96bf9b23b469e51074bc10895eb4d2bdfd22cdfab0fc9f67616",
+                          "bytes":  9630
+                      }
+                  ],
+    "runtime_tested":  false,
+    "after":  [
+                  {
+                      "name":  "z_Sui_HeiShang_JK_v7_P.pak",
+                      "path":  "F:\\FGames\\steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Content\\Paks\\~mods\\z_Sui_HeiShang_JK_v7_P.pak",
+                      "bytes":  347,
+                      "sha256":  "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+                  },
+                  {
+                      "name":  "z_Sui_HeiShang_JK_v7_P.ucas",
+                      "path":  "F:\\FGames\\steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Content\\Paks\\~mods\\z_Sui_HeiShang_JK_v7_P.ucas",
+                      "bytes":  18189508,
+                      "sha256":  "fd6ebf729e6fc05a26292aca5182f89f0ac34d2ad52efdfbd3e9b7bc0fe674f2"
+                  },
+                  {
+                      "name":  "z_Sui_HeiShang_JK_v7_P.utoc",
+                      "path":  "F:\\FGames\\steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Content\\Paks\\~mods\\z_Sui_HeiShang_JK_v7_P.utoc",
+                      "bytes":  9630,
+                      "sha256":  "5cbfb97adc6ee96bf9b23b469e51074bc10895eb4d2bdfd22cdfab0fc9f67616"
+                  },
+                  {
+                      "name":  "z_Sui_Hun_NaturalVoice_Library_v3_P.pak",
+                      "path":  "F:\\FGames\\steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Content\\Paks\\~mods\\z_Sui_Hun_NaturalVoice_Library_v3_P.pak",
+                      "bytes":  347,
+                      "sha256":  "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+                  },
+                  {
+                      "name":  "z_Sui_Hun_NaturalVoice_Library_v3_P.ucas",
+                      "path":  "F:\\FGames\\steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Content\\Paks\\~mods\\z_Sui_Hun_NaturalVoice_Library_v3_P.ucas",
+                      "bytes":  1254780159,
+                      "sha256":  "deba71b5b051d1300a57fceb23408b09bfd7c77e51f2a074d30a12cf4e1e10c8"
+                  },
+                  {
+                      "name":  "z_Sui_Hun_NaturalVoice_Library_v3_P.utoc",
+                      "path":  "F:\\FGames\\steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Content\\Paks\\~mods\\z_Sui_Hun_NaturalVoice_Library_v3_P.utoc",
+                      "bytes":  231816,
+                      "sha256":  "6c55069a6d137cd0991405b811c4b7e83e9567289fbb73af4d5cc23ea87c33eb"
+                  }
+              ],
+    "other_files_byte_identical":  true
+}

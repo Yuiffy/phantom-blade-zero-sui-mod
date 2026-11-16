@@ -1,0 +1,17 @@
+{
+  "status": "offline-candidate-not-installed",
+  "baseline_checkpoint": "v9 ce1a1de",
+  "baseline_installed_model_last_observed": "JK v8",
+  "runtime_tested": false,
+  "manual_blender_poses_only": true,
+  "source_vertices": 35459,
+  "triangles": 69117,
+  "bones": 264,
+  "materials": 10,
+  "packages": 43,
+  "voice_untouched": true,
+  "final_cooked_weights_error_after_UE_quantization": 0,
+  "final_VT_not_independently_decoded_to_pixels": true,
+  "no_claim_of_physical_shirt_layer_or_all_poses_fixed": true,
+  "local_mod_archive_not_published": true
+}

@@ -1,0 +1,636 @@
+[
+  {
+    "slot": "MI_Jirai_Skin",
+    "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Head_b",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Skin",
+      "SkinNormal_MICRO": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "SCMT_Map": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_SkinEyes_SCMT"
+    },
+    "scalars": [
+      [
+        "Roughness Max",
+        0.62,
+        0
+      ],
+      [
+        "Specular Max",
+        0.35,
+        0
+      ],
+      [
+        "SkinMicroNormalIntensity",
+        0.08,
+        0
+      ],
+      [
+        "Thickness Max",
+        0.7,
+        0
+      ]
+    ]
+  },
+  {
+    "slot": "MI_Jirai_Hair",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Hair"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_Jirai_Blouse",
+    "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+    "layer_remap": [
+      0,
+      1
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Blouse"
+    },
+    "scalars": [
+      [
+        "NormalIntensity",
+        0.08,
+        1
+      ],
+      [
+        "BaseColor Intensity",
+        0.0,
+        1
+      ]
+    ]
+  },
+  {
+    "slot": "MI_Jirai_Corset",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Skin"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_Jirai_Skirt",
+    "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+    "layer_remap": [
+      0,
+      1
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Skirt"
+    },
+    "scalars": [
+      [
+        "NormalIntensity",
+        0.08,
+        1
+      ],
+      [
+        "BaseColor Intensity",
+        0.0,
+        1
+      ]
+    ]
+  },
+  {
+    "slot": "MI_Jirai_Legwear",
+    "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+    "layer_remap": [
+      0,
+      1
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Legwear"
+    },
+    "scalars": [
+      [
+        "NormalIntensity",
+        0.08,
+        1
+      ],
+      [
+        "BaseColor Intensity",
+        0.0,
+        1
+      ]
+    ]
+  },
+  {
+    "slot": "MI_Jirai_Shoes",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Shoes"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_Jirai_Metal",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Metal"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_Jirai_HaloGold",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_HaloGold",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_HaloGold"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_Jirai_ShortLining",
+    "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+    "layer_remap": [
+      0,
+      1
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ShortLining",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_ShortLining"
+    },
+    "scalars": [
+      [
+        "NormalIntensity",
+        0.08,
+        1
+      ],
+      [
+        "BaseColor Intensity",
+        0.0,
+        1
+      ]
+    ]
+  },
+  {
+    "slot": "MI_Jirai_TailL",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Hair"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_Jirai_TailR",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Hair"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_Jirai_Hands",
+    "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Head_b",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Hands",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Skin",
+      "SkinNormal_MICRO": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "SCMT_Map": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_SkinEyes_SCMT"
+    },
+    "scalars": [
+      [
+        "Roughness Max",
+        0.62,
+        0
+      ],
+      [
+        "Specular Max",
+        0.35,
+        0
+      ],
+      [
+        "SkinMicroNormalIntensity",
+        0.08,
+        0
+      ],
+      [
+        "Thickness Max",
+        0.7,
+        0
+      ]
+    ]
+  },
+  {
+    "slot": "MI_Jirai_Suspender",
+    "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+    "layer_remap": [
+      0,
+      1
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Suspender",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Suspender"
+    },
+    "scalars": [
+      [
+        "NormalIntensity",
+        0.08,
+        1
+      ],
+      [
+        "BaseColor Intensity",
+        0.0,
+        1
+      ]
+    ]
+  },
+  {
+    "slot": "MI_Jirai_Buckle",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Buckle",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Buckle"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_Jirai_EyeIris",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_EyeIris"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_Jirai_Sclera",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Sclera",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Sclera"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_Base",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Skin"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_Gold",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Gold",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Gold"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_Pink",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Pink",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Pink"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_Cat",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Cat",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Pink"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_PinkSeam",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_PinkSeam",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Pink"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_Silver",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Silver",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Silver"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_PinkLight",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_PinkLight",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Pink"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_HairGroove",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_HairGroove",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_HairGroove"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_SafetyLining",
+    "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+    "layer_remap": [
+      0,
+      1
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_SafetyLining",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_SafetyLining"
+    },
+    "scalars": [
+      [
+        "NormalIntensity",
+        0.08,
+        1
+      ],
+      [
+        "BaseColor Intensity",
+        0.0,
+        1
+      ]
+    ]
+  },
+  {
+    "slot": "MI_JK_Ivory",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Ivory",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Pink"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_Ponytail",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Ponytail"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_HairMain",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Ponytail"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_CardiganHem",
+    "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+    "layer_remap": [
+      0,
+      1
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_CardiganHem"
+    },
+    "scalars": [
+      [
+        "NormalIntensity",
+        0.08,
+        1
+      ],
+      [
+        "BaseColor Intensity",
+        0.0,
+        1
+      ]
+    ]
+  },
+  {
+    "slot": "MI_JK_Cardigan",
+    "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+    "layer_remap": [
+      0,
+      1
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_CardiganHem"
+    },
+    "scalars": [
+      [
+        "NormalIntensity",
+        0.08,
+        1
+      ],
+      [
+        "BaseColor Intensity",
+        0.0,
+        1
+      ]
+    ]
+  },
+  {
+    "slot": "MI_JK_PleatedSkirt",
+    "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+    "layer_remap": [
+      0,
+      1
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_PleatedSkirt"
+    },
+    "scalars": [
+      [
+        "NormalIntensity",
+        0.08,
+        1
+      ],
+      [
+        "BaseColor Intensity",
+        0.0,
+        1
+      ]
+    ]
+  },
+  {
+    "slot": "MI_JK_Backpack",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Backpack"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_Straps",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Straps"
+    },
+    "scalars": []
+  },
+  {
+    "slot": "MI_JK_Stockings",
+    "parent": "/Game/PBZContent/Characters/Hero/Hun_New_V2b/Material/MI_ZeroHun_Cloth_02_b",
+    "layer_remap": [
+      0,
+      1
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_Stockings"
+    },
+    "scalars": [
+      [
+        "NormalIntensity",
+        0.08,
+        1
+      ],
+      [
+        "BaseColor Intensity",
+        0.0,
+        1
+      ]
+    ]
+  },
+  {
+    "slot": "MI_JK_CharmAtlas",
+    "parent": "/AkashaEffects/MaterialLibrary/Template/Character/MAI_Equipment_Mask",
+    "layer_remap": [
+      0
+    ],
+    "textures": {
+      "Albedo": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_CharmAtlas",
+      "Normal": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "Mix": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_ARM_CharmAtlas"
+    },
+    "scalars": []
+  }
+]

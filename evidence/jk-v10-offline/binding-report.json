@@ -1,0 +1,24 @@
+{
+  "baseline": "JK v9 accessory checkpoint ce1a1de",
+  "positions_changed": 221,
+  "weights_changed": 239,
+  "max_position_change_cm": 10.599579602177585,
+  "max_arm_weight_removed": 1.0,
+  "geometry_and_weights_confined_to_right_proximal_garment": true,
+  "hands_head_legs_skirt_bag_and_new_accessories_unchanged": true,
+  "vertices": 35459,
+  "triangles": 69117,
+  "bones": 264,
+  "material_slots": 10,
+  "max_influences": 6,
+  "fbx_sha256": "24b9f1fb3bf3d774be41905b8a232fe40e770f71eaba08d906acb31e9863e1f2",
+  "no_new_physics": true,
+  "pre_storage_positions_changed": 257,
+  "positions_count_uses_stored_float32_and_1e_6_cm_threshold": true,
+  "sleeve_source_field": {
+    "path": "sleeve-source-field.npy",
+    "sha256": "8d8eb7f231e3210c8c2e7ec00450303300b70e209e882b688847174ce097784a",
+    "vertices_in_v8_indexing": 35056,
+    "authored_provenance_not_independent_ground_truth": true
+  }
+}

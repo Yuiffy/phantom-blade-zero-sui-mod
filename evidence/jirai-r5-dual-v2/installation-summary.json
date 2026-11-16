@@ -1,0 +1,56 @@
+{
+  "status": "installed-hash-verified-user-quality-approved-with-known-issues",
+  "installed_at": "2026-11-16T02:46:19.6050025+08:00",
+  "game_build": "26367565",
+  "outfits": {
+    "Hun_OutFit_Default": {
+      "label": "黑伤（逃亡）",
+      "model": "JK Motion v5 plush contact",
+      "body": "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple"
+    },
+    "Hun_OutFit_Climax": {
+      "label": "黑伤",
+      "model": "地雷岁 R5 无翅膀比例修正版",
+      "body": "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple"
+    },
+    "Hun_OutFit_Climax_Hat": {
+      "label": "黑伤（内部无帽变体）",
+      "model": "地雷岁 R5 无翅膀比例修正版",
+      "body": "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple"
+    }
+  },
+  "installed_files": [
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR5_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR5_P.ucas",
+      "bytes": 68973392,
+      "sha256": "dd3d1f2d8c8a41c2ab6a6bd28a5720083666f71dd7e30dc8bc01318d984eb181"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR5_P.utoc",
+      "bytes": 25617,
+      "sha256": "ba39bcb9920d4898f7f464026a360c4d5cea8de3349dd701e5b04898812ea1f9"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.ucas",
+      "bytes": 3282530,
+      "sha256": "1c03a93f6790879c2a8454709e90dc1cca0cb8c90bc9ae0ccd75bed94cb825c0"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.utoc",
+      "bytes": 7200,
+      "sha256": "86b35b1f2f5d64a64d17b59120d18a11a9000655200f5b0d563d35b9185c81d0"
+    }
+  ],
+  "voice_unchanged": true,
+  "backed_up_previous_model": true
+}

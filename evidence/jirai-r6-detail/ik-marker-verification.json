@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "basis": "real UE retargeted animation evaluation",
+  "markers": [
+    {
+      "bone": "ik_hand_gun",
+      "animated_translation_delta_cm": [
+        3.0,
+        4.0,
+        5.0
+      ],
+      "error_cm": 0.0
+    },
+    {
+      "bone": "ik_hand_l",
+      "animated_translation_delta_cm": [
+        2.999897003173828,
+        4.000038146972656,
+        5.0
+      ],
+      "error_cm": 0.00010983413733587622
+    },
+    {
+      "bone": "ik_hand_r",
+      "animated_translation_delta_cm": [
+        2.999983210274877,
+        4.000012216763025,
+        4.99998995459282
+      ],
+      "error_cm": 2.3066303863691945e-05
+    },
+    {
+      "bone": "ik_weapon_l",
+      "animated_translation_delta_cm": [
+        3.0,
+        4.0,
+        5.0
+      ],
+      "error_cm": 0.0
+    },
+    {
+      "bone": "ik_weapon_r",
+      "animated_translation_delta_cm": [
+        3.0,
+        4.0,
+        5.0
+      ],
+      "error_cm": 0.0
+    }
+  ],
+  "game_grip_verified": false
+}

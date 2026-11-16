@@ -1,0 +1,12 @@
+{
+  "baseline": "Jirai R5 / dual outfit v2",
+  "editable_source": {
+    "name": "Sui_Jirai_R5_Editable.blend",
+    "bytes": 19059686,
+    "sha256": "1762b1c6edbac6c6900f6ff020c26185f27a1146ad5285f4c362330f612c1271"
+  },
+  "fbx_sha256": "deb643c68d653814f13b174174c147dec4618b54a3ed0560005afa7823b397af",
+  "source_origin": "user-provided Tripo export e23d0709-08fd-4812-b7fa-e0bed31d6672; native skeletal adaptation and local refinements",
+  "license": "character/model/texture/native rig derivative excluded from code MIT; see NOTICE.md",
+  "no_original_visible_game_mesh_or_animation_included": true
+}

@@ -1,0 +1,12 @@
+{
+  "baseline": "final v5 close-skirt/lining candidate",
+  "backpack_vertices": 7311,
+  "all_other_vertices_exactly_unchanged": 27745,
+  "all_weights_exactly_unchanged": true,
+  "backpack_width_ratio": 0.7499999930984832,
+  "backpack_width_before_cm": 69.09164619445801,
+  "backpack_width_after_cm": 51.81873416900635,
+  "backpack_height_and_depth_unchanged": true,
+  "neck_shoulders_and_legs_and_skirt_unchanged": true,
+  "source_contract_sha256": "2013e329646a884fb59f9a019d30f963d163cba1e550c7a26e95d3811e4cbd92"
+}

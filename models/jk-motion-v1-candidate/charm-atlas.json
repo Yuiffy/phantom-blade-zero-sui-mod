@@ -1,0 +1,134 @@
+{
+  "new_slot": "MI_JK_CharmAtlas",
+  "regions": [
+    {
+      "old_slot": "MI_JK_Charm_Gold",
+      "uv": [
+        0.125,
+        0.75
+      ],
+      "colors": {
+        "Albedo": [
+          235,
+          186,
+          111,
+          255
+        ],
+        "Mix": [
+          255,
+          82,
+          115,
+          255
+        ]
+      }
+    },
+    {
+      "old_slot": "MI_JK_Charm_Pink",
+      "uv": [
+        0.375,
+        0.75
+      ],
+      "colors": {
+        "Albedo": [
+          214,
+          47,
+          111,
+          255
+        ],
+        "Mix": [
+          255,
+          140,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "old_slot": "MI_JK_Charm_Cat",
+      "uv": [
+        0.625,
+        0.75
+      ],
+      "colors": {
+        "Albedo": [
+          44,
+          29,
+          36,
+          255
+        ],
+        "Mix": [
+          255,
+          140,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "old_slot": "MI_JK_Charm_PinkSeam",
+      "uv": [
+        0.875,
+        0.75
+      ],
+      "colors": {
+        "Albedo": [
+          153,
+          24,
+          72,
+          255
+        ],
+        "Mix": [
+          255,
+          140,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "old_slot": "MI_JK_Charm_PinkLight",
+      "uv": [
+        0.125,
+        0.25
+      ],
+      "colors": {
+        "Albedo": [
+          249,
+          97,
+          153,
+          255
+        ],
+        "Mix": [
+          255,
+          140,
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "old_slot": "MI_JK_Charm_Ivory",
+      "uv": [
+        0.375,
+        0.25
+      ],
+      "colors": {
+        "Albedo": [
+          246,
+          245,
+          242,
+          255
+        ],
+        "Mix": [
+          255,
+          207,
+          0,
+          255
+        ]
+      }
+    }
+  ],
+  "albedo": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\models\\new-outfit-20261114\\tripo-motion-v1\\textures\\T_JK_CharmAtlas.png",
+  "mask": "D:\\workspace\\myrepo\\ai-video-workflow\\outputs\\phantom-blade-zero-sui\\models\\new-outfit-20261114\\tripo-motion-v1\\textures\\T_JK_ARM_CharmAtlas.png",
+  "geometry_and_skin_unchanged": true
+}

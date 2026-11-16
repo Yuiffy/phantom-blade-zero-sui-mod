@@ -1,0 +1,125 @@
+{
+  "status": "offline-Chaos-component-transform-test-only",
+  "fbx_sha256": "0d807c1153d0db46f342d0140f2a19e6626d4eef4eb428ffa67db741ef6d98a0",
+  "tests": [
+    {
+      "test": "60hz",
+      "frames": 31,
+      "assets": [
+        {
+          "asset": "CA_Jirai_TailL_0",
+          "particles": 182,
+          "fixed": 14,
+          "max_displacement_cm": 2.089495265882028,
+          "maxdistance_overshoot_cm": 1.5843096079142967e-05,
+          "max_pin_error_cm": 1.5843096079142967e-05,
+          "edge_ratio_min": 0.9965865307159621,
+          "edge_ratio_max": 1.007322270037044,
+          "motion_after_warmup_cm": 2.089495724511664
+        },
+        {
+          "asset": "CA_Jirai_TailR_0",
+          "particles": 182,
+          "fixed": 14,
+          "max_displacement_cm": 2.1274271298621357,
+          "maxdistance_overshoot_cm": 1.592010835419365e-05,
+          "max_pin_error_cm": 1.592010835419365e-05,
+          "edge_ratio_min": 0.9966885901161525,
+          "edge_ratio_max": 1.0073168524008511,
+          "motion_after_warmup_cm": 2.1274280792381464
+        },
+        {
+          "asset": "CA_Jirai_Skirt_0",
+          "particles": 1800,
+          "fixed": 576,
+          "max_displacement_cm": 1.7001737807492885,
+          "maxdistance_overshoot_cm": 8.941653756382701e-06,
+          "max_pin_error_cm": 8.941653756382701e-06,
+          "edge_ratio_min": 0.9680422719864286,
+          "edge_ratio_max": 1.0387994483483969,
+          "motion_after_warmup_cm": 1.6153883035450027
+        }
+      ]
+    },
+    {
+      "test": "30hz",
+      "frames": 19,
+      "assets": [
+        {
+          "asset": "CA_Jirai_TailL_0",
+          "particles": 182,
+          "fixed": 14,
+          "max_displacement_cm": 3.3368289778993017,
+          "maxdistance_overshoot_cm": 1.5794319314175797e-05,
+          "max_pin_error_cm": 1.5794319314175797e-05,
+          "edge_ratio_min": 0.9916644539781976,
+          "edge_ratio_max": 1.0159547879986939,
+          "motion_after_warmup_cm": 3.336830068701629
+        },
+        {
+          "asset": "CA_Jirai_TailR_0",
+          "particles": 182,
+          "fixed": 14,
+          "max_displacement_cm": 3.391030302092793,
+          "maxdistance_overshoot_cm": 1.590153218679169e-05,
+          "max_pin_error_cm": 1.590153218679169e-05,
+          "edge_ratio_min": 0.9915492499358444,
+          "edge_ratio_max": 1.0164134486435326,
+          "motion_after_warmup_cm": 3.391031400521838
+        },
+        {
+          "asset": "CA_Jirai_Skirt_0",
+          "particles": 1800,
+          "fixed": 576,
+          "max_displacement_cm": 1.9363895026095488,
+          "maxdistance_overshoot_cm": 8.941653756488714e-06,
+          "max_pin_error_cm": 8.941653756488714e-06,
+          "edge_ratio_min": 0.9569335856144644,
+          "edge_ratio_max": 1.0447456273500482,
+          "motion_after_warmup_cm": 1.734211080552611
+        }
+      ]
+    },
+    {
+      "test": "foreaft",
+      "frames": 37,
+      "assets": [
+        {
+          "asset": "CA_Jirai_TailL_0",
+          "particles": 182,
+          "fixed": 14,
+          "max_displacement_cm": 3.0817229664617836,
+          "maxdistance_overshoot_cm": 3.0051203785196363e-05,
+          "max_pin_error_cm": 3.0051203785196363e-05,
+          "edge_ratio_min": 0.9828196183076408,
+          "edge_ratio_max": 1.0174834863699858,
+          "motion_after_warmup_cm": 3.081724565883362
+        },
+        {
+          "asset": "CA_Jirai_TailR_0",
+          "particles": 182,
+          "fixed": 14,
+          "max_displacement_cm": 3.1204548747988325,
+          "maxdistance_overshoot_cm": 3.040178301434625e-05,
+          "max_pin_error_cm": 3.040178301434625e-05,
+          "edge_ratio_min": 0.983884880059709,
+          "edge_ratio_max": 1.018391145130411,
+          "motion_after_warmup_cm": 3.1204563220937795
+        },
+        {
+          "asset": "CA_Jirai_Skirt_0",
+          "particles": 1800,
+          "fixed": 576,
+          "max_displacement_cm": 1.9338256744303628,
+          "maxdistance_overshoot_cm": 2.2918999975962362e-05,
+          "max_pin_error_cm": 2.2918999975962362e-05,
+          "edge_ratio_min": 0.9646321001256349,
+          "edge_ratio_max": 1.0394216646768673,
+          "motion_after_warmup_cm": 2.0939678705617197
+        }
+      ]
+    }
+  ],
+  "game_animations_tested": false,
+  "game_runtime_tested": false
+}

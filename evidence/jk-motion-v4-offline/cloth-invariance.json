@@ -1,0 +1,5 @@
+{
+  "baseline": "motion-v3-release",
+  "five_physical_assets_exactly_equal_except_guids": true,
+  "comparison_includes_config_masks_bone_weights_positions_indices": true
+}

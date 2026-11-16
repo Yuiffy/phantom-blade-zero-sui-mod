@@ -1,0 +1,354 @@
+[
+  {
+    "slot": "MI_JK_Ponytail",
+    "name": "CA_Sui_Ponytail",
+    "max_distance": 6,
+    "mask": {
+      "type": "plane",
+      "anchors": [
+        [
+          0,
+          0,
+          188
+        ]
+      ],
+      "dir": [
+        0,
+        0,
+        -1
+      ],
+      "d0": 0,
+      "d1": 39,
+      "sim_slot": "MI_JK_PonytailSim"
+    },
+    "additional_render_slots": [],
+    "config": {
+      "EdgeStiffnessWeighted": {
+        "Low": 1,
+        "High": 1
+      },
+      "AreaStiffnessWeighted": {
+        "Low": 1,
+        "High": 1
+      },
+      "BendingStiffnessWeighted": {
+        "Low": 0.9,
+        "High": 0.9
+      },
+      "bUseBendingElements": true,
+      "bUseGeodesicDistance": true,
+      "TetherStiffness": {
+        "Low": 1,
+        "High": 1
+      },
+      "TetherScale": {
+        "Low": 1,
+        "High": 1
+      },
+      "AnimDriveStiffness": {
+        "Low": 0.15,
+        "High": 0.15
+      },
+      "AnimDriveDamping": {
+        "Low": 0.5,
+        "High": 0.5
+      },
+      "GravityScale": 0.15,
+      "DampingCoefficient": 0.08,
+      "LocalDampingCoefficient": 0.2,
+      "CollisionThickness": 0.25,
+      "FrictionCoefficient": 0.4,
+      "bUseSelfCollisions": false,
+      "LinearVelocityScale": {
+        "X": 0.55,
+        "Y": 0.55,
+        "Z": 0.55
+      },
+      "AngularVelocityScale": 0.5,
+      "VolumeStiffness": 0,
+      "bUseThinShellVolumeConstraints": false
+    }
+  },
+  {
+    "slot": "MI_JK_CharmAtlas",
+    "name": "CA_Sui_Charm",
+    "max_distance": 3.2,
+    "mask": {
+      "type": "plane",
+      "anchors": [
+        [
+          0,
+          0,
+          142.4
+        ]
+      ],
+      "dir": [
+        0,
+        0,
+        -1
+      ],
+      "d0": 0,
+      "d1": 12.5,
+      "sim_slot": "MI_JK_CharmSim",
+      "bend_soft_z": 142.3,
+      "bend_stiff_z": 139
+    },
+    "additional_render_slots": [],
+    "config": {
+      "EdgeStiffnessWeighted": {
+        "Low": 1,
+        "High": 1
+      },
+      "AreaStiffnessWeighted": {
+        "Low": 1,
+        "High": 1
+      },
+      "BendingStiffnessWeighted": {
+        "Low": 0.06,
+        "High": 0.99
+      },
+      "bUseBendingElements": true,
+      "bUseGeodesicDistance": true,
+      "TetherStiffness": {
+        "Low": 1,
+        "High": 1
+      },
+      "TetherScale": {
+        "Low": 1,
+        "High": 1
+      },
+      "AnimDriveStiffness": {
+        "Low": 0.15,
+        "High": 0.15
+      },
+      "AnimDriveDamping": {
+        "Low": 0.5,
+        "High": 0.5
+      },
+      "GravityScale": 0.45,
+      "DampingCoefficient": 0.08,
+      "LocalDampingCoefficient": 0.2,
+      "CollisionThickness": 0.25,
+      "FrictionCoefficient": 0.4,
+      "bUseSelfCollisions": false,
+      "LinearVelocityScale": {
+        "X": 0.55,
+        "Y": 0.55,
+        "Z": 0.55
+      },
+      "AngularVelocityScale": 0.5,
+      "VolumeStiffness": 0.95,
+      "bUseThinShellVolumeConstraints": true
+    }
+  },
+  {
+    "slot": "MI_JK_PleatedSkirt",
+    "name": "CA_Sui_Skirt",
+    "max_distance": 0.65,
+    "mask": {
+      "type": "plane",
+      "anchors": [
+        [
+          0,
+          0,
+          106
+        ]
+      ],
+      "dir": [
+        0,
+        0,
+        -1
+      ],
+      "d0": 0,
+      "d1": 14,
+      "sim_slot": "MI_JK_SkirtSim"
+    },
+    "additional_render_slots": [],
+    "config": {
+      "EdgeStiffnessWeighted": {
+        "Low": 1,
+        "High": 1
+      },
+      "AreaStiffnessWeighted": {
+        "Low": 1,
+        "High": 1
+      },
+      "BendingStiffnessWeighted": {
+        "Low": 0.95,
+        "High": 0.95
+      },
+      "bUseBendingElements": true,
+      "bUseGeodesicDistance": true,
+      "TetherStiffness": {
+        "Low": 1,
+        "High": 1
+      },
+      "TetherScale": {
+        "Low": 1,
+        "High": 1
+      },
+      "AnimDriveStiffness": {
+        "Low": 0.15,
+        "High": 0.15
+      },
+      "AnimDriveDamping": {
+        "Low": 0.5,
+        "High": 0.5
+      },
+      "GravityScale": 0.15,
+      "DampingCoefficient": 0.08,
+      "LocalDampingCoefficient": 0.2,
+      "CollisionThickness": 0.25,
+      "FrictionCoefficient": 0.4,
+      "bUseSelfCollisions": false,
+      "LinearVelocityScale": {
+        "X": 0.55,
+        "Y": 0.55,
+        "Z": 0.55
+      },
+      "AngularVelocityScale": 0.5,
+      "VolumeStiffness": 0,
+      "bUseThinShellVolumeConstraints": false
+    }
+  },
+  {
+    "slot": "MI_JK_CardiganHem",
+    "name": "CA_Sui_CardiganHem",
+    "max_distance": 0.8,
+    "mask": {
+      "type": "plane",
+      "anchors": [
+        [
+          0,
+          0,
+          120
+        ]
+      ],
+      "dir": [
+        0,
+        0,
+        -1
+      ],
+      "d0": 0,
+      "d1": 18,
+      "sim_slot": "MI_JK_CardiganHemSim"
+    },
+    "additional_render_slots": [],
+    "config": {
+      "EdgeStiffnessWeighted": {
+        "Low": 1,
+        "High": 1
+      },
+      "AreaStiffnessWeighted": {
+        "Low": 1,
+        "High": 1
+      },
+      "BendingStiffnessWeighted": {
+        "Low": 0.9,
+        "High": 0.9
+      },
+      "bUseBendingElements": true,
+      "bUseGeodesicDistance": true,
+      "TetherStiffness": {
+        "Low": 1,
+        "High": 1
+      },
+      "TetherScale": {
+        "Low": 1,
+        "High": 1
+      },
+      "AnimDriveStiffness": {
+        "Low": 0.15,
+        "High": 0.15
+      },
+      "AnimDriveDamping": {
+        "Low": 0.5,
+        "High": 0.5
+      },
+      "GravityScale": 0.18,
+      "DampingCoefficient": 0.08,
+      "LocalDampingCoefficient": 0.2,
+      "CollisionThickness": 0.25,
+      "FrictionCoefficient": 0.4,
+      "bUseSelfCollisions": false,
+      "LinearVelocityScale": {
+        "X": 0.55,
+        "Y": 0.55,
+        "Z": 0.55
+      },
+      "AngularVelocityScale": 0.5,
+      "VolumeStiffness": 0,
+      "bUseThinShellVolumeConstraints": false
+    }
+  },
+  {
+    "slot": "MI_JK_Backpack",
+    "name": "CA_Sui_Backpack",
+    "max_distance": 0.55,
+    "mask": {
+      "type": "plane",
+      "anchors": [
+        [
+          0,
+          0,
+          151
+        ]
+      ],
+      "dir": [
+        0,
+        0,
+        -1
+      ],
+      "d0": 0,
+      "d1": 39,
+      "sim_slot": "MI_JK_BackpackSim"
+    },
+    "additional_render_slots": [],
+    "config": {
+      "EdgeStiffnessWeighted": {
+        "Low": 1,
+        "High": 1
+      },
+      "AreaStiffnessWeighted": {
+        "Low": 1,
+        "High": 1
+      },
+      "BendingStiffnessWeighted": {
+        "Low": 1,
+        "High": 1
+      },
+      "bUseBendingElements": true,
+      "bUseGeodesicDistance": true,
+      "TetherStiffness": {
+        "Low": 1,
+        "High": 1
+      },
+      "TetherScale": {
+        "Low": 1,
+        "High": 1
+      },
+      "AnimDriveStiffness": {
+        "Low": 0.15,
+        "High": 0.15
+      },
+      "AnimDriveDamping": {
+        "Low": 0.5,
+        "High": 0.5
+      },
+      "GravityScale": 0.2,
+      "DampingCoefficient": 0.08,
+      "LocalDampingCoefficient": 0.2,
+      "CollisionThickness": 0.25,
+      "FrictionCoefficient": 0.4,
+      "bUseSelfCollisions": false,
+      "LinearVelocityScale": {
+        "X": 0.55,
+        "Y": 0.55,
+        "Z": 0.55
+      },
+      "AngularVelocityScale": 0.5,
+      "VolumeStiffness": 0.95,
+      "bUseThinShellVolumeConstraints": true
+    }
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "game_animations_executed": false,
+  "measurement": "intersecting faces via BVHTree on evaluated skirt/leg surfaces",
+  "measurements": [
+    {
+      "version": "v4",
+      "pose": "idle",
+      "intersecting_skirt_faces": 99,
+      "lower_skirt_intersecting_faces": 14
+    },
+    {
+      "version": "v4",
+      "pose": "stride",
+      "intersecting_skirt_faces": 109,
+      "lower_skirt_intersecting_faces": 5
+    },
+    {
+      "version": "v4",
+      "pose": "knee-raised",
+      "intersecting_skirt_faces": 103,
+      "lower_skirt_intersecting_faces": 10
+    },
+    {
+      "version": "v4",
+      "pose": "wide-step",
+      "intersecting_skirt_faces": 120,
+      "lower_skirt_intersecting_faces": 20
+    },
+    {
+      "version": "v4",
+      "pose": "crouch",
+      "intersecting_skirt_faces": 134,
+      "lower_skirt_intersecting_faces": 7
+    },
+    {
+      "version": "v5",
+      "pose": "idle",
+      "intersecting_skirt_faces": 92,
+      "lower_skirt_intersecting_faces": 0
+    },
+    {
+      "version": "v5",
+      "pose": "stride",
+      "intersecting_skirt_faces": 107,
+      "lower_skirt_intersecting_faces": 4
+    },
+    {
+      "version": "v5",
+      "pose": "knee-raised",
+      "intersecting_skirt_faces": 99,
+      "lower_skirt_intersecting_faces": 19
+    },
+    {
+      "version": "v5",
+      "pose": "wide-step",
+      "intersecting_skirt_faces": 111,
+      "lower_skirt_intersecting_faces": 0
+    },
+    {
+      "version": "v5",
+      "pose": "crouch",
+      "intersecting_skirt_faces": 129,
+      "lower_skirt_intersecting_faces": 45
+    }
+  ]
+}

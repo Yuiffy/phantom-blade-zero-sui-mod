@@ -1,0 +1,42 @@
+{
+  "status": "independent-final-container-verified-runtime-pending",
+  "package_count": 99,
+  "modified_texture_packages": 1,
+  "preserved_packages": 98,
+  "all_meshes_uv_weights_and_cloth_payloads_unchanged": true,
+  "all_materials_and_appearance_rows_unchanged": true,
+  "skin_and_closed_sclera_fixes_preserved": true,
+  "jk_unchanged": true,
+  "texture_width": 8192,
+  "texture_height": 8192,
+  "virtual_texture": true,
+  "srgb": true,
+  "texture_format": [
+    "PF_DXT1"
+  ],
+  "mips": 14,
+  "bulk_bounds_checked": true,
+  "source_atlas_sha256": "2ba9104fc7eb43a120eb94843b0c3c208dac92fe44f5b4168fe8f7eb3b5ec152",
+  "container_files": [
+    {
+      "path": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\fishnet-v1\\container\\z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.pak",
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "path": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\fishnet-v1\\container\\z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.ucas",
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.ucas",
+      "bytes": 105683996,
+      "sha256": "b4c6b831b758f099469b80864d39dfec1d59af039536b4ebdff740eb7525dceb"
+    },
+    {
+      "path": "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\fishnet-v1\\container\\z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.utoc",
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.utoc",
+      "bytes": 34046,
+      "sha256": "015beaeb53cd5186086358153dac0a5aa8491fd405dc27f370d5b3dd2ff1a604"
+    }
+  ],
+  "installed": false,
+  "game_runtime_tested": false
+}

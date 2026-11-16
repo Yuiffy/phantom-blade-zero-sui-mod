@@ -1,0 +1,47 @@
+{
+  "game_animations_executed": false,
+  "measurements": [
+    {
+      "version": "v2",
+      "pose": "neck-front",
+      "upper_edge_ratio_p99": 1.0000002778937462,
+      "upper_edge_ratio_max": 1.000001107284424,
+      "upper_edge_ratio_p01": 0.9999994289110224
+    },
+    {
+      "version": "v2",
+      "pose": "neck-turn",
+      "upper_edge_ratio_p99": 1.2020642392750578,
+      "upper_edge_ratio_max": 1.387676294509524,
+      "upper_edge_ratio_p01": 0.802095344956559
+    },
+    {
+      "version": "v2",
+      "pose": "shoulders-raised",
+      "upper_edge_ratio_p99": 1.0005181882697947,
+      "upper_edge_ratio_max": 1.0669779882606059,
+      "upper_edge_ratio_p01": 0.9305405030685667
+    },
+    {
+      "version": "v3",
+      "pose": "neck-front",
+      "upper_edge_ratio_p99": 1.0000003937848858,
+      "upper_edge_ratio_max": 1.0000055377375587,
+      "upper_edge_ratio_p01": 0.9999993872645678
+    },
+    {
+      "version": "v3",
+      "pose": "neck-turn",
+      "upper_edge_ratio_p99": 1.21356640147919,
+      "upper_edge_ratio_max": 1.4885010518735602,
+      "upper_edge_ratio_p01": 0.8027666828880209
+    },
+    {
+      "version": "v3",
+      "pose": "shoulders-raised",
+      "upper_edge_ratio_p99": 1.0000005744306246,
+      "upper_edge_ratio_max": 1.0497376635490618,
+      "upper_edge_ratio_p01": 0.9183285137688945
+    }
+  ]
+}
