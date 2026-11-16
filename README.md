@@ -1,6 +1,8 @@
 # 岁己 × 影之刃零
 
-**2026-11-17 本地修复更新（地雷岁 R7）：**已备份安装[裙侧避让与连通安全裤修复](models/jirai-skirt-v1/README.md)。裙摆增加抬腿避让，裆部使用连通裤底的不透明黑色安全裤；保留已安装的皮肤、闭合眼白与 8K 渔网袜，以及 JK5 和独立语音。最终 100 包逐包读回通过，七组作者合成动作的采样帧中可见腿裙交线为 0，已检查 35 张离线预览。大幅抬腿时裙摆仍会翘起，由安全裤负责遮挡；游戏内动作与性能尚待复测。[验证和安装摘要](evidence/jirai-r7-skirt/result.json)、[深蹲离线预览](evidence/jirai-r7-skirt/crouch-high3q.png) 与可编辑母版已收录。正式 Release 下载包仍为下述 R5 版。
+**2026-11-17 02:12（北京时间）裙摆回落候选：**已安装 [R7 Recovery1](models/jirai-skirt-recovery-v1/README.md)，保留新版裙型与连通不透明安全裤，加强恢复驱动和重力、降低惯性，并将可见物理混合限制到 40%。修正离线测试初始化重置后，六组连续走停、跑停、蹲起测试及成品映射重建通过；18 张动作/站定/安全裤离线图已审阅。最终双服装包独立读回、安装哈希及 Face2 叠加解析均通过，JK、语音和 Face2 文件保留。**尚待用户实机复试，大动作仍可能局部穿裙。**[参数与验证证据](evidence/jirai-skirt-recovery-v1/README.md)。正式 Release 仍为下述 R5 版。
+
+**2026-11-17 地雷岁 R7 实机反馈：**用户报告普通走动后裙摆翻起，停止时裙型异常，实机效果退步。R7 已标记失败并封锁重新安装；原有离线证据保留，它们未覆盖本次问题。用户随后同意保留新版裙型与连通安全裤，转入[独立参数恢复实验](models/jirai-skirt-recovery-v1/README.md)，重点检查反复走动、停下和裙摆回落；R6 SkinEyes1＋Fishnet1 的已核验备份及回退脚本保留。已于 2026-11-17 01:23（北京时间）在游戏退出后恢复 R6 SkinEyes1＋Fishnet1，六文件哈希与 R7 安装前完全一致，JK 与语音保留。[实机反馈记录](evidence/jirai-r7-skirt/runtime-feedback.json)。正式 Release 仍为下述 R5 版。
 
 **2026-11-16 本地修复更新：**已安装 [皮肤材质与闭合眼白修复](models/skin-eyes-v1/README.md) 及其上的 [地雷岁渔网袜修整](models/fishnet-v1/README.md)。渔网清理断线和重影、统一网线并提高图集至 8K；最终 99 包中仅一张贴图变化，其余 98 包、皮肤/眼白修复、物理与语音保留。用户认可优化结果并要求提交远端。[离线对比](evidence/fishnet-v1/compare-back.jpg)、[安装与验证摘要](evidence/fishnet-v1/summary.json) 已收录；尚未记录完整游戏实测。本次提交代码和验证证据，现有 Release 下载包仍为下述 R5 版。
 

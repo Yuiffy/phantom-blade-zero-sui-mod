@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-17",
+  "status": "runtime-rejected-installation-blocked",
+  "user_report": "试了裙子走两步就翘起来了，还不如之前的穿模版呢…咋办呢？要不还是保持穿模版？你看看咋办。",
+  "followup": "也可以保留你辛苦做的改动，但是要调整参数，让它不要随意飘起来，或者飘起来也能变回去",
+  "observation": "User attachment shows skirt rolled upward and black safety shorts exposed at standing pose; user reports ordinary walking triggers it.",
+  "screenshot_sha256": "3e6769fa510511a65232d1ecc2a3a9eeee0322580065a1909c29270dc583cf88",
+  "installed_container": [
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR7Skirt_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR7Skirt_P.ucas",
+      "bytes": 104310068,
+      "sha256": "0a08d735308f81ba7383daace756eee7e7b57866071e4588ebb115d9c6e03f63"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR7Skirt_P.utoc",
+      "bytes": 33899,
+      "sha256": "0da680d34c285510183ba4fe1c872672dfed5ddd8111227add7a6f8d3a297301"
+    }
+  ],
+  "offline_result_retained": true,
+  "missing_test": "Repeated walk-stop-rest cycles, standing hem recovery after movement",
+  "action": "Retain R7 geometry and continuous opaque shorts in an isolated parameter-tuning candidate. Preserve verified R6 rollback; do not roll back automatically after followup.",
+  "root_cause_confirmed": false,
+  "screenshot_file": "user-runtime-skirt-flip.png",
+  "screenshot_origin": "Provided by user; no desktop screenshot captured by agent"
+}

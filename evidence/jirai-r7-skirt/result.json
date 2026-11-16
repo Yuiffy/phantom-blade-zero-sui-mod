@@ -1,5 +1,5 @@
 {
-  "status": "installed-runtime-pending",
+  "status": "runtime-rejected-installation-blocked",
   "fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
   "cloth_spec_sha256": "48b961d5cf89c100a98ecf81879be6dbc22cd656d82b685348d7e1b763981563",
   "basis": "installed R6 SkinEyes1 and Fishnet1 8K atlas preserved; skirt and opaque safety shorts revised",
@@ -279,6 +279,14 @@
     "Synthetic offline animations and sampled views only; original gameplay animations and runtime performance remain untested.",
     "Native PBZ material rendering is not reproduced by Blender."
   ],
-  "game_runtime_tested": false,
-  "game_animation_library_included": false
+  "game_runtime_tested": true,
+  "game_animation_library_included": false,
+  "prior_status": "installed-runtime-pending",
+  "runtime_test_scope": "User-reported ordinary walking only; screenshot provided by user; agent did not operate game.",
+  "runtime_feedback": "runtime-feedback.json",
+  "recovery_candidate": "../../models/jirai-skirt-recovery-v1/README.md",
+  "installation_status": "rolled-back-to-r6-skin-eyes-fishnet1",
+  "rollback_receipt": "rollback-summary.json",
+  "continuous_simulation_validated": false,
+  "harness_audit": "harness-audit.json"
 }

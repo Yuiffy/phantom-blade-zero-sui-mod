@@ -4,6 +4,9 @@ import json,shutil,hashlib
 R=Path(__file__).resolve().parents[2];W=R/'private/jirai-skirt-v1';V=W/'variant';O=R/'evidence/jirai-r7-skirt'
 read=lambda p:json.loads(p.read_text(encoding='utf-8-sig'))
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
+if (O/'runtime-feedback.json').exists():
+ feedback=read(O/'runtime-feedback.json')
+ assert feedback.get('status')!='runtime-rejected-installation-blocked','R7 was rejected in gameplay; preserve failure record and work in a new candidate'
 dual=read(W/'dual/verification.json');assert dual['status']=='independent-final-container-verified-runtime-pending' and dual['fishnet_v1_8k_payload_exact']
 visual=read(W/'visual-review.json');assert visual['reviewed'] and visual['fbx_sha256']==sha(W/'Sui_Jirai_Hun_Body.fbx') and visual['cloth_spec_sha256']==sha(W/'cloth-spec.json')
 editable=read(R/'models/jirai-skirt-v1/source-manifest.json')

@@ -24,3 +24,5 @@ models/jk-v7-candidate/shots/
 !models/jk-motion-v2-candidate/editor-tools/PBZModTools/Source/PBZModTools/Private/*.cpp
 !models/jirai-skirt-v1/editor-tools/PBZModTools/Source/PBZModTools/Private/
 !models/jirai-skirt-v1/editor-tools/PBZModTools/Source/PBZModTools/Private/*.cpp
+!models/jirai-skirt-recovery-v1/editor-tools/PBZModTools/Source/PBZModTools/Private/
+!models/jirai-skirt-recovery-v1/editor-tools/PBZModTools/Source/PBZModTools/Private/*.cpp

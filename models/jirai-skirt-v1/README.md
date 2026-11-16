@@ -1,5 +1,7 @@
 # 地雷岁 R7：裙侧避让与连通安全裤
 
+**2026-11-17：用户实机否定此候选，普通走动后裙摆翻卷。已禁止重新安装。**原离线结果仅保留历史，不能作为游戏内恢复正常的证明。用户同意保留几何与安全裤，另做参数恢复实验。`models/jirai-skirt-v1/rollback-verified.ps1` 可只读核验原 R6 SkinEyes1＋Fishnet1 备份，加 `-Apply` 才恢复，游戏运行时拒绝写入。后续修改见根 README；不要直接重跑本目录安装流程。
+
 从 R6 SkinEyes1 几何母版隔离制作，最终合并当前已安装的 Fishnet1 8K 图集，目标是改善蹲下、斜蹲、弓步和跑步时的大腿穿裙。实际构建、检查和安装状态以 `../../evidence/jirai-r7-skirt/result.json` 为准；离线结果不代表游戏实测。
 
 保留已安装 SkinEyes1 的原生皮肤材质与双眼白，以及 R6 的脸、比例、骨架参考、手部、贴腿吊带、金属扣和头发表面，保留当前 Fishnet1 8K 图集。只修改裙子下摆形状与蒙皮、裙子隐藏模拟导向以及安全裤；不添加翅膀。裙子使用独立的布料碰撞资源，身体原 gameplay/ragdoll PA 与头发碰撞资源沿用原设置。
@@ -25,3 +27,5 @@
 `preflight_shorts.py` 只用于试算新安全裤与上一轮布料帧的遮挡关系，不是最终通过凭据；最终必须重新构建、真实求解并从成品重建。
 
 失败实验保留在本地 `private/jirai-skirt-v1/iterations`，不会因增加 MaxDistance 或求解次数而自动提升为安装版。游戏模板、密钥、工具二进制、中间容器和原视频仅留本地。可编辑角色母版及预览沿用根目录 NOTICE.md 的许可边界，不适用脚本的 MIT 许可。
+
+复查离线 helper 发现初始化的 `ClothTeleportMode=TeleportAndReset` 未被消费，旧流程不能证明连续物理稳定或回落行为，见 `evidence/jirai-r7-skirt/harness-audit.json`。历史数值与图像保留，但不再用来宣称连续模拟通过。新候选已修正标记消费并记录逐采样帧状态。

@@ -37,3 +37,10 @@ UBT 使用 `DOTNET_PROCESSOR_COUNT=2`、单 action、BelowNormal；本机设成 
 增强重力后，第一实际求解帧已积分 1/60 秒，不能当零时间绑定误差。本例分别检查静态映射约 0.285 cm 和第一重力帧约 0.342 cm。零时间重建应按 `ClothingMeshUtils::ComputeAveragedNormals` 从最终物理三角形累加**单位面法线**再归一化，并核对与 GPU 的符号约定；直接用导入后存储的 normals 曾得到错误的约 17 cm 结果。固定旧阈值前先确认测量对象与法线构造是否一致。
 
 袜口、手心等修色按表面与 UV 岛归属生成 mask；Albedo 和线性 ARM 分别处理。v2 输入 PNG、导入像素及最终 VT payload 链已核验，但最终 VT 未独立解码为像素；不可写成最终游戏像素已验证。AI 图片润色若后续使用，要保留 UV 或将局部视图投射回原图集，再检查接缝；本次尚未调用。
+
+
+## 2026-11-17：连续模拟重置标记复查
+
+地雷岁 R7 实机出现普通走动翻裙后，复查手工同步测试发现：组件初始化留下 `ClothTeleportMode=TeleportAndReset`，旧 helper 没有像引擎的 `UpdateClothSimulationContext` 一样消费标记。旧数值和图像保留为历史，但不能继续证明连续惯性、稳定性、动作后回落或碰撞避让；已有用户实机反馈仍只代表其实际观察范围。
+
+新的隔离测试在无请求瞬移的连续输入中消费该标记，逐采样帧记录请求值及实际模拟值，要求实际值为 None；初次初始化由 solver 正常完成。新增三轮走动/跑动/下蹲→完全停下→站姿恢复，覆盖 30/60 Hz；比较回落速度、残余高度/位置和是否累计变形。不要用每帧重置位置得到的“稳定”代替连续求解。导向粒子通过后，仍需使用最终容器的量化 GPU 映射检查可见裙面。详见仓库 `models/jirai-skirt-recovery-v1` 和 `evidence/jirai-r7-skirt/harness-audit.json`。

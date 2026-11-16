@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-17",
+  "status": "prior-offline-continuity-invalidated",
+  "finding": "The manual synchronous harness did not consume USkeletalMeshComponent.ClothTeleportMode. Initial observed mode is TeleportAndReset (2). The engine normally consumes this flag after filling simulation contexts; the old helper did not.",
+  "observed_initial_requested_mode": 2,
+  "corrected_subsequent_simulated_mode": 0,
+  "corrected_helper": "../../models/jirai-skirt-recovery-v1/editor-tools/PBZModTools/Source/PBZModTools/Private/PBZModToolsLibrary.cpp",
+  "engine_sources_examined": [
+    "ClothingSystemRuntimeCommon/Private/ClothingSimulation.cpp: FillTeleportMode",
+    "ChaosCloth/Private/ChaosCloth/ChaosClothingSimulation.cpp: FClothingSimulation::Simulate",
+    "Engine/Private/Components/SkeletalMeshComponent.cpp: UpdateClothSimulationContext"
+  ],
+  "effect": "Historical sampled geometry and one-step solves remain historical evidence; they do not establish cumulative physical stability, inertia, recovery, or absence of flipping during continuous gameplay.",
+  "runtime_failure_unchanged": true,
+  "change_to_game_packages": false,
+  "test_harness_only": true
+}

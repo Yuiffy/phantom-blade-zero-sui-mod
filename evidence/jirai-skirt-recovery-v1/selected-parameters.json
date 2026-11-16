@@ -1,0 +1,92 @@
+{
+  "selection": {
+    "preset": "firm-compact",
+    "max_simulated_blend": 0.4,
+    "evaluation_sha256": "d7d0a998bc98df4aaee3b5f220cccb5187a5291c318d2ee6ba90c611ce6381fb",
+    "collision_spec_sha256": "af91ff435e39339198796a930f5b1b61f2ac2e4919f8cc5a8bec41000351fde5",
+    "source_fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+    "cloth_spec_sha256": "c4dc2a8135129136efa6a284279959ab0ae1552d49892fa73a3b44ae8eac89ef",
+    "game_runtime_tested": false
+  },
+  "skirt": {
+    "slot": "MI_Jirai_Skirt",
+    "name": "CA_Jirai_Skirt",
+    "max_distance": 48,
+    "mask": {
+      "type": "plane",
+      "anchors": [
+        [
+          0,
+          0,
+          130
+        ]
+      ],
+      "dir": [
+        0,
+        0,
+        -1
+      ],
+      "d0": 0,
+      "d1": 38,
+      "sim_slot": "MI_Jirai_SkirtSim"
+    },
+    "additional_render_slots": [],
+    "config": {
+      "EdgeStiffnessWeighted": {
+        "Low": 1,
+        "High": 1
+      },
+      "AreaStiffnessWeighted": {
+        "Low": 1,
+        "High": 1
+      },
+      "BendingStiffnessWeighted": {
+        "Low": 0.55,
+        "High": 0.55
+      },
+      "bUseBendingElements": true,
+      "bUseGeodesicDistance": true,
+      "TetherStiffness": {
+        "Low": 1,
+        "High": 1
+      },
+      "TetherScale": {
+        "Low": 1,
+        "High": 1
+      },
+      "AnimDriveStiffness": {
+        "Low": 0.28,
+        "High": 0.28
+      },
+      "AnimDriveDamping": {
+        "Low": 0.7,
+        "High": 0.7
+      },
+      "GravityScale": 1.0,
+      "DampingCoefficient": 0.15,
+      "LocalDampingCoefficient": 0.2,
+      "CollisionThickness": 0.2,
+      "FrictionCoefficient": 0.05,
+      "bUseSelfCollisions": false,
+      "LinearVelocityScale": {
+        "X": 0.25,
+        "Y": 0.25,
+        "Z": 0.25
+      },
+      "AngularVelocityScale": 0.2,
+      "bUseCCD": true
+    },
+    "render_pin_plane": {
+      "z": 128,
+      "falloff": 6,
+      "rest_error_cap_cm": 0.25,
+      "max_simulated_blend": 0.4
+    }
+  },
+  "collision_change_cm": {
+    "lower_thigh_capsules_before": 13,
+    "after": 9.5
+  },
+  "geometry_source": "../../models/jirai-skirt-v1/Sui_Jirai_R7_Skirt_Editable.blend",
+  "geometry_and_continuous_shorts_unchanged": true
+}

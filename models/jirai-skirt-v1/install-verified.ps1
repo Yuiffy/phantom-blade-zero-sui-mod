@@ -1,4 +1,5 @@
 $ErrorActionPreference = 'Stop'
+throw 'R7 rejected by gameplay feedback (2026-11-17): skirt flips up during ordinary walking. Installation disabled; use rollback-verified.ps1 to restore R6 SkinEyes1 Fishnet1.'
 $taskRepo = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '../..'))
 $taskWork = Join-Path $taskRepo 'private/jirai-skirt-v1/dual'
 $taskMods = 'F:/FGames/steam/steamapps/common/PBZ/ProjectPBZ/Content/Paks/~mods'
