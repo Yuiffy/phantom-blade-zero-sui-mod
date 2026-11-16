@@ -1,6 +1,8 @@
 # 模型
 
-2026-11-16 新增 [地雷岁 R5 检查点](jirai-r5-checkpoint/README.md)：无棉花翅膀，包含完整可编辑母版和内嵌贴图，已获用户整体质量认可。当前安装的双服装对应为黑伤（逃亡）= JK Motion v5，黑伤=地雷岁 R5。旧版源与历史说明继续保留，当前事实以根 README 和安装摘要为准。
+2026-11-16 后续本地安装版为 JK Motion v5 + 地雷岁 R6 SkinEyes1 Fishnet1：[皮肤材质与眼白修复](skin-eyes-v1/README.md)、[规则渔网袜与 8K 图集](fishnet-v1/README.md)。制作代码和离线证据已保存，原始游戏模板、图集、可编辑母版及安装容器留在 private；现有 Release 仍为 R5。
+
+2026-11-16 保存的 [地雷岁 R5 检查点](jirai-r5-checkpoint/README.md)：无棉花翅膀，包含完整可编辑母版和内嵌贴图，已获用户整体质量认可。当时安装的双服装对应为黑伤（逃亡）= JK Motion v5，黑伤=地雷岁 R5。旧版源与历史说明继续保留，当前事实以根 README 和安装摘要为准。
 
 `sui-hun-binding.glb` 是本次实机成功版本使用的旧岁己几何和刚性附件绑定，源自 `Yuiffy/my-pixijs-game` 的 `assets/after-hours/sui.blend`。GLB 包含 46 个 mesh、1 个 skin，贴图内嵌，无外部路径依赖；可以导入 Blender 继续编辑。
 

@@ -1,0 +1,14 @@
+{
+  "basis": "actual-offline-Chaos-output-and-cooked-single-influence-mapping",
+  "test": "foreaft",
+  "initial_reconstruction_max_error_cm": 0.20373893916957678,
+  "zero_time_rest_mapping_measured_separately": true,
+  "first_simulated_tick_max_displacement_cm": 0.2760166525840759,
+  "peak_sample_step": 270,
+  "render_surface_max_displacements_cm": {
+    "MI_Jirai_Skirt": 1.8298394680023193,
+    "MI_Jirai_TailL": 3.0217936038970947,
+    "MI_Jirai_TailR": 3.083395004272461
+  },
+  "not_a_game_animation": true
+}

@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "basis": "installed R6 source; append-only sclera and eye material split",
+  "source_fbx_sha256": "0d807c1153d0db46f342d0140f2a19e6626d4eef4eb428ffa67db741ef6d98a0",
+  "unchanged_vertices_checked": 31516,
+  "all_original_positions_uv_weights_preserved": true,
+  "all_hair_and_skirt_positions_weights_exactly_preserved": true,
+  "bones_and_physics_recipe_unchanged": true,
+  "eyes": [
+    {
+      "component": 950,
+      "iris_component": 51,
+      "center_cm": [
+        -5.3172173500061035,
+        1.28,
+        177.7993621826172
+      ],
+      "radii_cm": [
+        3.1,
+        2.3,
+        2.0
+      ],
+      "vertices": 1106,
+      "closed_manifold": true,
+      "weights": {
+        "head": 1.0
+      },
+      "front_depth_clearance_to_iris_vertices_cm": 0.4117285335209584,
+      "projected_aperture_radii_cm": [
+        3.1,
+        2.0
+      ]
+    },
+    {
+      "component": 951,
+      "iris_component": 52,
+      "center_cm": [
+        4.614423036575317,
+        1.28,
+        177.7993621826172
+      ],
+      "radii_cm": [
+        3.1,
+        2.3,
+        2.0
+      ],
+      "vertices": 1106,
+      "closed_manifold": true,
+      "weights": {
+        "head": 1.0
+      },
+      "front_depth_clearance_to_iris_vertices_cm": 0.41172643094902583,
+      "projected_aperture_radii_cm": [
+        3.1,
+        2.0
+      ]
+    }
+  ],
+  "game_runtime_tested": false
+}
