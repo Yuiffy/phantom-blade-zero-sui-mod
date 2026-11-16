@@ -1,5 +1,7 @@
 # 岁己 × 影之刃零
 
+**2026-11-17 本地修复更新（地雷岁 R7）：**已备份安装[裙侧避让与连通安全裤修复](models/jirai-skirt-v1/README.md)。裙摆增加抬腿避让，裆部使用连通裤底的不透明黑色安全裤；保留已安装的皮肤、闭合眼白与 8K 渔网袜，以及 JK5 和独立语音。最终 100 包逐包读回通过，七组作者合成动作的采样帧中可见腿裙交线为 0，已检查 35 张离线预览。大幅抬腿时裙摆仍会翘起，由安全裤负责遮挡；游戏内动作与性能尚待复测。[验证和安装摘要](evidence/jirai-r7-skirt/result.json)、[深蹲离线预览](evidence/jirai-r7-skirt/crouch-high3q.png) 与可编辑母版已收录。正式 Release 下载包仍为下述 R5 版。
+
 **2026-11-16 本地修复更新：**已安装 [皮肤材质与闭合眼白修复](models/skin-eyes-v1/README.md) 及其上的 [地雷岁渔网袜修整](models/fishnet-v1/README.md)。渔网清理断线和重影、统一网线并提高图集至 8K；最终 99 包中仅一张贴图变化，其余 98 包、皮肤/眼白修复、物理与语音保留。用户认可优化结果并要求提交远端。[离线对比](evidence/fishnet-v1/compare-back.jpg)、[安装与验证摘要](evidence/fishnet-v1/summary.json) 已收录；尚未记录完整游戏实测。本次提交代码和验证证据，现有 Release 下载包仍为下述 R5 版。
 
 **地雷岁 R5 可回退检查点（2026-11-16）：**已保存 [可编辑母版](models/jirai-r5-checkpoint/README.md)、[本轮修整代码](models/jirai-proportion-v1/README.md) 和 [用户试玩记录](evidence/jirai-r5-dual-v2/runtime-feedback.json)。用户认可整体质量，同时报告深蹲/跑动大腿穿裙、单手刀柄贴合、左腿暗痕/吊带凸起，并希望侧发和马尾避衣物摆动。这些转入独立实验，不包含在本检查点的修复承诺中。

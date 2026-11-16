@@ -1,0 +1,62 @@
+{
+  "upper_hip_outward_normal_min_dot": 8.555397882398001,
+  "passed": true,
+  "continuous_crotch": true,
+  "one_connected_surface": true,
+  "boundary_loops": [
+    {
+      "vertices": 64,
+      "minimum": [
+        -14.5,
+        -5.0,
+        125.0
+      ],
+      "maximum": [
+        14.5,
+        14.0,
+        125.0
+      ]
+    },
+    {
+      "vertices": 48,
+      "minimum": [
+        2.0,
+        -5.0,
+        103.0
+      ],
+      "maximum": [
+        20.799999237060547,
+        15.600000381469727,
+        103.0
+      ]
+    },
+    {
+      "vertices": 48,
+      "minimum": [
+        -20.799999237060547,
+        -5.0,
+        103.0
+      ],
+      "maximum": [
+        -2.0,
+        15.600000381469727,
+        103.0
+      ]
+    }
+  ],
+  "opaque_black": true,
+  "material": {
+    "slot": "MI_Jirai_ShortLining",
+    "source_texture": false,
+    "base_color_linear": [
+      0.009,
+      0.007,
+      0.012,
+      1
+    ],
+    "roughness": 0.89,
+    "metallic": 0
+  },
+  "fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+  "game_runtime_tested": false
+}

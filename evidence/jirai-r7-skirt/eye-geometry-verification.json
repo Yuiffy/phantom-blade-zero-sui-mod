@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "basis": "final cooked positions, triangles, quantized weights and section flags",
+  "source_fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+  "closed_sclera_components": 2,
+  "manifold_edges": 6624,
+  "scalp_or_skin_geometry_unchanged": true,
+  "head_weight": 1.0,
+  "frontal_occlusion_samples": [
+    {
+      "eye_component": 950,
+      "sample_rays": 6161,
+      "white_visible_rays": 406,
+      "socket_backing_rays_replaced": 387,
+      "iris_rays_obscured": 0,
+      "white_rays_outside_aperture": 0
+    },
+    {
+      "eye_component": 951,
+      "sample_rays": 6161,
+      "white_visible_rays": 411,
+      "socket_backing_rays_replaced": 390,
+      "iris_rays_obscured": 0,
+      "white_rays_outside_aperture": 0
+    }
+  ],
+  "oblique_views": "three offline Blender close-ups inspected separately",
+  "gameplay_shader_and_lighting_tested": false
+}
