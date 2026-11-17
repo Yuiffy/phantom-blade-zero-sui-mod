@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "package": "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple",
+  "base_model": "R8Shape1",
+  "source_header_sha256": "8a2bec1ddba3979b0d18b1ecf1827203cc711661dbfcf21fe3df080aea5b6529",
+  "output_header_sha256": "8a2bec1ddba3979b0d18b1ecf1827203cc711661dbfcf21fe3df080aea5b6529",
+  "source_payload_sha256": "2d5c048a38c4cf4e327e20550d846b79cc0d7543ec0ea2a0653538fc7bfa7862",
+  "output_payload_sha256": "c38921f8df387bb0da2f5d076c9d3999e2d2e9f7f5910adfd51c4add49b3dc5f",
+  "payload_bytes": 6509695,
+  "changed_native_bytes": 51037,
+  "changed_position_vertices": 4894,
+  "changed_normal_vertices": 5220,
+  "source_surface_sha256": "dd8e5095ec6ebcf417a6ceb9fd98e604a130d20fa36783ae6b841f2bf251ca16",
+  "only_face_position_tangent_and_iris_uv0_bytes_changed": true,
+  "iris_uv_vertices": 353,
+  "other_uvs_exact": true,
+  "all_other_export_bytes_exact": true,
+  "cloth_weights_indices_skeleton_and_physics_exact": true,
+  "game_runtime_tested": false
+}

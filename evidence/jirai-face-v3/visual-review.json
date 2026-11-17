@@ -1,0 +1,27 @@
+{
+  "reviewed": true,
+  "views": [
+    "front",
+    "left",
+    "right"
+  ],
+  "observations": [
+    "Nasal eye-white depth discontinuity removed; no cavity visible in reviewed views.",
+    "Reference-derived iris details replace faceted solid glints; white does not occlude iris interior.",
+    "Thin separate brows remain behind the retained fringe; former broad forehead stamp removed.",
+    "Mouth line is continuous; former black cracks and dangling corner fragments absent in reviewed views.",
+    "Existing hair/lash/head/accessory silhouettes remain partly faceted; not a full head rebuild."
+  ],
+  "source_atlas_sha256": "9fe8ec479d4f6bfeba5c3dd448642803b51995bd0bcb30282aed32141ea6236d",
+  "source_iris_sha256": "ae4ac013ad2ce16c8490aab57b02758cdc9cd008201adce76a2db81447f5c159",
+  "surface_sha256": "dd8e5095ec6ebcf417a6ceb9fd98e604a130d20fa36783ae6b841f2bf251ca16",
+  "native_render_sha256": "19cabf18bd03b152bca943b6e92b3430998b81b1801cdbcc26602b4f9d038511",
+  "private_image_sha256": [
+    "673c101c2481114d8e6b3a9828697ddaf1e52949adb294705b3b1def9747c5d9",
+    "c6f1bca61c0e0fb94ce20fa65d0d667fee27f7fa8e2d800a8a29e289d05664ee",
+    "29fe50634257992704f90524a9b87ca31068f4dcdb5ef6660a1aa4f903405ef4",
+    "cfdf9836782748a68d94e503ead97a2019bac369470f5575dabdceecff5cb5cf"
+  ],
+  "renderer": "Blender Cycles, independently decoded native geometry, matching source albedo PNGs",
+  "game_runtime_tested": false
+}
