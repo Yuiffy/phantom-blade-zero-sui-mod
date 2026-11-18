@@ -1,0 +1,377 @@
+{
+  "installed": true,
+  "scope": "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple",
+  "solver": {
+    "IterationCount": 8,
+    "MaxIterationCount": 8,
+    "SubdivisionCount": 3
+  },
+  "benchmarks": [
+    {
+      "solver": [
+        24,
+        6
+      ],
+      "samples": 121,
+      "sha256": "a94e063267d01fbe7775282d217f1467b9129d49e918d525c807cf275e9c1c01",
+      "median_ms": 56.41799792647362,
+      "p95_ms": 58.56749787926674
+    },
+    {
+      "solver": [
+        8,
+        3
+      ],
+      "samples": 121,
+      "sha256": "fbb57bf24c2b9bf5463ae6a45f43e3af81a12b174d982bcba8a6f18672c2f1d4",
+      "median_ms": 9.82780009508133,
+      "p95_ms": 10.320700705051422
+    },
+    {
+      "solver": [
+        12,
+        4
+      ],
+      "samples": 121,
+      "sha256": "04134869cb20c87f10044c2e285b7fd00eb0dca7237a141ded9b00c6bcb98079",
+      "median_ms": 19.102897495031357,
+      "p95_ms": 19.962899386882782
+    },
+    {
+      "solver": [
+        24,
+        6
+      ],
+      "samples": 121,
+      "sha256": "0d1fcb1fb85c95789da3d257f9b6de2d23dbebc2b1fa671f1f2afefd028025da",
+      "median_ms": 56.966301053762436,
+      "p95_ms": 59.55049768090248
+    }
+  ],
+  "quality": {
+    "settings": "8x3",
+    "passed": true,
+    "records": [
+      {
+        "file": "quality-0-8x3-crouch-recover-30.json",
+        "sha256": "ad2a8326d275d8eb2aa473ca5fc1081a08c4d9e17aca632582c2b5a6da831d4b",
+        "cycles": [
+          {
+            "recovery_seconds": 1.564621925354004e-07,
+            "quiet_local_up_cm": 0.8509075231333867,
+            "quiet_speed_cm_s": 0.14248306985894077,
+            "passed": true
+          },
+          {
+            "recovery_seconds": 4.172325134277344e-07,
+            "quiet_local_up_cm": 0.8587842413118665,
+            "quiet_speed_cm_s": 0.26799231976042326,
+            "passed": true
+          },
+          {
+            "recovery_seconds": 6.780028343200684e-07,
+            "quiet_local_up_cm": 0.8641050764123008,
+            "quiet_speed_cm_s": 0.13703595526027895,
+            "passed": true
+          }
+        ],
+        "guides": [
+          {
+            "min_edge": 0.9193895683532017,
+            "max_edge": 1.0490762387862758,
+            "pin_cm": 3.5737699901816266e-05,
+            "excess_cm": 3.5737699901816266e-05,
+            "passed": true
+          },
+          {
+            "min_edge": 0.9222726466105179,
+            "max_edge": 1.0511969634664051,
+            "pin_cm": 3.2727464702095753e-05,
+            "excess_cm": 3.2727464702095753e-05,
+            "passed": true
+          },
+          {
+            "min_edge": 0.8145722685055442,
+            "max_edge": 1.1149657765051766,
+            "pin_cm": 1.6197042370045397e-05,
+            "excess_cm": 1.6197042370045397e-05,
+            "passed": true
+          }
+        ],
+        "peak_p95_up_cm": 0.39341464949040983,
+        "passed": true
+      },
+      {
+        "file": "quality-0-8x3-crouch-recover-60.json",
+        "sha256": "1c97b432b53031cc9d31fa8746525521ab19b65e5cd3a2a3287a64d3264827d1",
+        "cycles": [
+          {
+            "recovery_seconds": 1.564621925354004e-07,
+            "quiet_local_up_cm": 0.5531320350792441,
+            "quiet_speed_cm_s": 0.04049687227318234,
+            "passed": true
+          },
+          {
+            "recovery_seconds": 4.172325134277344e-07,
+            "quiet_local_up_cm": 0.5584984034512388,
+            "quiet_speed_cm_s": 0.01360460749787652,
+            "passed": true
+          },
+          {
+            "recovery_seconds": 6.780028343200684e-07,
+            "quiet_local_up_cm": 0.5559218420926015,
+            "quiet_speed_cm_s": 0.0028262838973963436,
+            "passed": true
+          }
+        ],
+        "guides": [
+          {
+            "min_edge": 0.9552761992481968,
+            "max_edge": 1.0300484786416098,
+            "pin_cm": 5.526068808351492e-05,
+            "excess_cm": 5.526068808351492e-05,
+            "passed": true
+          },
+          {
+            "min_edge": 0.9549665898427533,
+            "max_edge": 1.030627057262204,
+            "pin_cm": 4.7485026287933456e-05,
+            "excess_cm": 4.7485026287933456e-05,
+            "passed": true
+          },
+          {
+            "min_edge": 0.7990516711164346,
+            "max_edge": 1.1553810380458023,
+            "pin_cm": 1.8861960008391007e-05,
+            "excess_cm": 1.8861960008391007e-05,
+            "passed": true
+          }
+        ],
+        "peak_p95_up_cm": 1.3830919297771658,
+        "passed": true
+      },
+      {
+        "file": "quality-0-8x3-jog-recover-30.json",
+        "sha256": "f8dad2dfa01bb8ad4924052f475decd641d293e779021e14d345104fb08a1ff5",
+        "cycles": [
+          {
+            "recovery_seconds": 1.564621925354004e-07,
+            "quiet_local_up_cm": 0.2598285412269945,
+            "quiet_speed_cm_s": 0.1427669363148666,
+            "passed": true
+          },
+          {
+            "recovery_seconds": 4.172325134277344e-07,
+            "quiet_local_up_cm": 0.3026955334908621,
+            "quiet_speed_cm_s": 0.04217303459911686,
+            "passed": true
+          },
+          {
+            "recovery_seconds": 6.780028343200684e-07,
+            "quiet_local_up_cm": 0.3093233476303965,
+            "quiet_speed_cm_s": 0.19587808345454039,
+            "passed": true
+          }
+        ],
+        "guides": [
+          {
+            "min_edge": 0.9186160677031182,
+            "max_edge": 1.1146690323216883,
+            "pin_cm": 3.516788170014815e-05,
+            "excess_cm": 3.516788170014815e-05,
+            "passed": true
+          },
+          {
+            "min_edge": 0.9222464002776651,
+            "max_edge": 1.1155929540204392,
+            "pin_cm": 3.9205798751634206e-05,
+            "excess_cm": 3.9205798751634206e-05,
+            "passed": true
+          },
+          {
+            "min_edge": 0.8129992371587131,
+            "max_edge": 1.1640337874771216,
+            "pin_cm": 2.956118105688107e-05,
+            "excess_cm": 2.956118105688107e-05,
+            "passed": true
+          }
+        ],
+        "peak_p95_up_cm": 10.293487727896547,
+        "passed": true
+      },
+      {
+        "file": "quality-0-8x3-jog-recover-60.json",
+        "sha256": "4879e4e705b50a64939eff54d2a1be4349d1dac9f0a8e62fe2720f9f3461391e",
+        "cycles": [
+          {
+            "recovery_seconds": 1.564621925354004e-07,
+            "quiet_local_up_cm": 0.5649343151000323,
+            "quiet_speed_cm_s": 0.004736155015208392,
+            "passed": true
+          },
+          {
+            "recovery_seconds": 4.172325134277344e-07,
+            "quiet_local_up_cm": 0.5690441462544129,
+            "quiet_speed_cm_s": 0.00150272173135379,
+            "passed": true
+          },
+          {
+            "recovery_seconds": 6.780028343200684e-07,
+            "quiet_local_up_cm": 0.568562218801759,
+            "quiet_speed_cm_s": 0.0016900387916223836,
+            "passed": true
+          }
+        ],
+        "guides": [
+          {
+            "min_edge": 0.9644818669347347,
+            "max_edge": 1.080591996584687,
+            "pin_cm": 3.516788170014815e-05,
+            "excess_cm": 3.516788170014815e-05,
+            "passed": true
+          },
+          {
+            "min_edge": 0.9667218436078041,
+            "max_edge": 1.0797217879171317,
+            "pin_cm": 3.9205798751634206e-05,
+            "excess_cm": 3.9205798751634206e-05,
+            "passed": true
+          },
+          {
+            "min_edge": 0.9068066866448158,
+            "max_edge": 1.1399476055918798,
+            "pin_cm": 2.956118105688107e-05,
+            "excess_cm": 2.956118105688107e-05,
+            "passed": true
+          }
+        ],
+        "peak_p95_up_cm": 11.641396381391061,
+        "passed": true
+      },
+      {
+        "file": "quality-0-8x3-walk-recover-30.json",
+        "sha256": "75322651c3e364feffa316b41ad9be1ee4160536b52fc01b63dc2493661e064a",
+        "cycles": [
+          {
+            "recovery_seconds": 1.564621925354004e-07,
+            "quiet_local_up_cm": 0.2218108815523152,
+            "quiet_speed_cm_s": 0.010609627841085057,
+            "passed": true
+          },
+          {
+            "recovery_seconds": 4.172325134277344e-07,
+            "quiet_local_up_cm": 0.22803634525972427,
+            "quiet_speed_cm_s": 0.0553256816695892,
+            "passed": true
+          },
+          {
+            "recovery_seconds": 6.780028343200684e-07,
+            "quiet_local_up_cm": 0.23089508433213268,
+            "quiet_speed_cm_s": 0.011337310430568607,
+            "passed": true
+          }
+        ],
+        "guides": [
+          {
+            "min_edge": 0.9602062622122938,
+            "max_edge": 1.1014355274087486,
+            "pin_cm": 3.474919889506459e-05,
+            "excess_cm": 3.474919889506459e-05,
+            "passed": true
+          },
+          {
+            "min_edge": 0.9566514658295412,
+            "max_edge": 1.1017684116469957,
+            "pin_cm": 3.9205798791446726e-05,
+            "excess_cm": 3.9205798791446726e-05,
+            "passed": true
+          },
+          {
+            "min_edge": 0.9578427553178437,
+            "max_edge": 1.067374032968077,
+            "pin_cm": 2.897082053243995e-05,
+            "excess_cm": 2.897082053243995e-05,
+            "passed": true
+          }
+        ],
+        "peak_p95_up_cm": 4.927958424148102,
+        "passed": true
+      },
+      {
+        "file": "quality-0-8x3-walk-recover-60.json",
+        "sha256": "c2fb209134b8e87c214a5bc160090606748dd5697f99afae996b0c898564148b",
+        "cycles": [
+          {
+            "recovery_seconds": 1.564621925354004e-07,
+            "quiet_local_up_cm": 0.038317346333869295,
+            "quiet_speed_cm_s": 0.004193765111709646,
+            "passed": true
+          },
+          {
+            "recovery_seconds": 4.172325134277344e-07,
+            "quiet_local_up_cm": 0.03836251239729904,
+            "quiet_speed_cm_s": 0.0038231030444166106,
+            "passed": true
+          },
+          {
+            "recovery_seconds": 6.780028343200684e-07,
+            "quiet_local_up_cm": 0.03833319235867805,
+            "quiet_speed_cm_s": 0.0009535499660749904,
+            "passed": true
+          }
+        ],
+        "guides": [
+          {
+            "min_edge": 0.9786371795376739,
+            "max_edge": 1.0543954549904409,
+            "pin_cm": 3.7930946609309036e-05,
+            "excess_cm": 3.7930946609309036e-05,
+            "passed": true
+          },
+          {
+            "min_edge": 0.9789221703350341,
+            "max_edge": 1.0504613090424315,
+            "pin_cm": 3.9205798791446726e-05,
+            "excess_cm": 3.9205798791446726e-05,
+            "passed": true
+          },
+          {
+            "min_edge": 0.968746926385134,
+            "max_edge": 1.0517907973493896,
+            "pin_cm": 2.960409480770979e-05,
+            "excess_cm": 2.960409480770979e-05,
+            "passed": true
+          }
+        ],
+        "peak_p95_up_cm": 4.87355908153674,
+        "passed": true
+      }
+    ]
+  },
+  "old_files_retained": 24,
+  "files_added": [
+    {
+      "name": "zzzzzzzzzzz_Sui_JiraiPerf1_12_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzzzzz_Sui_JiraiPerf1_12_P.ucas",
+      "bytes": 6525213,
+      "sha256": "e582a611b05c849089e6aedb58bfee700dd29b3b4aec07d4d4036226a8337a1e"
+    },
+    {
+      "name": "zzzzzzzzzzz_Sui_JiraiPerf1_12_P.utoc",
+      "bytes": 1727,
+      "sha256": "e9ea43e2811f3a355d2fafc2c6181a9e42ca5a83c9da6de34eeaa635b8949df0"
+    }
+  ],
+  "payload_readback_sha256": "30408ed5d84b26035628612094d3d533efb40cf46c037b20ae925cc767182c9c",
+  "changed_payload_offsets": [
+    1912,
+    1941,
+    1970
+  ],
+  "offline_only": true,
+  "game_fps_after": null
+}

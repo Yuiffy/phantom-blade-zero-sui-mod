@@ -1,0 +1,67 @@
+{
+  "passed": true,
+  "basis": "Matched 60 Hz synthetic jog, synchronous single-thread UE editor solve; not game frame time or FPS. Original A/B/A checked local repeatability; candidate is a later full quality run.",
+  "original": {
+    "solve_ms": {
+      "median_ms": 315.4702000319958,
+      "p95_ms": 354.26149889826775,
+      "mean_ms": 297.3068810752413
+    },
+    "prepare_ms": {
+      "median_ms": 0.0174008309841156,
+      "p95_ms": 0.022199004888534546,
+      "mean_ms": 0.017712335230895826
+    },
+    "readback_ms": {
+      "median_ms": 0.02039968967437744,
+      "p95_ms": 0.03100186586380005,
+      "mean_ms": 0.021253707329871245
+    },
+    "bones_ms": {
+      "median_ms": 0.1324005424976349,
+      "p95_ms": 0.17479807138442993,
+      "mean_ms": 0.13588405939755518
+    }
+  },
+  "candidate": {
+    "solve_ms": {
+      "median_ms": 37.096600979566574,
+      "p95_ms": 42.13060066103935,
+      "mean_ms": 37.29771769178507
+    },
+    "prepare_ms": {
+      "median_ms": 0.01800060272216797,
+      "p95_ms": 0.022299587726593018,
+      "mean_ms": 0.018323591565558923
+    },
+    "readback_ms": {
+      "median_ms": 0.019799917936325073,
+      "p95_ms": 0.02450123429298401,
+      "mean_ms": 0.021021730827363156
+    },
+    "bones_ms": {
+      "median_ms": 0.134199857711792,
+      "p95_ms": 0.17069652676582336,
+      "mean_ms": 0.13587745266724688
+    }
+  },
+  "solve_cost_ratios": {
+    "median_ms": 0.11759145864111457,
+    "p95_ms": 0.1189251465148288
+  },
+  "source_sha256": {
+    "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jk-skirt-perf-v1\\cost32x8\\jog-60.json": "95de5ebdee16f1fdad5e24c03f9cf860a6cbda46d5e58d5a1755b1327e5dbf40",
+    "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jk-skirt-perf-v1\\coarse64-12x3-delivery\\jog-60.json": "47085bfeb2763ba2da7f4dfd9eef344b1f94e77a231e0d86f59e6ec45f163718"
+  },
+  "original_solver": [
+    32,
+    8
+  ],
+  "candidate_solver": [
+    12,
+    3
+  ],
+  "original_skirt_particles": 288,
+  "candidate_skirt_particles": 64,
+  "game_runtime_tested": false
+}

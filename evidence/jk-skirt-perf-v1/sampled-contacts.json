@@ -1,0 +1,209 @@
+{
+  "basis": "Visible sampled edge intersections, not exposed area or game animation.",
+  "stages": {
+    "before-skirt": [
+      {
+        "file": "crouch-30-surface.npz",
+        "thigh_max": 39,
+        "thigh_sum": 531,
+        "shorts_max": 200,
+        "shorts_sum": 8749,
+        "visible_thigh_max": 31,
+        "visible_thigh_sum": 303,
+        "visible_lining_max": 16,
+        "visible_lining_sum": 78
+      },
+      {
+        "file": "crouch-60-surface.npz",
+        "thigh_max": 40,
+        "thigh_sum": 933,
+        "shorts_max": 241,
+        "shorts_sum": 17512,
+        "visible_thigh_max": 32,
+        "visible_thigh_sum": 528,
+        "visible_lining_max": 16,
+        "visible_lining_sum": 96
+      },
+      {
+        "file": "jog-30-surface.npz",
+        "thigh_max": 37,
+        "thigh_sum": 177,
+        "shorts_max": 218,
+        "shorts_sum": 9704,
+        "visible_thigh_max": 34,
+        "visible_thigh_sum": 153,
+        "visible_lining_max": 15,
+        "visible_lining_sum": 78
+      },
+      {
+        "file": "jog-60-surface.npz",
+        "thigh_max": 37,
+        "thigh_sum": 411,
+        "shorts_max": 218,
+        "shorts_sum": 19028,
+        "visible_thigh_max": 34,
+        "visible_thigh_sum": 333,
+        "visible_lining_max": 13,
+        "visible_lining_sum": 124
+      },
+      {
+        "file": "walk-30-surface.npz",
+        "thigh_max": 0,
+        "thigh_sum": 0,
+        "shorts_max": 229,
+        "shorts_sum": 9995,
+        "visible_thigh_max": 0,
+        "visible_thigh_sum": 0,
+        "visible_lining_max": 0,
+        "visible_lining_sum": 0
+      },
+      {
+        "file": "walk-60-surface.npz",
+        "thigh_max": 0,
+        "thigh_sum": 0,
+        "shorts_max": 229,
+        "shorts_sum": 19724,
+        "visible_thigh_max": 0,
+        "visible_thigh_sum": 0,
+        "visible_lining_max": 0,
+        "visible_lining_sum": 0
+      }
+    ],
+    "expensive-v1": [
+      {
+        "file": "crouch-30-surface.npz",
+        "thigh_max": 45,
+        "thigh_sum": 560,
+        "shorts_max": 184,
+        "shorts_sum": 7882,
+        "visible_thigh_max": 29,
+        "visible_thigh_sum": 352,
+        "visible_lining_max": 16,
+        "visible_lining_sum": 49
+      },
+      {
+        "file": "crouch-60-surface.npz",
+        "thigh_max": 40,
+        "thigh_sum": 946,
+        "shorts_max": 213,
+        "shorts_sum": 15941,
+        "visible_thigh_max": 25,
+        "visible_thigh_sum": 508,
+        "visible_lining_max": 13,
+        "visible_lining_sum": 43
+      },
+      {
+        "file": "jog-30-surface.npz",
+        "thigh_max": 9,
+        "thigh_sum": 63,
+        "shorts_max": 201,
+        "shorts_sum": 8962,
+        "visible_thigh_max": 8,
+        "visible_thigh_sum": 44,
+        "visible_lining_max": 11,
+        "visible_lining_sum": 67
+      },
+      {
+        "file": "jog-60-surface.npz",
+        "thigh_max": 16,
+        "thigh_sum": 228,
+        "shorts_max": 205,
+        "shorts_sum": 17644,
+        "visible_thigh_max": 13,
+        "visible_thigh_sum": 131,
+        "visible_lining_max": 9,
+        "visible_lining_sum": 112
+      },
+      {
+        "file": "walk-30-surface.npz",
+        "thigh_max": 0,
+        "thigh_sum": 0,
+        "shorts_max": 197,
+        "shorts_sum": 9129,
+        "visible_thigh_max": 0,
+        "visible_thigh_sum": 0,
+        "visible_lining_max": 0,
+        "visible_lining_sum": 0
+      },
+      {
+        "file": "walk-60-surface.npz",
+        "thigh_max": 0,
+        "thigh_sum": 0,
+        "shorts_max": 206,
+        "shorts_sum": 18147,
+        "visible_thigh_max": 0,
+        "visible_thigh_sum": 0,
+        "visible_lining_max": 0,
+        "visible_lining_sum": 0
+      }
+    ],
+    "optimized": [
+      {
+        "file": "crouch-30-surface.npz",
+        "thigh_max": 29,
+        "thigh_sum": 340,
+        "shorts_max": 184,
+        "shorts_sum": 8352,
+        "visible_thigh_max": 11,
+        "visible_thigh_sum": 45,
+        "visible_lining_max": 15,
+        "visible_lining_sum": 72
+      },
+      {
+        "file": "crouch-60-surface.npz",
+        "thigh_max": 26,
+        "thigh_sum": 552,
+        "shorts_max": 215,
+        "shorts_sum": 16488,
+        "visible_thigh_max": 12,
+        "visible_thigh_sum": 36,
+        "visible_lining_max": 17,
+        "visible_lining_sum": 51
+      },
+      {
+        "file": "jog-30-surface.npz",
+        "thigh_max": 7,
+        "thigh_sum": 45,
+        "shorts_max": 205,
+        "shorts_sum": 8941,
+        "visible_thigh_max": 5,
+        "visible_thigh_sum": 24,
+        "visible_lining_max": 14,
+        "visible_lining_sum": 93
+      },
+      {
+        "file": "jog-60-surface.npz",
+        "thigh_max": 13,
+        "thigh_sum": 150,
+        "shorts_max": 200,
+        "shorts_sum": 17536,
+        "visible_thigh_max": 6,
+        "visible_thigh_sum": 54,
+        "visible_lining_max": 13,
+        "visible_lining_sum": 147
+      },
+      {
+        "file": "walk-30-surface.npz",
+        "thigh_max": 0,
+        "thigh_sum": 0,
+        "shorts_max": 207,
+        "shorts_sum": 9200,
+        "visible_thigh_max": 0,
+        "visible_thigh_sum": 0,
+        "visible_lining_max": 0,
+        "visible_lining_sum": 0
+      },
+      {
+        "file": "walk-60-surface.npz",
+        "thigh_max": 0,
+        "thigh_sum": 0,
+        "shorts_max": 204,
+        "shorts_sum": 18148,
+        "visible_thigh_max": 0,
+        "visible_thigh_sum": 0,
+        "visible_lining_max": 0,
+        "visible_lining_sum": 0
+      }
+    ]
+  }
+}

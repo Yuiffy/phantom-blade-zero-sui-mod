@@ -1,0 +1,14 @@
+{
+  "reviewed": true,
+  "native_render_sha256": "028c96a95202ead0fbb184022fd7d178be8f72e7296b358f2d95383d4519e62d",
+  "source_atlas_sha256": "121600b6ec085f0c64f14ff81b487ec2f929e21981536ebe680d7152a76cb541",
+  "reference_sha256": "e3a6f0aa48204e40e3f76533ffefea2e154d2154b04451b398f8c2279d1eb023",
+  "jirai_comparison_sha256": "575c557af660e42292777490a922e710a6ed9b51b12bd3163656efd8297ac59d",
+  "images": {
+    "patched-render-front.png": "7b3e788c0c811bc1d4fe6fa43a664f74d6a0e7b9e3fd94b74f7db6ab5b0cb655",
+    "patched-render-threequarter.png": "7b1e5735241f0f51f8809b83e6827232259aba25946d81c7315ad378b5a5e1ee",
+    "patched-render-side.png": "bbcc8c13cd7b5285ed1bf001dbe95614daae6222a04a8509327ec0742bc9c6c6"
+  },
+  "scope": "Reviewed front, three-quarter and side. Keep JK softer eye opening, fine lashes and original smile; shared iris motif adapted to ruby red; gently round chin and taper lower cheeks. Side spikes are original hair tips. Original iris edge surface fragments remain; no claim of perfect source reconstruction.",
+  "game_runtime_tested": false
+}

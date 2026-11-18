@@ -1,5 +1,19 @@
 # 岁己 × 影之刃零
 
+## 下载最新版
+
+[双皮肤＋战斗语音 v1.1.0](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/dual-v1.1.0) 对应 Steam build 26367565。黑伤（逃亡）使用 JK 外套侧马尾，黑伤使用地雷系双马尾。本版同步本地已装的脸部、图案、饰件和裙摆性能更新，以及 Compact v5 语音。ZIP 内含 36 个文件，逐项核对了当前安装的哈希。
+
+完全退出游戏，备份并移出旧版岁己模型、补丁和语音，然后将解压后 mod/ 内的文件原样复制到 `ProjectPBZ/Content/Paks/~mods/`。只装模型时可以略过 Compact v5 的三个文件。完整组合仍待进一步实机核验。[安装说明](releases/dual-v1.1.0/README.txt)
+
+## 开发记录
+
+**2026-11-18 JK 裙子性能优化：**已安装 [JKSkirtPerf1](models/jk-skirt-perf-v1/README.md)，撤下旧高开销 JKSkirt1。隐藏裙子模拟网格由 288 点降为 64 点，共享求解由 32 次迭代/8 子步降为 12/3；匹配合成跑步的单线程离线布料求解中位数从 315.47 ms 降到 37.10 ms，约减少 88%，仍高于早先 8/2 约 20.6 ms 的成本。六组连续动作、最终映射表面、二十张离线图像和实际安装独立读回通过，原 21 文件、最新脸部及地雷岁下巴修补/颈圈保持。**离线计时不是游戏 FPS，尚未证明裙子是约 9 帧的唯一原因；内衬和深蹲仍有残余穿插，需实机复试。**[参数与安装证据](evidence/jk-skirt-perf-v1/README.md)，Release 未更新。
+
+**2026-11-18 JK 裙子跑步避让历史：**[JKSkirt1](models/jk-skirt-v1/README.md) 曾通过连续求解及跑步避让检查，但遗漏性能验收，共享 32/8 参数造成明显离线开销回归。**已移出安装并封锁重新安装，由上方 JKSkirtPerf1 接替。**历史交线、图像和安装凭据保留，不代表当前状态。[历史证据与回归说明](evidence/jk-skirt-v1/README.md)。
+
+**2026-11-18 JK 岁脸部与虹膜细修：**已安装 [JKFacePolish2](models/jk-face-polish-v2/README.md)。对照 JK 原图与两套现有模型，保留 JK 柔和眼眶、细眉睫毛及原笑嘴，加入地雷岁同款虹膜图案并适配红瞳；下巴轻微抬高、圆润，下颊局部收敛，最大几何改动约 0.370 cm。三 package 最终容器、实际安装读回及 131 个保留资源 metadata/完整导出载荷核验通过，另十八文件逐项哈希不变，回退预检通过。三方向离线近景已审阅，**新 JK 候选游戏效果待用户复试**。此前获认可的地雷岁细修已推送至 `codex/jk-proportion-fix`（`a08a7fc`）；本 JK 候选暂留本地，Release 未更新。[数值与安装证据](evidence/jk-face-polish-v2/README.md)。
+
 **2026-11-18 地雷岁下巴方斑修补：**已安装 [ChinClean1](models/jirai-chin-clean-v1/README.md)。从旧版实际 BC1 虚拟纹理解码 mip4/mip5，复现用户截图下巴灰紫方斑；将十六个相关 UV 碎岛隔离并补足肤色边缘，指定区域的缩小采样色差显著降低。脸型、五官、嘴角、完整权重及最新颈圈保持。最终三 package、实际安装包及 131 个保留资源 metadata/完整导出载荷核验通过；替换旧 LashLip1/Choker1 六文件为新三文件，其余十八文件哈希保持，回退预检通过。**新候选游戏效果待复试；其他面部极低精度串色不在本次修复承诺内。**[数值和安装证据](evidence/jirai-chin-clean-v1/README.md)，本次同步源码与数值证据，Release 未更新。
 
 **2026-11-18 地雷岁颈圈修复：**已安装 [Choker1](models/jirai-choker-v1/README.md)，根据原参考重建连续黑色颈带、银色心形扣和黑色衬边，解决原饰件埋进脖子只露出碎片的问题。仅覆盖地雷岁身体一个 package，最终容器和实际安装独立读回通过；其他 134 个资源的元数据与完整载荷及原 24 文件哈希保持。四方向离线近景已检查，回退预检通过。**游戏内观感与动态待用户复试。**[安装证据](evidence/jirai-choker-v1/README.md)，Release 未更新。
@@ -32,7 +46,7 @@
 
 2026-11-14，用户已报告 `native-shaders-v1` 模型实机成功。测试游戏为 Steam app **4115450**、build **26367565**。这不是全流程兼容性认证：战斗、武器、过场、长时间游玩仍需逐项验证；游戏更新后应重新核验。
 
-当前正式版为 [岁己 JK＋地雷系双皮肤 · dual-v1.0.0](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/dual-v1.0.0)，合并 **JK Motion v5＋地雷岁 R5**。一个三件套即可在游戏服装菜单切换两套完整角色；保留原解锁规则和独立语音包。JK 包含不透明安全裤覆盖、立体白猫挂饰与增强衣服碰撞避让；地雷系为无翅膀双马尾版，包含比例、手部、肩袖修正及双马尾、裙摆物理。
+历史首个双皮肤版本为 [岁己 JK＋地雷系双皮肤 · dual-v1.0.0](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/dual-v1.0.0)，合并 **JK Motion v5＋地雷岁 R5**。一个三件套即可在游戏服装菜单切换两套完整角色；保留原解锁规则和独立语音包。JK 包含不透明安全裤覆盖、立体白猫挂饰与增强衣服碰撞避让；地雷系为无翅膀双马尾版，包含比例、手部、肩袖修正及双马尾、裙摆物理。
 
 同一 Release 现提供 **`Sui_JK_Jirai_WithVoice_PBZ_v1.0.0.zip` 双皮肤＋语音一体包**（约 22.1 MB），推荐直接下载。解压后 `mod/` 中为模型、语音各一套三件套，共六个文件；语音沿用已发布 Compact v5 的既有录音，保持测试版状态。原纯模型 ZIP 和独立语音 ZIP 也保留，已安装同版语音无需重复安装。详见 [一体包说明](releases/dual-v1.0.0/README-with-voice.txt) 与 [六文件清单](releases/dual-v1.0.0/bundle-manifest.json)。
 
@@ -48,7 +62,7 @@
 
 ## 安装模型
 
-从 [双皮肤正式版 Release](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/dual-v1.0.0) 下载 `Sui_JK_Jirai_DualOutfit_PBZ_v1.0.0.zip`，解压。关闭游戏，先备份并移出本项目旧 JK、旧地雷系或旧双服装模型三件套，保留独立语音包；再将 `mod/` 下同名的 `.pak`、`.utoc`、`.ucas` 三件套放入：
+安装历史 v1.0.0 时，从 [双皮肤 v1.0.0 Release](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/dual-v1.0.0) 下载 `Sui_JK_Jirai_DualOutfit_PBZ_v1.0.0.zip`，解压。关闭游戏，先备份并移出本项目旧 JK、旧地雷系或旧双服装模型三件套，保留独立语音包；再将 `mod/` 下同名的 `.pak`、`.utoc`、`.ucas` 三件套放入：
 
 需要一起安装语音时，改为下载 `Sui_JK_Jirai_WithVoice_PBZ_v1.0.0.zip`，先移出旧模型及旧语音包，再把 `mod/` 下六个文件放入同一目录。原纯模型包的以下命令使用 `manifest.json`；一体包的可选校验分别使用 `model-manifest.json`、`voice-manifest.json`，安装时两份清单分别保存凭据。
 

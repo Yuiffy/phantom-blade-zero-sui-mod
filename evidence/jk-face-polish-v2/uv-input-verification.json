@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "constant_unchanged_source_maps": [
+    {
+      "parameter": "Normal",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FlatNormal",
+      "source_sha256": "7b37a3afb155136a2b9f0624af9274c26dce7ce24ba1e1a06c2cfe46ebca2c3f",
+      "constant_rgba": [
+        128,
+        128,
+        255,
+        255
+      ],
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    {
+      "parameter": "Mix",
+      "package": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Skin",
+      "source_sha256": "eb04eef733f0224688081450ec33e9bf803ac4f4b9bbf55122b67d59fc46df49",
+      "constant_rgba": [
+        255,
+        145,
+        0,
+        255
+      ],
+      "dimensions": [
+        256,
+        256
+      ]
+    }
+  ],
+  "material_properties_and_native_export_exact": true,
+  "cooked_vt_independently_decoded": false
+}

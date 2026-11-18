@@ -1,0 +1,331 @@
+{
+  "offline_solve": {
+    "baseline": {
+      "median_ms": 60.144100338220596,
+      "p95_ms": 71.82830199599266,
+      "source_sha256": "48ca0758094ed563f5fa2badb43ab2d8d8acf2a9d2289f44f284d4438cdd8faf"
+    },
+    "shell": {
+      "median_ms": 61.95339933037758,
+      "p95_ms": 73.08440282940865,
+      "source_sha256": "8734dfa2d3d8da61794940a2d5532f7cb7751e50c06a56e895a80b0ba4758803"
+    },
+    "bend": {
+      "median_ms": 61.57330051064491,
+      "p95_ms": 83.22310075163841,
+      "source_sha256": "281990dac55255e26a6feb12a35f6ad09e2c5153b606bba265d29e3857ce3a50"
+    },
+    "both": {
+      "median_ms": 49.48440194129944,
+      "p95_ms": 62.244098633527756,
+      "source_sha256": "cbbcd967592aa4b59f52c314a0942c20984188bd4d7e099a12d8b5c1e8ac100a"
+    },
+    "repeat": {
+      "median_ms": 50.04530027508736,
+      "p95_ms": 67.33210012316704,
+      "source_sha256": "4c0de2b64cba0655201d3d092ca14adf558c3f469ea60ef117646825fd898417"
+    },
+    "reduced": {
+      "median_ms": 8.889000862836838,
+      "p95_ms": 11.682000011205673,
+      "source_sha256": "e024e1c158cf234e2afb2f5f91092177a9ea8cb2a8d1485f12f0e3ab44b0b108"
+    },
+    "reduced-full": {
+      "median_ms": 8.35449993610382,
+      "p95_ms": 9.947899729013443,
+      "source_sha256": "100ae22e8a54dbf757d18f7a12106f1d2d7ba288431f38e8dc2bf27e2448375c"
+    }
+  },
+  "matched_ticks": 121,
+  "coverage": {
+    "rows": [
+      {
+        "file": "crouch-30-surface.npz",
+        "max_rear_shorts_pixels": 0
+      },
+      {
+        "file": "crouch-60-surface.npz",
+        "max_rear_shorts_pixels": 0
+      },
+      {
+        "file": "jog-30-surface.npz",
+        "max_rear_shorts_pixels": 0
+      },
+      {
+        "file": "jog-60-surface.npz",
+        "max_rear_shorts_pixels": 0
+      },
+      {
+        "file": "walk-30-surface.npz",
+        "max_rear_shorts_pixels": 0
+      },
+      {
+        "file": "walk-60-surface.npz",
+        "max_rear_shorts_pixels": 0
+      }
+    ],
+    "up32cm_test_rear_and_oblique": [
+      0,
+      0
+    ]
+  },
+  "visible_motion": [
+    {
+      "file": "walk-30.json",
+      "deviations": {
+        "0": {
+          "peak_p95_cm": 0.0,
+          "max_cm": 0.0
+        },
+        "1": {
+          "peak_p95_cm": 0.47745008202374767,
+          "max_cm": 0.7204614150403578
+        },
+        "2": {
+          "peak_p95_cm": 0.0,
+          "max_cm": 0.0
+        },
+        "3": {
+          "peak_p95_cm": 0.49965052419016476,
+          "max_cm": 0.6776992268645331
+        },
+        "4": {
+          "peak_p95_cm": 0.3870362684306355,
+          "max_cm": 0.4574955078302713
+        }
+      },
+      "simulation_sha": "5a780e7eef00ce1bfc1403d244ffe8814d315c61706b217b7aa49d38445c4d4e"
+    },
+    {
+      "file": "walk-60.json",
+      "deviations": {
+        "0": {
+          "peak_p95_cm": 0.0,
+          "max_cm": 0.0
+        },
+        "1": {
+          "peak_p95_cm": 0.3748116070772833,
+          "max_cm": 0.6338932683062123
+        },
+        "2": {
+          "peak_p95_cm": 0.0,
+          "max_cm": 0.0
+        },
+        "3": {
+          "peak_p95_cm": 0.31726456443711676,
+          "max_cm": 0.5681978161595131
+        },
+        "4": {
+          "peak_p95_cm": 0.1386195558816941,
+          "max_cm": 0.16770369239803326
+        }
+      },
+      "simulation_sha": "64acb28758569f5f18b5a4fb7d4c058d22e414c4e1a2a572add3206d64336b31"
+    },
+    {
+      "file": "jog-30.json",
+      "deviations": {
+        "0": {
+          "peak_p95_cm": 0.0,
+          "max_cm": 0.0
+        },
+        "1": {
+          "peak_p95_cm": 0.3736277628117211,
+          "max_cm": 0.853866264465069
+        },
+        "2": {
+          "peak_p95_cm": 0.0,
+          "max_cm": 0.0
+        },
+        "3": {
+          "peak_p95_cm": 0.598617332237853,
+          "max_cm": 0.7473642475981769
+        },
+        "4": {
+          "peak_p95_cm": 0.3821897032680979,
+          "max_cm": 0.45509485442646247
+        }
+      },
+      "simulation_sha": "dd8cf114c1325ced36e9081c4b92a59591cca40853d8e525b035cb6dc0765b34"
+    },
+    {
+      "file": "jog-60.json",
+      "deviations": {
+        "0": {
+          "peak_p95_cm": 0.0,
+          "max_cm": 0.0
+        },
+        "1": {
+          "peak_p95_cm": 0.3679017708909885,
+          "max_cm": 0.8320296738781201
+        },
+        "2": {
+          "peak_p95_cm": 0.0,
+          "max_cm": 0.0
+        },
+        "3": {
+          "peak_p95_cm": 0.4409830547441264,
+          "max_cm": 0.855573083406293
+        },
+        "4": {
+          "peak_p95_cm": 0.27814831675661006,
+          "max_cm": 0.3254313425550069
+        }
+      },
+      "simulation_sha": "100ae22e8a54dbf757d18f7a12106f1d2d7ba288431f38e8dc2bf27e2448375c"
+    },
+    {
+      "file": "crouch-30.json",
+      "deviations": {
+        "0": {
+          "peak_p95_cm": 0.0,
+          "max_cm": 0.0
+        },
+        "1": {
+          "peak_p95_cm": 0.47033091013084843,
+          "max_cm": 0.6369911083746544
+        },
+        "2": {
+          "peak_p95_cm": 0.0,
+          "max_cm": 0.0
+        },
+        "3": {
+          "peak_p95_cm": 0.5518040447669809,
+          "max_cm": 1.2894249440159093
+        },
+        "4": {
+          "peak_p95_cm": 0.3132733075615979,
+          "max_cm": 0.3764335878164562
+        }
+      },
+      "simulation_sha": "efca35af1d12bfea04db1f781c32fe2b4be4636469ba443bbeeebabba4ee6bce"
+    },
+    {
+      "file": "crouch-60.json",
+      "deviations": {
+        "0": {
+          "peak_p95_cm": 0.0,
+          "max_cm": 0.0
+        },
+        "1": {
+          "peak_p95_cm": 0.35938849628521213,
+          "max_cm": 0.6438517720209306
+        },
+        "2": {
+          "peak_p95_cm": 0.0,
+          "max_cm": 0.0
+        },
+        "3": {
+          "peak_p95_cm": 0.7366784797719064,
+          "max_cm": 1.4951537640367298
+        },
+        "4": {
+          "peak_p95_cm": 0.15516002890608527,
+          "max_cm": 0.19194875811431475
+        }
+      },
+      "simulation_sha": "efd77ecd58b864a9ee5b76012066308811583ddffaa6b08c3ea133c0b6cb716f"
+    }
+  ],
+  "contacts": [
+    {
+      "file": "crouch-30-surface.npz",
+      "thigh_max": 30,
+      "thigh_sum": 349,
+      "shorts_max": 184,
+      "shorts_sum": 8371,
+      "visible_thigh_max": 12,
+      "visible_thigh_sum": 48,
+      "visible_lining_max": 16,
+      "visible_lining_sum": 75
+    },
+    {
+      "file": "crouch-60-surface.npz",
+      "thigh_max": 27,
+      "thigh_sum": 564,
+      "shorts_max": 208,
+      "shorts_sum": 16583,
+      "visible_thigh_max": 12,
+      "visible_thigh_sum": 36,
+      "visible_lining_max": 17,
+      "visible_lining_sum": 51
+    },
+    {
+      "file": "jog-30-surface.npz",
+      "thigh_max": 7,
+      "thigh_sum": 45,
+      "shorts_max": 196,
+      "shorts_sum": 8923,
+      "visible_thigh_max": 4,
+      "visible_thigh_sum": 15,
+      "visible_lining_max": 13,
+      "visible_lining_sum": 81
+    },
+    {
+      "file": "jog-60-surface.npz",
+      "thigh_max": 13,
+      "thigh_sum": 150,
+      "shorts_max": 196,
+      "shorts_sum": 17440,
+      "visible_thigh_max": 6,
+      "visible_thigh_sum": 51,
+      "visible_lining_max": 13,
+      "visible_lining_sum": 153
+    },
+    {
+      "file": "walk-30-surface.npz",
+      "thigh_max": 0,
+      "thigh_sum": 0,
+      "shorts_max": 197,
+      "shorts_sum": 9169,
+      "visible_thigh_max": 0,
+      "visible_thigh_sum": 0,
+      "visible_lining_max": 0,
+      "visible_lining_sum": 0
+    },
+    {
+      "file": "walk-60-surface.npz",
+      "thigh_max": 0,
+      "thigh_sum": 0,
+      "shorts_max": 198,
+      "shorts_sum": 18127,
+      "visible_thigh_max": 0,
+      "visible_thigh_sum": 0,
+      "visible_lining_max": 0,
+      "visible_lining_sum": 0
+    }
+  ],
+  "physical_vertices": [
+    125,
+    110,
+    64,
+    80,
+    74
+  ],
+  "previous_reported_game_fps": [
+    45,
+    48
+  ],
+  "new_game_fps": null,
+  "installed_at": "2026-11-19T01:08:53.204887+08:00",
+  "files": [
+    {
+      "name": "zzzzzzzzzzzz_Sui_JKOutfitPerf2_13_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzzzzzz_Sui_JKOutfitPerf2_13_P.ucas",
+      "bytes": 6394334,
+      "sha256": "4f82aba9ef9629e8826fafc8a45cd7d503db6bfb1456839d30ee34aa45ccb1b9"
+    },
+    {
+      "name": "zzzzzzzzzzzz_Sui_JKOutfitPerf2_13_P.utoc",
+      "bytes": 1704,
+      "sha256": "9b1386a046b121de2c767cc31069344f93e3c5d5623c746d48abfaaff7054794"
+    }
+  ],
+  "retained_files": 30,
+  "effective_payload_sha256": "105ec8919065f2b6a632f3b31a8ee698f553c310aac64f72fd901ceab6686dd0",
+  "independent_installed_readback": true
+}

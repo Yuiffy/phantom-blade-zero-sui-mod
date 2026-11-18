@@ -1,0 +1,620 @@
+{
+  "schema_version": 1,
+  "release_tag": "dual-v1.1.0",
+  "steam_app_id": "4115450",
+  "game_build": "26367565",
+  "components": [
+    {
+      "kind": "model",
+      "container": "z_Sui_DualOutfit_JK5_JiraiR8Shape1_P",
+      "packages": [
+        "../../../ProjectPBZ/Content/PBZContent/DataTable/UI/DT_PBZAppearanceTable.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_BrowLashCard.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_Cloth.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_Hair_Band.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_Hat_00.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_Head_New.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_Scarf.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiRig/Hun_Skin_Skeleton.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Blouse.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Buckle.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_EyeIris.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Hair.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_HaloGold.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Legwear.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Metal.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Sclera.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Shoes.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_ShortLining.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Skin.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Skirt.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ARM_Suspender.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_Base.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_Buckle.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_FlatNormal.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_HaloGold.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_Hands.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_Sclera.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ShortLining.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_Suspender.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_SkinEyes_SCMT.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_ARM_Backpack.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_ARM_Base.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_ARM_CardiganHem.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_ARM_CharmAtlas.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_ARM_Gold.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_ARM_HairGroove.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_ARM_Pink.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_ARM_PleatedSkirt.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_ARM_Ponytail.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_ARM_SafetyLining.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_ARM_Silver.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_ARM_Stockings.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_ARM_Straps.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_Base.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_Cat.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_CharmAtlas.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_FlatNormal.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_Gold.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_HairGroove.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_Ivory.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_Pink.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_PinkLight.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_PinkSeam.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_SafetyLining.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_Silver.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Blouse.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Buckle.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Corset.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_EyeIris.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Hair.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_HaloGold.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Hands.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Legwear.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Metal.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Sclera.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Shoes.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_ShortLining.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Skin.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Skirt.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Suspender.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_TailL.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_TailR.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_Backpack.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_Base.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_Cardigan.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_CardiganHem.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_Cat.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_CharmAtlas.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_Gold.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_HairGroove.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_HairMain.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_Ivory.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_Pink.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_PinkLight.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_PinkSeam.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_PleatedSkirt.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_Ponytail.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_SafetyLining.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_Silver.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_Stockings.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_Straps.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/M_Sui_Hidden.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/NativeVT/T_ARM_02.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/NativeVT/T_FlatNormal.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/NativeVT/T_Hidden.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Physics/PA_Jirai_ClothCollision.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Physics/PA_Jirai_SkirtCollision.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Physics/PA_Sui_ClothCollision.uasset"
+      ],
+      "files": [
+        {
+          "name": "z_Sui_DualOutfit_JK5_JiraiR8Shape1_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "z_Sui_DualOutfit_JK5_JiraiR8Shape1_P.utoc",
+          "bytes": 33899,
+          "sha256": "18fda93036a239510dd1502c5b311b2d7b7f44bf48753fbaca0e2b45f26d135b"
+        },
+        {
+          "name": "z_Sui_DualOutfit_JK5_JiraiR8Shape1_P.ucas",
+          "bytes": 104310039,
+          "sha256": "c8528c9455f5c430621033c91708021fa12c6c224ff67f7a6f4326832f8e6ae7"
+        }
+      ]
+    },
+    {
+      "kind": "voice",
+      "container": "z_Sui_Hun_NaturalVoice_Compact_v5_P",
+      "packages": [
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_Vo_Hun_Attack_Short.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_BiQi_01_DuanCu.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_BiQi_02_Long.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_Break.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_Vo_Hun_Charge_Heavy_Long.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_Vo_Hun_Charge_Heavy_Short.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_Vo_Hun_Charge_Long.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_Vo_Hun_Charge_Release_Heavy.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_Vo_Hun_Charge_Release_Light.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_Vo_Hun_Charge_Short.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_Charge_SuperLong.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_ChuZhao_01_DuanCu.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_ChuZhao_02.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_Vo_Hun_Cough.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_Vo_Hun_Execute_Attack_Heavy.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_Vo_Hun_Heavy_Release.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_Hurt.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_Hurt_BiXian.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_Vo_Hun_Hurt_Heavy.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_Hurt_Heavy_Mix.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_ShouZhao_DoubleBlade.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_ShouZhao_LongBlade.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_ShouZhao_TangBlade.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_Snort.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_Vo_Hun_Special_Stifle.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_Vo_Hun_Weapon_Break.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_ZhongZhuan.uasset",
+        "../../../ProjectPBZ/Content/Wwise/Events/VO/Int/Hun/Battle/SFX_Combat_VO_Hun_ZhongZhuan_01.uasset"
+      ],
+      "files": [
+        {
+          "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.utoc",
+          "bytes": 7200,
+          "sha256": "86b35b1f2f5d64a64d17b59120d18a11a9000655200f5b0d563d35b9185c81d0"
+        },
+        {
+          "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.ucas",
+          "bytes": 3282530,
+          "sha256": "1c03a93f6790879c2a8454709e90dc1cca0cb8c90bc9ae0ccd75bed94cb825c0"
+        }
+      ]
+    },
+    {
+      "kind": "model",
+      "container": "zzz_Sui_JiraiFace3_2_P",
+      "packages": [
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Face3_EyeMix.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Face3_Iris.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_Face3.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_EyeIris.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Hair.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Skin.uasset"
+      ],
+      "files": [
+        {
+          "name": "zzz_Sui_JiraiFace3_2_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "zzz_Sui_JiraiFace3_2_P.utoc",
+          "bytes": 11508,
+          "sha256": "37da10130034eca44bcc7ba903b7787ae2316c5405c3796084f271c9c1533a8b"
+        },
+        {
+          "name": "zzz_Sui_JiraiFace3_2_P.ucas",
+          "bytes": 55055808,
+          "sha256": "7e4e7f63b4e3c5f67b8e862a2f2d398aaab624018892c08ee6f5c1cd1e39056c"
+        }
+      ]
+    },
+    {
+      "kind": "model",
+      "container": "zzzz_Sui_JiraiHairpin1_3_P",
+      "packages": [
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_Hairpin1.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Hair.uasset"
+      ],
+      "files": [
+        {
+          "name": "zzzz_Sui_JiraiHairpin1_3_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "zzzz_Sui_JiraiHairpin1_3_P.utoc",
+          "bytes": 10787,
+          "sha256": "7d0bfb83f3a6eeabb261f63ba3037b5ea585032dc5c3f0f1df947c167508b60b"
+        },
+        {
+          "name": "zzzz_Sui_JiraiHairpin1_3_P.ucas",
+          "bytes": 54169262,
+          "sha256": "49c88071fb817893402153037d215ee3e91f950af3c4afd28c554bb5d1e32bda"
+        }
+      ]
+    },
+    {
+      "kind": "model",
+      "container": "zzzzz_Sui_OutfitPatterns1_4_P",
+      "packages": [
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_Base.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_Base.uasset"
+      ],
+      "files": [
+        {
+          "name": "zzzzz_Sui_OutfitPatterns1_4_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "zzzzz_Sui_OutfitPatterns1_4_P.utoc",
+          "bytes": 18257,
+          "sha256": "001d2777d30b54b5f4def63e49778f8f1bc76d39c623b6b00961a4f43faeeddb"
+        },
+        {
+          "name": "zzzzz_Sui_OutfitPatterns1_4_P.ucas",
+          "bytes": 95278452,
+          "sha256": "2ddf1afaef1415658c027b3e43bcbe88dacce07a0432cb9710f2d9b60413225b"
+        }
+      ]
+    },
+    {
+      "kind": "model",
+      "container": "zzzzzzzzz_Sui_JKFacePolish2_8_P",
+      "packages": [
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JKVT/T_JK_FacePolish2.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_JK_Base.uasset"
+      ],
+      "files": [
+        {
+          "name": "zzzzzzzzz_Sui_JKFacePolish2_8_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "zzzzzzzzz_Sui_JKFacePolish2_8_P.utoc",
+          "bytes": 10962,
+          "sha256": "61db71973ac2a6fbd99bc438478b83b7a4eed4d03bbbf83b21900ed16d9a7b14"
+        },
+        {
+          "name": "zzzzzzzzz_Sui_JKFacePolish2_8_P.ucas",
+          "bytes": 55155634,
+          "sha256": "abf923b7a34fbdcdf5318f4e12ec6b76970ce36e38b1db585a3748d0901b5549"
+        }
+      ]
+    },
+    {
+      "kind": "model",
+      "container": "zzzzzzzzz_Sui_JKSkirtPerf1_10_P",
+      "packages": [
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Physics/PA_JK_SkirtCollision1.uasset"
+      ],
+      "files": [
+        {
+          "name": "zzzzzzzzz_Sui_JKSkirtPerf1_10_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "zzzzzzzzz_Sui_JKSkirtPerf1_10_P.utoc",
+          "bytes": 2003,
+          "sha256": "39af059fe589aaf560b4c89740019f44bd368bd4201205d03e2da69bf0ecea43"
+        },
+        {
+          "name": "zzzzzzzzz_Sui_JKSkirtPerf1_10_P.ucas",
+          "bytes": 7325245,
+          "sha256": "8b23c163109d71ca140dc3e786133b3058984c738b9263eb139b213697a179c2"
+        }
+      ]
+    },
+    {
+      "kind": "model",
+      "container": "zzzzzzzzzz_Sui_JiraiChinClean1_11_P",
+      "packages": [
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiVT/T_Jirai_ChinClean1.uasset",
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/Materials/MI_Jirai_Skin.uasset"
+      ],
+      "files": [
+        {
+          "name": "zzzzzzzzzz_Sui_JiraiChinClean1_11_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "zzzzzzzzzz_Sui_JiraiChinClean1_11_P.utoc",
+          "bytes": 10791,
+          "sha256": "dd61c4bab8890f65e6e34668b176c1afda6f8c3c181c9de2b3e2988338d9d129"
+        },
+        {
+          "name": "zzzzzzzzzz_Sui_JiraiChinClean1_11_P.ucas",
+          "bytes": 54171661,
+          "sha256": "99b63c572669d7baebaf05a6b6779c40af3c297781c111ebca55cbf750b0bdbb"
+        }
+      ]
+    },
+    {
+      "kind": "model",
+      "container": "zzzzzzzzzzz_Sui_JiraiPerf1_12_P",
+      "packages": [
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple.uasset"
+      ],
+      "files": [
+        {
+          "name": "zzzzzzzzzzz_Sui_JiraiPerf1_12_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "zzzzzzzzzzz_Sui_JiraiPerf1_12_P.utoc",
+          "bytes": 1727,
+          "sha256": "e9ea43e2811f3a355d2fafc2c6181a9e42ca5a83c9da6de34eeaa635b8949df0"
+        },
+        {
+          "name": "zzzzzzzzzzz_Sui_JiraiPerf1_12_P.ucas",
+          "bytes": 6525213,
+          "sha256": "e582a611b05c849089e6aedb58bfee700dd29b3b4aec07d4d4036226a8337a1e"
+        }
+      ]
+    },
+    {
+      "kind": "model",
+      "container": "zzzzzzzzzzz_Sui_JKSkirtRear1_12_P",
+      "packages": [
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple.uasset"
+      ],
+      "files": [
+        {
+          "name": "zzzzzzzzzzz_Sui_JKSkirtRear1_12_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "zzzzzzzzzzz_Sui_JKSkirtRear1_12_P.utoc",
+          "bytes": 1872,
+          "sha256": "2e8f22461df5b198300fc48be083aeed40cecc498f8169b21c0918b6ea90a9f4"
+        },
+        {
+          "name": "zzzzzzzzzzz_Sui_JKSkirtRear1_12_P.ucas",
+          "bytes": 7321358,
+          "sha256": "fd8fcba62e828ec146553407d9c96941d502cd4f2761dbfe248bf49b2c636047"
+        }
+      ]
+    },
+    {
+      "kind": "model",
+      "container": "zzzzzzzzzzzz_Sui_JKOutfitPerf2_13_P",
+      "packages": [
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple.uasset"
+      ],
+      "files": [
+        {
+          "name": "zzzzzzzzzzzz_Sui_JKOutfitPerf2_13_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "zzzzzzzzzzzz_Sui_JKOutfitPerf2_13_P.utoc",
+          "bytes": 1704,
+          "sha256": "9b1386a046b121de2c767cc31069344f93e3c5d5623c746d48abfaaff7054794"
+        },
+        {
+          "name": "zzzzzzzzzzzz_Sui_JKOutfitPerf2_13_P.ucas",
+          "bytes": 6394334,
+          "sha256": "4f82aba9ef9629e8826fafc8a45cd7d503db6bfb1456839d30ee34aa45ccb1b9"
+        }
+      ]
+    },
+    {
+      "kind": "model",
+      "container": "zzzzzzzzzzzzz_Sui_JKStableSkirt1_14_P",
+      "packages": [
+        "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple.uasset"
+      ],
+      "files": [
+        {
+          "name": "zzzzzzzzzzzzz_Sui_JKStableSkirt1_14_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "zzzzzzzzzzzzz_Sui_JKStableSkirt1_14_P.utoc",
+          "bytes": 1704,
+          "sha256": "ef229f604aa5fe804d0553578283a7488adfef2d21618c9a69b168fd85099c5c"
+        },
+        {
+          "name": "zzzzzzzzzzzzz_Sui_JKStableSkirt1_14_P.ucas",
+          "bytes": 6394334,
+          "sha256": "d59484f981d350cd51b7fba6fdf2e8cc5ca599b8491d95a72ab7d41e1ed6d62a"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR8Shape1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR8Shape1_P.utoc",
+      "bytes": 33899,
+      "sha256": "18fda93036a239510dd1502c5b311b2d7b7f44bf48753fbaca0e2b45f26d135b"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR8Shape1_P.ucas",
+      "bytes": 104310039,
+      "sha256": "c8528c9455f5c430621033c91708021fa12c6c224ff67f7a6f4326832f8e6ae7"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.utoc",
+      "bytes": 7200,
+      "sha256": "86b35b1f2f5d64a64d17b59120d18a11a9000655200f5b0d563d35b9185c81d0"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.ucas",
+      "bytes": 3282530,
+      "sha256": "1c03a93f6790879c2a8454709e90dc1cca0cb8c90bc9ae0ccd75bed94cb825c0"
+    },
+    {
+      "name": "zzz_Sui_JiraiFace3_2_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzz_Sui_JiraiFace3_2_P.utoc",
+      "bytes": 11508,
+      "sha256": "37da10130034eca44bcc7ba903b7787ae2316c5405c3796084f271c9c1533a8b"
+    },
+    {
+      "name": "zzz_Sui_JiraiFace3_2_P.ucas",
+      "bytes": 55055808,
+      "sha256": "7e4e7f63b4e3c5f67b8e862a2f2d398aaab624018892c08ee6f5c1cd1e39056c"
+    },
+    {
+      "name": "zzzz_Sui_JiraiHairpin1_3_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzz_Sui_JiraiHairpin1_3_P.utoc",
+      "bytes": 10787,
+      "sha256": "7d0bfb83f3a6eeabb261f63ba3037b5ea585032dc5c3f0f1df947c167508b60b"
+    },
+    {
+      "name": "zzzz_Sui_JiraiHairpin1_3_P.ucas",
+      "bytes": 54169262,
+      "sha256": "49c88071fb817893402153037d215ee3e91f950af3c4afd28c554bb5d1e32bda"
+    },
+    {
+      "name": "zzzzz_Sui_OutfitPatterns1_4_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzz_Sui_OutfitPatterns1_4_P.utoc",
+      "bytes": 18257,
+      "sha256": "001d2777d30b54b5f4def63e49778f8f1bc76d39c623b6b00961a4f43faeeddb"
+    },
+    {
+      "name": "zzzzz_Sui_OutfitPatterns1_4_P.ucas",
+      "bytes": 95278452,
+      "sha256": "2ddf1afaef1415658c027b3e43bcbe88dacce07a0432cb9710f2d9b60413225b"
+    },
+    {
+      "name": "zzzzzzzzz_Sui_JKFacePolish2_8_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzzz_Sui_JKFacePolish2_8_P.utoc",
+      "bytes": 10962,
+      "sha256": "61db71973ac2a6fbd99bc438478b83b7a4eed4d03bbbf83b21900ed16d9a7b14"
+    },
+    {
+      "name": "zzzzzzzzz_Sui_JKFacePolish2_8_P.ucas",
+      "bytes": 55155634,
+      "sha256": "abf923b7a34fbdcdf5318f4e12ec6b76970ce36e38b1db585a3748d0901b5549"
+    },
+    {
+      "name": "zzzzzzzzz_Sui_JKSkirtPerf1_10_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzzz_Sui_JKSkirtPerf1_10_P.utoc",
+      "bytes": 2003,
+      "sha256": "39af059fe589aaf560b4c89740019f44bd368bd4201205d03e2da69bf0ecea43"
+    },
+    {
+      "name": "zzzzzzzzz_Sui_JKSkirtPerf1_10_P.ucas",
+      "bytes": 7325245,
+      "sha256": "8b23c163109d71ca140dc3e786133b3058984c738b9263eb139b213697a179c2"
+    },
+    {
+      "name": "zzzzzzzzzz_Sui_JiraiChinClean1_11_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzzzz_Sui_JiraiChinClean1_11_P.utoc",
+      "bytes": 10791,
+      "sha256": "dd61c4bab8890f65e6e34668b176c1afda6f8c3c181c9de2b3e2988338d9d129"
+    },
+    {
+      "name": "zzzzzzzzzz_Sui_JiraiChinClean1_11_P.ucas",
+      "bytes": 54171661,
+      "sha256": "99b63c572669d7baebaf05a6b6779c40af3c297781c111ebca55cbf750b0bdbb"
+    },
+    {
+      "name": "zzzzzzzzzzz_Sui_JiraiPerf1_12_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzzzzz_Sui_JiraiPerf1_12_P.utoc",
+      "bytes": 1727,
+      "sha256": "e9ea43e2811f3a355d2fafc2c6181a9e42ca5a83c9da6de34eeaa635b8949df0"
+    },
+    {
+      "name": "zzzzzzzzzzz_Sui_JiraiPerf1_12_P.ucas",
+      "bytes": 6525213,
+      "sha256": "e582a611b05c849089e6aedb58bfee700dd29b3b4aec07d4d4036226a8337a1e"
+    },
+    {
+      "name": "zzzzzzzzzzz_Sui_JKSkirtRear1_12_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzzzzz_Sui_JKSkirtRear1_12_P.utoc",
+      "bytes": 1872,
+      "sha256": "2e8f22461df5b198300fc48be083aeed40cecc498f8169b21c0918b6ea90a9f4"
+    },
+    {
+      "name": "zzzzzzzzzzz_Sui_JKSkirtRear1_12_P.ucas",
+      "bytes": 7321358,
+      "sha256": "fd8fcba62e828ec146553407d9c96941d502cd4f2761dbfe248bf49b2c636047"
+    },
+    {
+      "name": "zzzzzzzzzzzz_Sui_JKOutfitPerf2_13_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzzzzzz_Sui_JKOutfitPerf2_13_P.utoc",
+      "bytes": 1704,
+      "sha256": "9b1386a046b121de2c767cc31069344f93e3c5d5623c746d48abfaaff7054794"
+    },
+    {
+      "name": "zzzzzzzzzzzz_Sui_JKOutfitPerf2_13_P.ucas",
+      "bytes": 6394334,
+      "sha256": "4f82aba9ef9629e8826fafc8a45cd7d503db6bfb1456839d30ee34aa45ccb1b9"
+    },
+    {
+      "name": "zzzzzzzzzzzzz_Sui_JKStableSkirt1_14_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzzzzzzz_Sui_JKStableSkirt1_14_P.utoc",
+      "bytes": 1704,
+      "sha256": "ef229f604aa5fe804d0553578283a7488adfef2d21618c9a69b168fd85099c5c"
+    },
+    {
+      "name": "zzzzzzzzzzzzz_Sui_JKStableSkirt1_14_P.ucas",
+      "bytes": 6394334,
+      "sha256": "d59484f981d350cd51b7fba6fdf2e8cc5ca599b8491d95a72ab7d41e1ed6d62a"
+    }
+  ],
+  "voice_status": "experimental",
+  "full_release_stack_runtime_tested": false
+}

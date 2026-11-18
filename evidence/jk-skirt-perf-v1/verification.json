@@ -1,0 +1,356 @@
+{
+  "installed_at": "2026-11-18T23:39:33.970451+08:00",
+  "status": "installed-independent-readback-verified-runtime-pending",
+  "installed": {
+    "passed": true,
+    "latest_face_geometry_normals_uv_weights_and_indices_exact": true,
+    "all_native_bytes_outside_skirt_positions_and_mappings_exact": true,
+    "all_other_clothing_exports_exact": true,
+    "gameplay_physics_exact": true,
+    "cloth_guid_and_binding_identity_exact": true,
+    "preserved_packages": 133,
+    "packages": [
+      "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple",
+      "/HuaShira/Mods/SuiPBZ/Physics/PA_JK_SkirtCollision1"
+    ],
+    "container_files": [
+      {
+        "name": "zzzzzzzzz_Sui_JKSkirtPerf1_10_P.pak",
+        "bytes": 347,
+        "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+      },
+      {
+        "name": "zzzzzzzzz_Sui_JKSkirtPerf1_10_P.ucas",
+        "bytes": 7325245,
+        "sha256": "8b23c163109d71ca140dc3e786133b3058984c738b9263eb139b213697a179c2"
+      },
+      {
+        "name": "zzzzzzzzz_Sui_JKSkirtPerf1_10_P.utoc",
+        "bytes": 2003,
+        "sha256": "39af059fe589aaf560b4c89740019f44bd368bd4201205d03e2da69bf0ecea43"
+      }
+    ],
+    "native_changed_bytes": 158520,
+    "independent_cue_readback": true,
+    "game_runtime_tested": false
+  },
+  "cloth": {
+    "passed": true,
+    "physical_vertices": 64,
+    "physical_weights_pelvis_only": true,
+    "max_distance_cm": 40.0,
+    "collision_bodies": 3,
+    "solver": {
+      "IterationCount": 12,
+      "MaxIterationCount": 12,
+      "SubdivisionCount": 3
+    }
+  },
+  "continuous_surface": {
+    "passed": true,
+    "records": [
+      {
+        "profile": "walk",
+        "hz": 30,
+        "edge_ratio_min": 0.9743086016509975,
+        "edge_ratio_max": 1.0598626622780416,
+        "peak_up95_cm": 4.0781707763671875,
+        "cycles": [
+          {
+            "stop": 3,
+            "quiet_up95_cm": 0.0002593994140625,
+            "quiet_upmax_cm": 0.00079345703125,
+            "quiet_drift95_cm": 0.0013549465220421553,
+            "quiet_speed95_cm_s": 0.0014615657384528951,
+            "recovery_seconds": 1.564621925354004e-07,
+            "passed": true
+          },
+          {
+            "stop": 8,
+            "quiet_up95_cm": 0.0002944945590570569,
+            "quiet_upmax_cm": 0.000732421875,
+            "quiet_drift95_cm": 0.0014862060779705644,
+            "quiet_speed95_cm_s": 0.001479440582591414,
+            "recovery_seconds": 4.172325134277344e-07,
+            "passed": true
+          },
+          {
+            "stop": 13,
+            "quiet_up95_cm": 0.0002868648152798414,
+            "quiet_upmax_cm": 0.00075531005859375,
+            "quiet_drift95_cm": 0.001550184329971671,
+            "quiet_speed95_cm_s": 6.138525212002068e-05,
+            "recovery_seconds": 6.780028343200684e-07,
+            "passed": true
+          }
+        ],
+        "first_skirt_tick_cm": 0.22020456194877625,
+        "sim_sha256": "69a229bc5884582cfa6a9d58fd2359dabefcdc8c8ba1b8506a3c5f5debb32ff7",
+        "fixed_point_error_cm": 3.148415474099947e-05,
+        "max_distance_excess_cm": 3.148415474099947e-05,
+        "simulated_asset_particle_counts": {
+          "0": 125,
+          "1": 546,
+          "2": 64,
+          "3": 432,
+          "4": 354
+        },
+        "passed": true
+      },
+      {
+        "profile": "walk",
+        "hz": 60,
+        "edge_ratio_min": 0.972089350847698,
+        "edge_ratio_max": 1.046756190501949,
+        "peak_up95_cm": 4.031280517578125,
+        "cycles": [
+          {
+            "stop": 3,
+            "quiet_up95_cm": 0.0003250121371820569,
+            "quiet_upmax_cm": 0.000335693359375,
+            "quiet_drift95_cm": 0.0004775785782840103,
+            "quiet_speed95_cm_s": 0.002946009007304437,
+            "recovery_seconds": 1.564621925354004e-07,
+            "passed": true
+          },
+          {
+            "stop": 8,
+            "quiet_up95_cm": 0.0003250121371820569,
+            "quiet_upmax_cm": 0.000335693359375,
+            "quiet_drift95_cm": 0.00047425218508578837,
+            "quiet_speed95_cm_s": 0.0028958349375363844,
+            "recovery_seconds": 4.172325134277344e-07,
+            "passed": true
+          },
+          {
+            "stop": 13,
+            "quiet_up95_cm": 2.288818359375e-05,
+            "quiet_upmax_cm": 3.0517578125e-05,
+            "quiet_drift95_cm": 4.956354678142816e-05,
+            "quiet_speed95_cm_s": 0.00015898639220093567,
+            "recovery_seconds": 6.780028343200684e-07,
+            "passed": true
+          }
+        ],
+        "first_skirt_tick_cm": 0.2202998250722885,
+        "sim_sha256": "471df516c391538947003e21f422556f0a61a88e226acdd84fc77d0c7baaf112",
+        "fixed_point_error_cm": 3.2423142622406125e-05,
+        "max_distance_excess_cm": 3.2423142622406125e-05,
+        "simulated_asset_particle_counts": {
+          "0": 125,
+          "1": 546,
+          "2": 64,
+          "3": 432,
+          "4": 354
+        },
+        "passed": true
+      },
+      {
+        "profile": "jog",
+        "hz": 30,
+        "edge_ratio_min": 0.8799767820767525,
+        "edge_ratio_max": 1.2108578528517802,
+        "peak_up95_cm": 11.088071823120117,
+        "cycles": [
+          {
+            "stop": 3,
+            "quiet_up95_cm": 0.00023651123046875,
+            "quiet_upmax_cm": 0.00025177001953125,
+            "quiet_drift95_cm": 0.0003728965821210295,
+            "quiet_speed95_cm_s": 0.001127791561273553,
+            "recovery_seconds": 1.564621925354004e-07,
+            "passed": true
+          },
+          {
+            "stop": 8,
+            "quiet_up95_cm": 0.00023651123046875,
+            "quiet_upmax_cm": 0.000244140625,
+            "quiet_drift95_cm": 0.000350787362549454,
+            "quiet_speed95_cm_s": 0.0010310769765728054,
+            "recovery_seconds": 4.172325134277344e-07,
+            "passed": true
+          },
+          {
+            "stop": 13,
+            "quiet_up95_cm": 7.62939453125e-06,
+            "quiet_upmax_cm": 1.52587890625e-05,
+            "quiet_drift95_cm": 1.8335089407628402e-05,
+            "quiet_speed95_cm_s": 4.728822867792025e-05,
+            "recovery_seconds": 6.780028343200684e-07,
+            "passed": true
+          }
+        ],
+        "first_skirt_tick_cm": 0.22020456194877625,
+        "sim_sha256": "d5c9359594e0d2c03372904081c55eb4289fd7c99a3234771136842771aeef3e",
+        "fixed_point_error_cm": 3.1473320100215474e-05,
+        "max_distance_excess_cm": 3.1473320100215474e-05,
+        "simulated_asset_particle_counts": {
+          "0": 125,
+          "1": 546,
+          "2": 64,
+          "3": 432,
+          "4": 354
+        },
+        "passed": true
+      },
+      {
+        "profile": "jog",
+        "hz": 60,
+        "edge_ratio_min": 0.8800825908479195,
+        "edge_ratio_max": 1.1623496610276243,
+        "peak_up95_cm": 12.87884521484375,
+        "cycles": [
+          {
+            "stop": 3,
+            "quiet_up95_cm": 0.000244140625,
+            "quiet_upmax_cm": 0.0002593994140625,
+            "quiet_drift95_cm": 0.00035589432809501886,
+            "quiet_speed95_cm_s": 0.0022738149833552174,
+            "recovery_seconds": 1.564621925354004e-07,
+            "passed": true
+          },
+          {
+            "stop": 8,
+            "quiet_up95_cm": 0.000244140625,
+            "quiet_upmax_cm": 0.000244140625,
+            "quiet_drift95_cm": 0.00034588243579491973,
+            "quiet_speed95_cm_s": 0.0021675080094668564,
+            "recovery_seconds": 4.172325134277344e-07,
+            "passed": true
+          },
+          {
+            "stop": 13,
+            "quiet_up95_cm": 2.288818359375e-05,
+            "quiet_upmax_cm": 3.0517578125e-05,
+            "quiet_drift95_cm": 4.4616175728151575e-05,
+            "quiet_speed95_cm_s": 0.000159397749357136,
+            "recovery_seconds": 6.780028343200684e-07,
+            "passed": true
+          }
+        ],
+        "first_skirt_tick_cm": 0.2202998250722885,
+        "sim_sha256": "47085bfeb2763ba2da7f4dfd9eef344b1f94e77a231e0d86f59e6ec45f163718",
+        "fixed_point_error_cm": 3.329572522779311e-05,
+        "max_distance_excess_cm": 3.329572522779311e-05,
+        "simulated_asset_particle_counts": {
+          "0": 125,
+          "1": 546,
+          "2": 64,
+          "3": 432,
+          "4": 354
+        },
+        "passed": true
+      },
+      {
+        "profile": "crouch",
+        "hz": 30,
+        "edge_ratio_min": 0.8382497890487867,
+        "edge_ratio_max": 1.2070102195865335,
+        "peak_up95_cm": 0.0093994140625,
+        "cycles": [
+          {
+            "stop": 3,
+            "quiet_up95_cm": -0.0064697265625,
+            "quiet_upmax_cm": -0.0064697265625,
+            "quiet_drift95_cm": 0.006699622143059969,
+            "quiet_speed95_cm_s": 0.02007550501802165,
+            "recovery_seconds": 1.564621925354004e-07,
+            "passed": true
+          },
+          {
+            "stop": 8,
+            "quiet_up95_cm": 0.00228118896484375,
+            "quiet_upmax_cm": 0.00228118896484375,
+            "quiet_drift95_cm": 0.0022827526554465294,
+            "quiet_speed95_cm_s": 0.006825076060179379,
+            "recovery_seconds": 4.172325134277344e-07,
+            "passed": true
+          },
+          {
+            "stop": 13,
+            "quiet_up95_cm": 7.62939453125e-06,
+            "quiet_upmax_cm": 1.52587890625e-05,
+            "quiet_drift95_cm": 1.6482905266457237e-05,
+            "quiet_speed95_cm_s": 5.905539420703233e-05,
+            "recovery_seconds": 6.780028343200684e-07,
+            "passed": true
+          }
+        ],
+        "first_skirt_tick_cm": 0.22020456194877625,
+        "sim_sha256": "6c975ca2d8e75f1c8c767f3cd4490fee26c057f307dd13fa3f44f706e7044361",
+        "fixed_point_error_cm": 3.225619827636953e-05,
+        "max_distance_excess_cm": 3.225619827636953e-05,
+        "simulated_asset_particle_counts": {
+          "0": 125,
+          "1": 546,
+          "2": 64,
+          "3": 432,
+          "4": 354
+        },
+        "passed": true
+      },
+      {
+        "profile": "crouch",
+        "hz": 60,
+        "edge_ratio_min": 0.888821830689911,
+        "edge_ratio_max": 1.1710784610646094,
+        "peak_up95_cm": 2.6233901977539062,
+        "cycles": [
+          {
+            "stop": 3,
+            "quiet_up95_cm": 0.0002182006137445569,
+            "quiet_upmax_cm": 0.0005340576171875,
+            "quiet_drift95_cm": 0.007641736418008804,
+            "quiet_speed95_cm_s": 0.04015347990338237,
+            "recovery_seconds": 1.564621925354004e-07,
+            "passed": true
+          },
+          {
+            "stop": 8,
+            "quiet_up95_cm": 0.0024261474609375,
+            "quiet_upmax_cm": 0.00272369384765625,
+            "quiet_drift95_cm": 0.002440862590447068,
+            "quiet_speed95_cm_s": 0.013696970635065477,
+            "recovery_seconds": 4.172325134277344e-07,
+            "passed": true
+          },
+          {
+            "stop": 13,
+            "quiet_up95_cm": 0.0002227781806141138,
+            "quiet_upmax_cm": 0.0005340576171875,
+            "quiet_drift95_cm": 0.0012053486425429583,
+            "quiet_speed95_cm_s": 0.00016365450084358262,
+            "recovery_seconds": 6.780028343200684e-07,
+            "passed": true
+          }
+        ],
+        "first_skirt_tick_cm": 0.2202998250722885,
+        "sim_sha256": "04202fe15261c96be84bc73059c824871530c434fe5188cfcfc282d18bc96903",
+        "fixed_point_error_cm": 3.2433659944214225e-05,
+        "max_distance_excess_cm": 3.2433659944214225e-05,
+        "simulated_asset_particle_counts": {
+          "0": 125,
+          "1": 546,
+          "2": 64,
+          "3": 432,
+          "4": 354
+        },
+        "passed": true
+      }
+    ],
+    "basis": "final quantized LBS and cloth mapping on continuous synthetic motion",
+    "game_runtime_tested": false,
+    "document_sha256": "71b9416bb8e7ec65d3931c05db7461398c06bdd7559fdb788a0b6d1ad7433c59"
+  },
+  "static_mapping": {
+    "passed": true,
+    "max_error_cm": 0.21999996411033218,
+    "basis": "actual extracted section/GPU mapping and independently checked authored physical rest guide"
+  },
+  "game_runtime_tested": false,
+  "limitations": [
+    "Synthetic animations and single-thread editor timings; no game FPS guarantee.",
+    "Residual clipping remains; deep crouch and performance require game feedback.",
+    "Five cloth assets still share the 12/3 solver; four individual configs preserved."
+  ]
+}

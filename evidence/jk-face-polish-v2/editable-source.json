@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "source_sha256": "8eab16b2a2ae302ef614b6b2b0538a69b8a6ca273fa651339d1cbd7f919b19fd",
+  "output_sha256": "bb0e2e71995ef2def7e88fffea64b046ca83c2121bec493ba056c9d56b2a938b",
+  "native_sha256": "028c96a95202ead0fbb184022fd7d178be8f72e7296b358f2d95383d4519e62d",
+  "changed_source_vertices": 318,
+  "iris_source_vertices": 148,
+  "bones": 264,
+  "source_weights_and_topology_exact": true,
+  "isolated_base_atlas_materials": [
+    "MI_JK_Base"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "package_count": 3,
+  "packages": [
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_JK_Base",
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FacePolish2"
+  ],
+  "container_files": [
+    {
+      "name": "zzzzzzzzz_Sui_JKFacePolish2_8_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzzz_Sui_JKFacePolish2_8_P.ucas",
+      "bytes": 55155634,
+      "sha256": "abf923b7a34fbdcdf5318f4e12ec6b76970ce36e38b1db585a3748d0901b5549"
+    },
+    {
+      "name": "zzzzzzzzz_Sui_JKFacePolish2_8_P.utoc",
+      "bytes": 10962,
+      "sha256": "61db71973ac2a6fbd99bc438478b83b7a4eed4d03bbbf83b21900ed16d9a7b14"
+    }
+  ],
+  "source_atlas_sha256": "121600b6ec085f0c64f14ff81b487ec2f929e21981536ebe680d7152a76cb541",
+  "native_render_sha256": "028c96a95202ead0fbb184022fd7d178be8f72e7296b358f2d95383d4519e62d",
+  "patched_render_sha256": "028c96a95202ead0fbb184022fd7d178be8f72e7296b358f2d95383d4519e62d",
+  "bounded_native_changes_exact": true,
+  "original_weights_exact": true,
+  "skeleton_sections_cloth_physics_indices_exact": true,
+  "base_native_shader_export_exact": true,
+  "vt_size": 8192,
+  "vt_mips": 14,
+  "resolved_payloads": {
+    "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple": {
+      ".uexp": "dbeee9664ab518dd2a7ce9f01a6a73d608128ebf2a70a3d93ec30b3ba489be64"
+    },
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_JK_Base": {
+      ".uexp": "b3741108a81925bea080efdfcb31156d3642434ca3531cfa9c00d3475f8ba6f7"
+    },
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_FacePolish2": {
+      ".uexp": "9ee7f3448dd475064adcc497f53f52aad569282bb8bc40df9c63ad4884f6168a",
+      ".ubulk": "a3272cfa63bbc2ef0e042021c63deff2b920a089c513e4f6c7b8343a16f9da5f"
+    }
+  },
+  "game_runtime_tested": false
+}

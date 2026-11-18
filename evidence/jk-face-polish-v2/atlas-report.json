@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "width": 8192,
+  "source_sha256": "98dbb84c606b04b27fb39aa31a6c5d1b00a1db95de43eb2d439de40bf211db8d",
+  "output_sha256": "121600b6ec085f0c64f14ff81b487ec2f929e21981536ebe680d7152a76cb541",
+  "shared_iris_source_sha256": "ae4ac013ad2ce16c8490aab57b02758cdc9cd008201adce76a2db81447f5c159",
+  "original_occupied_texels_exact": true,
+  "isolated_patch_origin": [
+    3372,
+    3308
+  ],
+  "isolated_patch_size": 1024,
+  "iris_red_tint_green_scale": 0.8
+}

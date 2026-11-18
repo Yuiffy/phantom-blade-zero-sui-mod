@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "final_container_readback": true,
+  "native_render_sha256": "028c96a95202ead0fbb184022fd7d178be8f72e7296b358f2d95383d4519e62d",
+  "source_atlas_sha256": "121600b6ec085f0c64f14ff81b487ec2f929e21981536ebe680d7152a76cb541",
+  "position_vertices": 537,
+  "iris_uv_vertices": 386,
+  "eyes_lashes_brows_smile_positions_and_frames_exact": true,
+  "all_other_uv_and_material_slots_exact": true,
+  "original_occupied_texels_exact": true,
+  "iris_triangle_sample_count": 288,
+  "min_triangle_normal_dot": 0.9821197390556335,
+  "min_triangle_area_ratio": 0.7055188417434692,
+  "edge_ratio": [
+    0.6995571851730347,
+    1.074718713760376
+  ],
+  "max_seam_spread_cm": 0.0,
+  "game_runtime_tested": false
+}

@@ -1,0 +1,40 @@
+{
+  "passed": true,
+  "position_vertices": 537,
+  "uv_vertices": 386,
+  "max_displacement_cm": 0.3697857233459449,
+  "chin_lift_cm": 0.36,
+  "cheek_taper_fraction": 0.025,
+  "iris_components": [
+    {
+      "component": 40,
+      "vertices": 192,
+      "bounds_min": [
+        -7.820828437805176,
+        176.05673217773438
+      ],
+      "bounds_size": [
+        3.779297351837158,
+        3.7109375
+      ]
+    },
+    {
+      "component": 41,
+      "vertices": 194,
+      "bounds_min": [
+        3.202122211456299,
+        175.95907592773438
+      ],
+      "bounds_size": [
+        3.779296875,
+        3.80859375
+      ]
+    }
+  ],
+  "eye_openings_lashes_brows_lips_positions_exact": true,
+  "source_sha256": "2005fd2f24dbdaa012a25b68aabe5433dec135ad5af444651fa83ea10c71924c",
+  "patched_render_sha256": "028c96a95202ead0fbb184022fd7d178be8f72e7296b358f2d95383d4519e62d",
+  "atlas_sha256": "121600b6ec085f0c64f14ff81b487ec2f929e21981536ebe680d7152a76cb541",
+  "minimum_jacobian_determinant": 0.6805136449386181,
+  "game_runtime_tested": false
+}
