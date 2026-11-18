@@ -1,0 +1,12 @@
+{
+  "source_sha256": "674a26ade276670d84f44b65995f0131074c8f5fbc605dd2da23956c37112168",
+  "output_sha256": "5055751651f65722ccf49ab76d79f60091060c482192e03b771931442c5a1ea6",
+  "changed_pixels": 1048165,
+  "old_occupied_skin_texels_exact": true,
+  "isolated_patch_origin": [
+    4108,
+    4260
+  ],
+  "isolated_patch_size": 1024,
+  "minimum_chart_gutter": 48
+}
