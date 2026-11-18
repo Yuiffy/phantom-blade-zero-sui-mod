@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "source_native_sha256": "d962ed1a21f5aed110d40a490194c275b146e9354c32c96ccd2b120046cfeac9",
+  "native_sha256": "712b8a5924f69a9b66adec5eb0babf1b13d1a4cbd18920c01b278c2767f32e7a",
+  "groups": [
+    {
+      "material": 16,
+      "old_vertices": 436,
+      "old_triangles": 314,
+      "new_vertices": 176,
+      "new_triangles": 304
+    },
+    {
+      "material": 17,
+      "old_vertices": 171,
+      "old_triangles": 121,
+      "new_vertices": 50,
+      "new_triangles": 96
+    }
+  ],
+  "closed_strap_segments": 32,
+  "skin_clearance_outer_cm": 0.18,
+  "skin_clearance_inner_cm": 0.035,
+  "strap_height_cm": 0.78,
+  "heart_width_cm": 1.58,
+  "heart_height_cm": 1.49,
+  "original_uvs_exact": true,
+  "original_materials_exact": true,
+  "game_runtime_tested": false
+}

@@ -1,0 +1,12 @@
+{
+  "reviewed": true,
+  "native_render_sha256": "712b8a5924f69a9b66adec5eb0babf1b13d1a4cbd18920c01b278c2767f32e7a",
+  "images": {
+    "after-neck.png": "3e08aa4222243e23353d44fde05a767faa99ef7b9789579b1aeff87b27d1a9a9",
+    "after-neck-angle.png": "cfd39a8ab0aa8387b3c5e40688f8181f3ac3b1f313b5fe67aa609e4f07052852",
+    "after-neck-side.png": "3944bfcffd97050f993e3fb8c1e3f1e36d69702002834528de41aea251dda13e",
+    "after-front.png": "94fc4a302ebfcb3d71f3a9038de32b867d221eb0f0e32643313a6b1718138f94"
+  },
+  "scope": "Final container native readback: complete black strap, silver heart and black bezel; front/angled/side neck and complete face reviewed. Source PNG and native constant accessory materials; offline lighting, not gameplay.",
+  "game_runtime_tested": false
+}
