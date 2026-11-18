@@ -1,0 +1,11 @@
+{
+  "source_sha256": "9fe8ec479d4f6bfeba5c3dd448642803b51995bd0bcb30282aed32141ea6236d",
+  "output_sha256": "07a4a4b21e036436b4bd204dedd44f9c182275db9109bd932d7a6d7a45ca1ef7",
+  "carrier_hair_deprojection_texels": 19438,
+  "uv_tile": [
+    3552,
+    3808,
+    1088,
+    1088
+  ]
+}

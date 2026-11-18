@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "status": "independent-final-container-verified-runtime-pending",
+  "package_count": 2,
+  "packages": [
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+    "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base"
+  ],
+  "container_files": [
+    {
+      "name": "zzzzz_Sui_OutfitPatterns1_4_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzz_Sui_OutfitPatterns1_4_P.ucas",
+      "bytes": 95278452,
+      "sha256": "2ddf1afaef1415658c027b3e43bcbe88dacce07a0432cb9710f2d9b60413225b"
+    },
+    {
+      "name": "zzzzz_Sui_OutfitPatterns1_4_P.utoc",
+      "bytes": 18257,
+      "sha256": "001d2777d30b54b5f4def63e49778f8f1bc76d39c623b6b00961a4f43faeeddb"
+    }
+  ],
+  "textures": [
+    {
+      "outfit": "jk",
+      "package": "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base",
+      "size": 8192,
+      "vt": true,
+      "source_sha256": "98dbb84c606b04b27fb39aa31a6c5d1b00a1db95de43eb2d439de40bf211db8d"
+    },
+    {
+      "outfit": "jirai",
+      "package": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base",
+      "size": 8192,
+      "vt": true,
+      "source_sha256": "7ea4b3128c27f6206ff29d77865d93edd9aa396ce43dd9e7ef5edda8344a1ab5"
+    }
+  ],
+  "resolved_payloads": {
+    "/HuaShira/Mods/SuiPBZ/JKVT/T_JK_Base": {
+      ".uexp": "02ec28221cd4dc163b236af3db2d9b7d31f416afc2093c5043d4aa8513fe517a",
+      ".ubulk": "676e036619a94214b64d164d0beac2ef4f4113ea67544f4a8665a6a0ba712f7d"
+    },
+    "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Base": {
+      ".uexp": "ea50f55e6944131853aa54bd1a83bf7b982fe193aea2a970e870fc057a1decfa",
+      ".ubulk": "a8c71822d31289d3485f8ca672bce4bc0e72097cdf7d1577adf241bd39922182"
+    }
+  },
+  "no_mesh_material_physics_or_gameplay_packages": true,
+  "game_runtime_tested": false
+}

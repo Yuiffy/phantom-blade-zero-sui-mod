@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "status": "independent-final-container-verified-runtime-pending",
+  "package_count": 3,
+  "packages": [
+    "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Hairpin1",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_Jirai_Hair",
+    "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple"
+  ],
+  "container_files": [
+    {
+      "name": "zzzz_Sui_JiraiHairpin1_3_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzz_Sui_JiraiHairpin1_3_P.ucas",
+      "bytes": 54169262,
+      "sha256": "49c88071fb817893402153037d215ee3e91f950af3c4afd28c554bb5d1e32bda"
+    },
+    {
+      "name": "zzzz_Sui_JiraiHairpin1_3_P.utoc",
+      "bytes": 10787,
+      "sha256": "7d0bfb83f3a6eeabb261f63ba3037b5ea585032dc5c3f0f1df947c167508b60b"
+    }
+  ],
+  "source_atlas_sha256": "07a4a4b21e036436b4bd204dedd44f9c182275db9109bd932d7a6d7a45ca1ef7",
+  "authored_geometry_sha256": "a10e811d75860f66fa31402f03f5feea1e27cc586ae3efcd5ff6a9b157ead1f9",
+  "native_render_sha256": "5897b6efca7a14daaf2db87ab426ff7a7f2c4130816914b8da2730e1d5c4c0a3",
+  "all_non_accessory_bytes_exact": true,
+  "face3_geometry_frames_uv_exact": true,
+  "uv1_weights_skeleton_cloth_physics_exact": true,
+  "native_hair_material_export_payload_exact": true,
+  "vt_size": 8192,
+  "vt_mips": 14,
+  "game_runtime_tested": false
+}

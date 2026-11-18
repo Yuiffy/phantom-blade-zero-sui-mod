@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "final_container_readback": true,
+  "native_render_sha256": "c0ad855d0497ddca101d35553cd6d5815a86dd04d60f551c4bd879bf47b12f0d",
+  "source_atlas_sha256": "dc40ea3f73dc3deae83612c82810ecebb5ef6d6b1b8dbf5d2b6913afd0482638",
+  "unrelated_positions_frames_indices_exact": true,
+  "uv1_and_non_skin_uv_exact": true,
+  "mouth_geometry_exact": true,
+  "bridge_triangles": 67,
+  "closed_arm_boundaries": [
+    {
+      "side": -1,
+      "ring": "upper_original",
+      "closed_edges": 18
+    },
+    {
+      "side": -1,
+      "ring": "lower_original",
+      "closed_edges": 17
+    },
+    {
+      "side": 1,
+      "ring": "upper_original",
+      "closed_edges": 17
+    },
+    {
+      "side": 1,
+      "ring": "lower_original",
+      "closed_edges": 15
+    }
+  ],
+  "bridge_boundary_position_copies_exact": true,
+  "skin_weight_copy_count": 791,
+  "eyelid_patch_triangles": 1413,
+  "eyelid_head_seam_edges_closed": 61,
+  "eyelid_projection_unfolded": true,
+  "eye_projection": [
+    {
+      "stage": "before",
+      "visible_sclera_rays": 9045,
+      "visible_iris_rays": 18296
+    },
+    {
+      "stage": "after",
+      "visible_sclera_rays": 5706,
+      "visible_iris_rays": 12405
+    }
+  ],
+  "halo_principal_plane_aspect": 0.9346221785442868,
+  "body_chart_uniform_verified": true,
+  "game_runtime_tested": false
+}

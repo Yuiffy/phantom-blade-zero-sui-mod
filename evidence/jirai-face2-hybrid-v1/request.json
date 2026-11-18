@@ -1,0 +1,7 @@
+{
+  "date": "2026-11-18",
+  "user_request": "模型保持face2，瞳孔和眼白部分升级到face3，不修改眼眶。嘴巴也用face2，只是把嘴巴的黑色杂色去掉。",
+  "previous_candidate": "Polish1",
+  "previous_candidate_rejected_by_user": true,
+  "new_candidate_game_runtime_tested": false
+}

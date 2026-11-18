@@ -1,0 +1,21 @@
+{
+  "reviewed": true,
+  "native_render_sha256": "c0ad855d0497ddca101d35553cd6d5815a86dd04d60f551c4bd879bf47b12f0d",
+  "source_atlas_sha256": "dc40ea3f73dc3deae83612c82810ecebb5ef6d6b1b8dbf5d2b6913afd0482638",
+  "images": {
+    "after-front.png": "4c08bb3f90e16a9eae4ef35f630e85fd76445c990e9b25f4b50485611fd93f78",
+    "after-angle.png": "fdffe44c15cc6efcc6536aaa56154c236f15c42887dfb29a7da9876efd04e442",
+    "after-side.png": "b64a7296f23255c2cc07730f00273690539e3d8d9ad6c79260c280361755ddb1",
+    "after-shoulder.png": "9b1c4f6b6b4507b74811085ae09728c63d81071488d630bb575007000c8baecf",
+    "after-shoulder-back.png": "6136540d7d52dfc1370363586a40a66657e0769a533efee879f55ede2a0ae342",
+    "after-halo.png": "530b8684080df2f194381d93bef03dbb94e5f26502d1c9529a9d39a7333fa150",
+    "after-upper.png": "39d6611c6fed2e68bb95e9c0a67fe391b93a9f0f6c4268bdec276705c8f1cc78"
+  },
+  "scope": [
+    "Front, oblique and side: smaller eye opening, attached continuous lids, clean skin and softer mouth line",
+    "Shoulder front and rear: skin bridges inside both original arm boundary pairs; weights and winding verified numerically",
+    "Halo and upper body: JK-oriented rounder halo and retained accessories/outfit",
+    "Minor source surface irregularity remains near the outer eye corners in close views; offline appearance is improved, gameplay pending"
+  ],
+  "game_runtime_tested": false
+}

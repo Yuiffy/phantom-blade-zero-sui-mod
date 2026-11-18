@@ -1,0 +1,26 @@
+{
+  "reviewed": true,
+  "source_atlas_sha256": "b5795dad42424d58159b6eb0780e0b84bd2686651d19a2c4d79159c5ac924792",
+  "reviewed_views": [
+    "before-front",
+    "after-front",
+    "after-left",
+    "after-right"
+  ],
+  "observations": [
+    "baked brow/lash patches removed from bangs",
+    "pink streak retained",
+    "original eyebrows remain behind bangs",
+    "nasal backing changed to warm white",
+    "normal shading and iris border remain; native game lighting untested"
+  ],
+  "images": {
+    "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-face-v2\\preview\\after-front.png": "6fb7294f43aaf7dd88eb7e89bcabe79388e608bd4d492ea19e0763d7a6b3202f",
+    "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-face-v2\\preview\\after-left.png": "de8ec3e8ccb5dfa8dfd09ca03387bfc38c79aed32d22f84fa785d16e6cf7420b",
+    "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-face-v2\\preview\\after-right.png": "dc06f02f2c97b1da84cafb7f4051a8095a49558f1ec89196ede2676fd370eb1b",
+    "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-face-v2\\preview\\before-front.png": "2b84d5ce59e793a8808b582ed83ba62322db1eb7cab7c4e1766c472516bb1a3c",
+    "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-face-v2\\preview\\before-left.png": "501668e672e2d12563b1761430c44d6b748fa7d2abdddcd89371441a90e875ec",
+    "D:\\workspace\\myrepo\\phantom-blade-zero-sui-mod\\private\\jirai-face-v2\\preview\\before-right.png": "aa94cecdd86f846df3e81763eb22a216ff121ee02dc544d8d6771d8c2616d6c3"
+  },
+  "game_runtime_tested": false
+}

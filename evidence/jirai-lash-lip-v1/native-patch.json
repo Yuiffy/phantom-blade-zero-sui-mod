@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "changed_native_bytes": 7862,
+  "changed_records": {
+    "positions": 72,
+    "frames": 0,
+    "indices": 0,
+    "uv0": 2042
+  },
+  "weight_copied_vertices": 0,
+  "original_weights_elsewhere_exact": true,
+  "uv1_exact": true,
+  "skeleton_sections_cloth_physics_exact": true,
+  "source_header_sha256": "8a2bec1ddba3979b0d18b1ecf1827203cc711661dbfcf21fe3df080aea5b6529",
+  "output_payload_sha256": "c49d3b2ff472accbb401a4bdfed47fd004925716196ad83969a0e43f9fcb9778"
+}

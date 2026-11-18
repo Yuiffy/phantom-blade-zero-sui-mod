@@ -1,0 +1,16 @@
+{
+  "reviewed": true,
+  "native_render_sha256": "c98c26b0edfbb9bdd92a6322f5c11242d6d0aced33e366c48faa5170ff80e056",
+  "source_atlas_sha256": "82250e89a8a73d2bec25965140325ad6b70b2f6d12bd1ec227928d530c0c5b1a",
+  "images": {
+    "after-front.png": "8856b1d247ee3ebba172d302d33ad568a3bd19f594ea431f4b5e8acceb3618f9",
+    "after-angle.png": "6fb5a4ad462d4680ba584919546d4879021c3b1bc8d52b13f7d6b149444410d2",
+    "after-side.png": "ec6de4cd663bcd513a0be65981eb6c1ae30ad114d913c0e83c58568ecbd9fb1e",
+    "after-shoulder.png": "72da62ceb2cd3994c5f48be04cb077e3d958b2d29e55d2f0b124e218c97c9e4f",
+    "after-shoulder-back.png": "6cbe44db6f2637eb4974fc75a9d2276e51b30e335551839d50473493a5b16a7a",
+    "after-halo.png": "ad1005642fa7a8393a223fd495718b414a27a77bc2c45c12df491ded62d561f3",
+    "after-upper.png": "bbfa43788348def93bbe8bcf3100e4b66f28049653170865a91b6b5ebcad09df"
+  },
+  "scope": "Seven offline views inspected: front, angle, side, shoulder, shoulder-back, halo, upper. Final readback rerender pixels exactly match reviewed preflight images; PNG metadata differs. Face2 eye socket/lash and lip silhouettes retained; Face3 independent iris and closed sclera; mouth dark shading reduced. Original surface/texture variation remains. Source PNG previews do not reproduce cooked VT or native runtime shaders.",
+  "game_runtime_tested": false
+}

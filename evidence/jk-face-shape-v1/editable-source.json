@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "source_sha256": "618bd0e55d3f69b89ab7e9e37de20cab6dfaf06d21260bb58ba25c9dd4e85d10",
+  "output_sha256": "8eab16b2a2ae302ef614b6b2b0538a69b8a6ca273fa651339d1cbd7f919b19fd",
+  "native_sha256": "2005fd2f24dbdaa012a25b68aabe5433dec135ad5af444651fa83ea10c71924c",
+  "changed_source_vertices": 531,
+  "bones": 264,
+  "source_weights_uv_and_topology_exact": true,
+  "embedded_atlas_replacements": [
+    "sui-jk-albedo-v2.png"
+  ]
+}

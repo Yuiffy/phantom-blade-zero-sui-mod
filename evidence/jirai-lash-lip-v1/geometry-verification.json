@@ -1,0 +1,40 @@
+{
+  "passed": true,
+  "final_container_readback": true,
+  "native_render_sha256": "d962ed1a21f5aed110d40a490194c275b146e9354c32c96ccd2b120046cfeac9",
+  "source_atlas_sha256": "674a26ade276670d84f44b65995f0131074c8f5fbc605dd2da23956c37112168",
+  "eye_socket_and_lash_geometry_exact": true,
+  "face3_iris_and_sclera_positions_frames_uv_indices_exact": true,
+  "other_positions_except_right_lip_exact": true,
+  "all_indices_frames_uv1_exact": true,
+  "mouth_merged_vertices": 72,
+  "mouth_max_shift_cm": 0.30633544921875,
+  "mouth_min_area_ratio": 0.11996526271104813,
+  "mouth_triangle_winding_preserved": true,
+  "black_lash_triangle_centroids": 794,
+  "source_png_color_test_not_cooked_vt": true,
+  "original_skin_atlas_occupied_pixels_exact": true,
+  "atlas_edits_only_in_isolated_region": true,
+  "uniform_other_skin_texture_inputs": {
+    "T_Jirai_FlatNormal": [
+      128,
+      128,
+      255,
+      255
+    ],
+    "T_Jirai_ARM_Skin": [
+      255,
+      145,
+      0,
+      255
+    ],
+    "T_SkinEyes_SCMT": [
+      89,
+      255,
+      0,
+      96
+    ]
+  },
+  "halo_hair_and_arm_repair_geometry_exact": true,
+  "game_runtime_tested": false
+}

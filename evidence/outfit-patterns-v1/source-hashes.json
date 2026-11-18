@@ -1,0 +1,7 @@
+{
+  "jk_original_4k_sha256": "21fff85969b1f234e6dd941cc870d3e00830e7b00790cece07b5d6074c5643bf",
+  "jk_upscale": "4096 to 8192 nearest-neighbor; exact repeated original pixel blocks before local repaint",
+  "jk_reference_sha256": "bab9d811e3baa468afe109c0bc38217f8055a4896203ce82dcdfde003139c308",
+  "jirai_reference_sha256": "1b384ec24e7fce0aaaa1dba78b0d60e82c3abca5bc80821a76f8f3ec0fdf49ce",
+  "reference_and_derived_images_private": true
+}

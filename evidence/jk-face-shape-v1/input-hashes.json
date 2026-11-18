@@ -1,0 +1,24 @@
+{
+  "inputs": {
+    "native_baseline": "8773888a12627fa8c604ecb6ecc7a39680f03c29f83e39b872c0991137f3ec1c",
+    "components": "c80469f5962490b14e47316cd56df46ecc67e72e281075f388b007bf0aa877a2",
+    "jirai_native_reference": "5897b6efca7a14daaf2db87ab426ff7a7f2c4130816914b8da2730e1d5c4c0a3",
+    "native_source_header": "20410aa6e15dd866fa69b64aeb672102dc0e9de7af05768ba1f4bbcd45dfccff",
+    "native_source_payload": "c2137325132412319327a09bd773bbe8c6aecd75ad422033257a96af56cab5f6",
+    "pattern_atlas_source": "98dbb84c606b04b27fb39aa31a6c5d1b00a1db95de43eb2d439de40bf211db8d"
+  },
+  "code": {
+    "author_shape.py": "bd1308078ef1f86f309124eaef22876c473d5aad1d290baf886c55960b5f47f6",
+    "collect_evidence.py": "58bcb80fbddad5441116c4ffa2fc52a72d43c5a0eb148107ec177086e8aca71a",
+    "common.py": "c0bd7703a81652c8a09fe11234424353ec728d35a4c759c71500d017321df342",
+    "install.py": "4dc5c304f26b2c4a51b274a174733ae5cb5d1f0b234517a881e09a13556eee7c",
+    "make_comparison.py": "135ec27b6141775a1b2fe1165c091f4f93e23f03331ed12b2b3492854ab9a8bf",
+    "package_candidate.py": "dda9d91d41d7feb75b193d95ca0169fc7471ec7781ae63f914ad1fb1f61f4e13",
+    "record_skirt_diagnosis.py": "9f0fd6bc1ca0623873dfa3044c993a60a0e102f102da1bbe37be03276289a043",
+    "render_review.py": "ad562cfc59cd2ee3ed84270518c8bb6d5d92f4a1651bcce6245a4e7ff3a22db6",
+    "run_blender.py": "0d2d1de6478059846907516d1ace82e46808a407cb1b267f23463eded2e97f2f",
+    "save_editable.py": "efb98f02f946351df9f502d8a5e7a02d97475d3c975f16505a6217bb8835b345",
+    "verify_geometry.py": "2feed29e4cb3a48c6618803c91af6f163fdea03dbef4b331325767e4e546f20e"
+  },
+  "capture_stage": "final verification; native baseline independently matched against the frozen source and installed readback"
+}

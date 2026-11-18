@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "source_header_sha256": "20410aa6e15dd866fa69b64aeb672102dc0e9de7af05768ba1f4bbcd45dfccff",
+  "output_header_sha256": "20410aa6e15dd866fa69b64aeb672102dc0e9de7af05768ba1f4bbcd45dfccff",
+  "source_payload_sha256": "c2137325132412319327a09bd773bbe8c6aecd75ad422033257a96af56cab5f6",
+  "output_payload_sha256": "6ad2c9845672f041db859f1904b4a88e9cd3f707da1e4bbecd7d9b41ea9a1906",
+  "changed_native_bytes": 7053,
+  "changed_position_vertices": 947,
+  "only_head_position_tangent_bytes_changed": true,
+  "other_export_bytes_exact": true
+}

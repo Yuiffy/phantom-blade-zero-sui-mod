@@ -1,0 +1,21 @@
+{
+  "reviewed": true,
+  "native_sha256": "2005fd2f24dbdaa012a25b68aabe5433dec135ad5af444651fa83ea10c71924c",
+  "render_manifest_sha256": "ad162dd03ef1347b209e0f1a287f44a5044636394e98119a692cf776dd51982b",
+  "image_hashes": {
+    "before-front.png": "aad1d39d02da8962f0783d5177c9105e990d8f7e0b1d044396657ecb98d8a9b5",
+    "before-threequarter.png": "6181c4ea386a60ec3272429d7edc4df3f2c0c7200cff0ae153a509f82e7eff57",
+    "before-side.png": "4bf4ec9067c4944c4cc2d94e4598d365854bf74bdfcc19f57f97e7009624f709",
+    "final-front.png": "7b74f4ab68a96821a6dd3fa60fc2b91dbad1c65634c6510cdfd5ac0c8ebb5bc4",
+    "final-threequarter.png": "da27c335274d41901032feef6115eeede99d801564bd935e215966bb2f1a8443",
+    "final-side.png": "da0780488b81ab28113ca0a6c4cf0291914172fab71a86c4e4d77244134ba0ad"
+  },
+  "comparison_sha256": "682ad5f22fd8e6a86af61759498b187bfe5c3065530b942fb823bdccced54123",
+  "observations": [
+    "Rounded cheek-to-jaw transition retained after reducing the first draft deformation.",
+    "Eyes, lips and central profile remain visually consistent with the JK baseline.",
+    "No new gap or abrupt inward notch visible in the final three-quarter cheek contour.",
+    "Source PNG Blender preview; not game shading or runtime evidence."
+  ],
+  "game_runtime_tested": false
+}

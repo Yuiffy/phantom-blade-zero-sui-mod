@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "source_native_sha256": "5897b6efca7a14daaf2db87ab426ff7a7f2c4130816914b8da2730e1d5c4c0a3",
+  "native_sha256": "c0ad855d0497ddca101d35553cd6d5815a86dd04d60f551c4bd879bf47b12f0d",
+  "atlas_sha256": "dc40ea3f73dc3deae83612c82810ecebb5ef6d6b1b8dbf5d2b6913afd0482638",
+  "head_uv_vertices": 4298,
+  "mouth_geometry_preserved_vertices": 610,
+  "mouth_backing_triangles": 0,
+  "skin_uv_vertices": 7965,
+  "skin_chart": "continuous planar head chart, uniform body tile; chart transitions below face patterns",
+  "eyelid_patch_triangles": 1413,
+  "eyelid_patch_vertices": 724,
+  "eyelid_seam_vertices": 61,
+  "replaced_eye_triangle_slots": 1538,
+  "inactive_eye_triangle_slots": 125,
+  "halo_vertices": 3231,
+  "halo_plane_from_jk_native": true,
+  "halo_in_plane_scale": [
+    2.2,
+    0.9
+  ],
+  "reserve_vertices": 194,
+  "reserve_triangles": 88,
+  "bridge_vertices": 67,
+  "bridge_triangles": 67,
+  "face_tile": [
+    64,
+    64,
+    3968,
+    3968
+  ],
+  "game_runtime_tested": false
+}

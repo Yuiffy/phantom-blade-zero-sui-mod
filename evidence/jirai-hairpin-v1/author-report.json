@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "source_components": [
+    22,
+    34,
+    132
+  ],
+  "old_native_vertices": 955,
+  "old_triangles": 803,
+  "new_vertices": 394,
+  "new_triangles": 768,
+  "inactive_vertex_slots": 561,
+  "inactive_degenerate_triangle_slots": 35,
+  "groups": [
+    {
+      "name": "heart",
+      "vertex_end": 290,
+      "triangle_end": 576
+    },
+    {
+      "name": "cross-vertical",
+      "vertex_end": 316,
+      "triangle_end": 624
+    },
+    {
+      "name": "cross-horizontal",
+      "vertex_end": 342,
+      "triangle_end": 672
+    },
+    {
+      "name": "pin-long",
+      "vertex_end": 368,
+      "triangle_end": 720
+    },
+    {
+      "name": "pin-short",
+      "vertex_end": 394,
+      "triangle_end": 768
+    }
+  ],
+  "head_weights_exact": true,
+  "uv1_exact": true,
+  "closed_consistently_oriented_solids": 5,
+  "unrelated_hair_texels_exact": true,
+  "carrier_hair_deprojection_texels": 19438,
+  "texture_sha256": "07a4a4b21e036436b4bd204dedd44f9c182275db9109bd932d7a6d7a45ca1ef7",
+  "uv_tile": [
+    3552,
+    3808,
+    1088,
+    1088
+  ],
+  "native_source_sha256": "19cabf18bd03b152bca943b6e92b3430998b81b1801cdbcc26602b4f9d038511",
+  "game_runtime_tested": false
+}

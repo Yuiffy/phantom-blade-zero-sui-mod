@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "albedo": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Face2",
+  "materials": [
+    {
+      "package": "/HuaShira/Mods/SuiPBZ/Materials/MI_Jirai_Skin",
+      "changed": "Albedo texture import only",
+      "all_export_bytes_exact": true,
+      "parent_scalars_normals_mix_and_shader_payload_unchanged": true,
+      "source_payload_sha256": "1a303e2470fb0cc7b5ecf34a961eb6615a89771354b3b841b2628380316bc849",
+      "output_payload_sha256": "1a303e2470fb0cc7b5ecf34a961eb6615a89771354b3b841b2628380316bc849"
+    },
+    {
+      "package": "/HuaShira/Mods/SuiPBZ/Materials/MI_Jirai_Hair",
+      "changed": "Albedo texture import only",
+      "all_export_bytes_exact": true,
+      "parent_scalars_normals_mix_and_shader_payload_unchanged": true,
+      "source_payload_sha256": "b3741108a81925bea080efdfcb31156d3642434ca3531cfa9c00d3475f8ba6f7",
+      "output_payload_sha256": "b3741108a81925bea080efdfcb31156d3642434ca3531cfa9c00d3475f8ba6f7"
+    }
+  ]
+}

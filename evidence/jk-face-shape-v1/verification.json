@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "package_count": 1,
+  "package": "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple",
+  "container_files": [
+    {
+      "name": "zzzzzz_Sui_JKFaceShape1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzz_Sui_JKFaceShape1_P.ucas",
+      "bytes": 7511618,
+      "sha256": "4ac94f353836a59f27d981ae9e0d10c693febf6069a0aba4943623d93e485ba4"
+    },
+    {
+      "name": "zzzzzz_Sui_JKFaceShape1_P.utoc",
+      "bytes": 1908,
+      "sha256": "32e4e5836ec44896de203b7c9506d5805ebab8a5856d79279577fd4785b24264"
+    }
+  ],
+  "native_render_sha256": "2005fd2f24dbdaa012a25b68aabe5433dec135ad5af444651fa83ea10c71924c",
+  "changed_vertices": 947,
+  "all_other_native_export_bytes_exact": true,
+  "uv_indices_weights_skeleton_cloth_physics_exact": true,
+  "preserved_package_count": 131,
+  "directory_order_independent": true,
+  "eyes_mouth_and_all_other_components_exact": true,
+  "authored_sha256": "2005fd2f24dbdaa012a25b68aabe5433dec135ad5af444651fa83ea10c71924c",
+  "game_runtime_tested": false
+}

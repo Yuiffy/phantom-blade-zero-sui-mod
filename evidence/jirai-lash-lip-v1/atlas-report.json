@@ -1,0 +1,8 @@
+{
+  "source_sha256": "82250e89a8a73d2bec25965140325ad6b70b2f6d12bd1ec227928d530c0c5b1a",
+  "output_sha256": "674a26ade276670d84f44b65995f0131074c8f5fbc605dd2da23956c37112168",
+  "changed_pixels": 606978,
+  "original_atlas_pixels_exact": true,
+  "only_previously_unused_skin_atlas_region_written": true,
+  "planar_source_color_bake_islands": 2
+}

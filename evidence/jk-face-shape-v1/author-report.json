@@ -1,0 +1,50 @@
+{
+  "passed": true,
+  "changed_vertices": 947,
+  "max_displacement_cm": 0.9379339218139648,
+  "lower_face_widths": [
+    {
+      "z_cm": [
+        169,
+        171
+      ],
+      "before_cm": 12.702638626098633,
+      "after_cm": 11.501031875610352,
+      "jirai_reference_cm": 9.931640625
+    },
+    {
+      "z_cm": [
+        172,
+        175
+      ],
+      "before_cm": 17.53173828125,
+      "after_cm": 17.210588455200195,
+      "jirai_reference_cm": 14.501953125
+    },
+    {
+      "z_cm": [
+        175,
+        177
+      ],
+      "before_cm": 18.16162109375,
+      "after_cm": 18.141252517700195,
+      "jirai_reference_cm": 15.205078125
+    },
+    {
+      "z_cm": [
+        180,
+        183
+      ],
+      "before_cm": 20.681156158447266,
+      "after_cm": 19.623104095458984,
+      "jirai_reference_cm": 17.490234375
+    }
+  ],
+  "protected_eye_vertices": 1688,
+  "protected_lip_vertices": 1248,
+  "eyes_and_lips_positions_exact": true,
+  "all_other_components_exact": true,
+  "uv_indices_weights_cloth_and_textures_untouched": true,
+  "authored_sha256": "2005fd2f24dbdaa012a25b68aabe5433dec135ad5af444651fa83ea10c71924c",
+  "game_runtime_tested": false
+}

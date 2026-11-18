@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "native_sha256": "c98c26b0edfbb9bdd92a6322f5c11242d6d0aced33e366c48faa5170ff80e056",
+  "atlas_sha256": "82250e89a8a73d2bec25965140325ad6b70b2f6d12bd1ec227928d530c0c5b1a",
+  "face2_native_sha256": "6edf07a8cd69635af210c89a4337ac1df7352d9be6618b791a521a7dc7fa19f3",
+  "face3_native_sha256": "5897b6efca7a14daaf2db87ab426ff7a7f2c4130816914b8da2730e1d5c4c0a3",
+  "polish_native_sha256": "c0ad855d0497ddca101d35553cd6d5815a86dd04d60f551c4bd879bf47b12f0d",
+  "face2_geometry_restored": true,
+  "eye_socket_unmodified": true,
+  "mouth_geometry_unmodified": true,
+  "mouth_albedo_unmodified": true,
+  "mouth_shading_vertices": 444,
+  "bridge_vertices": 67,
+  "bridge_triangles": 67,
+  "arm_tile_xy": [
+    3834,
+    8159
+  ],
+  "arm_tile_rgb": [
+    227,
+    187,
+    187
+  ],
+  "game_runtime_tested": false
+}

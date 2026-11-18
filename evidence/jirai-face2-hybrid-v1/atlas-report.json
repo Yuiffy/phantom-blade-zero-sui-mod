@@ -1,0 +1,7 @@
+{
+  "source_sha256": "b5795dad42424d58159b6eb0780e0b84bd2686651d19a2c4d79159c5ac924792",
+  "output_sha256": "82250e89a8a73d2bec25965140325ad6b70b2f6d12bd1ec227928d530c0c5b1a",
+  "changed_pixels": 289,
+  "face2_all_original_skin_texels_exact": true,
+  "only_unused_arm_tile_added": true
+}

@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "outfits": {
+    "jk": {
+      "source_atlas_sha256": "5b3401f1df265134d8e48654415a5fa8452ed26db60559e591e52c1cfffb8b9e",
+      "source_native_sha256": "8773888a12627fa8c604ecb6ecc7a39680f03c29f83e39b872c0991137f3ec1c",
+      "source_component_map_sha256": "c80469f5962490b14e47316cd56df46ecc67e72e281075f388b007bf0aa877a2",
+      "output_atlas_sha256": "98dbb84c606b04b27fb39aa31a6c5d1b00a1db95de43eb2d439de40bf211db8d",
+      "changed_texels": 600636,
+      "unrelated_surface_changed_texels": 0,
+      "outside_uv_islands_and_padding_changed_texels": 0,
+      "native_geometry_uv_weights_cloth_physics_unmodified": true
+    },
+    "jirai": {
+      "source_atlas_sha256": "2ba9104fc7eb43a120eb94843b0c3c208dac92fe44f5b4168fe8f7eb3b5ec152",
+      "source_native_sha256": "5897b6efca7a14daaf2db87ab426ff7a7f2c4130816914b8da2730e1d5c4c0a3",
+      "source_component_map_sha256": "95420d109ba0acf5f27cb9bcebcaad04c4ee1430acc332bb34377ee7ce876950",
+      "output_atlas_sha256": "7ea4b3128c27f6206ff29d77865d93edd9aa396ce43dd9e7ef5edda8344a1ab5",
+      "changed_texels": 78099,
+      "unrelated_surface_changed_texels": 0,
+      "outside_uv_islands_and_padding_changed_texels": 0,
+      "native_geometry_uv_weights_cloth_physics_unmodified": true
+    }
+  },
+  "game_runtime_tested": false
+}
