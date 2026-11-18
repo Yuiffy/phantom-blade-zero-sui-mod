@@ -1,0 +1,76 @@
+{
+  "status": "final-container-cloth-config-and-collision-readback-passed",
+  "fbx_sha256": "e56c48f5d17fa6777710dc763182ff6b9178653af4c7a70eb51cbcde580db710",
+  "cloth_spec_sha256": "c4dc2a8135129136efa6a284279959ab0ae1552d49892fa73a3b44ae8eac89ef",
+  "render_skin_blend_verified": true,
+  "assets": [
+    {
+      "asset": "CA_Jirai_TailL_0",
+      "particles": 182,
+      "triangles": 300,
+      "render_slot": "MI_Jirai_TailL",
+      "maxdistance_map_matches": true,
+      "serialized_config_fields": [
+        "BendingStiffnessWeighted",
+        "bUseBendingElements",
+        "CollisionThickness",
+        "FrictionCoefficient",
+        "DampingCoefficient",
+        "LocalDampingCoefficient",
+        "GravityScale",
+        "AnimDriveStiffness",
+        "AnimDriveDamping",
+        "LinearVelocityScale",
+        "AngularVelocityScale"
+      ],
+      "collision_asset_matches": true
+    },
+    {
+      "asset": "CA_Jirai_TailR_0",
+      "particles": 182,
+      "triangles": 300,
+      "render_slot": "MI_Jirai_TailR",
+      "maxdistance_map_matches": true,
+      "serialized_config_fields": [
+        "BendingStiffnessWeighted",
+        "bUseBendingElements",
+        "CollisionThickness",
+        "FrictionCoefficient",
+        "DampingCoefficient",
+        "LocalDampingCoefficient",
+        "GravityScale",
+        "AnimDriveStiffness",
+        "AnimDriveDamping",
+        "LinearVelocityScale",
+        "AngularVelocityScale"
+      ],
+      "collision_asset_matches": true
+    },
+    {
+      "asset": "CA_Jirai_Skirt_0",
+      "particles": 612,
+      "triangles": 1152,
+      "render_slot": "MI_Jirai_Skirt",
+      "maxdistance_map_matches": true,
+      "serialized_config_fields": [
+        "BendingStiffnessWeighted",
+        "bUseBendingElements",
+        "CollisionThickness",
+        "FrictionCoefficient",
+        "bUseCCD",
+        "DampingCoefficient",
+        "LocalDampingCoefficient",
+        "AnimDriveStiffness",
+        "AnimDriveDamping",
+        "LinearVelocityScale",
+        "AngularVelocityScale"
+      ],
+      "collision_asset_matches": true
+    }
+  ],
+  "kinematic_spheres": 9,
+  "kinematic_capsules": 4,
+  "original_body_physics_asset_unchanged": true,
+  "class_default_values_in_PBZ_unverified": true,
+  "game_runtime_tested": false
+}

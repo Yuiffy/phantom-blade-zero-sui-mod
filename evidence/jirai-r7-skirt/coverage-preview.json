@@ -1,0 +1,26 @@
+[
+  {
+    "profile": "wide-crouch",
+    "step": 180,
+    "fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+    "cloth_spec_sha256": "48b961d5cf89c100a98ecf81879be6dbc22cd656d82b685348d7e1b763981563",
+    "basis": "actual offline cooked reconstruction; skirt hidden for coverage inspection",
+    "game_runtime_tested": false
+  },
+  {
+    "profile": "diagonal-crouch",
+    "step": 180,
+    "fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+    "cloth_spec_sha256": "48b961d5cf89c100a98ecf81879be6dbc22cd656d82b685348d7e1b763981563",
+    "basis": "actual offline cooked reconstruction; skirt hidden for coverage inspection",
+    "game_runtime_tested": false
+  },
+  {
+    "profile": "lunge-right",
+    "step": 180,
+    "fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+    "cloth_spec_sha256": "48b961d5cf89c100a98ecf81879be6dbc22cd656d82b685348d7e1b763981563",
+    "basis": "actual offline cooked reconstruction; skirt hidden for coverage inspection",
+    "game_runtime_tested": false
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "source_fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+  "source_geometry_weights_and_continuous_shorts_exact_r7": true,
+  "cooked_positions_indices_and_skin_weights_exact_r7": true,
+  "bone_reference_exact_r7": true,
+  "hair_physical_mesh_and_config_exact_r7": true,
+  "skirt_physical_cage_positions_weights_and_guid_exact_r7": true,
+  "changed_scope": [
+    "skirt config",
+    "two skirt-only capsule radii",
+    "skirt render blend cap"
+  ],
+  "game_runtime_tested": false
+}

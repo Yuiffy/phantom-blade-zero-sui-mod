@@ -1,0 +1,132 @@
+{
+  "status": "installed-hash-verified-runtime-pending",
+  "installed_at": "2026-11-18T07:23:59.926622+08:00",
+  "files": [
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR8Shape1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR8Shape1_P.ucas",
+      "bytes": 104310039,
+      "sha256": "c8528c9455f5c430621033c91708021fa12c6c224ff67f7a6f4326832f8e6ae7"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR8Shape1_P.utoc",
+      "bytes": 33899,
+      "sha256": "18fda93036a239510dd1502c5b311b2d7b7f44bf48753fbaca0e2b45f26d135b"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.ucas",
+      "bytes": 3282530,
+      "sha256": "1c03a93f6790879c2a8454709e90dc1cca0cb8c90bc9ae0ccd75bed94cb825c0"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.utoc",
+      "bytes": 7200,
+      "sha256": "86b35b1f2f5d64a64d17b59120d18a11a9000655200f5b0d563d35b9185c81d0"
+    },
+    {
+      "name": "zzz_Sui_JiraiFace3_2_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzz_Sui_JiraiFace3_2_P.ucas",
+      "bytes": 55055808,
+      "sha256": "7e4e7f63b4e3c5f67b8e862a2f2d398aaab624018892c08ee6f5c1cd1e39056c"
+    },
+    {
+      "name": "zzz_Sui_JiraiFace3_2_P.utoc",
+      "bytes": 11508,
+      "sha256": "37da10130034eca44bcc7ba903b7787ae2316c5405c3796084f271c9c1533a8b"
+    },
+    {
+      "name": "zzzz_Sui_JiraiHairpin1_3_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzz_Sui_JiraiHairpin1_3_P.ucas",
+      "bytes": 54169262,
+      "sha256": "49c88071fb817893402153037d215ee3e91f950af3c4afd28c554bb5d1e32bda"
+    },
+    {
+      "name": "zzzz_Sui_JiraiHairpin1_3_P.utoc",
+      "bytes": 10787,
+      "sha256": "7d0bfb83f3a6eeabb261f63ba3037b5ea585032dc5c3f0f1df947c167508b60b"
+    },
+    {
+      "name": "zzzzz_Sui_OutfitPatterns1_4_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzz_Sui_OutfitPatterns1_4_P.ucas",
+      "bytes": 95278452,
+      "sha256": "2ddf1afaef1415658c027b3e43bcbe88dacce07a0432cb9710f2d9b60413225b"
+    },
+    {
+      "name": "zzzzz_Sui_OutfitPatterns1_4_P.utoc",
+      "bytes": 18257,
+      "sha256": "001d2777d30b54b5f4def63e49778f8f1bc76d39c623b6b00961a4f43faeeddb"
+    },
+    {
+      "name": "zzzzzz_Sui_JKFaceShape1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzz_Sui_JKFaceShape1_P.ucas",
+      "bytes": 7511618,
+      "sha256": "4ac94f353836a59f27d981ae9e0d10c693febf6069a0aba4943623d93e485ba4"
+    },
+    {
+      "name": "zzzzzz_Sui_JKFaceShape1_P.utoc",
+      "bytes": 1908,
+      "sha256": "32e4e5836ec44896de203b7c9506d5805ebab8a5856d79279577fd4785b24264"
+    },
+    {
+      "name": "zzzzzzz_Sui_JiraiFace2Hybrid1_6_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzz_Sui_JiraiFace2Hybrid1_6_P.ucas",
+      "bytes": 54171679,
+      "sha256": "f1d3e91b21c1ed602a3001c56b3e33f13f657fa9058626069377059040ac10fa"
+    },
+    {
+      "name": "zzzzzzz_Sui_JiraiFace2Hybrid1_6_P.utoc",
+      "bytes": 10795,
+      "sha256": "1dbffd007c8c0f1e3e0a0380fa7651782671430825610fa6a56ea4fd240c87a1"
+    }
+  ],
+  "removed_rejected_files": [
+    {
+      "name": "zzzzzz_Sui_JiraiPolish1_5_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzz_Sui_JiraiPolish1_5_P.ucas",
+      "bytes": 54171650,
+      "sha256": "bac682031367174b4d041d0c9abf4ad219294ad2b0feebbf4caa2d1ad7e518e4"
+    },
+    {
+      "name": "zzzzzz_Sui_JiraiPolish1_5_P.utoc",
+      "bytes": 10785,
+      "sha256": "040f35baa88e1ef0ff4e7279c00dedebdff16b683b9e59245ddc6d576b589a05"
+    }
+  ],
+  "retained_previous_files_exact": true,
+  "actual_installed_payload_readback_exact": true,
+  "retained_effective_packages": 102,
+  "new_candidate_game_runtime_tested": false
+}

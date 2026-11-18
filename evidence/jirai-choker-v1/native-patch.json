@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "changed_native_bytes": 9770,
+  "changed_records": {
+    "positions": 607,
+    "packed_tangents": 226,
+    "indices": 1300
+  },
+  "weight_copied_vertices": 226,
+  "original_weights_elsewhere_exact": true,
+  "all_uvs_exact": true,
+  "skeleton_sections_cloth_physics_exact": true,
+  "source_header_sha256": "8a2bec1ddba3979b0d18b1ecf1827203cc711661dbfcf21fe3df080aea5b6529",
+  "output_payload_sha256": "27d310bbf2a5e19f418aa49e241028c54ef3a1dde52d6c0f7334290cc7524002"
+}

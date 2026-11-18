@@ -1,0 +1,50 @@
+{
+  "passed": true,
+  "package_count": 3,
+  "packages": [
+    "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_Jirai_Skin",
+    "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Face2Hybrid1"
+  ],
+  "container_files": [
+    {
+      "name": "zzzzzzz_Sui_JiraiFace2Hybrid1_6_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzz_Sui_JiraiFace2Hybrid1_6_P.ucas",
+      "bytes": 54171679,
+      "sha256": "f1d3e91b21c1ed602a3001c56b3e33f13f657fa9058626069377059040ac10fa"
+    },
+    {
+      "name": "zzzzzzz_Sui_JiraiFace2Hybrid1_6_P.utoc",
+      "bytes": 10795,
+      "sha256": "1dbffd007c8c0f1e3e0a0380fa7651782671430825610fa6a56ea4fd240c87a1"
+    }
+  ],
+  "source_atlas_sha256": "82250e89a8a73d2bec25965140325ad6b70b2f6d12bd1ec227928d530c0c5b1a",
+  "native_render_sha256": "c98c26b0edfbb9bdd92a6322f5c11242d6d0aced33e366c48faa5170ff80e056",
+  "patched_render_sha256": "c98c26b0edfbb9bdd92a6322f5c11242d6d0aced33e366c48faa5170ff80e056",
+  "bounded_native_changes_exact": true,
+  "uv1_exact": true,
+  "original_weights_elsewhere_exact": true,
+  "copied_weights_readback_exact": true,
+  "skeleton_sections_cloth_physics_exact": true,
+  "skin_native_shader_export_exact": true,
+  "vt_size": 8192,
+  "vt_mips": 14,
+  "resolved_payloads": {
+    "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple": {
+      ".uexp": "fe3dc9404755a3b1a32ea79aa93fb3283ae5e33a6cc099918054d11ca3b43d96"
+    },
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_Jirai_Skin": {
+      ".uexp": "1a303e2470fb0cc7b5ecf34a961eb6615a89771354b3b841b2628380316bc849"
+    },
+    "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Face2Hybrid1": {
+      ".uexp": "ce756fba5696ddad4f7243df5e052cce4e0e305451526788d31750522629e1ec",
+      ".ubulk": "706ebe512344d143880ca952cd6d55d8af690256862d21012e700ebaf5dbab36"
+    }
+  },
+  "game_runtime_tested": false
+}

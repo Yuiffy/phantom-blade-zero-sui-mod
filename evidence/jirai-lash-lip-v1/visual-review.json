@@ -1,0 +1,12 @@
+{
+  "reviewed": true,
+  "native_render_sha256": "d962ed1a21f5aed110d40a490194c275b146e9354c32c96ccd2b120046cfeac9",
+  "source_atlas_sha256": "674a26ade276670d84f44b65995f0131074c8f5fbc605dd2da23956c37112168",
+  "images": {
+    "after-front.png": "575c557af660e42292777490a922e710a6ed9b51b12bd3163656efd8297ac59d",
+    "after-angle.png": "8e95aee7368d070fc126eb86b0c2833b47be0fc073d9868441663b2ac5c7569a",
+    "after-side.png": "1092f23813e321bae0f32d0c90a40c6fc4f8bc3eb67adc3d3e1e1f7af85bdd23"
+  },
+  "scope": "Front, angle and side images visually inspected. Their native input bytes exactly match the independently extracted final native render artifact. Upper, outer-wing and four lower lash fragments black; retained original thick lash geometry reads more strongly with black pigment. Right lower lip spur merged into primary line. Clean skin chart borders checked. Source PNG previews do not reproduce cooked VT compression or native game shader.",
+  "game_runtime_tested": false
+}

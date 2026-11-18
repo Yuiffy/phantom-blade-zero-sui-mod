@@ -1,0 +1,292 @@
+{
+  "status": "runtime-rejected-installation-blocked",
+  "fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+  "cloth_spec_sha256": "48b961d5cf89c100a98ecf81879be6dbc22cd656d82b685348d7e1b763981563",
+  "basis": "installed R6 SkinEyes1 and Fishnet1 8K atlas preserved; skirt and opaque safety shorts revised",
+  "package_count": 100,
+  "before": {
+    "crouch": {
+      "visible_thigh_edges_crossing_skirt": 53,
+      "raw_thigh_edge_intersections": 103
+    },
+    "wide-crouch": {
+      "visible_thigh_edges_crossing_skirt": 48,
+      "raw_thigh_edge_intersections": 124
+    },
+    "diagonal-crouch": {
+      "visible_thigh_edges_crossing_skirt": 48,
+      "raw_thigh_edge_intersections": 112
+    },
+    "lunge-left": {
+      "visible_thigh_edges_crossing_skirt": 32,
+      "raw_thigh_edge_intersections": 80
+    },
+    "lunge-right": {
+      "visible_thigh_edges_crossing_skirt": 32,
+      "raw_thigh_edge_intersections": 68
+    },
+    "run": {
+      "visible_thigh_edges_crossing_skirt": 29,
+      "raw_thigh_edge_intersections": 68
+    },
+    "head-arms": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "raw_thigh_edge_intersections": 22
+    }
+  },
+  "after": {
+    "crouch": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "raw_thigh_edge_intersections": 0
+    },
+    "wide-crouch": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "raw_thigh_edge_intersections": 6
+    },
+    "diagonal-crouch": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "raw_thigh_edge_intersections": 3
+    },
+    "lunge-left": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "raw_thigh_edge_intersections": 7
+    },
+    "lunge-right": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "raw_thigh_edge_intersections": 5
+    },
+    "run": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "raw_thigh_edge_intersections": 0
+    },
+    "head-arms": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "raw_thigh_edge_intersections": 0
+    }
+  },
+  "contact_scope": "64 occlusion rays per contact, 19 sampled frames per synthetic clip; not all gameplay cameras or animations",
+  "shape_passed": true,
+  "shorts_continuous_and_opaque": true,
+  "suspender_min_signed_cm": 0.017985227146709803,
+  "suspender_max_gap_cm": 0.427941232919693,
+  "skin_eyes_v1_preserved": true,
+  "fishnet_v1_8k_payload_exact": true,
+  "source_atlas_sha256": "2ba9104fc7eb43a120eb94843b0c3c208dac92fe44f5b4168fe8f7eb3b5ec152",
+  "jk5_unchanged": true,
+  "voice_unchanged": true,
+  "installed_at": "2026-11-17T00:59:20.9289538+08:00",
+  "container_files": [
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR7Skirt_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR7Skirt_P.ucas",
+      "bytes": 104310068,
+      "sha256": "0a08d735308f81ba7383daace756eee7e7b57866071e4588ebb115d9c6e03f63"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR7Skirt_P.utoc",
+      "bytes": 33899,
+      "sha256": "0da680d34c285510183ba4fe1c872672dfed5ddd8111227add7a6f8d3a297301"
+    }
+  ],
+  "images": [
+    {
+      "file": "coverage-diagonal-crouch-front.png",
+      "sha256": "60be887eb3580c2db5a49cff82beaeeb1b93d3ba70787d72a49092d96eb86f8f",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "coverage-diagonal-crouch-underside.png",
+      "sha256": "cb0a3f770872d5feb987547df16c1e56f3d044c6bd73b0ac195b9579ff384a26",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "coverage-lunge-right-front.png",
+      "sha256": "859487d3336150029d6b5ec1d045e639c5f66c7d1d63ae092e87836617061c24",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "coverage-lunge-right-underside.png",
+      "sha256": "6dcdd06acd72888c4eefa9918280befcc54825f0ef5b5cef7c6869fcf2c4f642",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "coverage-wide-crouch-front.png",
+      "sha256": "466d56016edf3d067a851fb31131b3b1c9f16c2e89cc3a922fa141034601ddae",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "coverage-wide-crouch-underside.png",
+      "sha256": "065f6079fecc11a69265d19ce7c6df8f890aefc108be952c35575f81a84f8dda",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "crouch-front.png",
+      "sha256": "d31831295d69e47785e297adf14d3b4ce628232de5711546adc931a09fd8c58e",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "crouch-high3q.png",
+      "sha256": "ceb70c08f90ba1d49b7e63c268a4438aedf312df78528deb0c57bccf41895c44",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "crouch-rear.png",
+      "sha256": "c4b87234c4436206d23fc7231864f74a25ef737f8c1fe63ffc9021daf3396880",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "crouch-side.png",
+      "sha256": "74a8cb00f1b3d4329fb5bd7baadf5c7c38f54eeededc78396bc9e6777eeeed7b",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "diagonal-crouch-front.png",
+      "sha256": "987f1fa184a7e838b0f4d503795c186384dbc67d8c4c9a4eecce125cd57065f6",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "diagonal-crouch-high3q.png",
+      "sha256": "4c1fda1a333d35893420c95c019bb2a1132c3cc14c58e692eb0c5f751a348bff",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "diagonal-crouch-rear.png",
+      "sha256": "8f4e0e4c0662ba3e3343b6cc1eb567a000e51e8d77b0878a8586a0715f00062d",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "diagonal-crouch-side.png",
+      "sha256": "f7fd070c1ccb4c6cef39ff0c02a415e6176d4eb3d20810cda8bbfea777dedcef",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "head-arms-front.png",
+      "sha256": "78dc70632c78f86c09f5a51db35f3b0bf678b2b986be65266bc1f2c8401c56c0",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "head-arms-side.png",
+      "sha256": "7b74a61ced0821d41c3e5aa2aab14beadcd0662b92ea8c823ead134eecdeefab",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "lunge-left-front.png",
+      "sha256": "faa4fc0879e8f187bd5a88b640a4f6261b3e622b2fab7b21c1d1f4e94c26fc38",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "lunge-left-high3q.png",
+      "sha256": "848ea6d532acb001f1079f62f3074ba29b17ed3b0f94485cd171a865e82f22c1",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "lunge-left-rear.png",
+      "sha256": "8554b9e87a5993756c9929c14eee812f1bb67104b2a31c4e43b8e9c6d50b4685",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "lunge-left-side.png",
+      "sha256": "c00437bdd0274e7eb80e9fea5d20d79b587aca8acad8a57f25b6144a5e443c10",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "lunge-right-front.png",
+      "sha256": "e8df3537881e04dead80ffed36a0ff30ce2f17cbc52eb007449b5ce091f78f5b",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "lunge-right-high3q.png",
+      "sha256": "e30309a2acdeb9c32bc0f86928acb005b40d6adf7de8b8ac4ee6a28857b88ee4",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "lunge-right-rear.png",
+      "sha256": "832223180cf0b63f82f8b974962c0b3b325dde8f2320adea54aba3ae9a489fed",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "lunge-right-side.png",
+      "sha256": "28b2747a48db88faabb9ea346cc605a62e4eb34bd7f490ffeb3b0924fcd2e2f6",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "run-front.png",
+      "sha256": "b4847d1842261a832cf0d5cabd8b1fd0609638881651fcce1754523393a27c66",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "run-high3q.png",
+      "sha256": "3388a0e713ecb962d0945fa52921d3e1e2625ba4fe89e17f4af6e2d593efae0e",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "run-rear.png",
+      "sha256": "0ad6b16f9aeb101b1ed693085ab329bd4a1a6c9dbb6dd15c1298c7ab96a68fbf",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "run-side.png",
+      "sha256": "9a755b4e29c6cfa7a4f38cb42d44c87e12824da2e8ce5bfd849dabcf7c2efbec",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "standing-front.png",
+      "sha256": "0094361131fb9b5ee6d47cdfb84637424f41b3f51a44f793e2edc510c4db6e2a",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "standing-rear.png",
+      "sha256": "89cdd9519da2ce09ea53ed7a2d6808f22c4807dd42cb6c0c387f30ab527bcb76",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "standing-side.png",
+      "sha256": "b569bc554e88394e7054e938a1e64960ba326bab60107231b8f005af7b442603",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "wide-crouch-front.png",
+      "sha256": "2e7ee42fe08deb88c319344a7f779f89dbebede65c09206ca19aea72ff468524",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "wide-crouch-high3q.png",
+      "sha256": "603e7f30ac1825c2b48aaf42f79dfdb1e29a32730863adeed377d794c6262f50",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "wide-crouch-rear.png",
+      "sha256": "6fc254e8772a73bd2df528fc6b05621383df42cf111bf0dc84d0b937a5cb8018",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    },
+    {
+      "file": "wide-crouch-side.png",
+      "sha256": "e1d00ed3c2a59f630c77b76c58f8252301cf966b0a1bd29b4e6780dfbe716283",
+      "basis": "offline Blender rendering of cooked mesh/actual Chaos reconstruction"
+    }
+  ],
+  "visual_review_observations": [
+    "Reviewed 26 reconstructed action views, 6 skirt-hidden coverage views, and 3 standing views.",
+    "Continuous opaque crotch coverage; enlarged lower shorts no longer show skin breakthroughs in the reviewed views.",
+    "No large black shorts protrusion through rear skirt; standing front/rear/side conceal the shorts.",
+    "Skirt visibly lifts during deep crouch or high knee flexion; safety shorts remain the coverage layer."
+  ],
+  "limitations": [
+    "Synthetic offline animations and sampled views only; original gameplay animations and runtime performance remain untested.",
+    "Native PBZ material rendering is not reproduced by Blender."
+  ],
+  "game_runtime_tested": true,
+  "game_animation_library_included": false,
+  "prior_status": "installed-runtime-pending",
+  "runtime_test_scope": "User-reported ordinary walking only; screenshot provided by user; agent did not operate game.",
+  "runtime_feedback": "runtime-feedback.json",
+  "recovery_candidate": "../../models/jirai-skirt-recovery-v1/README.md",
+  "installation_status": "rolled-back-to-r6-skin-eyes-fishnet1",
+  "rollback_receipt": "rollback-summary.json",
+  "continuous_simulation_validated": false,
+  "harness_audit": "harness-audit.json"
+}

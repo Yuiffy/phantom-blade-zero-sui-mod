@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "package_count": 1,
+  "packages": [
+    "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple"
+  ],
+  "container_files": [
+    {
+      "name": "zzzzzzzzzz_Sui_JiraiChoker1_10_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzzzz_Sui_JiraiChoker1_10_P.ucas",
+      "bytes": 6525213,
+      "sha256": "ed4b5a505ac48e449715ef144b91ffe25008eef1652a01f3e84124ccd11433f6"
+    },
+    {
+      "name": "zzzzzzzzzz_Sui_JiraiChoker1_10_P.utoc",
+      "bytes": 1727,
+      "sha256": "3149f710be872ce132e76eeebf0f669b083af1dd2e19a47dcd66193f85c5f350"
+    }
+  ],
+  "native_render_sha256": "712b8a5924f69a9b66adec5eb0babf1b13d1a4cbd18920c01b278c2767f32e7a",
+  "patched_render_sha256": "712b8a5924f69a9b66adec5eb0babf1b13d1a4cbd18920c01b278c2767f32e7a",
+  "bounded_native_changes_exact": true,
+  "all_uvs_exact": true,
+  "original_weights_elsewhere_exact": true,
+  "copied_weights_readback_exact": true,
+  "skeleton_sections_cloth_physics_exact": true,
+  "all_original_materials_textures_exact": true,
+  "resolved_payloads": {
+    "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple": {
+      ".uexp": "27d310bbf2a5e19f418aa49e241028c54ef3a1dde52d6c0f7334290cc7524002"
+    }
+  },
+  "game_runtime_tested": false
+}

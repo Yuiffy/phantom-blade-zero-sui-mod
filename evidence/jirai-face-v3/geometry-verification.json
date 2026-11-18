@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "final_container_readback": true,
+  "native_render_sha256": "19cabf18bd03b152bca943b6e92b3430998b81b1801cdbcc26602b4f9d038511",
+  "eyes": [
+    {
+      "center_x_cm": -5.317217,
+      "visible_iris_interior_rays": 18785,
+      "sclera_occluding_iris_rays": 0,
+      "min_iris_front_clearance_cm": 0.08009636100562445,
+      "nasal_boundary_depth_step_cm": 0.13313480605584482
+    },
+    {
+      "center_x_cm": 4.614422,
+      "visible_iris_interior_rays": 18788,
+      "sclera_occluding_iris_rays": 0,
+      "min_iris_front_clearance_cm": 0.08021270774305189,
+      "nasal_boundary_depth_step_cm": 0.13303220679382832
+    }
+  ],
+  "unchanged_uv1": true,
+  "only_iris_uv0_changed": true,
+  "max_iris_uv_rounding_error_pixels_1024": 0.24075486833783089,
+  "game_runtime_tested": false
+}

@@ -1,0 +1,27 @@
+{
+  "reviewed": true,
+  "views": [
+    "front",
+    "detail",
+    "angled",
+    "same-camera-before-after"
+  ],
+  "observations": [
+    "Reviewed all three final native-readback views and same-camera comparison.",
+    "Rebuilt coherent pink heart silhouette, simplified dark border, raised narrow cross and two clean crossing clips.",
+    "Local old clip projection reduced; surrounding hair retains its existing faceted form and lighting shadows.",
+    "Border is a simplified decorative rim rather than individually modeled reference lace loops.",
+    "Source PNG albedo preview does not validate cooked VT pixels or actual game shading."
+  ],
+  "source_atlas_sha256": "07a4a4b21e036436b4bd204dedd44f9c182275db9109bd932d7a6d7a45ca1ef7",
+  "native_render_sha256": "5897b6efca7a14daaf2db87ab426ff7a7f2c4130816914b8da2730e1d5c4c0a3",
+  "private_image_sha256": [
+    "74df81e043e4c9de521bd32db8863b90be89b5f47d02ec3b8280fce3ba08d374",
+    "64000357ef796c9f23729a24e83f622c0254a24b968a778e389cbe6a6c5c4388",
+    "5bfe3c49b24bb86329aebba35ef32a07017c6ee82af60a232c4f4dfa29a46cd1",
+    "4a4e619886f7ed17a8275d42c69f92d394a22bdb593a10042eb5e669e93c4beb"
+  ],
+  "renderer": "Blender Cycles; independently decoded native geometry with source PNG albedo",
+  "cooked_vt_independently_pixel_decoded": false,
+  "game_runtime_tested": false
+}

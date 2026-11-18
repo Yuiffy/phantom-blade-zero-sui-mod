@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "final_container_readback": true,
+  "native_render_sha256": "c98c26b0edfbb9bdd92a6322f5c11242d6d0aced33e366c48faa5170ff80e056",
+  "source_atlas_sha256": "82250e89a8a73d2bec25965140325ad6b70b2f6d12bd1ec227928d530c0c5b1a",
+  "face2_skin_geometry_indices_uv_exact_except_arm_reserve": true,
+  "face2_socket_lash_positions_frames_uv_indices_exact": true,
+  "face2_mouth_positions_uv_indices_albedo_exact": true,
+  "mouth_shading_only_vertices": 444,
+  "face3_iris_sclera_positions_frames_uv_indices_exact": true,
+  "polish_halo_and_arm_geometry_frames_exact": true,
+  "closed_arm_boundaries": [
+    {
+      "side": -1,
+      "ring": "upper_original",
+      "closed_edges": 18
+    },
+    {
+      "side": -1,
+      "ring": "lower_original",
+      "closed_edges": 17
+    },
+    {
+      "side": 1,
+      "ring": "upper_original",
+      "closed_edges": 17
+    },
+    {
+      "side": 1,
+      "ring": "lower_original",
+      "closed_edges": 15
+    }
+  ],
+  "skin_weight_copy_count": 67,
+  "uv1_exact": true,
+  "retained_hair_outfit_and_other_material_geometry_exact": true,
+  "atlas_changes_only_unused_arm_tile": true,
+  "game_runtime_tested": false
+}

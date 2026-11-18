@@ -1,0 +1,5327 @@
+{
+  "fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+  "basis": "independently decoded cooked weights evaluated under actual offline UE bone poses",
+  "samples": [
+    {
+      "profile": "crouch",
+      "step": 0,
+      "component": 940,
+      "distance_min_cm": 0.07855640351772308,
+      "distance_max_cm": 0.10992574691772461,
+      "signed_min_cm": 0.06275350594660267,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275350594660267,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 0,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.42793190479278564,
+      "signed_min_cm": 0.045589364092393225,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589364092393225,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 10,
+      "component": 940,
+      "distance_min_cm": 0.07855640351772308,
+      "distance_max_cm": 0.10992574691772461,
+      "signed_min_cm": 0.06275350594660267,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275350594660267,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 10,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.42793190479278564,
+      "signed_min_cm": 0.045589364092393225,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589364092393225,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 20,
+      "component": 940,
+      "distance_min_cm": 0.07855640351772308,
+      "distance_max_cm": 0.10992574691772461,
+      "signed_min_cm": 0.06275350594660267,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275350594660267,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 20,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.42793190479278564,
+      "signed_min_cm": 0.045589364092393225,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589364092393225,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 30,
+      "component": 940,
+      "distance_min_cm": 0.07855640351772308,
+      "distance_max_cm": 0.10992574691772461,
+      "signed_min_cm": 0.06275350594660267,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275350594660267,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 30,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.42793190479278564,
+      "signed_min_cm": 0.045589364092393225,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589364092393225,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 40,
+      "component": 940,
+      "distance_min_cm": 0.07855640351772308,
+      "distance_max_cm": 0.10992574691772461,
+      "signed_min_cm": 0.06275350594660267,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275350594660267,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 40,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.42793190479278564,
+      "signed_min_cm": 0.045589364092393225,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589364092393225,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 50,
+      "component": 940,
+      "distance_min_cm": 0.07855640351772308,
+      "distance_max_cm": 0.10992574691772461,
+      "signed_min_cm": 0.06275350594660267,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275350594660267,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 50,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.42793190479278564,
+      "signed_min_cm": 0.045589364092393225,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589364092393225,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 60,
+      "component": 940,
+      "distance_min_cm": 0.07855640351772308,
+      "distance_max_cm": 0.10992574691772461,
+      "signed_min_cm": 0.06275350594660267,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275350594660267,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 60,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.42793190479278564,
+      "signed_min_cm": 0.045589364092393225,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589364092393225,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 70,
+      "component": 940,
+      "distance_min_cm": 0.07855672389268875,
+      "distance_max_cm": 0.10992565006017685,
+      "signed_min_cm": 0.06275408313376829,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275408313376829,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 70,
+      "component": 941,
+      "distance_min_cm": 0.07318303734064102,
+      "distance_max_cm": 0.4279324412345886,
+      "signed_min_cm": 0.04558915674351738,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558915674351738,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 80,
+      "component": 940,
+      "distance_min_cm": 0.05213093385100365,
+      "distance_max_cm": 0.10992750525474548,
+      "signed_min_cm": 0.052130931231658906,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275431113317609,
+      "minimum_signed_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.679390907287598,
+        -1.8238672018051147,
+        80.78095245361328
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 80,
+      "component": 941,
+      "distance_min_cm": 0.0731838122010231,
+      "distance_max_cm": 0.4279364049434662,
+      "signed_min_cm": 0.045590776251628995,
+      "lower_strap_z_le_100_min_signed_cm": 0.045590776251628995,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 90,
+      "component": 940,
+      "distance_min_cm": 0.03907432034611702,
+      "distance_max_cm": 0.10992424935102463,
+      "signed_min_cm": 0.03907431591323984,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275218352675438,
+      "minimum_signed_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 90,
+      "component": 941,
+      "distance_min_cm": 0.07318393886089325,
+      "distance_max_cm": 0.42793387174606323,
+      "signed_min_cm": 0.04559228220023215,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559228220023215,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 100,
+      "component": 940,
+      "distance_min_cm": 0.017985226586461067,
+      "distance_max_cm": 0.10992519557476044,
+      "signed_min_cm": 0.017985227146709803,
+      "lower_strap_z_le_100_min_signed_cm": 0.0627522156573832,
+      "minimum_signed_vertex_rest_cm": [
+        11.521523475646973,
+        -3.521044969558716,
+        103.04762268066406
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.679390907287598,
+        -1.8238672018051147,
+        80.78095245361328
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 100,
+      "component": 941,
+      "distance_min_cm": 0.07318302989006042,
+      "distance_max_cm": 0.42793047428131104,
+      "signed_min_cm": 0.04558946064207703,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558946064207703,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.611200332641602,
+        -2.8298966884613037,
+        88.2699966430664
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 110,
+      "component": 940,
+      "distance_min_cm": 0.017985226586461067,
+      "distance_max_cm": 0.10992519557476044,
+      "signed_min_cm": 0.017985227146709803,
+      "lower_strap_z_le_100_min_signed_cm": 0.0627522156573832,
+      "minimum_signed_vertex_rest_cm": [
+        11.521523475646973,
+        -3.521044969558716,
+        103.04762268066406
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.679390907287598,
+        -1.8238672018051147,
+        80.78095245361328
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 110,
+      "component": 941,
+      "distance_min_cm": 0.07318302989006042,
+      "distance_max_cm": 0.42793047428131104,
+      "signed_min_cm": 0.04558946064207703,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558946064207703,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.611200332641602,
+        -2.8298966884613037,
+        88.2699966430664
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 120,
+      "component": 940,
+      "distance_min_cm": 0.017985226586461067,
+      "distance_max_cm": 0.10992519557476044,
+      "signed_min_cm": 0.017985227146709803,
+      "lower_strap_z_le_100_min_signed_cm": 0.0627522156573832,
+      "minimum_signed_vertex_rest_cm": [
+        11.521523475646973,
+        -3.521044969558716,
+        103.04762268066406
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.679390907287598,
+        -1.8238672018051147,
+        80.78095245361328
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 120,
+      "component": 941,
+      "distance_min_cm": 0.07318302989006042,
+      "distance_max_cm": 0.42793047428131104,
+      "signed_min_cm": 0.04558946064207703,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558946064207703,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.611200332641602,
+        -2.8298966884613037,
+        88.2699966430664
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 130,
+      "component": 940,
+      "distance_min_cm": 0.017985226586461067,
+      "distance_max_cm": 0.10992519557476044,
+      "signed_min_cm": 0.017985227146709803,
+      "lower_strap_z_le_100_min_signed_cm": 0.0627522156573832,
+      "minimum_signed_vertex_rest_cm": [
+        11.521523475646973,
+        -3.521044969558716,
+        103.04762268066406
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.679390907287598,
+        -1.8238672018051147,
+        80.78095245361328
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 130,
+      "component": 941,
+      "distance_min_cm": 0.07318302989006042,
+      "distance_max_cm": 0.42793047428131104,
+      "signed_min_cm": 0.04558946064207703,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558946064207703,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.611200332641602,
+        -2.8298966884613037,
+        88.2699966430664
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 140,
+      "component": 940,
+      "distance_min_cm": 0.017985226586461067,
+      "distance_max_cm": 0.10992519557476044,
+      "signed_min_cm": 0.017985227146709803,
+      "lower_strap_z_le_100_min_signed_cm": 0.0627522156573832,
+      "minimum_signed_vertex_rest_cm": [
+        11.521523475646973,
+        -3.521044969558716,
+        103.04762268066406
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.679390907287598,
+        -1.8238672018051147,
+        80.78095245361328
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 140,
+      "component": 941,
+      "distance_min_cm": 0.07318302989006042,
+      "distance_max_cm": 0.42793047428131104,
+      "signed_min_cm": 0.04558946064207703,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558946064207703,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.611200332641602,
+        -2.8298966884613037,
+        88.2699966430664
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 150,
+      "component": 940,
+      "distance_min_cm": 0.017985226586461067,
+      "distance_max_cm": 0.10992519557476044,
+      "signed_min_cm": 0.017985227146709803,
+      "lower_strap_z_le_100_min_signed_cm": 0.0627522156573832,
+      "minimum_signed_vertex_rest_cm": [
+        11.521523475646973,
+        -3.521044969558716,
+        103.04762268066406
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.679390907287598,
+        -1.8238672018051147,
+        80.78095245361328
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 150,
+      "component": 941,
+      "distance_min_cm": 0.07318302989006042,
+      "distance_max_cm": 0.42793047428131104,
+      "signed_min_cm": 0.04558946064207703,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558946064207703,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.611200332641602,
+        -2.8298966884613037,
+        88.2699966430664
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 160,
+      "component": 940,
+      "distance_min_cm": 0.017985226586461067,
+      "distance_max_cm": 0.10992519557476044,
+      "signed_min_cm": 0.017985227146709803,
+      "lower_strap_z_le_100_min_signed_cm": 0.0627522156573832,
+      "minimum_signed_vertex_rest_cm": [
+        11.521523475646973,
+        -3.521044969558716,
+        103.04762268066406
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.679390907287598,
+        -1.8238672018051147,
+        80.78095245361328
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 160,
+      "component": 941,
+      "distance_min_cm": 0.07318302989006042,
+      "distance_max_cm": 0.42793047428131104,
+      "signed_min_cm": 0.04558946064207703,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558946064207703,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.611200332641602,
+        -2.8298966884613037,
+        88.2699966430664
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 170,
+      "component": 940,
+      "distance_min_cm": 0.017985226586461067,
+      "distance_max_cm": 0.10992519557476044,
+      "signed_min_cm": 0.017985227146709803,
+      "lower_strap_z_le_100_min_signed_cm": 0.0627522156573832,
+      "minimum_signed_vertex_rest_cm": [
+        11.521523475646973,
+        -3.521044969558716,
+        103.04762268066406
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.679390907287598,
+        -1.8238672018051147,
+        80.78095245361328
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 170,
+      "component": 941,
+      "distance_min_cm": 0.07318302989006042,
+      "distance_max_cm": 0.42793047428131104,
+      "signed_min_cm": 0.04558946064207703,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558946064207703,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.611200332641602,
+        -2.8298966884613037,
+        88.2699966430664
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 180,
+      "component": 940,
+      "distance_min_cm": 0.017985226586461067,
+      "distance_max_cm": 0.10992519557476044,
+      "signed_min_cm": 0.017985227146709803,
+      "lower_strap_z_le_100_min_signed_cm": 0.0627522156573832,
+      "minimum_signed_vertex_rest_cm": [
+        11.521523475646973,
+        -3.521044969558716,
+        103.04762268066406
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.679390907287598,
+        -1.8238672018051147,
+        80.78095245361328
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "crouch",
+      "step": 180,
+      "component": 941,
+      "distance_min_cm": 0.07318302989006042,
+      "distance_max_cm": 0.42793047428131104,
+      "signed_min_cm": 0.04558946064207703,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558946064207703,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.611200332641602,
+        -2.8298966884613037,
+        88.2699966430664
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 0,
+      "component": 940,
+      "distance_min_cm": 0.07855668663978577,
+      "distance_max_cm": 0.10992586612701416,
+      "signed_min_cm": 0.062753242906183,
+      "lower_strap_z_le_100_min_signed_cm": 0.062753242906183,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 0,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.4279322624206543,
+      "signed_min_cm": 0.045589560252210504,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589560252210504,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 10,
+      "component": 940,
+      "distance_min_cm": 0.07855668663978577,
+      "distance_max_cm": 0.10992586612701416,
+      "signed_min_cm": 0.062753242906183,
+      "lower_strap_z_le_100_min_signed_cm": 0.062753242906183,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 10,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.4279322624206543,
+      "signed_min_cm": 0.045589560252210504,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589560252210504,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 20,
+      "component": 940,
+      "distance_min_cm": 0.07855668663978577,
+      "distance_max_cm": 0.10992586612701416,
+      "signed_min_cm": 0.062753242906183,
+      "lower_strap_z_le_100_min_signed_cm": 0.062753242906183,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 20,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.4279322624206543,
+      "signed_min_cm": 0.045589560252210504,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589560252210504,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 30,
+      "component": 940,
+      "distance_min_cm": 0.07855668663978577,
+      "distance_max_cm": 0.10992586612701416,
+      "signed_min_cm": 0.062753242906183,
+      "lower_strap_z_le_100_min_signed_cm": 0.062753242906183,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 30,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.4279322624206543,
+      "signed_min_cm": 0.045589560252210504,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589560252210504,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 40,
+      "component": 940,
+      "distance_min_cm": 0.07855668663978577,
+      "distance_max_cm": 0.10992586612701416,
+      "signed_min_cm": 0.062753242906183,
+      "lower_strap_z_le_100_min_signed_cm": 0.062753242906183,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 40,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.4279322624206543,
+      "signed_min_cm": 0.045589560252210504,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589560252210504,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 50,
+      "component": 940,
+      "distance_min_cm": 0.07855668663978577,
+      "distance_max_cm": 0.10992586612701416,
+      "signed_min_cm": 0.062753242906183,
+      "lower_strap_z_le_100_min_signed_cm": 0.062753242906183,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 50,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.4279322624206543,
+      "signed_min_cm": 0.045589560252210504,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589560252210504,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 60,
+      "component": 940,
+      "distance_min_cm": 0.07855668663978577,
+      "distance_max_cm": 0.10992586612701416,
+      "signed_min_cm": 0.062753242906183,
+      "lower_strap_z_le_100_min_signed_cm": 0.062753242906183,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 60,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.4279322624206543,
+      "signed_min_cm": 0.045589560252210504,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589560252210504,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 70,
+      "component": 940,
+      "distance_min_cm": 0.07855624705553055,
+      "distance_max_cm": 0.109925776720047,
+      "signed_min_cm": 0.06275378086138517,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275378086138517,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 70,
+      "component": 941,
+      "distance_min_cm": 0.07318297773599625,
+      "distance_max_cm": 0.4279320240020752,
+      "signed_min_cm": 0.04558910648120218,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558910648120218,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 80,
+      "component": 940,
+      "distance_min_cm": 0.04274559020996094,
+      "distance_max_cm": 0.10992889851331711,
+      "signed_min_cm": 0.042745591315906495,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275372579693794,
+      "minimum_signed_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.679390907287598,
+        -1.8238672018051147,
+        80.78095245361328
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 80,
+      "component": 941,
+      "distance_min_cm": 0.07317964732646942,
+      "distance_max_cm": 0.42793458700180054,
+      "signed_min_cm": 0.045585538260638714,
+      "lower_strap_z_le_100_min_signed_cm": 0.045585538260638714,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 90,
+      "component": 940,
+      "distance_min_cm": 0.05645570904016495,
+      "distance_max_cm": 0.1099223867058754,
+      "signed_min_cm": 0.056455705780535936,
+      "lower_strap_z_le_100_min_signed_cm": 0.0627552201913204,
+      "minimum_signed_vertex_rest_cm": [
+        11.356114387512207,
+        -3.6264431476593018,
+        106.22856903076172
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 90,
+      "component": 941,
+      "distance_min_cm": 0.07318522781133652,
+      "distance_max_cm": 0.42793288826942444,
+      "signed_min_cm": 0.04559193139721174,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559193139721174,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 100,
+      "component": 940,
+      "distance_min_cm": 0.018705803900957108,
+      "distance_max_cm": 0.11056876927614212,
+      "signed_min_cm": 0.018705805006902665,
+      "lower_strap_z_le_100_min_signed_cm": 0.018705805006902665,
+      "minimum_signed_vertex_rest_cm": [
+        11.728285789489746,
+        -3.3316547870635986,
+        99.07142639160156
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 100,
+      "component": 941,
+      "distance_min_cm": 0.07318631559610367,
+      "distance_max_cm": 0.4279383718967438,
+      "signed_min_cm": 0.04559324210276827,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559324210276827,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 110,
+      "component": 940,
+      "distance_min_cm": 0.018705803900957108,
+      "distance_max_cm": 0.11056876927614212,
+      "signed_min_cm": 0.018705805006902665,
+      "lower_strap_z_le_100_min_signed_cm": 0.018705805006902665,
+      "minimum_signed_vertex_rest_cm": [
+        11.728285789489746,
+        -3.3316547870635986,
+        99.07142639160156
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 110,
+      "component": 941,
+      "distance_min_cm": 0.07318631559610367,
+      "distance_max_cm": 0.4279383718967438,
+      "signed_min_cm": 0.04559324210276827,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559324210276827,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 120,
+      "component": 940,
+      "distance_min_cm": 0.018705803900957108,
+      "distance_max_cm": 0.11056876927614212,
+      "signed_min_cm": 0.018705805006902665,
+      "lower_strap_z_le_100_min_signed_cm": 0.018705805006902665,
+      "minimum_signed_vertex_rest_cm": [
+        11.728285789489746,
+        -3.3316547870635986,
+        99.07142639160156
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 120,
+      "component": 941,
+      "distance_min_cm": 0.07318631559610367,
+      "distance_max_cm": 0.4279383718967438,
+      "signed_min_cm": 0.04559324210276827,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559324210276827,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 130,
+      "component": 940,
+      "distance_min_cm": 0.018705803900957108,
+      "distance_max_cm": 0.11056876927614212,
+      "signed_min_cm": 0.018705805006902665,
+      "lower_strap_z_le_100_min_signed_cm": 0.018705805006902665,
+      "minimum_signed_vertex_rest_cm": [
+        11.728285789489746,
+        -3.3316547870635986,
+        99.07142639160156
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 130,
+      "component": 941,
+      "distance_min_cm": 0.07318631559610367,
+      "distance_max_cm": 0.4279383718967438,
+      "signed_min_cm": 0.04559324210276827,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559324210276827,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 140,
+      "component": 940,
+      "distance_min_cm": 0.018705803900957108,
+      "distance_max_cm": 0.11056876927614212,
+      "signed_min_cm": 0.018705805006902665,
+      "lower_strap_z_le_100_min_signed_cm": 0.018705805006902665,
+      "minimum_signed_vertex_rest_cm": [
+        11.728285789489746,
+        -3.3316547870635986,
+        99.07142639160156
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 140,
+      "component": 941,
+      "distance_min_cm": 0.07318631559610367,
+      "distance_max_cm": 0.4279383718967438,
+      "signed_min_cm": 0.04559324210276827,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559324210276827,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 150,
+      "component": 940,
+      "distance_min_cm": 0.018705803900957108,
+      "distance_max_cm": 0.11056876927614212,
+      "signed_min_cm": 0.018705805006902665,
+      "lower_strap_z_le_100_min_signed_cm": 0.018705805006902665,
+      "minimum_signed_vertex_rest_cm": [
+        11.728285789489746,
+        -3.3316547870635986,
+        99.07142639160156
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 150,
+      "component": 941,
+      "distance_min_cm": 0.07318631559610367,
+      "distance_max_cm": 0.4279383718967438,
+      "signed_min_cm": 0.04559324210276827,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559324210276827,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 160,
+      "component": 940,
+      "distance_min_cm": 0.018705803900957108,
+      "distance_max_cm": 0.11056876927614212,
+      "signed_min_cm": 0.018705805006902665,
+      "lower_strap_z_le_100_min_signed_cm": 0.018705805006902665,
+      "minimum_signed_vertex_rest_cm": [
+        11.728285789489746,
+        -3.3316547870635986,
+        99.07142639160156
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 160,
+      "component": 941,
+      "distance_min_cm": 0.07318631559610367,
+      "distance_max_cm": 0.4279383718967438,
+      "signed_min_cm": 0.04559324210276827,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559324210276827,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 170,
+      "component": 940,
+      "distance_min_cm": 0.018705803900957108,
+      "distance_max_cm": 0.11056876927614212,
+      "signed_min_cm": 0.018705805006902665,
+      "lower_strap_z_le_100_min_signed_cm": 0.018705805006902665,
+      "minimum_signed_vertex_rest_cm": [
+        11.728285789489746,
+        -3.3316547870635986,
+        99.07142639160156
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 170,
+      "component": 941,
+      "distance_min_cm": 0.07318631559610367,
+      "distance_max_cm": 0.4279383718967438,
+      "signed_min_cm": 0.04559324210276827,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559324210276827,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 180,
+      "component": 940,
+      "distance_min_cm": 0.018705803900957108,
+      "distance_max_cm": 0.11056876927614212,
+      "signed_min_cm": 0.018705805006902665,
+      "lower_strap_z_le_100_min_signed_cm": 0.018705805006902665,
+      "minimum_signed_vertex_rest_cm": [
+        11.728285789489746,
+        -3.3316547870635986,
+        99.07142639160156
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "wide-crouch",
+      "step": 180,
+      "component": 941,
+      "distance_min_cm": 0.07318631559610367,
+      "distance_max_cm": 0.4279383718967438,
+      "signed_min_cm": 0.04559324210276827,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559324210276827,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 0,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992559045553207,
+      "signed_min_cm": 0.06275321065913886,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275321065913886,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 0,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.4279324412345886,
+      "signed_min_cm": 0.045589346947053855,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589346947053855,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 10,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992559045553207,
+      "signed_min_cm": 0.06275321065913886,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275321065913886,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 10,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.4279324412345886,
+      "signed_min_cm": 0.045589346947053855,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589346947053855,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 20,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992559045553207,
+      "signed_min_cm": 0.06275321065913886,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275321065913886,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 20,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.4279324412345886,
+      "signed_min_cm": 0.045589346947053855,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589346947053855,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 30,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992559045553207,
+      "signed_min_cm": 0.06275321065913886,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275321065913886,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 30,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.4279324412345886,
+      "signed_min_cm": 0.045589346947053855,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589346947053855,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 40,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992559045553207,
+      "signed_min_cm": 0.06275321065913886,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275321065913886,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 40,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.4279324412345886,
+      "signed_min_cm": 0.045589346947053855,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589346947053855,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 50,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992559045553207,
+      "signed_min_cm": 0.06275321065913886,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275321065913886,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 50,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.4279324412345886,
+      "signed_min_cm": 0.045589346947053855,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589346947053855,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 60,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992559045553207,
+      "signed_min_cm": 0.06275321065913886,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275321065913886,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 60,
+      "component": 941,
+      "distance_min_cm": 0.07318282872438431,
+      "distance_max_cm": 0.4279324412345886,
+      "signed_min_cm": 0.045589346947053855,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589346947053855,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 70,
+      "component": 940,
+      "distance_min_cm": 0.07855632156133652,
+      "distance_max_cm": 0.10992585122585297,
+      "signed_min_cm": 0.06275401322636753,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275401322636753,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 70,
+      "component": 941,
+      "distance_min_cm": 0.07318250834941864,
+      "distance_max_cm": 0.42793193459510803,
+      "signed_min_cm": 0.04558941608775058,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558941608775058,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9351766109466553,
+        89.47000122070312
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 80,
+      "component": 940,
+      "distance_min_cm": 0.03889961168169975,
+      "distance_max_cm": 0.10992754250764847,
+      "signed_min_cm": 0.038899611216038465,
+      "lower_strap_z_le_100_min_signed_cm": 0.06274793297052383,
+      "minimum_signed_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 80,
+      "component": 941,
+      "distance_min_cm": 0.07318130880594254,
+      "distance_max_cm": 0.4279364049434662,
+      "signed_min_cm": 0.04558855853974819,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558855853974819,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 90,
+      "component": 940,
+      "distance_min_cm": 0.06529681384563446,
+      "distance_max_cm": 0.11715616285800934,
+      "signed_min_cm": 0.0627562627196312,
+      "lower_strap_z_le_100_min_signed_cm": 0.0627562627196312,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 90,
+      "component": 941,
+      "distance_min_cm": 0.07317980378866196,
+      "distance_max_cm": 0.42792803049087524,
+      "signed_min_cm": 0.045586086343973875,
+      "lower_strap_z_le_100_min_signed_cm": 0.045586086343973875,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 100,
+      "component": 940,
+      "distance_min_cm": 0.06242348998785019,
+      "distance_max_cm": 0.12086886167526245,
+      "signed_min_cm": 0.06242349243257195,
+      "lower_strap_z_le_100_min_signed_cm": 0.06242349243257195,
+      "minimum_signed_vertex_rest_cm": [
+        10.29640007019043,
+        -3.119281053543091,
+        94.30000305175781
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 100,
+      "component": 941,
+      "distance_min_cm": 0.0731845498085022,
+      "distance_max_cm": 0.42793262004852295,
+      "signed_min_cm": 0.04559065727517009,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559065727517009,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 110,
+      "component": 940,
+      "distance_min_cm": 0.06242348998785019,
+      "distance_max_cm": 0.12086886167526245,
+      "signed_min_cm": 0.06242349243257195,
+      "lower_strap_z_le_100_min_signed_cm": 0.06242349243257195,
+      "minimum_signed_vertex_rest_cm": [
+        10.29640007019043,
+        -3.119281053543091,
+        94.30000305175781
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 110,
+      "component": 941,
+      "distance_min_cm": 0.0731845498085022,
+      "distance_max_cm": 0.42793262004852295,
+      "signed_min_cm": 0.04559065727517009,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559065727517009,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 120,
+      "component": 940,
+      "distance_min_cm": 0.06242348998785019,
+      "distance_max_cm": 0.12086886167526245,
+      "signed_min_cm": 0.06242349243257195,
+      "lower_strap_z_le_100_min_signed_cm": 0.06242349243257195,
+      "minimum_signed_vertex_rest_cm": [
+        10.29640007019043,
+        -3.119281053543091,
+        94.30000305175781
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 120,
+      "component": 941,
+      "distance_min_cm": 0.0731845498085022,
+      "distance_max_cm": 0.42793262004852295,
+      "signed_min_cm": 0.04559065727517009,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559065727517009,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 130,
+      "component": 940,
+      "distance_min_cm": 0.06242348998785019,
+      "distance_max_cm": 0.12086886167526245,
+      "signed_min_cm": 0.06242349243257195,
+      "lower_strap_z_le_100_min_signed_cm": 0.06242349243257195,
+      "minimum_signed_vertex_rest_cm": [
+        10.29640007019043,
+        -3.119281053543091,
+        94.30000305175781
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 130,
+      "component": 941,
+      "distance_min_cm": 0.0731845498085022,
+      "distance_max_cm": 0.42793262004852295,
+      "signed_min_cm": 0.04559065727517009,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559065727517009,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 140,
+      "component": 940,
+      "distance_min_cm": 0.06242348998785019,
+      "distance_max_cm": 0.12086886167526245,
+      "signed_min_cm": 0.06242349243257195,
+      "lower_strap_z_le_100_min_signed_cm": 0.06242349243257195,
+      "minimum_signed_vertex_rest_cm": [
+        10.29640007019043,
+        -3.119281053543091,
+        94.30000305175781
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 140,
+      "component": 941,
+      "distance_min_cm": 0.0731845498085022,
+      "distance_max_cm": 0.42793262004852295,
+      "signed_min_cm": 0.04559065727517009,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559065727517009,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 150,
+      "component": 940,
+      "distance_min_cm": 0.06242348998785019,
+      "distance_max_cm": 0.12086886167526245,
+      "signed_min_cm": 0.06242349243257195,
+      "lower_strap_z_le_100_min_signed_cm": 0.06242349243257195,
+      "minimum_signed_vertex_rest_cm": [
+        10.29640007019043,
+        -3.119281053543091,
+        94.30000305175781
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 150,
+      "component": 941,
+      "distance_min_cm": 0.0731845498085022,
+      "distance_max_cm": 0.42793262004852295,
+      "signed_min_cm": 0.04559065727517009,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559065727517009,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 160,
+      "component": 940,
+      "distance_min_cm": 0.06242348998785019,
+      "distance_max_cm": 0.12086886167526245,
+      "signed_min_cm": 0.06242349243257195,
+      "lower_strap_z_le_100_min_signed_cm": 0.06242349243257195,
+      "minimum_signed_vertex_rest_cm": [
+        10.29640007019043,
+        -3.119281053543091,
+        94.30000305175781
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 160,
+      "component": 941,
+      "distance_min_cm": 0.0731845498085022,
+      "distance_max_cm": 0.42793262004852295,
+      "signed_min_cm": 0.04559065727517009,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559065727517009,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 170,
+      "component": 940,
+      "distance_min_cm": 0.06242391839623451,
+      "distance_max_cm": 0.12086883932352066,
+      "signed_min_cm": 0.06242392025887966,
+      "lower_strap_z_le_100_min_signed_cm": 0.06242392025887966,
+      "minimum_signed_vertex_rest_cm": [
+        10.29640007019043,
+        -3.119281053543091,
+        94.30000305175781
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 170,
+      "component": 941,
+      "distance_min_cm": 0.07318440079689026,
+      "distance_max_cm": 0.4279330372810364,
+      "signed_min_cm": 0.04559123748913407,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559123748913407,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 180,
+      "component": 940,
+      "distance_min_cm": 0.06242348998785019,
+      "distance_max_cm": 0.12086886167526245,
+      "signed_min_cm": 0.06242349243257195,
+      "lower_strap_z_le_100_min_signed_cm": 0.06242349243257195,
+      "minimum_signed_vertex_rest_cm": [
+        10.29640007019043,
+        -3.119281053543091,
+        94.30000305175781
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "diagonal-crouch",
+      "step": 180,
+      "component": 941,
+      "distance_min_cm": 0.0731845498085022,
+      "distance_max_cm": 0.42793262004852295,
+      "signed_min_cm": 0.04559065727517009,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559065727517009,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 0,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992570966482162,
+      "signed_min_cm": 0.06275322893634439,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275322893634439,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 0,
+      "component": 941,
+      "distance_min_cm": 0.0731831043958664,
+      "distance_max_cm": 0.42793214321136475,
+      "signed_min_cm": 0.04558982151957025,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558982151957025,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 10,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992570966482162,
+      "signed_min_cm": 0.06275322893634439,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275322893634439,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 10,
+      "component": 941,
+      "distance_min_cm": 0.0731831043958664,
+      "distance_max_cm": 0.42793214321136475,
+      "signed_min_cm": 0.04558982151957025,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558982151957025,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 20,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992570966482162,
+      "signed_min_cm": 0.06275322893634439,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275322893634439,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 20,
+      "component": 941,
+      "distance_min_cm": 0.0731831043958664,
+      "distance_max_cm": 0.42793214321136475,
+      "signed_min_cm": 0.04558982151957025,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558982151957025,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 30,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992570966482162,
+      "signed_min_cm": 0.06275322893634439,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275322893634439,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 30,
+      "component": 941,
+      "distance_min_cm": 0.0731831043958664,
+      "distance_max_cm": 0.42793214321136475,
+      "signed_min_cm": 0.04558982151957025,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558982151957025,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 40,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992570966482162,
+      "signed_min_cm": 0.06275322893634439,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275322893634439,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 40,
+      "component": 941,
+      "distance_min_cm": 0.0731831043958664,
+      "distance_max_cm": 0.42793214321136475,
+      "signed_min_cm": 0.04558982151957025,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558982151957025,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 50,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992570966482162,
+      "signed_min_cm": 0.06275322893634439,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275322893634439,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 50,
+      "component": 941,
+      "distance_min_cm": 0.0731831043958664,
+      "distance_max_cm": 0.42793214321136475,
+      "signed_min_cm": 0.04558982151957025,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558982151957025,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 60,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992570966482162,
+      "signed_min_cm": 0.06275322893634439,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275322893634439,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 60,
+      "component": 941,
+      "distance_min_cm": 0.0731831043958664,
+      "distance_max_cm": 0.42793214321136475,
+      "signed_min_cm": 0.04558982151957025,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558982151957025,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 70,
+      "component": 940,
+      "distance_min_cm": 0.07855607569217682,
+      "distance_max_cm": 0.10992544889450073,
+      "signed_min_cm": 0.06275362003361806,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275362003361806,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 70,
+      "component": 941,
+      "distance_min_cm": 0.07318206876516342,
+      "distance_max_cm": 0.42793235182762146,
+      "signed_min_cm": 0.04558935076420312,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558935076420312,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 80,
+      "component": 940,
+      "distance_min_cm": 0.03868908807635307,
+      "distance_max_cm": 0.10992662608623505,
+      "signed_min_cm": 0.038689087828970514,
+      "lower_strap_z_le_100_min_signed_cm": 0.06274981098249555,
+      "minimum_signed_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 80,
+      "component": 941,
+      "distance_min_cm": 0.07318121939897537,
+      "distance_max_cm": 0.42793118953704834,
+      "signed_min_cm": 0.0455867073033005,
+      "lower_strap_z_le_100_min_signed_cm": 0.0455867073033005,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 90,
+      "component": 940,
+      "distance_min_cm": 0.07493340969085693,
+      "distance_max_cm": 0.11310070753097534,
+      "signed_min_cm": 0.06275052111595869,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275052111595869,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 90,
+      "component": 941,
+      "distance_min_cm": 0.07318072021007538,
+      "distance_max_cm": 0.4279365539550781,
+      "signed_min_cm": 0.045587204105686396,
+      "lower_strap_z_le_100_min_signed_cm": 0.045587204105686396,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 100,
+      "component": 940,
+      "distance_min_cm": 0.07856329530477524,
+      "distance_max_cm": 0.11683443188667297,
+      "signed_min_cm": 0.06275156792253256,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275156792253256,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 100,
+      "component": 941,
+      "distance_min_cm": 0.07318349927663803,
+      "distance_max_cm": 0.427941232919693,
+      "signed_min_cm": 0.045590270892716944,
+      "lower_strap_z_le_100_min_signed_cm": 0.045590270892716944,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 110,
+      "component": 940,
+      "distance_min_cm": 0.07856329530477524,
+      "distance_max_cm": 0.11683443188667297,
+      "signed_min_cm": 0.06275156792253256,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275156792253256,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 110,
+      "component": 941,
+      "distance_min_cm": 0.07318349927663803,
+      "distance_max_cm": 0.427941232919693,
+      "signed_min_cm": 0.045590270892716944,
+      "lower_strap_z_le_100_min_signed_cm": 0.045590270892716944,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 120,
+      "component": 940,
+      "distance_min_cm": 0.07856329530477524,
+      "distance_max_cm": 0.11683443188667297,
+      "signed_min_cm": 0.06275156792253256,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275156792253256,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 120,
+      "component": 941,
+      "distance_min_cm": 0.07318349927663803,
+      "distance_max_cm": 0.427941232919693,
+      "signed_min_cm": 0.045590270892716944,
+      "lower_strap_z_le_100_min_signed_cm": 0.045590270892716944,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 130,
+      "component": 940,
+      "distance_min_cm": 0.07856329530477524,
+      "distance_max_cm": 0.11683443188667297,
+      "signed_min_cm": 0.06275156792253256,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275156792253256,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 130,
+      "component": 941,
+      "distance_min_cm": 0.07318349927663803,
+      "distance_max_cm": 0.427941232919693,
+      "signed_min_cm": 0.045590270892716944,
+      "lower_strap_z_le_100_min_signed_cm": 0.045590270892716944,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 140,
+      "component": 940,
+      "distance_min_cm": 0.07856329530477524,
+      "distance_max_cm": 0.11683443188667297,
+      "signed_min_cm": 0.06275156792253256,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275156792253256,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 140,
+      "component": 941,
+      "distance_min_cm": 0.07318349927663803,
+      "distance_max_cm": 0.427941232919693,
+      "signed_min_cm": 0.045590270892716944,
+      "lower_strap_z_le_100_min_signed_cm": 0.045590270892716944,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 150,
+      "component": 940,
+      "distance_min_cm": 0.07856329530477524,
+      "distance_max_cm": 0.11683443188667297,
+      "signed_min_cm": 0.06275156792253256,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275156792253256,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 150,
+      "component": 941,
+      "distance_min_cm": 0.07318349927663803,
+      "distance_max_cm": 0.427941232919693,
+      "signed_min_cm": 0.045590270892716944,
+      "lower_strap_z_le_100_min_signed_cm": 0.045590270892716944,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 160,
+      "component": 940,
+      "distance_min_cm": 0.07856329530477524,
+      "distance_max_cm": 0.11683443188667297,
+      "signed_min_cm": 0.06275156792253256,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275156792253256,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 160,
+      "component": 941,
+      "distance_min_cm": 0.07318349927663803,
+      "distance_max_cm": 0.427941232919693,
+      "signed_min_cm": 0.045590270892716944,
+      "lower_strap_z_le_100_min_signed_cm": 0.045590270892716944,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 170,
+      "component": 940,
+      "distance_min_cm": 0.07856329530477524,
+      "distance_max_cm": 0.11683443188667297,
+      "signed_min_cm": 0.06275156792253256,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275156792253256,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 170,
+      "component": 941,
+      "distance_min_cm": 0.07318349927663803,
+      "distance_max_cm": 0.427941232919693,
+      "signed_min_cm": 0.045590270892716944,
+      "lower_strap_z_le_100_min_signed_cm": 0.045590270892716944,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 180,
+      "component": 940,
+      "distance_min_cm": 0.07856329530477524,
+      "distance_max_cm": 0.11683443188667297,
+      "signed_min_cm": 0.06275156792253256,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275156792253256,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.717466354370117,
+        -3.782302141189575,
+        105.43333435058594
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-left",
+      "step": 180,
+      "component": 941,
+      "distance_min_cm": 0.07318349927663803,
+      "distance_max_cm": 0.427941232919693,
+      "signed_min_cm": 0.045590270892716944,
+      "lower_strap_z_le_100_min_signed_cm": 0.045590270892716944,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 0,
+      "component": 940,
+      "distance_min_cm": 0.07855621725320816,
+      "distance_max_cm": 0.10992570221424103,
+      "signed_min_cm": 0.06275402841856703,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275402841856703,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 0,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793235182762146,
+      "signed_min_cm": 0.04558947566602001,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558947566602001,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 10,
+      "component": 940,
+      "distance_min_cm": 0.07855621725320816,
+      "distance_max_cm": 0.10992570221424103,
+      "signed_min_cm": 0.06275402841856703,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275402841856703,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 10,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793235182762146,
+      "signed_min_cm": 0.04558947566602001,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558947566602001,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 20,
+      "component": 940,
+      "distance_min_cm": 0.07855621725320816,
+      "distance_max_cm": 0.10992570221424103,
+      "signed_min_cm": 0.06275402841856703,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275402841856703,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 20,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793235182762146,
+      "signed_min_cm": 0.04558947566602001,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558947566602001,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 30,
+      "component": 940,
+      "distance_min_cm": 0.07855621725320816,
+      "distance_max_cm": 0.10992570221424103,
+      "signed_min_cm": 0.06275402841856703,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275402841856703,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 30,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793235182762146,
+      "signed_min_cm": 0.04558947566602001,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558947566602001,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 40,
+      "component": 940,
+      "distance_min_cm": 0.07855621725320816,
+      "distance_max_cm": 0.10992570221424103,
+      "signed_min_cm": 0.06275402841856703,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275402841856703,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 40,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793235182762146,
+      "signed_min_cm": 0.04558947566602001,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558947566602001,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 50,
+      "component": 940,
+      "distance_min_cm": 0.07855621725320816,
+      "distance_max_cm": 0.10992570221424103,
+      "signed_min_cm": 0.06275402841856703,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275402841856703,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 50,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793235182762146,
+      "signed_min_cm": 0.04558947566602001,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558947566602001,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 60,
+      "component": 940,
+      "distance_min_cm": 0.07855621725320816,
+      "distance_max_cm": 0.10992570221424103,
+      "signed_min_cm": 0.06275402841856703,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275402841856703,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 60,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793235182762146,
+      "signed_min_cm": 0.04558947566602001,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558947566602001,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 70,
+      "component": 940,
+      "distance_min_cm": 0.07855620980262756,
+      "distance_max_cm": 0.10992587357759476,
+      "signed_min_cm": 0.06275339965941384,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275339965941384,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 70,
+      "component": 941,
+      "distance_min_cm": 0.07318293303251266,
+      "distance_max_cm": 0.4279322326183319,
+      "signed_min_cm": 0.04558934933766068,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558934933766068,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 80,
+      "component": 940,
+      "distance_min_cm": 0.07855649292469025,
+      "distance_max_cm": 0.1268683820962906,
+      "signed_min_cm": 0.06275366782210767,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275366782210767,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 80,
+      "component": 941,
+      "distance_min_cm": 0.07318275421857834,
+      "distance_max_cm": 0.42793193459510803,
+      "signed_min_cm": 0.04558901188283926,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558901188283926,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 90,
+      "component": 940,
+      "distance_min_cm": 0.07855798304080963,
+      "distance_max_cm": 0.14719539880752563,
+      "signed_min_cm": 0.06275213928893209,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275213928893209,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 90,
+      "component": 941,
+      "distance_min_cm": 0.07318158447742462,
+      "distance_max_cm": 0.4279314875602722,
+      "signed_min_cm": 0.04559075034558191,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559075034558191,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9351766109466553,
+        89.47000122070312
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 100,
+      "component": 940,
+      "distance_min_cm": 0.07855542004108429,
+      "distance_max_cm": 0.1487933099269867,
+      "signed_min_cm": 0.06275416212156415,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275416212156415,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 100,
+      "component": 941,
+      "distance_min_cm": 0.0731823742389679,
+      "distance_max_cm": 0.42793452739715576,
+      "signed_min_cm": 0.045591180238261586,
+      "lower_strap_z_le_100_min_signed_cm": 0.045591180238261586,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.019456624984741,
+        90.52999877929688
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 110,
+      "component": 940,
+      "distance_min_cm": 0.07855542004108429,
+      "distance_max_cm": 0.1487933099269867,
+      "signed_min_cm": 0.06275416212156415,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275416212156415,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 110,
+      "component": 941,
+      "distance_min_cm": 0.0731823742389679,
+      "distance_max_cm": 0.42793452739715576,
+      "signed_min_cm": 0.045591180238261586,
+      "lower_strap_z_le_100_min_signed_cm": 0.045591180238261586,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.019456624984741,
+        90.52999877929688
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 120,
+      "component": 940,
+      "distance_min_cm": 0.07855542004108429,
+      "distance_max_cm": 0.1487933099269867,
+      "signed_min_cm": 0.06275416212156415,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275416212156415,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 120,
+      "component": 941,
+      "distance_min_cm": 0.0731823742389679,
+      "distance_max_cm": 0.42793452739715576,
+      "signed_min_cm": 0.045591180238261586,
+      "lower_strap_z_le_100_min_signed_cm": 0.045591180238261586,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.019456624984741,
+        90.52999877929688
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 130,
+      "component": 940,
+      "distance_min_cm": 0.07855542004108429,
+      "distance_max_cm": 0.1487933099269867,
+      "signed_min_cm": 0.06275416212156415,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275416212156415,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 130,
+      "component": 941,
+      "distance_min_cm": 0.0731823742389679,
+      "distance_max_cm": 0.42793452739715576,
+      "signed_min_cm": 0.045591180238261586,
+      "lower_strap_z_le_100_min_signed_cm": 0.045591180238261586,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.019456624984741,
+        90.52999877929688
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 140,
+      "component": 940,
+      "distance_min_cm": 0.07855542004108429,
+      "distance_max_cm": 0.1487933099269867,
+      "signed_min_cm": 0.06275416212156415,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275416212156415,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 140,
+      "component": 941,
+      "distance_min_cm": 0.0731823742389679,
+      "distance_max_cm": 0.42793452739715576,
+      "signed_min_cm": 0.045591180238261586,
+      "lower_strap_z_le_100_min_signed_cm": 0.045591180238261586,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.019456624984741,
+        90.52999877929688
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 150,
+      "component": 940,
+      "distance_min_cm": 0.07855552434921265,
+      "distance_max_cm": 0.1487930864095688,
+      "signed_min_cm": 0.06275471998378634,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275471998378634,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 150,
+      "component": 941,
+      "distance_min_cm": 0.0731823742389679,
+      "distance_max_cm": 0.42793452739715576,
+      "signed_min_cm": 0.04559116790005646,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559116790005646,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.019456624984741,
+        90.52999877929688
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 160,
+      "component": 940,
+      "distance_min_cm": 0.07855542004108429,
+      "distance_max_cm": 0.1487933099269867,
+      "signed_min_cm": 0.06275416212156415,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275416212156415,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 160,
+      "component": 941,
+      "distance_min_cm": 0.0731823742389679,
+      "distance_max_cm": 0.42793452739715576,
+      "signed_min_cm": 0.045591180238261586,
+      "lower_strap_z_le_100_min_signed_cm": 0.045591180238261586,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.019456624984741,
+        90.52999877929688
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 170,
+      "component": 940,
+      "distance_min_cm": 0.07855547964572906,
+      "distance_max_cm": 0.1487930864095688,
+      "signed_min_cm": 0.06275369971990585,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275369971990585,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 170,
+      "component": 941,
+      "distance_min_cm": 0.07318206131458282,
+      "distance_max_cm": 0.4279336929321289,
+      "signed_min_cm": 0.04559074228745885,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559074228745885,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 180,
+      "component": 940,
+      "distance_min_cm": 0.07855542004108429,
+      "distance_max_cm": 0.1487933099269867,
+      "signed_min_cm": 0.06275416212156415,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275416212156415,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "lunge-right",
+      "step": 180,
+      "component": 941,
+      "distance_min_cm": 0.0731823742389679,
+      "distance_max_cm": 0.42793452739715576,
+      "signed_min_cm": 0.045591180238261586,
+      "lower_strap_z_le_100_min_signed_cm": 0.045591180238261586,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.019456624984741,
+        90.52999877929688
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 0,
+      "component": 940,
+      "distance_min_cm": 0.07855692505836487,
+      "distance_max_cm": 0.10992555320262909,
+      "signed_min_cm": 0.06275400816230103,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275400816230103,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 0,
+      "component": 941,
+      "distance_min_cm": 0.07318247109651566,
+      "distance_max_cm": 0.4279319643974304,
+      "signed_min_cm": 0.045589317095164006,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589317095164006,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 10,
+      "component": 940,
+      "distance_min_cm": 0.07855692505836487,
+      "distance_max_cm": 0.10992555320262909,
+      "signed_min_cm": 0.06275400816230103,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275400816230103,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 10,
+      "component": 941,
+      "distance_min_cm": 0.07318247109651566,
+      "distance_max_cm": 0.4279319643974304,
+      "signed_min_cm": 0.045589317095164006,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589317095164006,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 20,
+      "component": 940,
+      "distance_min_cm": 0.07855692505836487,
+      "distance_max_cm": 0.10992555320262909,
+      "signed_min_cm": 0.06275400816230103,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275400816230103,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 20,
+      "component": 941,
+      "distance_min_cm": 0.07318247109651566,
+      "distance_max_cm": 0.4279319643974304,
+      "signed_min_cm": 0.045589317095164006,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589317095164006,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 30,
+      "component": 940,
+      "distance_min_cm": 0.07855692505836487,
+      "distance_max_cm": 0.10992555320262909,
+      "signed_min_cm": 0.06275400816230103,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275400816230103,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 30,
+      "component": 941,
+      "distance_min_cm": 0.07318247109651566,
+      "distance_max_cm": 0.4279319643974304,
+      "signed_min_cm": 0.045589317095164006,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589317095164006,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 40,
+      "component": 940,
+      "distance_min_cm": 0.07855692505836487,
+      "distance_max_cm": 0.10992555320262909,
+      "signed_min_cm": 0.06275400816230103,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275400816230103,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 40,
+      "component": 941,
+      "distance_min_cm": 0.07318247109651566,
+      "distance_max_cm": 0.4279319643974304,
+      "signed_min_cm": 0.045589317095164006,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589317095164006,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 50,
+      "component": 940,
+      "distance_min_cm": 0.07855692505836487,
+      "distance_max_cm": 0.10992555320262909,
+      "signed_min_cm": 0.06275400816230103,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275400816230103,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 50,
+      "component": 941,
+      "distance_min_cm": 0.07318247109651566,
+      "distance_max_cm": 0.4279319643974304,
+      "signed_min_cm": 0.045589317095164006,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589317095164006,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 60,
+      "component": 940,
+      "distance_min_cm": 0.07855692505836487,
+      "distance_max_cm": 0.10992555320262909,
+      "signed_min_cm": 0.06275400816230103,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275400816230103,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 60,
+      "component": 941,
+      "distance_min_cm": 0.07318247109651566,
+      "distance_max_cm": 0.4279319643974304,
+      "signed_min_cm": 0.045589317095164006,
+      "lower_strap_z_le_100_min_signed_cm": 0.045589317095164006,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 70,
+      "component": 940,
+      "distance_min_cm": 0.07855642586946487,
+      "distance_max_cm": 0.10992585867643356,
+      "signed_min_cm": 0.06275418295990676,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275418295990676,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 70,
+      "component": 941,
+      "distance_min_cm": 0.07318302243947983,
+      "distance_max_cm": 0.42793187499046326,
+      "signed_min_cm": 0.04558927440484695,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558927440484695,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 80,
+      "component": 940,
+      "distance_min_cm": 0.07855681329965591,
+      "distance_max_cm": 0.10992660373449326,
+      "signed_min_cm": 0.06275401473976672,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275401473976672,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 80,
+      "component": 941,
+      "distance_min_cm": 0.07318145036697388,
+      "distance_max_cm": 0.4279323220252991,
+      "signed_min_cm": 0.045588370179757476,
+      "lower_strap_z_le_100_min_signed_cm": 0.045588370179757476,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 90,
+      "component": 940,
+      "distance_min_cm": 0.07855746150016785,
+      "distance_max_cm": 0.16176563501358032,
+      "signed_min_cm": 0.06275319727137685,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275319727137685,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 90,
+      "component": 941,
+      "distance_min_cm": 0.07318322360515594,
+      "distance_max_cm": 0.42793428897857666,
+      "signed_min_cm": 0.04558986541815102,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558986541815102,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 100,
+      "component": 940,
+      "distance_min_cm": 0.043586649000644684,
+      "distance_max_cm": 0.10993051528930664,
+      "signed_min_cm": 0.04358664673054591,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275444757193327,
+      "minimum_signed_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 100,
+      "component": 941,
+      "distance_min_cm": 0.07318165153265,
+      "distance_max_cm": 0.4279375374317169,
+      "signed_min_cm": 0.04558737389743328,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558737389743328,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 110,
+      "component": 940,
+      "distance_min_cm": 0.07855649292469025,
+      "distance_max_cm": 0.11060234904289246,
+      "signed_min_cm": 0.06275371281662956,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275371281662956,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 110,
+      "component": 941,
+      "distance_min_cm": 0.07318323850631714,
+      "distance_max_cm": 0.4279320538043976,
+      "signed_min_cm": 0.04558945160169969,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558945160169969,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 120,
+      "component": 940,
+      "distance_min_cm": 0.07855762541294098,
+      "distance_max_cm": 0.14984166622161865,
+      "signed_min_cm": 0.06275114370509982,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275114370509982,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 120,
+      "component": 941,
+      "distance_min_cm": 0.07318232953548431,
+      "distance_max_cm": 0.4279325008392334,
+      "signed_min_cm": 0.04558956669643521,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956669643521,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 130,
+      "component": 940,
+      "distance_min_cm": 0.034838076680898666,
+      "distance_max_cm": 0.10992404818534851,
+      "signed_min_cm": 0.03483807608427014,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275565410032868,
+      "minimum_signed_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.679390907287598,
+        -1.8238672018051147,
+        80.78095245361328
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 130,
+      "component": 941,
+      "distance_min_cm": 0.07318298518657684,
+      "distance_max_cm": 0.4279324412345886,
+      "signed_min_cm": 0.04558933898806572,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558933898806572,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 140,
+      "component": 940,
+      "distance_min_cm": 0.07855669409036636,
+      "distance_max_cm": 0.14300064742565155,
+      "signed_min_cm": 0.06275456864386797,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275456864386797,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 140,
+      "component": 941,
+      "distance_min_cm": 0.07318278402090073,
+      "distance_max_cm": 0.4279336631298065,
+      "signed_min_cm": 0.04558902117423713,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558902117423713,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 150,
+      "component": 940,
+      "distance_min_cm": 0.07855722308158875,
+      "distance_max_cm": 0.11980953812599182,
+      "signed_min_cm": 0.06275362870655954,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275362870655954,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 150,
+      "component": 941,
+      "distance_min_cm": 0.07318272441625595,
+      "distance_max_cm": 0.4279329776763916,
+      "signed_min_cm": 0.04558997048297897,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558997048297897,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 160,
+      "component": 940,
+      "distance_min_cm": 0.03898553550243378,
+      "distance_max_cm": 0.1099238395690918,
+      "signed_min_cm": 0.03898553564795293,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275721034035087,
+      "minimum_signed_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 160,
+      "component": 941,
+      "distance_min_cm": 0.07317986339330673,
+      "distance_max_cm": 0.42793378233909607,
+      "signed_min_cm": 0.04558546608313918,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558546608313918,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.9240453243255615,
+        89.33000183105469
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 170,
+      "component": 940,
+      "distance_min_cm": 0.07855292409658432,
+      "distance_max_cm": 0.1621864140033722,
+      "signed_min_cm": 0.06275406992062926,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275406992062926,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        9.676114082336426,
+        -3.796473741531372,
+        106.22856903076172
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 170,
+      "component": 941,
+      "distance_min_cm": 0.07318194210529327,
+      "distance_max_cm": 0.42793402075767517,
+      "signed_min_cm": 0.04558885237202048,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558885237202048,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.019456624984741,
+        90.52999877929688
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 180,
+      "component": 940,
+      "distance_min_cm": 0.06737809628248215,
+      "distance_max_cm": 0.10992725938558578,
+      "signed_min_cm": 0.06275400053709745,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275400053709745,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "run",
+      "step": 180,
+      "component": 941,
+      "distance_min_cm": 0.07318376004695892,
+      "distance_max_cm": 0.4279351234436035,
+      "signed_min_cm": 0.04559078812599182,
+      "lower_strap_z_le_100_min_signed_cm": 0.04559078812599182,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -3.005941152572632,
+        90.36000061035156
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 0,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 0,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 10,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 10,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 20,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 20,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 30,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 30,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 40,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 40,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 50,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 50,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 60,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 60,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 70,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 70,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 80,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 80,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 90,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 90,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 100,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 100,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 110,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 110,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 120,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 120,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 130,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 130,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 140,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 140,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 150,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 150,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 160,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 160,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 170,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 170,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 180,
+      "component": 940,
+      "distance_min_cm": 0.0785561203956604,
+      "distance_max_cm": 0.10992597788572311,
+      "signed_min_cm": 0.06275347387418151,
+      "lower_strap_z_le_100_min_signed_cm": 0.06275347387418151,
+      "minimum_signed_vertex_rest_cm": [
+        10.627219200134277,
+        -2.56730580329895,
+        87.93809509277344
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.720743179321289,
+        -1.795218825340271,
+        79.9857177734375
+      ],
+      "negative_vertices_rest_cm": []
+    },
+    {
+      "profile": "head-arms",
+      "step": 180,
+      "component": 941,
+      "distance_min_cm": 0.07318296283483505,
+      "distance_max_cm": 0.42793184518814087,
+      "signed_min_cm": 0.04558956900564226,
+      "lower_strap_z_le_100_min_signed_cm": 0.04558956900564226,
+      "minimum_signed_vertex_rest_cm": [
+        12.611200332641602,
+        -2.6254026889801025,
+        90.52999877929688
+      ],
+      "maximum_gap_vertex_rest_cm": [
+        12.441200256347656,
+        -2.853280782699585,
+        88.44000244140625
+      ],
+      "negative_vertices_rest_cm": []
+    }
+  ],
+  "game_runtime_tested": false
+}

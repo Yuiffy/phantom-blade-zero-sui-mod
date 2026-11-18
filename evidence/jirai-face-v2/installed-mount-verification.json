@@ -1,0 +1,61 @@
+{
+  "passed": true,
+  "installed": true,
+  "packages": [
+    "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Face2",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_Jirai_Skin",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_Jirai_Hair"
+  ],
+  "patch_priority": "numeric _1_P suffix; confirmed by independent mounting",
+  "directory_order_independent": false,
+  "shared_original_atlas_unchanged": true,
+  "source_atlas_sha256": "b5795dad42424d58159b6eb0780e0b84bd2686651d19a2c4d79159c5ac924792",
+  "game_runtime_tested": false,
+  "installed_mod_snapshot": [
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.ucas",
+      "bytes": 105683996,
+      "sha256": "b4c6b831b758f099469b80864d39dfec1d59af039536b4ebdff740eb7525dceb"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR6_SkinEyes1_Fishnet1_P.utoc",
+      "bytes": 34046,
+      "sha256": "015beaeb53cd5186086358153dac0a5aa8491fd405dc27f370d5b3dd2ff1a604"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.ucas",
+      "bytes": 3282530,
+      "sha256": "1c03a93f6790879c2a8454709e90dc1cca0cb8c90bc9ae0ccd75bed94cb825c0"
+    },
+    {
+      "name": "z_Sui_Hun_NaturalVoice_Compact_v5_P.utoc",
+      "bytes": 7200,
+      "sha256": "86b35b1f2f5d64a64d17b59120d18a11a9000655200f5b0d563d35b9185c81d0"
+    },
+    {
+      "name": "zzz_Sui_JiraiFace2_1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzz_Sui_JiraiFace2_1_P.ucas",
+      "bytes": 47651331,
+      "sha256": "cf5e32390082a8f1faaef82d251bcd83648c8f10400867d5c018d5155ed698cc"
+    },
+    {
+      "name": "zzz_Sui_JiraiFace2_1_P.utoc",
+      "bytes": 9561,
+      "sha256": "e95c800f3128987f233af76c54e84f4222a97dcb3b5c84b1626cec8aac360407"
+    }
+  ]
+}

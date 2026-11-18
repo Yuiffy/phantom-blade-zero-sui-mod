@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "final_container_readback": true,
+  "native_render_sha256": "5897b6efca7a14daaf2db87ab426ff7a7f2c4130816914b8da2730e1d5c4c0a3",
+  "source_face3_native_sha256": "19cabf18bd03b152bca943b6e92b3430998b81b1801cdbcc26602b4f9d038511",
+  "source_atlas_sha256": "07a4a4b21e036436b4bd204dedd44f9c182275db9109bd932d7a6d7a45ca1ef7",
+  "closed_solids": 5,
+  "consistently_oriented_watertight_solids": true,
+  "new_vertices": 394,
+  "new_triangles": 768,
+  "inactive_degenerate_triangle_slots": 35,
+  "all_non_accessory_positions_frames_uv_indices_exact": true,
+  "uv1_exact": true,
+  "unrelated_hair_changed_texels": 0,
+  "carrier_deprojection_texels": 19438,
+  "minimum_front_panel_hair_clearance_cm": 0.19911517260013628,
+  "game_runtime_tested": false
+}

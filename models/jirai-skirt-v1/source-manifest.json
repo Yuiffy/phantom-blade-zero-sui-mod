@@ -1,0 +1,15 @@
+{
+  "file": "Sui_Jirai_R7_Skirt_Editable.blend",
+  "bytes": 39835585,
+  "sha256": "105c654544954a95ca5feeaa5e301af0937f681f9cc667449c96b228a024a6e4",
+  "source_fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+  "atlas": {
+    "source_atlas_sha256": "2ba9104fc7eb43a120eb94843b0c3c208dac92fe44f5b4168fe8f7eb3b5ec152",
+    "width": 8192,
+    "height": 8192,
+    "bindings": 22,
+    "basis": "verified installed Fishnet1 input atlas; final VT payload independently preserved"
+  },
+  "original_visible_game_mesh_or_animation_included": false,
+  "license": "excluded from code MIT; see NOTICE.md"
+}

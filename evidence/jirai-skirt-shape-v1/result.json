@@ -1,0 +1,216 @@
+{
+  "status": "installed-hash-and-overlay-verified-runtime-pending",
+  "source_fbx_sha256": "e56c48f5d17fa6777710dc763182ff6b9178653af4c7a70eb51cbcde580db710",
+  "cloth_spec_sha256": "c4dc2a8135129136efa6a284279959ab0ae1552d49892fa73a3b44ae8eac89ef",
+  "package_count": 100,
+  "continuous_recovery_passed": true,
+  "recovery_tests": 6,
+  "repeated_cycles_per_test": 3,
+  "synthetic_input_rates_hz": [
+    30,
+    60
+  ],
+  "shape_and_particle_gates_unchanged": true,
+  "skirt_geometry_reshaped": true,
+  "max_visible_simulated_blend": 0.35,
+  "body_and_continuous_opaque_shorts_preserved": true,
+  "jk5_preserved": true,
+  "face2_overlay_verified": true,
+  "voice_and_face_files_unchanged": true,
+  "container_files": [
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR8Shape1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR8Shape1_P.ucas",
+      "bytes": 104310039,
+      "sha256": "c8528c9455f5c430621033c91708021fa12c6c224ff67f7a6f4326832f8e6ae7"
+    },
+    {
+      "name": "z_Sui_DualOutfit_JK5_JiraiR8Shape1_P.utoc",
+      "bytes": 33899,
+      "sha256": "18fda93036a239510dd1502c5b311b2d7b7f44bf48753fbaca0e2b45f26d135b"
+    }
+  ],
+  "installed_at": "2026-11-17T02:55:26.7759901+08:00",
+  "contacts": {
+    "crouch": {
+      "visible_thigh_edges_crossing_skirt": 18,
+      "raw_thigh_edge_intersections": 32
+    },
+    "wide-crouch": {
+      "visible_thigh_edges_crossing_skirt": 17,
+      "raw_thigh_edge_intersections": 35
+    },
+    "diagonal-crouch": {
+      "visible_thigh_edges_crossing_skirt": 19,
+      "raw_thigh_edge_intersections": 52
+    },
+    "lunge-left": {
+      "visible_thigh_edges_crossing_skirt": 17,
+      "raw_thigh_edge_intersections": 43
+    },
+    "lunge-right": {
+      "visible_thigh_edges_crossing_skirt": 18,
+      "raw_thigh_edge_intersections": 35
+    },
+    "run": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "raw_thigh_edge_intersections": 22
+    },
+    "head-arms": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "raw_thigh_edge_intersections": 12
+    },
+    "walk-recover": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "raw_thigh_edge_intersections": 12
+    },
+    "jog-recover": {
+      "visible_thigh_edges_crossing_skirt": 0,
+      "raw_thigh_edge_intersections": 20
+    },
+    "crouch-recover": {
+      "visible_thigh_edges_crossing_skirt": 24,
+      "raw_thigh_edge_intersections": 38
+    }
+  },
+  "contact_scope": "Sampled synthetic frames and finite occlusion rays; counts are not penetration area. Deep-motion clipping is allowed by user priority and retained explicitly.",
+  "images": [
+    {
+      "file": "before-front.png",
+      "sha256": "da23664c29fa961ef458b5caf4347102ce8542dc199ed40730d7e0ba1d11267e",
+      "basis": "offline authored rest geometry, same camera and scale"
+    },
+    {
+      "file": "before-side.png",
+      "sha256": "786378499432c172760ee2d946988858168fccf3d4b6cb228248bd6634b2c8d2",
+      "basis": "offline authored rest geometry, same camera and scale"
+    },
+    {
+      "file": "after-static-front.png",
+      "sha256": "2c885ad49b2199d987b8176638c98eb75148a231d69d70329449a15b4bca7f8f",
+      "basis": "offline authored rest geometry, same camera and scale"
+    },
+    {
+      "file": "after-static-side.png",
+      "sha256": "84d84632d2545d6e3d5eaaabb590c7ff89871d42466e3157bd5f525a677e4c7a",
+      "basis": "offline authored rest geometry, same camera and scale"
+    },
+    {
+      "file": "after-stopped-front.png",
+      "sha256": "f283807b3554f0d3626a7536882bf30c51eba3ab9dab54ced264c10937bafeac",
+      "basis": "offline continuous Chaos walk final stationary frame through final cooked GPU mapping"
+    },
+    {
+      "file": "after-stopped-side.png",
+      "sha256": "2249d69d987988221b892d11c6aa2a59e9e4828e74842a3d508684b13fdb7d1d",
+      "basis": "offline continuous Chaos walk final stationary frame through final cooked GPU mapping"
+    },
+    {
+      "file": "walk-recover-moving-front.png",
+      "sha256": "a30660f51abf0293fbd9aa892fdec47752bc20bcacd753be4869285334344e99",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "walk-recover-moving-side.png",
+      "sha256": "4d45b74283dc8b1a292d8751da7e81a2ca14ded1074c380cdd6c322ee675e0e5",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "walk-recover-stopped-front.png",
+      "sha256": "99c4d6ab7c5cc50192f93b875472ebbbbdba1073c3634cebd8a0adf830f0b909",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "walk-recover-stopped-side.png",
+      "sha256": "1248500ec9ed67da51fb10b136474847d355cdf2e9e0f971e4479559d9041973",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "jog-recover-moving-front.png",
+      "sha256": "6db1c2a3f9ffa95f05596f51fd78e999d2fdfec46c937f1ed1bfa66529dcc81c",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "jog-recover-moving-side.png",
+      "sha256": "a20469a87219b05d0b3e0454b25a15990db97f7753b1a7852863ff3009abf6ea",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "jog-recover-stopped-front.png",
+      "sha256": "d2c1faa829f83f550cc26f283c56e4d7bc8611b1676bc93afee717bc33353459",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "jog-recover-stopped-side.png",
+      "sha256": "52c25db244727974e00be3774c2cdc800d7181275ea35d13ca73e2442f1efdfb",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "crouch-recover-moving-front.png",
+      "sha256": "cde2322b2e3ef18ea90ca212f95a6a514873b64c15304694532d9270a22dead3",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "crouch-recover-moving-side.png",
+      "sha256": "c9a528487332d91a6c5442f284b566e960f603dd40ee757e756da71f26d260a0",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "crouch-recover-stopped-front.png",
+      "sha256": "a69774642641c4f161342646fb6e12770cb32721eb9fdf51eb3e761af44300b9",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "crouch-recover-stopped-side.png",
+      "sha256": "fa5e3265af1b58fc53f332911557e1ed875e77dd4d5e920fbd8c53fb1f8540bd",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "coverage-diagonal-crouch-front.png",
+      "sha256": "e417c122709de59b420bdbfac0343427d7c4665c6d4252192b4f82c55dab0f0e",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "coverage-diagonal-crouch-underside.png",
+      "sha256": "1addeca6baccdc7bd01d5bb9bef6327be1ed6d27c758ec75e4a3d99599d86f49",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "coverage-lunge-right-front.png",
+      "sha256": "c7feacacbfa5110459472f5045f08aea7b6def9593c15c5305cd69c73438632b",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "coverage-lunge-right-underside.png",
+      "sha256": "e38274046e3cabb76f41f8981117fbe7bb082298dc9cdf28e5d7eb70038afe56",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "coverage-wide-crouch-front.png",
+      "sha256": "00e61c752a3d611783e910ff275cc83247365a0d2ca67fb9fca567ce5a0784e1",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    },
+    {
+      "file": "coverage-wide-crouch-underside.png",
+      "sha256": "739c3a7f285edf761b34c08280f783140c26100ffb0cbc7bc6f66a9ab63a919d",
+      "basis": "offline continuous Chaos output through final cooked GPU mapping; skirt hidden in coverage views"
+    }
+  ],
+  "visual_observations": [
+    "Reviewed six same-camera shape views, twelve motion/stop views, and six skirt-hidden shorts views.",
+    "Compared original costume illustration and prior generated front view: narrowed the exaggerated umbrella opening and lowered the side hem while retaining waist and layered lace trim.",
+    "Final walk/stop front and side views closely retain the new authored silhouette; no reviewed whole-skirt inversion remains.",
+    "Jogging peak raises the leading skirt panel substantially; final stopped views return to the compact standing shape. Minor trim curvature and local ripples remain.",
+    "Connected opaque black shorts cover the crotch in the reviewed wide crouch, diagonal crouch and right lunge views."
+  ],
+  "limitations": [
+    "No gameplay animations or runtime video captured; agent did not launch, control or stop the game.",
+    "Offline recovery is not a runtime guarantee. Some deep-action clipping remains.",
+    "Blender does not emulate native PBZ shading, wind, animation transitions, LOD or teleport behavior."
+  ],
+  "game_runtime_tested": false
+}

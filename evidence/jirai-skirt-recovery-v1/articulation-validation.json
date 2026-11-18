@@ -1,0 +1,279 @@
+{
+  "passed": true,
+  "fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+  "cloth_spec_sha256": "c4dc2a8135129136efa6a284279959ab0ae1552d49892fa73a3b44ae8eac89ef",
+  "pose_contract_sha256": "7d8fc596937e5b0f20b5c97d4cac5eebc4addb7905843cc28667c84573d8ff84",
+  "records": [
+    {
+      "profile": "crouch",
+      "asset": "CA_Jirai_TailL_0",
+      "passed": true,
+      "pin_error_max_cm": 2.31353843673127e-05,
+      "maxdistance_overshoot_cm": 2.31353843673127e-05,
+      "edge_ratio_min": 0.9834430203815772,
+      "edge_ratio_max": 1.0207859977382345
+    },
+    {
+      "profile": "crouch",
+      "asset": "CA_Jirai_TailR_0",
+      "passed": true,
+      "pin_error_max_cm": 2.2158794711673415e-05,
+      "maxdistance_overshoot_cm": 2.2158794711673415e-05,
+      "edge_ratio_min": 0.9838755733948759,
+      "edge_ratio_max": 1.0205228628454495
+    },
+    {
+      "profile": "crouch",
+      "asset": "CA_Jirai_Skirt_0",
+      "passed": true,
+      "pin_error_max_cm": 2.004238174662799e-05,
+      "maxdistance_overshoot_cm": 2.004238174662799e-05,
+      "edge_ratio_min": 0.9055130587823799,
+      "edge_ratio_max": 1.0551338949094453
+    },
+    {
+      "profile": "wide-crouch",
+      "asset": "CA_Jirai_TailL_0",
+      "passed": true,
+      "pin_error_max_cm": 2.992745272342747e-05,
+      "maxdistance_overshoot_cm": 2.992745272342747e-05,
+      "edge_ratio_min": 0.982931144861565,
+      "edge_ratio_max": 1.0274683237095261
+    },
+    {
+      "profile": "wide-crouch",
+      "asset": "CA_Jirai_TailR_0",
+      "passed": true,
+      "pin_error_max_cm": 3.4107486272035995e-05,
+      "maxdistance_overshoot_cm": 3.4107486272035995e-05,
+      "edge_ratio_min": 0.9832480855494691,
+      "edge_ratio_max": 1.0271901841466509
+    },
+    {
+      "profile": "wide-crouch",
+      "asset": "CA_Jirai_Skirt_0",
+      "passed": true,
+      "pin_error_max_cm": 2.004238174662799e-05,
+      "maxdistance_overshoot_cm": 2.004238174662799e-05,
+      "edge_ratio_min": 0.9041006770403588,
+      "edge_ratio_max": 1.0533015293628694
+    },
+    {
+      "profile": "diagonal-crouch",
+      "asset": "CA_Jirai_TailL_0",
+      "passed": true,
+      "pin_error_max_cm": 3.403783514908952e-05,
+      "maxdistance_overshoot_cm": 3.403783514908952e-05,
+      "edge_ratio_min": 0.9848668937042434,
+      "edge_ratio_max": 1.0295481868028122
+    },
+    {
+      "profile": "diagonal-crouch",
+      "asset": "CA_Jirai_TailR_0",
+      "passed": true,
+      "pin_error_max_cm": 2.753948072860476e-05,
+      "maxdistance_overshoot_cm": 2.753948072860476e-05,
+      "edge_ratio_min": 0.985549509141559,
+      "edge_ratio_max": 1.0306746411048775
+    },
+    {
+      "profile": "diagonal-crouch",
+      "asset": "CA_Jirai_Skirt_0",
+      "passed": true,
+      "pin_error_max_cm": 2.62634571193548e-05,
+      "maxdistance_overshoot_cm": 2.62634571193548e-05,
+      "edge_ratio_min": 0.9309585516620767,
+      "edge_ratio_max": 1.0586409080454517
+    },
+    {
+      "profile": "lunge-left",
+      "asset": "CA_Jirai_TailL_0",
+      "passed": true,
+      "pin_error_max_cm": 3.205673162919952e-05,
+      "maxdistance_overshoot_cm": 3.205673162919952e-05,
+      "edge_ratio_min": 0.9828767611436663,
+      "edge_ratio_max": 1.027564670874546
+    },
+    {
+      "profile": "lunge-left",
+      "asset": "CA_Jirai_TailR_0",
+      "passed": true,
+      "pin_error_max_cm": 3.4107486272035995e-05,
+      "maxdistance_overshoot_cm": 3.4107486272035995e-05,
+      "edge_ratio_min": 0.9831932832948455,
+      "edge_ratio_max": 1.0272997125647363
+    },
+    {
+      "profile": "lunge-left",
+      "asset": "CA_Jirai_Skirt_0",
+      "passed": true,
+      "pin_error_max_cm": 2.004238174662799e-05,
+      "maxdistance_overshoot_cm": 2.004238174662799e-05,
+      "edge_ratio_min": 0.8724047528485391,
+      "edge_ratio_max": 1.0896129004085138
+    },
+    {
+      "profile": "lunge-right",
+      "asset": "CA_Jirai_TailL_0",
+      "passed": true,
+      "pin_error_max_cm": 2.992745272342747e-05,
+      "maxdistance_overshoot_cm": 2.992745272342747e-05,
+      "edge_ratio_min": 0.9829460768078031,
+      "edge_ratio_max": 1.0274694192453844
+    },
+    {
+      "profile": "lunge-right",
+      "asset": "CA_Jirai_TailR_0",
+      "passed": true,
+      "pin_error_max_cm": 3.4107486272035995e-05,
+      "maxdistance_overshoot_cm": 3.4107486272035995e-05,
+      "edge_ratio_min": 0.9832626783667999,
+      "edge_ratio_max": 1.0272026936484988
+    },
+    {
+      "profile": "lunge-right",
+      "asset": "CA_Jirai_Skirt_0",
+      "passed": true,
+      "pin_error_max_cm": 2.004238174662799e-05,
+      "maxdistance_overshoot_cm": 2.004238174662799e-05,
+      "edge_ratio_min": 0.9105796667453402,
+      "edge_ratio_max": 1.09068699504155
+    },
+    {
+      "profile": "run",
+      "asset": "CA_Jirai_TailL_0",
+      "passed": true,
+      "pin_error_max_cm": 3.0036515711073047e-05,
+      "maxdistance_overshoot_cm": 3.0036515711073047e-05,
+      "edge_ratio_min": 0.985891776102312,
+      "edge_ratio_max": 1.0140977819532058
+    },
+    {
+      "profile": "run",
+      "asset": "CA_Jirai_TailR_0",
+      "passed": true,
+      "pin_error_max_cm": 3.477629904442859e-05,
+      "maxdistance_overshoot_cm": 3.477629904442859e-05,
+      "edge_ratio_min": 0.9863480613456274,
+      "edge_ratio_max": 1.0136715677878354
+    },
+    {
+      "profile": "run",
+      "asset": "CA_Jirai_Skirt_0",
+      "passed": true,
+      "pin_error_max_cm": 2.6112637736016766e-05,
+      "maxdistance_overshoot_cm": 2.6112637736016766e-05,
+      "edge_ratio_min": 0.962173070772236,
+      "edge_ratio_max": 1.0500775509477513
+    },
+    {
+      "profile": "head-arms",
+      "asset": "CA_Jirai_TailL_0",
+      "passed": true,
+      "pin_error_max_cm": 4.8604344797297204e-05,
+      "maxdistance_overshoot_cm": 4.8604344797297204e-05,
+      "edge_ratio_min": 0.9881328587965353,
+      "edge_ratio_max": 1.0259077749258776
+    },
+    {
+      "profile": "head-arms",
+      "asset": "CA_Jirai_TailR_0",
+      "passed": true,
+      "pin_error_max_cm": 4.231629188443981e-05,
+      "maxdistance_overshoot_cm": 4.231629188443981e-05,
+      "edge_ratio_min": 0.9876208075833252,
+      "edge_ratio_max": 1.0255260815175096
+    },
+    {
+      "profile": "head-arms",
+      "asset": "CA_Jirai_Skirt_0",
+      "passed": true,
+      "pin_error_max_cm": 2.6112637736016766e-05,
+      "maxdistance_overshoot_cm": 2.6112637736016766e-05,
+      "edge_ratio_min": 0.9864165887433483,
+      "edge_ratio_max": 1.0202606732759234
+    },
+    {
+      "profile": "walk-recover",
+      "asset": "CA_Jirai_TailL_0",
+      "passed": true,
+      "pin_error_max_cm": 3.04853316058189e-05,
+      "maxdistance_overshoot_cm": 3.04853316058189e-05,
+      "edge_ratio_min": 0.9933460044814788,
+      "edge_ratio_max": 1.0243565012735005
+    },
+    {
+      "profile": "walk-recover",
+      "asset": "CA_Jirai_TailR_0",
+      "passed": true,
+      "pin_error_max_cm": 3.5316111896383014e-05,
+      "maxdistance_overshoot_cm": 3.5316111896383014e-05,
+      "edge_ratio_min": 0.9936909413028235,
+      "edge_ratio_max": 1.023944606233629
+    },
+    {
+      "profile": "walk-recover",
+      "asset": "CA_Jirai_Skirt_0",
+      "passed": true,
+      "pin_error_max_cm": 2.4937124621936626e-05,
+      "maxdistance_overshoot_cm": 2.4937124621936626e-05,
+      "edge_ratio_min": 0.9837069039250409,
+      "edge_ratio_max": 1.02173376067709
+    },
+    {
+      "profile": "jog-recover",
+      "asset": "CA_Jirai_TailL_0",
+      "passed": true,
+      "pin_error_max_cm": 3.127219271003213e-05,
+      "maxdistance_overshoot_cm": 3.127219271003213e-05,
+      "edge_ratio_min": 0.9892021983557298,
+      "edge_ratio_max": 1.0421140896329506
+    },
+    {
+      "profile": "jog-recover",
+      "asset": "CA_Jirai_TailR_0",
+      "passed": true,
+      "pin_error_max_cm": 3.531611185693921e-05,
+      "maxdistance_overshoot_cm": 3.531611185693921e-05,
+      "edge_ratio_min": 0.9898182403479064,
+      "edge_ratio_max": 1.0430604457704804
+    },
+    {
+      "profile": "jog-recover",
+      "asset": "CA_Jirai_Skirt_0",
+      "passed": true,
+      "pin_error_max_cm": 2.5535348470967656e-05,
+      "maxdistance_overshoot_cm": 2.5535348470967656e-05,
+      "edge_ratio_min": 0.9464200257280421,
+      "edge_ratio_max": 1.0732371758946913
+    },
+    {
+      "profile": "crouch-recover",
+      "asset": "CA_Jirai_TailL_0",
+      "passed": true,
+      "pin_error_max_cm": 3.182789096613001e-05,
+      "maxdistance_overshoot_cm": 3.182789096613001e-05,
+      "edge_ratio_min": 0.9895316187501048,
+      "edge_ratio_max": 1.0148728387974613
+    },
+    {
+      "profile": "crouch-recover",
+      "asset": "CA_Jirai_TailR_0",
+      "passed": true,
+      "pin_error_max_cm": 2.8858674908378574e-05,
+      "maxdistance_overshoot_cm": 2.8858674908378574e-05,
+      "edge_ratio_min": 0.9894655334382505,
+      "edge_ratio_max": 1.014989527456543
+    },
+    {
+      "profile": "crouch-recover",
+      "asset": "CA_Jirai_Skirt_0",
+      "passed": true,
+      "pin_error_max_cm": 1.7710346170958115e-05,
+      "maxdistance_overshoot_cm": 1.7710346170958115e-05,
+      "edge_ratio_min": 0.9084186392593633,
+      "edge_ratio_max": 1.0636279705199225
+    }
+  ],
+  "game_runtime_tested": false
+}

@@ -1,0 +1,33 @@
+{
+  "status": "installed-hash-verified-runtime-pending",
+  "installed_at": "2026-11-17T23:32:24.067197+08:00",
+  "added": [
+    "zzzzzz_Sui_JKFaceShape1_P.pak",
+    "zzzzzz_Sui_JKFaceShape1_P.ucas",
+    "zzzzzz_Sui_JKFaceShape1_P.utoc"
+  ],
+  "container_files": [
+    {
+      "name": "zzzzzz_Sui_JKFaceShape1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzz_Sui_JKFaceShape1_P.ucas",
+      "bytes": 7511618,
+      "sha256": "4ac94f353836a59f27d981ae9e0d10c693febf6069a0aba4943623d93e485ba4"
+    },
+    {
+      "name": "zzzzzz_Sui_JKFaceShape1_P.utoc",
+      "bytes": 1908,
+      "sha256": "32e4e5836ec44896de203b7c9506d5805ebab8a5856d79279577fd4785b24264"
+    }
+  ],
+  "retained_file_count": 15,
+  "retained_files_exact": true,
+  "previous_jirai_patterns_voice_and_cloth_preserved": true,
+  "installed_effective_packages_preserved": 131,
+  "native_sha256": "2005fd2f24dbdaa012a25b68aabe5433dec135ad5af444651fa83ea10c71924c",
+  "skirt_changed": false,
+  "game_runtime_tested": false
+}

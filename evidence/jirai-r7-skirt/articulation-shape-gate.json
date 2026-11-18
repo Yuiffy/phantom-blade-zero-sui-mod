@@ -1,0 +1,154 @@
+{
+  "passed": true,
+  "fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+  "cloth_spec_sha256": "48b961d5cf89c100a98ecf81879be6dbc22cd656d82b685348d7e1b763981563",
+  "records": [
+    {
+      "profile": "crouch",
+      "asset": "CA_Jirai_TailL_0",
+      "edge_ratio_min": 0.9961767835758697,
+      "edge_ratio_max": 1.002892954101991,
+      "passed": true
+    },
+    {
+      "profile": "crouch",
+      "asset": "CA_Jirai_TailR_0",
+      "edge_ratio_min": 0.9961700636120151,
+      "edge_ratio_max": 1.0028931257953597,
+      "passed": true
+    },
+    {
+      "profile": "crouch",
+      "asset": "CA_Jirai_Skirt_0",
+      "edge_ratio_min": 0.889622631660519,
+      "edge_ratio_max": 1.1293637188125811,
+      "passed": true
+    },
+    {
+      "profile": "wide-crouch",
+      "asset": "CA_Jirai_TailL_0",
+      "edge_ratio_min": 0.9949031396066056,
+      "edge_ratio_max": 1.003797994181452,
+      "passed": true
+    },
+    {
+      "profile": "wide-crouch",
+      "asset": "CA_Jirai_TailR_0",
+      "edge_ratio_min": 0.9949090860111115,
+      "edge_ratio_max": 1.0038070588692771,
+      "passed": true
+    },
+    {
+      "profile": "wide-crouch",
+      "asset": "CA_Jirai_Skirt_0",
+      "edge_ratio_min": 0.8244522895827778,
+      "edge_ratio_max": 1.1246081101241572,
+      "passed": true
+    },
+    {
+      "profile": "diagonal-crouch",
+      "asset": "CA_Jirai_TailL_0",
+      "edge_ratio_min": 0.9948947783087276,
+      "edge_ratio_max": 1.003806407229086,
+      "passed": true
+    },
+    {
+      "profile": "diagonal-crouch",
+      "asset": "CA_Jirai_TailR_0",
+      "edge_ratio_min": 0.9948986108590913,
+      "edge_ratio_max": 1.0038050148468562,
+      "passed": true
+    },
+    {
+      "profile": "diagonal-crouch",
+      "asset": "CA_Jirai_Skirt_0",
+      "edge_ratio_min": 0.821213236494748,
+      "edge_ratio_max": 1.1343539250681345,
+      "passed": true
+    },
+    {
+      "profile": "lunge-left",
+      "asset": "CA_Jirai_TailL_0",
+      "edge_ratio_min": 0.9949031396066056,
+      "edge_ratio_max": 1.003797994181452,
+      "passed": true
+    },
+    {
+      "profile": "lunge-left",
+      "asset": "CA_Jirai_TailR_0",
+      "edge_ratio_min": 0.9949090860111115,
+      "edge_ratio_max": 1.0038070588692771,
+      "passed": true
+    },
+    {
+      "profile": "lunge-left",
+      "asset": "CA_Jirai_Skirt_0",
+      "edge_ratio_min": 0.7718776605680139,
+      "edge_ratio_max": 1.1707914483856046,
+      "passed": true
+    },
+    {
+      "profile": "lunge-right",
+      "asset": "CA_Jirai_TailL_0",
+      "edge_ratio_min": 0.9949031396066056,
+      "edge_ratio_max": 1.003797994181452,
+      "passed": true
+    },
+    {
+      "profile": "lunge-right",
+      "asset": "CA_Jirai_TailR_0",
+      "edge_ratio_min": 0.9949090860111115,
+      "edge_ratio_max": 1.0038070588692771,
+      "passed": true
+    },
+    {
+      "profile": "lunge-right",
+      "asset": "CA_Jirai_Skirt_0",
+      "edge_ratio_min": 0.8178757153947512,
+      "edge_ratio_max": 1.1714453701396104,
+      "passed": true
+    },
+    {
+      "profile": "run",
+      "asset": "CA_Jirai_TailL_0",
+      "edge_ratio_min": 0.9971454701632382,
+      "edge_ratio_max": 1.0021882146315337,
+      "passed": true
+    },
+    {
+      "profile": "run",
+      "asset": "CA_Jirai_TailR_0",
+      "edge_ratio_min": 0.9971357869705306,
+      "edge_ratio_max": 1.0021787876336568,
+      "passed": true
+    },
+    {
+      "profile": "run",
+      "asset": "CA_Jirai_Skirt_0",
+      "edge_ratio_min": 0.9020009567291056,
+      "edge_ratio_max": 1.12841935497728,
+      "passed": true
+    },
+    {
+      "profile": "head-arms",
+      "asset": "CA_Jirai_TailL_0",
+      "edge_ratio_min": 0.9944281627147582,
+      "edge_ratio_max": 1.0056089064445082,
+      "passed": true
+    },
+    {
+      "profile": "head-arms",
+      "asset": "CA_Jirai_TailR_0",
+      "edge_ratio_min": 0.9944266572489893,
+      "edge_ratio_max": 1.005609813715923,
+      "passed": true
+    },
+    {
+      "profile": "head-arms",
+      "asset": "CA_Jirai_Skirt_0",
+      "edge_ratio_min": 0.9949061283473101,
+      "edge_ratio_max": 1.0055408535391284,
+      "passed": true
+    }
+  ]
+}

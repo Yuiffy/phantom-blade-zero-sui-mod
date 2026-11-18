@@ -1,0 +1,327 @@
+{
+  "basis": "actual continuous Chaos output reconstructed through this candidate final GPU cloth mapping; synthetic animations only",
+  "limits": {
+    "quiet_p95_up_cm": 1.5,
+    "quiet_max_up_cm": 3.0,
+    "quiet_p95_drift_cm": 3.0,
+    "quiet_p95_speed_cm_s": 1.0,
+    "walk_peak_p95_up_cm": 6.0,
+    "recovery_deadline_seconds": 2.0
+  },
+  "mapping_sha256": "c715377ff5da228d8a7a90e07f634928253404db15286fba79a8e2426a4ac690",
+  "source_fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+  "records": [
+    {
+      "file": "articulation-walk-recover.json",
+      "preset": "firm-compact",
+      "profile": "walk-recover",
+      "hz": 30,
+      "passed": true,
+      "peak_p95_up_cm": 5.286222426416318,
+      "initial_settled_hem_p95_displacement_from_reference_cm": 0.23140099808629652,
+      "initial_settled_hem_z_percentiles": [
+        100.29387538174586,
+        104.82379291840017,
+        113.03079755174443
+      ],
+      "reference_hem_z_percentiles": [
+        100.43755340576172,
+        104.89579010009766,
+        113.16261291503906
+      ],
+      "edge_ratio_min": 0.9837069046886213,
+      "edge_ratio_max": 1.0217344183633834,
+      "cycles": [
+        {
+          "stop_time": 3,
+          "quiet_p95_up_cm": 0.004220069949468552,
+          "quiet_max_up_cm": 0.05442168331585151,
+          "quiet_p95_drift_cm": 0.01789939195270883,
+          "quiet_p95_speed_cm_s": 0.00228355068916842,
+          "recovery_seconds": 1.564621925354004e-07,
+          "passed": true
+        },
+        {
+          "stop_time": 8,
+          "quiet_p95_up_cm": 0.0041585415435662285,
+          "quiet_max_up_cm": 0.05542830134240262,
+          "quiet_p95_drift_cm": 0.017457296093556788,
+          "quiet_p95_speed_cm_s": 0.0019474037803097878,
+          "recovery_seconds": 4.172325134277344e-07,
+          "passed": true
+        },
+        {
+          "stop_time": 13,
+          "quiet_p95_up_cm": 0.0041862242382393324,
+          "quiet_max_up_cm": 0.05514199231869554,
+          "quiet_p95_drift_cm": 0.017571027678536053,
+          "quiet_p95_speed_cm_s": 0.000334721161566062,
+          "recovery_seconds": 6.780028343200684e-07,
+          "passed": true
+        }
+      ],
+      "input_sha256": "2e002c925ee1b52136e99e99f895d05c9e6d992479a8ba97ecdf5681b80814c3"
+    },
+    {
+      "file": "articulation-walk-recover-60hz.json",
+      "preset": "firm-compact",
+      "profile": "walk-recover",
+      "hz": 60,
+      "passed": true,
+      "peak_p95_up_cm": 5.284320380591069,
+      "initial_settled_hem_p95_displacement_from_reference_cm": 0.0919455015027812,
+      "initial_settled_hem_z_percentiles": [
+        100.43263805711601,
+        104.88514021342583,
+        113.11448171755671
+      ],
+      "reference_hem_z_percentiles": [
+        100.43755340576172,
+        104.89579010009766,
+        113.16261291503906
+      ],
+      "edge_ratio_min": 0.9893925882365361,
+      "edge_ratio_max": 1.0148298189303657,
+      "cycles": [
+        {
+          "stop_time": 3,
+          "quiet_p95_up_cm": 0.0007737265627270062,
+          "quiet_max_up_cm": 0.0011503780923334261,
+          "quiet_p95_drift_cm": 0.0010294666805780977,
+          "quiet_p95_speed_cm_s": 0.004231311333193669,
+          "recovery_seconds": 1.564621925354004e-07,
+          "passed": true
+        },
+        {
+          "stop_time": 8,
+          "quiet_p95_up_cm": 0.0007186685438398397,
+          "quiet_max_up_cm": 0.0011133628336779111,
+          "quiet_p95_drift_cm": 0.0009802897903466096,
+          "quiet_p95_speed_cm_s": 0.0038713496278089815,
+          "recovery_seconds": 4.172325134277344e-07,
+          "passed": true
+        },
+        {
+          "stop_time": 13,
+          "quiet_p95_up_cm": 0.00041049791447278494,
+          "quiet_max_up_cm": 0.0007402068635400383,
+          "quiet_p95_drift_cm": 0.0008023818227207879,
+          "quiet_p95_speed_cm_s": 0.0009303119792023758,
+          "recovery_seconds": 6.780028343200684e-07,
+          "passed": true
+        }
+      ],
+      "input_sha256": "429b0c46ebb1665d4137e44710f21832663d1223ea0899de75d80e59bee8eabf"
+    },
+    {
+      "file": "articulation-jog-recover.json",
+      "preset": "firm-compact",
+      "profile": "jog-recover",
+      "hz": 30,
+      "passed": true,
+      "peak_p95_up_cm": 10.203185874842205,
+      "initial_settled_hem_p95_displacement_from_reference_cm": 0.23139089522316647,
+      "initial_settled_hem_z_percentiles": [
+        100.29393455830318,
+        104.8239126273845,
+        113.03038376217444
+      ],
+      "reference_hem_z_percentiles": [
+        100.43755340576172,
+        104.89579010009766,
+        113.16261291503906
+      ],
+      "edge_ratio_min": 0.9464220251633437,
+      "edge_ratio_max": 1.0732371096115265,
+      "cycles": [
+        {
+          "stop_time": 3,
+          "quiet_p95_up_cm": 0.010850304509190778,
+          "quiet_max_up_cm": 0.19232843392269672,
+          "quiet_p95_drift_cm": 0.2887314449845196,
+          "quiet_p95_speed_cm_s": 0.002655292280037416,
+          "recovery_seconds": 1.564621925354004e-07,
+          "passed": true
+        },
+        {
+          "stop_time": 8,
+          "quiet_p95_up_cm": 0.31501294310221795,
+          "quiet_max_up_cm": 2.253774361335914,
+          "quiet_p95_drift_cm": 1.2363660936807168,
+          "quiet_p95_speed_cm_s": 0.01176396644078229,
+          "recovery_seconds": 4.172325134277344e-07,
+          "passed": true
+        },
+        {
+          "stop_time": 13,
+          "quiet_p95_up_cm": 0.1938000774045605,
+          "quiet_max_up_cm": 2.1914768875471253,
+          "quiet_p95_drift_cm": 1.7422016875389523,
+          "quiet_p95_speed_cm_s": 0.0008586115912364553,
+          "recovery_seconds": 6.780028343200684e-07,
+          "passed": true
+        }
+      ],
+      "input_sha256": "528554291583bf7c921dbc6d40ab2c68d43ed90bc35f940e6da7eea3e70afcce"
+    },
+    {
+      "file": "articulation-jog-recover-60hz.json",
+      "preset": "firm-compact",
+      "profile": "jog-recover",
+      "hz": 60,
+      "passed": true,
+      "peak_p95_up_cm": 11.466564420261799,
+      "initial_settled_hem_p95_displacement_from_reference_cm": 0.09203132354255862,
+      "initial_settled_hem_z_percentiles": [
+        100.43270869276778,
+        104.88518811559854,
+        113.11403131301313
+      ],
+      "reference_hem_z_percentiles": [
+        100.43755340576172,
+        104.89579010009766,
+        113.16261291503906
+      ],
+      "edge_ratio_min": 0.9662209707698524,
+      "edge_ratio_max": 1.0346744239425087,
+      "cycles": [
+        {
+          "stop_time": 3,
+          "quiet_p95_up_cm": 0.34492025206668586,
+          "quiet_max_up_cm": 2.3857309046545083,
+          "quiet_p95_drift_cm": 1.1361692231727243,
+          "quiet_p95_speed_cm_s": 0.005815080795865064,
+          "recovery_seconds": 1.564621925354004e-07,
+          "passed": true
+        },
+        {
+          "stop_time": 8,
+          "quiet_p95_up_cm": 0.24559963888322045,
+          "quiet_max_up_cm": 2.1946316660231844,
+          "quiet_p95_drift_cm": 0.9680748305622369,
+          "quiet_p95_speed_cm_s": 0.001411395924507925,
+          "recovery_seconds": 4.172325134277344e-07,
+          "passed": true
+        },
+        {
+          "stop_time": 13,
+          "quiet_p95_up_cm": 0.22777651141330107,
+          "quiet_max_up_cm": 1.7808798667550434,
+          "quiet_p95_drift_cm": 0.8046090867360068,
+          "quiet_p95_speed_cm_s": 0.00102604690510224,
+          "recovery_seconds": 6.780028343200684e-07,
+          "passed": true
+        }
+      ],
+      "input_sha256": "bf634e74ded348304da5279722b2758c6512f078bca6703347458969f50630be"
+    },
+    {
+      "file": "articulation-crouch-recover.json",
+      "preset": "firm-compact",
+      "profile": "crouch-recover",
+      "hz": 30,
+      "passed": true,
+      "peak_p95_up_cm": 1.8460420588587283,
+      "initial_settled_hem_p95_displacement_from_reference_cm": 0.23135233227542512,
+      "initial_settled_hem_z_percentiles": [
+        100.29381388539284,
+        104.82377747131218,
+        113.0306160243901
+      ],
+      "reference_hem_z_percentiles": [
+        100.43755340576172,
+        104.89579010009766,
+        113.16261291503906
+      ],
+      "edge_ratio_min": 0.9084190875502872,
+      "edge_ratio_max": 1.0636279353269702,
+      "cycles": [
+        {
+          "stop_time": 3,
+          "quiet_p95_up_cm": 0.6700382686240687,
+          "quiet_max_up_cm": 1.847524628764262,
+          "quiet_p95_drift_cm": 1.5444907120261409,
+          "quiet_p95_speed_cm_s": 0.02082071065385625,
+          "recovery_seconds": 0.33333350718021393,
+          "passed": true
+        },
+        {
+          "stop_time": 8,
+          "quiet_p95_up_cm": 0.13944350828277824,
+          "quiet_max_up_cm": 0.4777246329838505,
+          "quiet_p95_drift_cm": 0.6125740408290998,
+          "quiet_p95_speed_cm_s": 0.007846613938349341,
+          "recovery_seconds": 0.3333337679505348,
+          "passed": true
+        },
+        {
+          "stop_time": 13,
+          "quiet_p95_up_cm": 0.8365718655962513,
+          "quiet_max_up_cm": 2.850932868731846,
+          "quiet_p95_drift_cm": 1.8716541735749346,
+          "quiet_p95_speed_cm_s": 0.001062259650470046,
+          "recovery_seconds": 0.6666673794388771,
+          "passed": true
+        }
+      ],
+      "input_sha256": "ee29cfb613ff71a09081c5203b3a378299a02b9aa6aa6e70eb3e063c7cebdc5d"
+    },
+    {
+      "file": "articulation-crouch-recover-60hz.json",
+      "preset": "firm-compact",
+      "profile": "crouch-recover",
+      "hz": 60,
+      "passed": true,
+      "peak_p95_up_cm": 2.460013254542247,
+      "initial_settled_hem_p95_displacement_from_reference_cm": 0.09201341328641521,
+      "initial_settled_hem_z_percentiles": [
+        100.4326087220665,
+        104.88524007023561,
+        113.11423474842763
+      ],
+      "reference_hem_z_percentiles": [
+        100.43755340576172,
+        104.89579010009766,
+        113.16261291503906
+      ],
+      "edge_ratio_min": 0.8835671785367257,
+      "edge_ratio_max": 1.0619279636191017,
+      "cycles": [
+        {
+          "stop_time": 3,
+          "quiet_p95_up_cm": 0.536263802230334,
+          "quiet_max_up_cm": 2.617177621143071,
+          "quiet_p95_drift_cm": 1.615612850476846,
+          "quiet_p95_speed_cm_s": 0.04164080186661096,
+          "recovery_seconds": 0.5000001825392246,
+          "passed": true
+        },
+        {
+          "stop_time": 8,
+          "quiet_p95_up_cm": 0.37217673087903336,
+          "quiet_max_up_cm": 2.3177598089276614,
+          "quiet_p95_drift_cm": 1.087096544146,
+          "quiet_p95_speed_cm_s": 0.014019853065262069,
+          "recovery_seconds": 0.16666709259152412,
+          "passed": true
+        },
+        {
+          "stop_time": 13,
+          "quiet_p95_up_cm": 0.43059768883496474,
+          "quiet_max_up_cm": 1.9625700285565273,
+          "quiet_p95_drift_cm": 1.0455017339750476,
+          "quiet_p95_speed_cm_s": 0.007921510727540281,
+          "recovery_seconds": 0.3333340287208557,
+          "passed": true
+        }
+      ],
+      "input_sha256": "4c03b931ed2367ae091bdc1dfed1eef4f76277f3a82068d915e2d9a2935607b8"
+    }
+  ],
+  "game_runtime_tested": false,
+  "predicted_quantized_render_blend_cap": null,
+  "passed": true,
+  "cloth_spec_sha256": "c4dc2a8135129136efa6a284279959ab0ae1552d49892fa73a3b44ae8eac89ef",
+  "pose_contract_sha256": "7d8fc596937e5b0f20b5c97d4cac5eebc4addb7905843cc28667c84573d8ff84",
+  "combined_tests_sha256": "fdb983d55d820bd8914bc807997cb547aab73724e6ee44ce5aee61c0e5e6985e"
+}

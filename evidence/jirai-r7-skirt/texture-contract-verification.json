@@ -1,0 +1,77 @@
+{
+  "passed": true,
+  "basis": "independent reads of native equipment/skin parameter textures and final dual container",
+  "fishnet_v1_8k_payload_exact": true,
+  "source_atlas_sha256": "2ba9104fc7eb43a120eb94843b0c3c208dac92fe44f5b4168fe8f7eb3b5ec152",
+  "native_texture_contracts": [
+    {
+      "name": "T_ZeroHun_Cloth_01_ARM",
+      "virtual_texture": true,
+      "formats": [
+        "PF_DXT1"
+      ],
+      "readback_sha256": "dea3b090a86ed21c6fc31ffb5b95cd1db8d551e68d627044c1b7d536d00dad9d"
+    },
+    {
+      "name": "T_ZeroHun_Cloth_01_BC",
+      "virtual_texture": true,
+      "formats": [
+        "PF_DXT1"
+      ],
+      "readback_sha256": "05792c1a3413b147a211963e0d2f21d1b3cfd391a4cd55ed218ee334283d157f"
+    },
+    {
+      "name": "T_ZeroHun_Cloth_01_N",
+      "virtual_texture": true,
+      "formats": [
+        "PF_BC5"
+      ],
+      "readback_sha256": "30715d5e43b6a73dcf57eaea54ce91563f1497e352a9dd716bf59d4c77cd31f9"
+    },
+    {
+      "name": "T_ZeroHun_Head_Detail_N",
+      "virtual_texture": true,
+      "formats": [
+        "PF_BC5"
+      ],
+      "readback_sha256": "30f009dd5ef65c96dd9aba1eaa9b255c4104bc5a2cc75c0d74ca21884c339644"
+    },
+    {
+      "name": "T_ZeroHun_Head_V02_ARM",
+      "virtual_texture": true,
+      "formats": [
+        "PF_DXT1"
+      ],
+      "readback_sha256": "05b1a3d8fca7c0344a42e8b12b9f59eb2f89381de1951303a1d3d9f8ad148100"
+    },
+    {
+      "name": "T_ZeroHun_Head_V02_D",
+      "virtual_texture": true,
+      "formats": [
+        "PF_DXT1"
+      ],
+      "readback_sha256": "3fd1a5f03aea637991e59e1ef19e9e8632e90587efe081e29dc30eafe7509272"
+    },
+    {
+      "name": "T_ZeroHun_Head_V02_N",
+      "virtual_texture": true,
+      "formats": [
+        "PF_BC5"
+      ],
+      "readback_sha256": "a1c7897471dd12b6c66134e1b70eb1a3ad66fd014ebb1e856e6a07ebe89f6f2f"
+    },
+    {
+      "name": "T_ZeroHun_Head_V02_SCMT",
+      "virtual_texture": true,
+      "formats": [
+        "PF_DXT5"
+      ],
+      "readback_sha256": "363b3383963a82a9f3a181e62ed896209982fcee09a8dbf75eeaf578198ba86c"
+    }
+  ],
+  "leaf_texture_bindings": 112,
+  "virtual_texture_and_color_space_verified": true,
+  "skin_thickness_alpha_preserved": true,
+  "native_material_parent_own_static_permutations_unchanged": true,
+  "game_runtime_tested": false
+}

@@ -1,0 +1,15 @@
+{
+  "file": "Sui_Jirai_R8_Shape_Editable.blend",
+  "bytes": 39838274,
+  "sha256": "5bf9345942fb2d453c3ee01a627e4123a0d11c41f0cc19d457dd8bbc7137ee60",
+  "source_fbx_sha256": "e56c48f5d17fa6777710dc763182ff6b9178653af4c7a70eb51cbcde580db710",
+  "atlas": {
+    "source_atlas_sha256": "2ba9104fc7eb43a120eb94843b0c3c208dac92fe44f5b4168fe8f7eb3b5ec152",
+    "width": 8192,
+    "height": 8192,
+    "bindings": 22,
+    "basis": "verified installed Fishnet1 input atlas; final VT payload independently preserved"
+  },
+  "original_visible_game_mesh_or_animation_included": false,
+  "license": "excluded from code MIT; see NOTICE.md"
+}

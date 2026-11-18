@@ -1,0 +1,29 @@
+{
+  "references": [
+    {
+      "kind": "user original costume illustration",
+      "file": "codex-clipboard-ce3c0366-a008-4b96-8a16-635edbc8c3aa.png",
+      "sha256": "1b384ec24e7fce0aaaa1dba78b0d60e82c3abca5bc80821a76f8f3ec0fdf49ce",
+      "dimensions": [
+        2160,
+        3840
+      ]
+    },
+    {
+      "kind": "prior generated Tripo front reference",
+      "file": "models\\jirai-reference-v2\\01-front.png",
+      "sha256": "c804c6662013acaaea93e16bb0c9d25bceed000945c83750fd91028d57c31792",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "observed_targets": [
+    "A-line skirt with a narrower lower circumference than Recovery1.",
+    "Dark upper skirt follows a continuous downward slope; modest ruffles remain at the lower trim.",
+    "Preserve corset waist and skirt length impression; do not enlarge the opening to force all deep-action contacts to zero."
+  ],
+  "comparison_limit": "Illustration has a different pose and perspective; generated views are not an exact orthographic turntable of one mesh. No pixel-perfect fit claim.",
+  "reference_text_treated_as_instructions": false
+}

@@ -1,0 +1,11 @@
+{
+  "basis": "user gameplay screenshot and original Jirai outfit illustration; generated four-view images used only as secondary references",
+  "user_image_sha256": "cc373ca96594e4d1ec370df17701a1b93400d41d5efeedef169874f59e3be851",
+  "original_illustration_sha256": "1b384ec24e7fce0aaaa1dba78b0d60e82c3abca5bc80821a76f8f3ec0fdf49ce",
+  "observations": [
+    "warm white sclera inside each eye",
+    "clean silver bangs with retained pink streak",
+    "fine existing eyebrows occluded by bangs"
+  ],
+  "reference_images_included": false
+}

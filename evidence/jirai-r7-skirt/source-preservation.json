@@ -1,0 +1,76 @@
+{
+  "interior_triangles_removed": 18,
+  "removed_faces_min_inside_shorts_cm": 1.1705417050397955,
+  "eyes": [
+    {
+      "component": 950,
+      "iris_component": 51,
+      "center_cm": [
+        -5.3172173500061035,
+        1.28,
+        177.7993621826172
+      ],
+      "radii_cm": [
+        3.1,
+        2.3,
+        2.0
+      ],
+      "vertices": 1106,
+      "closed_manifold": true,
+      "weights": {
+        "head": 1.0
+      },
+      "front_depth_clearance_to_iris_vertices_cm": 0.4117285335209584,
+      "projected_aperture_radii_cm": [
+        3.1,
+        2.0
+      ]
+    },
+    {
+      "component": 951,
+      "iris_component": 52,
+      "center_cm": [
+        4.614423036575317,
+        1.28,
+        177.7993621826172
+      ],
+      "radii_cm": [
+        3.1,
+        2.3,
+        2.0
+      ],
+      "vertices": 1106,
+      "closed_manifold": true,
+      "weights": {
+        "head": 1.0
+      },
+      "front_depth_clearance_to_iris_vertices_cm": 0.41172643094902583,
+      "projected_aperture_radii_cm": [
+        3.1,
+        2.0
+      ]
+    }
+  ],
+  "skin_eyes_baseline_preserved": true,
+  "hidden_skirt_guide_retopologized": true,
+  "hidden_guide_vertices": 612,
+  "hidden_guide_boundary_loops": 2,
+  "retained_corner_normal_max_error": 0.01067644553770365,
+  "retained_corner_normal_angle_max_deg": 0.05858509318040497,
+  "reshaped_skirt_jacobian_normal_deviation_max_deg": 0.611718184795818,
+  "reshaped_skirt_shading_requires_image_review": true,
+  "passed": true,
+  "source_fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+  "basis_fbx_sha256": "0d807c1153d0db46f342d0140f2a19e6626d4eef4eb428ffa67db741ef6d98a0",
+  "all_non_skirt_retained_visible_positions_exact": true,
+  "skirt_flare_max_cm": 4,
+  "all_non_skirt_non_shorts_weights_exact": true,
+  "all_bone_matrices_exact": true,
+  "hair_surface_guides_weights_config_exact": true,
+  "atlas_and_material_definitions_exact": true,
+  "atlas_comparison_scope": "SkinEyes1 geometry-stage source; final previews/editable/container preserve verified Fishnet1 8K separately",
+  "retained_topology_and_uv_exact": true,
+  "upper_thigh_opaque_backup_material_only": true,
+  "preserved_vertices_checked": 31672,
+  "skirt_and_safety_shorts_only_changes": true
+}

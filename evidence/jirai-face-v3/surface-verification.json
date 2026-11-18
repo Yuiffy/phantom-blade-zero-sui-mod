@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "output_atlas_sha256": "9fe8ec479d4f6bfeba5c3dd448642803b51995bd0bcb30282aed32141ea6236d",
+  "source_atlas_sha256": "2ba9104fc7eb43a120eb94843b0c3c208dac92fe44f5b4168fe8f7eb3b5ec152",
+  "surface_sha256": "dd8e5095ec6ebcf417a6ceb9fd98e604a130d20fa36783ae6b841f2bf251ca16",
+  "changed_texels": 362310,
+  "protected_surface_interior_changed_texels": 0,
+  "shared_uv_changed_texels_on_unmodified_other_materials": 30441,
+  "actual_half_float_uvs_used": true,
+  "shared_original_atlas_not_overridden": true,
+  "iris_has_dedicated_albedo": true,
+  "game_runtime_tested": false
+}

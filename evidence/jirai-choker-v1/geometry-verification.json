@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "final_container_readback": true,
+  "native_render_sha256": "712b8a5924f69a9b66adec5eb0babf1b13d1a4cbd18920c01b278c2767f32e7a",
+  "accessory_vertices": 607,
+  "accessory_triangle_slots": 435,
+  "all_other_geometry_frames_indices_exact": true,
+  "all_uvs_materials_exact": true,
+  "face_lashes_lip_iris_hair_and_cloth_exact": true,
+  "finite_geometry": true,
+  "closed_strap_and_silver_heart_manifold": true,
+  "groups": [
+    {
+      "material": 16,
+      "closed_surface_triangles": 256,
+      "minimum_double_area_cm2": 0.001311086700297892,
+      "used_vertices": 176
+    },
+    {
+      "material": 17,
+      "closed_surface_triangles": 96,
+      "minimum_double_area_cm2": 0.005039834883064032,
+      "used_vertices": 50
+    }
+  ],
+  "game_runtime_tested": false
+}

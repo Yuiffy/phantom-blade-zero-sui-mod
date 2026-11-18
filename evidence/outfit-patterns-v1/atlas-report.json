@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "outfits": {
+    "jk": {
+      "source_sha256": "5b3401f1df265134d8e48654415a5fa8452ed26db60559e591e52c1cfffb8b9e",
+      "output_sha256": "98dbb84c606b04b27fb39aa31a6c5d1b00a1db95de43eb2d439de40bf211db8d",
+      "size": 8192,
+      "changed_texels": 600636,
+      "protected_surface_changed_texels": 0,
+      "protected_border_conflict_texels": 0,
+      "regions": [
+        {
+          "region": "blue armband cat embroidery",
+          "source_components": [
+            23
+          ],
+          "painted_samples": 402192,
+          "texels": 402192
+        },
+        {
+          "region": "bow continuous diagonal checks",
+          "source_components": [
+            11,
+            25
+          ],
+          "painted_samples": 120414,
+          "texels": 120414
+        }
+      ]
+    },
+    "jirai": {
+      "source_sha256": "2ba9104fc7eb43a120eb94843b0c3c208dac92fe44f5b4168fe8f7eb3b5ec152",
+      "output_sha256": "7ea4b3128c27f6206ff29d77865d93edd9aa396ce43dd9e7ef5edda8344a1ab5",
+      "size": 8192,
+      "changed_texels": 78099,
+      "protected_surface_changed_texels": 0,
+      "protected_border_conflict_texels": 3609,
+      "regions": [
+        {
+          "region": "bow reference ornaments and lace; shared-UV jewel retained",
+          "source_components": [
+            12,
+            78,
+            79
+          ],
+          "painted_samples": 68965,
+          "texels": 68964
+        }
+      ]
+    }
+  },
+  "geometry_uv_skinning_physics_unchanged": true,
+  "reference_art_remains_private": true,
+  "game_runtime_tested": false
+}

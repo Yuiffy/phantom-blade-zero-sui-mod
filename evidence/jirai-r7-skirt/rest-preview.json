@@ -1,0 +1,12 @@
+{
+  "fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+  "basis": "final cooked reconstruction, zero-time standing frame",
+  "atlas": {
+    "source_atlas_sha256": "2ba9104fc7eb43a120eb94843b0c3c208dac92fe44f5b4168fe8f7eb3b5ec152",
+    "width": 8192,
+    "height": 8192,
+    "bindings": 22,
+    "basis": "verified installed Fishnet1 input atlas; final VT payload independently preserved"
+  },
+  "game_runtime_tested": false
+}

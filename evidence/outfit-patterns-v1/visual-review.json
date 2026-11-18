@@ -1,0 +1,43 @@
+{
+  "reviewed": true,
+  "views": [
+    "JK armband before-after closeup",
+    "JK bow before-after closeup",
+    "JK upper-body before-after",
+    "Jirai bow before-after closeup",
+    "Jirai upper-body before-after",
+    "same-camera comparison sheet"
+  ],
+  "observations": [
+    "Final JK curved cat motif is continuous and its 8K edges are cleaner than the blurred installed mark.",
+    "JK bow has continuous crossed diagonal fine lines at detail and upper-body scales.",
+    "Jirai ribbon lettering and dark decorative borders follow local original reference panels; geometry constrains exact lace shape.",
+    "Jirai white jewel and its small mount retain their original appearance because their UV shares white fabric texels.",
+    "Chest trapezoid versus reference cross, existing faceted collar and other silhouette differences remain.",
+    "Source PNG shading preview only; final cooked VT pixels and actual gameplay not tested."
+  ],
+  "texture_hashes": {
+    "jk": "98dbb84c606b04b27fb39aa31a6c5d1b00a1db95de43eb2d439de40bf211db8d",
+    "jirai": "7ea4b3128c27f6206ff29d77865d93edd9aa396ce43dd9e7ef5edda8344a1ab5"
+  },
+  "native_hashes": {
+    "jk": "8773888a12627fa8c604ecb6ecc7a39680f03c29f83e39b872c0991137f3ec1c",
+    "jirai": "5897b6efca7a14daaf2db87ab426ff7a7f2c4130816914b8da2730e1d5c4c0a3"
+  },
+  "private_image_sha256": [
+    "32864a5918d1e48ea763cafb15befd8c08c5b3be749421e5f98de07775d8712f",
+    "6015266e3a9912cf5c643a79df846a172f3f64b2af3eb2d7f607e415b727f191",
+    "4fa842c7933400ce258e3012be42e706da01383051da4864acfff20e26fea08c",
+    "13d1be612e15c90897df8dd20bd814f788cd36f2a051183b51fc877d921ca9c8",
+    "f31a3b2d2733cb094c75e7b9e288f0e675a139d27c293dc18e91e5bf60a4a874",
+    "c0eb11ea809e62ac8c0d57eda66154d38e65b12b16b65a9c8cb00c820b9b8c97",
+    "5f231f05cb013a8c3d9086d8e125b8d90ee54ddda363ac7c3b8e0758e837fe57",
+    "a9ed448f6905153c22770ed599ee025ccd09ec99fe9a69e87b1d1d7a8ba0e16d",
+    "c726331c499f7105dfa709c5187fee16e7c2c8235a65e7f76faafdcfab038f70",
+    "85c8bdb15a42d1adea6c362a1abe8ac5988f68ba18b6c2516d50dc314ea721e9",
+    "31f6ea037f7eb6a5b1239ffe9479cc723393dec1391db50c0fe1703c26b49f00"
+  ],
+  "basis": "frozen independently decoded installed geometry, unchanged by this two-texture overlay; source PNG shading preview",
+  "cooked_vt_independently_pixel_decoded": false,
+  "game_runtime_tested": false
+}

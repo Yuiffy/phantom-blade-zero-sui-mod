@@ -1,0 +1,32 @@
+{
+  "status": "render-pin-authored-final-readback-required",
+  "fbx_sha256": "33733e95921f5b6ae1412dadcfc06e907133339cbdac4dd772d349f886a38037",
+  "cloth_spec_sha256": "48b961d5cf89c100a98ecf81879be6dbc22cd656d82b685348d7e1b763981563",
+  "patch_script_sha256": "49cf9728e91cfdab4b10defe0dd7083a9e29b1f7710322bcec020034dd58e68d",
+  "mask_coordinate": "maximum of render rest Z and bounded source projection Z; blend additionally capped by measured zero-time reconstruction error",
+  "header_sha256": "8fdd4503c27a860b92ff9fe62d9eb821c612f8db814b911470c33d6e79547153",
+  "payload_before_sha256": "a5d109ba2b47beb85125942c63bcf4425c62605983b823dd4993c1da0dea755f",
+  "payload_after_sha256": "1d959b7541fd0657e1a92c2f0839a8a70e2b248a2e8b42ed36632050e3cc5e29",
+  "payload_bytes": 6509724,
+  "changed_native_bytes": 2676,
+  "only_uint16_render_blends_changed": true,
+  "physical_cloth_and_other_exports_exact": true,
+  "interior_positive_offset_fade_cm": [
+    5,
+    8
+  ],
+  "interior_fade_height_cm": [
+    115,
+    118
+  ],
+  "sections": [
+    {
+      "slot": "MI_Jirai_Skirt",
+      "vertices": 9591,
+      "changed_vertices": 670,
+      "pin_z_cm": 128,
+      "falloff_cm": 6
+    }
+  ],
+  "game_runtime_tested": false
+}

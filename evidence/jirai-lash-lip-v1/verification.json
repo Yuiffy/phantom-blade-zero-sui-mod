@@ -1,0 +1,50 @@
+{
+  "passed": true,
+  "package_count": 3,
+  "packages": [
+    "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_Jirai_Skin",
+    "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_LashLip1"
+  ],
+  "container_files": [
+    {
+      "name": "zzzzzzzz_Sui_JiraiLashLip1_7_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzz_Sui_JiraiLashLip1_7_P.ucas",
+      "bytes": 54171659,
+      "sha256": "a46632c3bf58906ba07bc7bcbf4b5eed01686d0b718a0265389c93017f129bbe"
+    },
+    {
+      "name": "zzzzzzzz_Sui_JiraiLashLip1_7_P.utoc",
+      "bytes": 10787,
+      "sha256": "b5c23f11ee19e74ae406747f9bbfc3bc602f7948c71ae4c6a38e0b688e17a263"
+    }
+  ],
+  "source_atlas_sha256": "674a26ade276670d84f44b65995f0131074c8f5fbc605dd2da23956c37112168",
+  "native_render_sha256": "d962ed1a21f5aed110d40a490194c275b146e9354c32c96ccd2b120046cfeac9",
+  "patched_render_sha256": "d962ed1a21f5aed110d40a490194c275b146e9354c32c96ccd2b120046cfeac9",
+  "bounded_native_changes_exact": true,
+  "uv1_exact": true,
+  "original_weights_elsewhere_exact": true,
+  "copied_weights_readback_exact": true,
+  "skeleton_sections_cloth_physics_exact": true,
+  "skin_native_shader_export_exact": true,
+  "vt_size": 8192,
+  "vt_mips": 14,
+  "resolved_payloads": {
+    "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple": {
+      ".uexp": "c49d3b2ff472accbb401a4bdfed47fd004925716196ad83969a0e43f9fcb9778"
+    },
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_Jirai_Skin": {
+      ".uexp": "1a303e2470fb0cc7b5ecf34a961eb6615a89771354b3b841b2628380316bc849"
+    },
+    "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_LashLip1": {
+      ".uexp": "0ee117d64dcb6a9a80a72352277b0cbf4f028eb0c371f050d2e1eb6aa593c7d4",
+      ".ubulk": "306f55718434db70dac80024b6c9eb4ad0818c9a7690d87c70cc6919471fe365"
+    }
+  },
+  "game_runtime_tested": false
+}

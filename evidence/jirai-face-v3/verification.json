@@ -1,0 +1,75 @@
+{
+  "status": "independent-final-container-verified-runtime-pending",
+  "passed": true,
+  "package_count": 7,
+  "packages": [
+    "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Face3",
+    "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Face3_Iris",
+    "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Face3_EyeMix",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_Jirai_Skin",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_Jirai_Hair",
+    "/HuaShira/Mods/SuiPBZ/Materials/MI_Jirai_EyeIris",
+    "/HuaShira/Mods/SuiPBZ/JiraiOnly/Hun_Body_Simple"
+  ],
+  "textures": [
+    {
+      "package": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Jirai_Face3",
+      "source_width": 8192,
+      "cooked_width": 8192,
+      "srgb": true,
+      "mips": 14,
+      "format": [
+        "PF_DXT1"
+      ]
+    },
+    {
+      "package": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Face3_Iris",
+      "source_width": 1024,
+      "cooked_width": 1024,
+      "srgb": true,
+      "mips": 11,
+      "format": [
+        "PF_DXT1"
+      ]
+    },
+    {
+      "package": "/HuaShira/Mods/SuiPBZ/JiraiVT/T_Face3_EyeMix",
+      "source_width": 64,
+      "cooked_width": 128,
+      "srgb": false,
+      "mips": 8,
+      "format": [
+        "PF_DXT1"
+      ]
+    }
+  ],
+  "surface_sha256": "dd8e5095ec6ebcf417a6ceb9fd98e604a130d20fa36783ae6b841f2bf251ca16",
+  "source_atlas_sha256": "9fe8ec479d4f6bfeba5c3dd448642803b51995bd0bcb30282aed32141ea6236d",
+  "source_iris_sha256": "ae4ac013ad2ce16c8490aab57b02758cdc9cd008201adce76a2db81447f5c159",
+  "source_mix_sha256": "457c14196482b3340f0c004ee265b7d727d69c82256f11d628fe29f6e2c65d0d",
+  "positions_normals_iris_uv_final_readback_exact": true,
+  "all_other_native_bytes_exact": true,
+  "skirt_weights_physics_skeleton_indices_exact": true,
+  "native_material_payloads_retained": true,
+  "independent_cue_skeleton_and_sections_exact": true,
+  "original_shared_atlas_not_overridden": true,
+  "container_files": [
+    {
+      "name": "zzz_Sui_JiraiFace3_2_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzz_Sui_JiraiFace3_2_P.ucas",
+      "bytes": 55055808,
+      "sha256": "7e4e7f63b4e3c5f67b8e862a2f2d398aaab624018892c08ee6f5c1cd1e39056c"
+    },
+    {
+      "name": "zzz_Sui_JiraiFace3_2_P.utoc",
+      "bytes": 11508,
+      "sha256": "37da10130034eca44bcc7ba903b7787ae2316c5405c3796084f271c9c1533a8b"
+    }
+  ],
+  "installed": false,
+  "game_runtime_tested": false
+}
