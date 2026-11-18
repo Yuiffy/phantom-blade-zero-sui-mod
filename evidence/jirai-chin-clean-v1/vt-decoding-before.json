@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "source_metadata_sha256": "e982723d09979786c37e04c08e18835fc3b4cf37a7fd3e6f875c301a7c147b8a",
+  "bulk_sha256": "306f55718434db70dac80024b6c9eb4ad0818c9a7690d87c70cc6919471fe365",
+  "mips": [
+    {
+      "mip": 0,
+      "width": 8192,
+      "height": 8192,
+      "png_sha256": "d4918e6ce3f7bc3160d2b45d840f473bcbe9aa6056754daa258ec7c4064d3894"
+    },
+    {
+      "mip": 1,
+      "width": 4096,
+      "height": 4096,
+      "png_sha256": "b62f154f49cd5e6f640eb074681258987cf0fb4a44f54fdc37d4ca905a53db96"
+    },
+    {
+      "mip": 2,
+      "width": 2048,
+      "height": 2048,
+      "png_sha256": "f796386de7d21e85f1ef175f4fe7749290bf5e5161f2eff053998c050b90d13d"
+    },
+    {
+      "mip": 3,
+      "width": 1024,
+      "height": 1024,
+      "png_sha256": "c48852e9b6b406a6c2b368863d59b005b8749d25b0ab909b8a452fd8ad04e584"
+    },
+    {
+      "mip": 4,
+      "width": 512,
+      "height": 512,
+      "png_sha256": "2e1cf3e4fc7564e8bc0bab5cfbf74061abbc74d0413f27b0b6e20960b83debad"
+    },
+    {
+      "mip": 5,
+      "width": 256,
+      "height": 256,
+      "png_sha256": "7ec6132cde8d5a8be1d7f926c13cc63d3b9169fd75746691782293ef566de60f"
+    },
+    {
+      "mip": 6,
+      "width": 128,
+      "height": 128,
+      "png_sha256": "ddc9d9f34d5f48b379e69b28642da4ec1b9b74ee92251c48e0f3e47600eb80d9"
+    }
+  ],
+  "top_mip_source_rgb_mae": 1.0930051654577255,
+  "decoder": "Pillow BC1; observed dense Morton tile offsets with 2px border removed",
+  "format_specific": true
+}

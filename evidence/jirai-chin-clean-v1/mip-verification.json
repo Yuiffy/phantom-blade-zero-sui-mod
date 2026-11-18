@@ -1,0 +1,99 @@
+{
+  "passed": true,
+  "reported_block_reproduced_in_old_cooked_mips": [
+    4,
+    5
+  ],
+  "improved_in_new_cooked_mips": [
+    4,
+    5
+  ],
+  "reported_patch_world_bounds_cm": {
+    "x": [
+      -4.1,
+      -2.0
+    ],
+    "z": [
+      168.8,
+      170.3
+    ]
+  },
+  "metrics": {
+    "before": [
+      {
+        "mip": 0,
+        "reported_chin_patch_delta_rgb_p95": 0.0,
+        "reported_chin_patch_delta_rgb_max": 0.0
+      },
+      {
+        "mip": 1,
+        "reported_chin_patch_delta_rgb_p95": 3.0,
+        "reported_chin_patch_delta_rgb_max": 4.358898943540674
+      },
+      {
+        "mip": 2,
+        "reported_chin_patch_delta_rgb_p95": 3.0,
+        "reported_chin_patch_delta_rgb_max": 4.123105625617661
+      },
+      {
+        "mip": 3,
+        "reported_chin_patch_delta_rgb_p95": 3.7416573867739413,
+        "reported_chin_patch_delta_rgb_max": 4.69041575982343
+      },
+      {
+        "mip": 4,
+        "reported_chin_patch_delta_rgb_p95": 19.949937343260004,
+        "reported_chin_patch_delta_rgb_max": 21.02379604162864
+      },
+      {
+        "mip": 5,
+        "reported_chin_patch_delta_rgb_p95": 37.52265497433736,
+        "reported_chin_patch_delta_rgb_max": 61.335144900782616
+      },
+      {
+        "mip": 6,
+        "reported_chin_patch_delta_rgb_p95": 57.201398584300364,
+        "reported_chin_patch_delta_rgb_max": 64.87680633323437
+      }
+    ],
+    "after": [
+      {
+        "mip": 0,
+        "reported_chin_patch_delta_rgb_p95": 0.0,
+        "reported_chin_patch_delta_rgb_max": 0.0
+      },
+      {
+        "mip": 1,
+        "reported_chin_patch_delta_rgb_p95": 0.0,
+        "reported_chin_patch_delta_rgb_max": 0.0
+      },
+      {
+        "mip": 2,
+        "reported_chin_patch_delta_rgb_p95": 0.0,
+        "reported_chin_patch_delta_rgb_max": 0.0
+      },
+      {
+        "mip": 3,
+        "reported_chin_patch_delta_rgb_p95": 0.0,
+        "reported_chin_patch_delta_rgb_max": 0.0
+      },
+      {
+        "mip": 4,
+        "reported_chin_patch_delta_rgb_p95": 3.0,
+        "reported_chin_patch_delta_rgb_max": 3.605551275463989
+      },
+      {
+        "mip": 5,
+        "reported_chin_patch_delta_rgb_p95": 3.605551275463989,
+        "reported_chin_patch_delta_rgb_max": 3.605551275463989
+      },
+      {
+        "mip": 6,
+        "reported_chin_patch_delta_rgb_p95": 5.385164807134504,
+        "reported_chin_patch_delta_rgb_max": 6.4031242374328485
+      }
+    ]
+  },
+  "actual_game_shader_not_reproduced": true,
+  "game_runtime_tested": false
+}

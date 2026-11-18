@@ -1,0 +1,12 @@
+{
+  "reviewed": true,
+  "native_render_sha256": "5d03a25c6230ffbfc6b87447f6208e5e9c0dde94e4f9df7cfc03f1fb510cd959",
+  "source_atlas_sha256": "5055751651f65722ccf49ab76d79f60091060c482192e03b771931442c5a1ea6",
+  "images": {
+    "after-front.png": "7a1f08b5a0e2e9c1bdcc5922f29ab0c6f8a681a1dbe6864da864713e8d59c720",
+    "after-angle.png": "f693f567fef91e59b33aa1e4c6c6d0abd59f89f82abe7dfadaa8e91490eb93aa",
+    "after-side.png": "6a517fc578817a517253dbb9b22e0f795c4c407b9dc7aff21b9441af2c317017"
+  },
+  "scope": "Final container native front/angle/side reviewed; original facial geometry and latest choker exact. Actual cooked BC1 mip4/mip5 block reproduced before and removed in targeted chin patch after. Other face regions at very low mip may still bleed.",
+  "game_runtime_tested": false
+}
