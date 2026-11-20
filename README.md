@@ -6,6 +6,8 @@
 
 完全退出游戏，备份并移出旧版岁己模型、补丁和语音，然后将解压后 mod/ 内的文件原样复制到 `ProjectPBZ/Content/Paks/~mods/`。只装模型时可以略过 Compact v5 的三个文件。完整组合仍待进一步实机核验。[安装说明](releases/dual-v1.1.0/README.txt)
 
+[小粉帽 JK · 故友 v0.4.3](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/jk-pink-beret-v0.4.3) 是双皮肤 v1.1.0 的可选扩展。安装后，成年魂可在 **角色 → 外观 → 故友** 使用无外套的小粉帽 JK。支持 Steam build 26367565。[安装说明](releases/jk-pink-beret-v0.4.3/README.txt)
+
 ## 开发记录
 
 **2026-11-18 JK 裙子性能优化：**已安装 [JKSkirtPerf1](models/jk-skirt-perf-v1/README.md)，撤下旧高开销 JKSkirt1。隐藏裙子模拟网格由 288 点降为 64 点，共享求解由 32 次迭代/8 子步降为 12/3；匹配合成跑步的单线程离线布料求解中位数从 315.47 ms 降到 37.10 ms，约减少 88%，仍高于早先 8/2 约 20.6 ms 的成本。六组连续动作、最终映射表面、二十张离线图像和实际安装独立读回通过，原 21 文件、最新脸部及地雷岁下巴修补/颈圈保持。**离线计时不是游戏 FPS，尚未证明裙子是约 9 帧的唯一原因；内衬和深蹲仍有残余穿插，需实机复试。**[参数与安装证据](evidence/jk-skirt-perf-v1/README.md)，Release 未更新。

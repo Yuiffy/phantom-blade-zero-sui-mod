@@ -1,0 +1,36 @@
+{
+  "steam_app_id": "4115450",
+  "game_build": "26367565",
+  "base_release": "dual-v1.1.0",
+  "outfit": "故友",
+  "appearance_item": "Hun_OutFit_GuYou",
+  "files": [
+    {
+      "name": "zzzzzzzzzzzzzz_Sui_JKPinkBeretGuYou_16_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzzzzzzzz_Sui_JKPinkBeretGuYou_16_P.ucas",
+      "bytes": 27497416,
+      "sha256": "10f6b916a98429e387ff1d6c70ff956d30d5da64bf34f782771a636729596a4e"
+    },
+    {
+      "name": "zzzzzzzzzzzzzz_Sui_JKPinkBeretGuYou_16_P.utoc",
+      "bytes": 6042,
+      "sha256": "9648c0bda7d065f1d10a52907f17b291aefb0a3448a472212018f21d738c3b5c"
+    }
+  ],
+  "packages": [
+    "/Game/PBZContent/DataTable/UI/DT_PBZAppearanceTable",
+    "/HuaShira/Mods/SuiPBZ/PinkBeret/PinkBeret_GuYou",
+    "/HuaShira/Mods/SuiPBZ/PinkBeret/MI_JK_PinkBeret",
+    "/HuaShira/Mods/SuiPBZ/PinkBeret/T_PinkBeret_Albedo"
+  ],
+  "bone_count": 264,
+  "runtime_tested": false,
+  "skirt_physics": false,
+  "version": "0.4.3",
+  "release_tag": "jk-pink-beret-v0.4.3",
+  "in_game_observation": "GuYou rendered in user screenshot. Lower face shows asymmetry and a chin indentation."
+}
