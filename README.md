@@ -6,7 +6,7 @@
 
 完全退出游戏，备份并移出旧版岁己模型、补丁和语音，然后将解压后 mod/ 内的文件原样复制到 `ProjectPBZ/Content/Paks/~mods/`。只装模型时可以略过 Compact v5 的三个文件。完整组合仍待进一步实机核验。[安装说明](releases/dual-v1.1.0/README.txt)
 
-[小粉帽 JK · 故友 v0.4.3](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/jk-pink-beret-v0.4.3) 是双皮肤 v1.1.0 的可选扩展。安装后，成年魂可在 **角色 → 外观 → 故友** 使用无外套的小粉帽 JK。支持 Steam build 26367565。[安装说明](releases/jk-pink-beret-v0.4.3/README.txt)
+[小粉帽 JK · 故友 v0.4.4](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/jk-pink-beret-v0.4.4) 是双皮肤 v1.1.0 的可选扩展。安装后，成年魂可在 **角色 → 外观 → 故友** 使用无外套的小粉帽 JK。支持 Steam build 26367565。[安装说明](releases/jk-pink-beret-v0.4.4/README.txt)
 
 ## 开发记录
 

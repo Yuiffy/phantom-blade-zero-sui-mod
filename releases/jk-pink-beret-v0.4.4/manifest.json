@@ -1,0 +1,35 @@
+{
+  "steam_app_id": "4115450",
+  "game_build": "26367565",
+  "base_release": "dual-v1.1.0",
+  "outfit": "故友",
+  "appearance_item": "Hun_OutFit_GuYou",
+  "files": [
+    {
+      "name": "zzzzzzzzzzzzzz_Sui_JKPinkBeretGuYou_16_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zzzzzzzzzzzzzz_Sui_JKPinkBeretGuYou_16_P.ucas",
+      "bytes": 27497416,
+      "sha256": "9e13bd0fc914582e29ce32c0efde016726f7d8e162c74843e37eada8cd48264a"
+    },
+    {
+      "name": "zzzzzzzzzzzzzz_Sui_JKPinkBeretGuYou_16_P.utoc",
+      "bytes": 6042,
+      "sha256": "fd2f997c93d10d037a6bed8f4a8ca838521f6920efae179927c5c05bd974a8fc"
+    }
+  ],
+  "packages": [
+    "/Game/PBZContent/DataTable/UI/DT_PBZAppearanceTable",
+    "/HuaShira/Mods/SuiPBZ/PinkBeret/PinkBeret_GuYou",
+    "/HuaShira/Mods/SuiPBZ/PinkBeret/MI_JK_PinkBeret",
+    "/HuaShira/Mods/SuiPBZ/PinkBeret/T_PinkBeret_Albedo"
+  ],
+  "bone_count": 264,
+  "runtime_tested": false,
+  "skirt_physics": false,
+  "version": "0.4.4",
+  "release_tag": "jk-pink-beret-v0.4.4"
+}
