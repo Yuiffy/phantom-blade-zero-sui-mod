@@ -1,0 +1,26 @@
+{
+  "mod_files": {
+    "zzzzzzzzzzzzzzzzzzzzzz_Sui_NativePanelBinding_30_P.pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "zzzzzzzzzzzzzzzzzzzzzz_Sui_NativePanelBinding_30_P.ucas": "9abd8982fd0e939d3fb8632122cbd30c55f2c44e6a0668a491b038ed20fd58e8",
+    "zzzzzzzzzzzzzzzzzzzzzz_Sui_NativePanelBinding_30_P.utoc": "0cdc0aef126972b24df41a4d87b63244feeb0df3a445a120fad2564ca36ca8f1"
+  },
+  "meshes": {
+    "jk": {
+      "package": "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple",
+      "active_bones": 84,
+      "panel_bones": 16,
+      "rebound_vertices": 1335,
+      "body_payload_sha256": "f423c3b67556d5fb4497144714d397a965f7dc436faef3424bd2e9ec6c0ba6dd"
+    },
+    "pink": {
+      "package": "/HuaShira/Mods/SuiPBZ/PinkBeret/PinkBeret_GuYou",
+      "active_bones": 84,
+      "panel_bones": 16,
+      "rebound_vertices": 1335,
+      "body_payload_sha256": "f21cbe3d717443ba604fd5edcdb5aa37833ea4a590515e55495d597e05406825"
+    }
+  },
+  "packages_match_whitelist": true,
+  "effective_mount_verified": true,
+  "runtime_tested": false
+}
