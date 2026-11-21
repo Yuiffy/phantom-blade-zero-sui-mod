@@ -1,0 +1,79 @@
+{
+  "steam_app_id": "4115450",
+  "game_build": "26367565",
+  "outfit": "Hun_OutFit_Default",
+  "experiments": [
+    {
+      "version": "Drape1",
+      "installed_at": "2026-11-19T03:43:41.049548+08:00",
+      "body_payload_sha256": "13160d6b7fa06f309fb5cdc29715dabcf3dc6f6dd8e8d8708fd8922381de6ccd",
+      "offline_replay_cases_passed": 6,
+      "runtime_observation": "隆起的裙摆在跑停后仍未自然下垂",
+      "files": [
+        {
+          "name": "zzzzzzzzzzzzzzz_Sui_JKDrape1_17_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "zzzzzzzzzzzzzzz_Sui_JKDrape1_17_P.ucas",
+          "bytes": 6394334,
+          "sha256": "6abfcdcc68e28e3707b6ba226b57f39825c8c5bc0141a7022b3a66da54dcc5d7"
+        },
+        {
+          "name": "zzzzzzzzzzzzzzz_Sui_JKDrape1_17_P.utoc",
+          "bytes": 1704,
+          "sha256": "98388606622b4df15eb5a14aa00f1b7568f88158d5a3042041e228d06fc10b3b"
+        }
+      ]
+    },
+    {
+      "version": "Pleats1",
+      "installed_at": "2026-11-19T04:03:53.800114+08:00",
+      "body_payload_sha256": "4c4d469a2bfb97f2a51aff8d7934ace15ed60c5499e02e6aa017036a1875efbe",
+      "offline_replay_cases_passed": 6,
+      "runtime_observation": "前腰串色、后摆局部隆起，跑步时左右裙片过度跟随臀腿",
+      "files": [
+        {
+          "name": "zzzzzzzzzzzzzzzz_Sui_JKSkirtPleats1_19_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "zzzzzzzzzzzzzzzz_Sui_JKSkirtPleats1_19_P.ucas",
+          "bytes": 6394334,
+          "sha256": "add51a3fe2d21876129188efcd39e65ac47aa5cfcd00b4edf7a90166491da400"
+        },
+        {
+          "name": "zzzzzzzzzzzzzzzz_Sui_JKSkirtPleats1_19_P.utoc",
+          "bytes": 1704,
+          "sha256": "26adbbb7065226ab133d9cbd066b820225ccc4b051b8c776efec2490e02f19fa"
+        }
+      ]
+    },
+    {
+      "version": "Gait1",
+      "installed_at": "2026-11-19T20:27:34.278175+08:00",
+      "body_payload_sha256": "739a3c8569d37597996780a83e7e406b76371432d4298bea6766991a988bac97",
+      "offline_replay_cases_passed": 6,
+      "runtime_observation": "战斗站姿中两侧大腿从后裙摆穿出",
+      "files": [
+        {
+          "name": "zzzzzzzzzzzzzzzzz_Sui_JKSkirtGait1_20_P.pak",
+          "bytes": 347,
+          "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+        },
+        {
+          "name": "zzzzzzzzzzzzzzzzz_Sui_JKSkirtGait1_20_P.ucas",
+          "bytes": 6394334,
+          "sha256": "ec8155ff1dc740d528ef61d3720aeb9589ef8f12c28762e4f1cc2cc7257d1110"
+        },
+        {
+          "name": "zzzzzzzzzzzzzzzzz_Sui_JKSkirtGait1_20_P.utoc",
+          "bytes": 1704,
+          "sha256": "5f02b8aea3944353566f7cdd0a0321df439982a6f6ca1bceacdb54e4b93c5e29"
+        }
+      ]
+    }
+  ]
+}
