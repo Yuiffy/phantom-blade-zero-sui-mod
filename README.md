@@ -2,11 +2,11 @@
 
 ## 下载最新版
 
-[双皮肤＋战斗语音 v1.1.0](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/dual-v1.1.0) 对应 Steam build 26367565。黑伤（逃亡）使用 JK 外套侧马尾，黑伤使用地雷系双马尾。本版同步本地已装的脸部、图案、饰件和裙摆性能更新，以及 Compact v5 语音。ZIP 内含 36 个文件，逐项核对了当前安装的哈希。
+三皮肤整合包适用于 Steam build 26367565。黑伤（逃亡）使用 JK 外套侧马尾，黑伤使用地雷系双马尾，故友使用小粉帽 JK。ZIP 同时包含 Compact v5 战斗语音。[三皮肤＋战斗语音 v1.2.0-preview.2](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/triple-v1.2.0-preview.2)
 
-完全退出游戏，备份并移出旧版岁己模型、补丁和语音，然后将解压后 mod/ 内的文件原样复制到 `ProjectPBZ/Content/Paks/~mods/`。只装模型时可以略过 Compact v5 的三个文件。完整组合仍待进一步实机核验。[安装说明](releases/dual-v1.1.0/README.txt)
+完全退出游戏，备份并移出旧款岁己模型、语音与覆盖补丁，再将解压后 mod/ 内的 42 个文件复制到 ProjectPBZ/Content/Paks/~mods/。[安装说明](releases/triple-v1.2.0-preview.2/README.txt) · [发布核验](releases/triple-v1.2.0-preview.2/verification-summary.json)
 
-[小粉帽 JK · 故友 v0.4.4](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/jk-pink-beret-v0.4.4) 是双皮肤 v1.1.0 的可选扩展。安装后，成年魂可在 **角色 → 外观 → 故友** 使用无外套的小粉帽 JK。支持 Steam build 26367565。[安装说明](releases/jk-pink-beret-v0.4.4/README.txt)
+[双皮肤＋战斗语音 v1.1.0](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/dual-v1.1.0)
 
 ## 开发记录
 

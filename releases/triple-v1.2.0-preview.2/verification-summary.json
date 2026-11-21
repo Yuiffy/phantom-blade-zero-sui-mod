@@ -1,0 +1,22 @@
+{
+  "archive": "Sui_TripleOutfit_WithVoice_PBZ_v1.2.0-preview.2.zip",
+  "sha256": "23c83ad32e9d0bb63ecf97607056b44834fcecda7688ca766d3d4b166014246f",
+  "bytes": 202670546,
+  "verified_mod_files": 42,
+  "outfit_rows": [
+    "Hun_OutFit_Default",
+    "Hun_OutFit_Climax",
+    "Hun_OutFit_GuYou"
+  ],
+  "game_bones": 264,
+  "voice_events": 28,
+  "effective_payloads": 223,
+  "runtime_tested": false,
+  "pink_beret_hem": {
+    "hem_height_range_before_cm": 2.3780000000002843,
+    "hem_height_range_after_cm": 0.928000000000111,
+    "hem_height_step_before_cm": 0.6380000000000763,
+    "hem_height_step_after_cm": 0.40600000000004854
+  },
+  "release_stack_matches_installed_effective_payloads": true
+}
