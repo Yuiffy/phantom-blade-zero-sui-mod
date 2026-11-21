@@ -2,9 +2,9 @@
 
 ## 下载最新版
 
-三皮肤整合包适用于 Steam build 26367565。黑伤（逃亡）使用 JK 外套侧马尾，黑伤使用地雷系双马尾，故友使用小粉帽 JK。ZIP 同时包含 Compact v5 战斗语音。[三皮肤＋战斗语音 v1.2.0-preview.2](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/triple-v1.2.0-preview.2)
+三皮肤整合包适用于 Steam build 26367565。黑伤（逃亡）使用 JK 外套侧马尾，黑伤使用地雷系双马尾，故友使用小粉帽 JK。ZIP 同时包含 Compact v5 战斗语音。[三皮肤＋战斗语音 v1.2.0-preview.3](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/triple-v1.2.0-preview.3)
 
-完全退出游戏，备份并移出旧款岁己模型、语音与覆盖补丁，再将解压后 mod/ 内的 42 个文件复制到 ProjectPBZ/Content/Paks/~mods/。[安装说明](releases/triple-v1.2.0-preview.2/README.txt) · [发布核验](releases/triple-v1.2.0-preview.2/verification-summary.json)
+完全退出游戏，备份并移出旧款岁己模型、语音与覆盖补丁，再将解压后 mod/ 内的 42 个文件复制到 ProjectPBZ/Content/Paks/~mods/。[安装说明](releases/triple-v1.2.0-preview.3/README.txt) · [发布核验](releases/triple-v1.2.0-preview.3/verification-summary.json)
 
 [双皮肤＋战斗语音 v1.1.0](https://github.com/Yuiffy/phantom-blade-zero-sui-mod/releases/tag/dual-v1.1.0)
 

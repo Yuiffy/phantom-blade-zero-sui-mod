@@ -1,0 +1,70 @@
+{
+  "archive": "Sui_TripleOutfit_WithVoice_PBZ_v1.2.0-preview.3.zip",
+  "sha256": "22a2c95fe91c4ecdd5c05a4b9465a8da1302d744214db89b956ed86e0282085d",
+  "bytes": 204232781,
+  "verified_mod_files": 42,
+  "outfit_rows": [
+    "Hun_OutFit_Default",
+    "Hun_OutFit_Climax",
+    "Hun_OutFit_GuYou"
+  ],
+  "game_bones": 264,
+  "voice_events": 28,
+  "effective_payloads": 223,
+  "changed_effective_payloads": [
+    "ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple.uexp",
+    "ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/PinkBeret/PinkBeret_GuYou.uexp"
+  ],
+  "native_skirt": {
+    "container": "zzzzzzzzzzzzzzzzzzzzzz_Sui_NativePanelBinding_31_P",
+    "packages": [
+      "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple.uasset",
+      "../../../ProjectPBZ/Plugins/HuaShira/Content/Mods/SuiPBZ/PinkBeret/PinkBeret_GuYou.uasset"
+    ],
+    "files": [
+      {
+        "name": "zzzzzzzzzzzzzzzzzzzzzz_Sui_NativePanelBinding_31_P.pak",
+        "bytes": 347,
+        "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+      },
+      {
+        "name": "zzzzzzzzzzzzzzzzzzzzzz_Sui_NativePanelBinding_31_P.ucas",
+        "bytes": 9981683,
+        "sha256": "558b08c6112b93df1aad8984eaf45a4ac3f1bfdd792d142d7e7346ada81d1327"
+      },
+      {
+        "name": "zzzzzzzzzzzzzzzzzzzzzz_Sui_NativePanelBinding_31_P.utoc",
+        "bytes": 2479,
+        "sha256": "9d08c17a4498f75dfeef37a9f8b3b1c2e66b47963ce5adc7d7566e8d4fece5fe"
+      }
+    ],
+    "meshes": {
+      "jk": {
+        "package": "/HuaShira/Mods/SuiPBZ/EscapeOnly/Hun_Body_Simple",
+        "active_bones": 84,
+        "panel_bones": 16,
+        "rebound_vertices": 1335,
+        "body_payload_sha256": "f423c3b67556d5fb4497144714d397a965f7dc436faef3424bd2e9ec6c0ba6dd"
+      },
+      "pink": {
+        "package": "/HuaShira/Mods/SuiPBZ/PinkBeret/PinkBeret_GuYou",
+        "active_bones": 84,
+        "panel_bones": 16,
+        "rebound_vertices": 1335,
+        "body_payload_sha256": "35264e96ee180d5a01e0333fbac309a4b6537add124ab7ae21282c744b74987c"
+      }
+    },
+    "pink_uv": {
+      "section_vertices": 1531,
+      "changed_vertices": 861,
+      "changed_bytes": 1777,
+      "unchanged_at_or_below_cm": 97.5,
+      "before_sha256": "f21cbe3d717443ba604fd5edcdb5aa37833ea4a590515e55495d597e05406825",
+      "after_sha256": "35264e96ee180d5a01e0333fbac309a4b6537add124ab7ae21282c744b74987c",
+      "position_weights_indices_and_other_native_bytes_verified": true
+    }
+  },
+  "mounted_skeletons_match_playtested_candidate": true,
+  "skirt_binding_user_playtested": true,
+  "fixed_package_runtime_tested": false
+}
